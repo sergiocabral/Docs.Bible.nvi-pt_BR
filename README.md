@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Nova Versão Internacional (nvi, pt_BR, 2001)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://nvi-pt-br.bible.raciocinios.com.br/
 
 ---
 
