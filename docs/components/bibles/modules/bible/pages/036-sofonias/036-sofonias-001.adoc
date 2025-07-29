@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v36-1-0]]
+=== Sofonias, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v36-1-1]]
+
+^<<v36-1-1,1>>^ Palavra do Senhor que veio a Sofonias, filho de Cuchi, neto de Gedalias, bisneto de Amarias e trineto de Ezequias, durante o reinado de Josias, filho de Amom, rei de Judá:
+
+[[v36-1-2]]
+
+^<<v36-1-2,2>>^ "Destruirei todas as coisas na face da terra"; palavra do Senhor.
+
+[[v36-1-3]]
+
+^<<v36-1-3,3>>^ "Destruirei tanto os homens quanto os animais; destruirei as aves do céu e os peixes do mar, os que causam tropeço junto com os ímpios. Farei isso quando eu ceifar o homem da face da terra", declara o Senhor.
+
+[[v36-1-4]]
+
+^<<v36-1-4,4>>^ "Estenderei a mão contra Judá e contra todos os habitantes de Jerusalém. Eliminarei deste lugar o remanescente de Baal, os nomes dos oficiantes idólatras e dos sacerdotes,
+
+[[v36-1-5]]
+
+^<<v36-1-5,5>>^ aqueles que no alto dos terraços adoram o exército de estrelas, que se prostram jurando pelo Senhor, e também por Moloque;
+
+[[v36-1-6]]
+
+^<<v36-1-6,6>>^ aqueles que se desviam de seguir o Senhor; não o buscam nem o consultam.
+
+[[v36-1-7]]
+
+^<<v36-1-7,7>>^ Calem-se diante do Soberano Senhor, pois o dia do Senhor está próximo. O Senhor preparou um sacrifício; consagrou os seus convidados.
+
+[[v36-1-8]]
+
+^<<v36-1-8,8>>^ No dia do sacrifício do Senhor castigarei os líderes e os filhos do rei e todos os que estão vestidos com roupas estrangeiras.
+
+[[v36-1-9]]
+
+^<<v36-1-9,9>>^ Naquele dia castigarei todos os que evitam pisar na soleira dos ídolos, que enchem o templo de seus deuses com violência e engano.
+
+[[v36-1-10]]
+
+^<<v36-1-10,10>>^ "Naquele dia", declara o Senhor, "haverá gritos perto da porta dos Peixes, lamentos no novo distrito, e estrondos nas colinas.
+
+[[v36-1-11]]
+
+^<<v36-1-11,11>>^ Lamentem, vocês que moram na cidade baixa; todos os seus comerciantes serão completamente destruídos, todos os que negociam com prata serão arruinados.
+
+[[v36-1-12]]
+
+^<<v36-1-12,12>>^ Nessa época vasculharei Jerusalém com lamparinas e castigarei os que são complacentes, que são como vinho envelhecido, deixado com os seus resíduos, que pensam: ‘O Senhor nada fará, nem bem nem mal’.
+
+[[v36-1-13]]
+
+^<<v36-1-13,13>>^ A riqueza deles será saqueada, suas casas serão demolidas. Embora construam novas casas, nelas não morarão; plantarão vinhas, mas não beberão o vinho.
+
+[[v36-1-14]]
+
+^<<v36-1-14,14>>^ "O grande dia do Senhor está próximo; está próximo e logo vem. Ouçam! O dia do Senhor será amargo; até os guerreiros gritarão.
+
+[[v36-1-15]]
+
+^<<v36-1-15,15>>^ Aquele dia será um dia de ira, dia de aflição e angústia, dia de sofrimento e ruína, dia de trevas e escuridão, dia de nuvens e negridão,
+
+[[v36-1-16]]
+
+^<<v36-1-16,16>>^ dia de toques de trombeta e gritos de guerra contra as cidades fortificadas e contra as torres elevadas.
+
+[[v36-1-17]]
+
+^<<v36-1-17,17>>^ Trarei aflição aos homens; andarão como se fossem cegos, porque pecaram contra o Senhor. O sangue deles será derramado como poeira, e suas entranhas como lixo.
+
+[[v36-1-18]]
+
+^<<v36-1-18,18>>^ Nem a sua prata nem o seu ouro poderão livrá-los no dia da ira do Senhor. No fogo do seu zelo o mundo inteiro será consumido, pois ele dará fim repentino a todos os que vivem na terra. "
+
+'''
+
+xref:035-habacuque/035-habacuque-003.adoc#v35-3-0[&#60; Capítulo Anterior] | <<v36-1-0,Topo>> | xref:036-sofonias/036-sofonias-002.adoc#v36-2-0[Próximo Capítulo &#62;]

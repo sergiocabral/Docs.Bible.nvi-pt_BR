@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v21-1-0]]
+=== Eclesiastes, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v21-1-1]]
+
+^<<v21-1-1,1>>^ As palavras do Mestre, filho de Davi, rei em Jerusalém:
+
+[[v21-1-2]]
+
+^<<v21-1-2,2>>^ "Que grande inutilidade! ", diz o Mestre. "Que grande inutilidade! Nada faz sentido! "
+
+[[v21-1-3]]
+
+^<<v21-1-3,3>>^ O que o homem ganha com todo o seu trabalho em que tanto se esforça debaixo do sol?
+
+[[v21-1-4]]
+
+^<<v21-1-4,4>>^ Gerações vêm e gerações vão, mas a terra permanece para sempre.
+
+[[v21-1-5]]
+
+^<<v21-1-5,5>>^ O sol se levanta e o sol se põe, e depressa volta ao lugar de onde se levanta.
+
+[[v21-1-6]]
+
+^<<v21-1-6,6>>^ O vento sopra para o sul e vira para o norte; dá voltas e mais voltas, seguindo sempre o seu curso.
+
+[[v21-1-7]]
+
+^<<v21-1-7,7>>^ Todos os rios vão para o mar, contudo o mar nunca se enche; ainda que sempre corram para lá, para lá voltam a correr.
+
+[[v21-1-8]]
+
+^<<v21-1-8,8>>^ Todas as coisas trazem canseira. O homem não é capaz de descrevê-las; os olhos nunca se saciam de ver, nem os ouvidos de ouvir.
+
+[[v21-1-9]]
+
+^<<v21-1-9,9>>^ O que foi tornará a ser, o que foi feito se fará novamente; não há nada novo debaixo do sol.
+
+[[v21-1-10]]
+
+^<<v21-1-10,10>>^ Haverá algo de que se possa dizer: "Veja! Isto é novo! "? Não! Já existiu há muito tempo; bem antes da nossa época.
+
+[[v21-1-11]]
+
+^<<v21-1-11,11>>^ Ninguém se lembra dos que viveram na antigüidade, e aqueles que ainda virão tampouco serão lembrados pelos que vierem depois deles.
+
+[[v21-1-12]]
+
+^<<v21-1-12,12>>^ Eu, o mestre, fui rei de Israel em Jerusalém.
+
+[[v21-1-13]]
+
+^<<v21-1-13,13>>^ Dediquei-me a investigar e a usar a sabedoria para explorar tudo que é feito debaixo do céu. Que fardo pesado Deus pôs sobre os homens!
+
+[[v21-1-14]]
+
+^<<v21-1-14,14>>^ Tenho visto tudo o que é feito debaixo do sol; tudo é inútil, é correr atrás do vento!
+
+[[v21-1-15]]
+
+^<<v21-1-15,15>>^ O que é torto não pode ser endireitado; o que está faltando não pode ser contado.
+
+[[v21-1-16]]
+
+^<<v21-1-16,16>>^ Pensei comigo mesmo: Eu me tornei famoso e ultrapassei em sabedoria todos os que governaram Jerusalém antes de mim; de fato adquiri muita sabedoria e conhecimento.
+
+[[v21-1-17]]
+
+^<<v21-1-17,17>>^ Assim eu me esforcei para compreender a sabedoria, bem como a loucura e a insensatez, mas aprendi que isso também é correr atrás do vento.
+
+[[v21-1-18]]
+
+^<<v21-1-18,18>>^ Pois quanto maior a sabedoria maior o sofrimento; e quanto maior o conhecimento, maior o desgosto.
+
+'''
+
+xref:020-proverbios/020-proverbios-031.adoc#v20-31-0[&#60; Capítulo Anterior] | <<v21-1-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-002.adoc#v21-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-80-0]]
+=== Salmos, 80
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-80-1]]
+
+^<<v19-80-1,1>>^ Escuta-nos, Pastor de Israel, tu, que conduzes a José como a um rebanho; tu, que tens o teu trono sobre os querubins, manifesta o teu esplendor
+
+[[v19-80-2]]
+
+^<<v19-80-2,2>>^ diante de Efraim, Benjamim e Manassés. Desperta o teu poder, e vem salvar-nos!
+
+[[v19-80-3]]
+
+^<<v19-80-3,3>>^ Restaura-nos, ó Deus! Faze resplandecer sobre nós o teu rosto, para que sejamos salvos.
+
+[[v19-80-4]]
+
+^<<v19-80-4,4>>^ Ó Senhor, Deus dos Exércitos, até quando arderá a tua ira contra as orações do teu povo?
+
+[[v19-80-5]]
+
+^<<v19-80-5,5>>^ Tu o alimentaste com pão de lágrimas e o fizeste beber copos de lágrimas.
+
+[[v19-80-6]]
+
+^<<v19-80-6,6>>^ Fizeste de nós um motivo de disputas entre as nações vizinhas, e os nossos inimigos caçoam de nós.
+
+[[v19-80-7]]
+
+^<<v19-80-7,7>>^ Restaura-nos, ó Deus dos Exércitos; faze resplandecer sobre nós o teu rosto, para que sejamos salvos.
+
+[[v19-80-8]]
+
+^<<v19-80-8,8>>^ Do Egito trouxeste uma videira; expulsaste as nações e a plantaste.
+
+[[v19-80-9]]
+
+^<<v19-80-9,9>>^ Limpaste o terreno, ela lançou raízes e encheu a terra.
+
+[[v19-80-10]]
+
+^<<v19-80-10,10>>^ Os montes foram cobertos pela sua sombra, e os mais altos cedros, pelos seus ramos.
+
+[[v19-80-11]]
+
+^<<v19-80-11,11>>^ Seus ramos se estenderam até o Mar, e os seus brotos, até o Rio.
+
+[[v19-80-12]]
+
+^<<v19-80-12,12>>^ Por que derrubaste as suas cercas, permitindo que todos os que passam apanhem as suas uvas?
+
+[[v19-80-13]]
+
+^<<v19-80-13,13>>^ Javalis da floresta a devastam e as criaturas do campo dela se alimentam.
+
+[[v19-80-14]]
+
+^<<v19-80-14,14>>^ Volta-te para nós, ó Deus dos Exércitos! Dos altos céus olha e vê! Toma conta desta videira,
+
+[[v19-80-15]]
+
+^<<v19-80-15,15>>^ da raiz que a tua mão direita plantou, do filho que para ti fizeste crescer!
+
+[[v19-80-16]]
+
+^<<v19-80-16,16>>^ Tua videira foi derrubada; como lixo, foi consumida pelo fogo. Pela tua repreensão perece o teu povo!
+
+[[v19-80-17]]
+
+^<<v19-80-17,17>>^ Repouse a tua mão sobre aquele que puseste à tua mão direita, o filho do homem que para ti fizeste crescer.
+
+[[v19-80-18]]
+
+^<<v19-80-18,18>>^ Então não nos desviaremos de ti; vivifica-nos, e invocaremos o teu nome.
+
+[[v19-80-19]]
+
+^<<v19-80-19,19>>^ Restaura-nos, ó Senhor, Deus dos Exércitos; faze resplandecer sobre nós o teu rosto, para que sejamos salvos.
+
+'''
+
+xref:019-salmos/019-salmos-079.adoc#v19-79-0[&#60; Capítulo Anterior] | <<v19-80-0,Topo>> | xref:019-salmos/019-salmos-081.adoc#v19-81-0[Próximo Capítulo &#62;]

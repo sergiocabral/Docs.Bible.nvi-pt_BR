@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v5-5-0]]
+=== Deuteronômio, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v5-5-1]]
+
+^<<v5-5-1,1>>^ Então Moisés convocou todo o Israel e lhe disse: Ouçam, ó Israel, os decretos e as ordenanças que hoje lhes estou anunciando. Aprendam-nos e tenham o cuidado de cumpri-los.
+
+[[v5-5-2]]
+
+^<<v5-5-2,2>>^ O Senhor, o nosso Deus, fez conosco uma aliança em Horebe.
+
+[[v5-5-3]]
+
+^<<v5-5-3,3>>^ Não foi com os nossos antepassados que o Senhor fez essa aliança, mas conosco, com todos nós que aqui hoje estamos vivos.
+
+[[v5-5-4]]
+
+^<<v5-5-4,4>>^ O Senhor falou com vocês face a face do meio do fogo, no monte.
+
+[[v5-5-5]]
+
+^<<v5-5-5,5>>^ Naquela ocasião eu fiquei entre o Senhor e vocês para declarar-lhes a palavra do Senhor, porque vocês tiveram medo do fogo e não subiram o monte. E ele disse:
+
+[[v5-5-6]]
+
+^<<v5-5-6,6>>^ "Eu sou o Senhor, o teu Deus, que te tirei do Egito, da terra da escravidão.
+
+[[v5-5-7]]
+
+^<<v5-5-7,7>>^ "Não terás outros deuses além de mim.
+
+[[v5-5-8]]
+
+^<<v5-5-8,8>>^ "Não farás para ti nenhum ídolo, nenhuma imagem de qualquer coisa no céu, na terra ou nas águas debaixo da terra.
+
+[[v5-5-9]]
+
+^<<v5-5-9,9>>^ Não te prostrarás diante deles nem lhes prestarás culto, porque eu, o Senhor, o teu Deus, sou Deus zeloso, que castigo os filhos pelo pecado de seus pais até a terceira e quarta geração daqueles que me desprezam,
+
+[[v5-5-10]]
+
+^<<v5-5-10,10>>^ mas trato com bondade até mil gerações os que me amam e guardam os meus mandamentos.
+
+[[v5-5-11]]
+
+^<<v5-5-11,11>>^ "Não tomarás em vão o nome do Senhor, o teu Deus, pois o Senhor não deixará impune quem usar o seu nome em vão.
+
+[[v5-5-12]]
+
+^<<v5-5-12,12>>^ "Guardarás o dia de sábado a fim de santificá-lo, conforme o Senhor, o teu Deus, te ordenou.
+
+[[v5-5-13]]
+
+^<<v5-5-13,13>>^ Trabalharás seis dias e neles farás todos os teus trabalhos,
+
+[[v5-5-14]]
+
+^<<v5-5-14,14>>^ mas o sétimo dia é um sábado para o Senhor, o teu Deus. Nesse dia não farás trabalho algum, nem tu nem teu filho ou filha, nem o teu servo ou serva, nem o teu boi, teu jumento ou qualquer dos teus animais, nem o estrangeiro que estiver em tua propriedade; para que o teu servo e a tua serva descansem como tu.
+
+[[v5-5-15]]
+
+^<<v5-5-15,15>>^ Lembra-te de que foste escravo no Egito e que o Senhor, o teu Deus, te tirou de lá com mão poderosa e com braço forte. Por isso o Senhor, o teu Deus, te ordenou que guardes o dia de sábado.
+
+[[v5-5-16]]
+
+^<<v5-5-16,16>>^ "Honra teu pai e tua mãe, como te ordenou o Senhor, o teu Deus, para que tenhas longa vida e tudo te vá bem na terra que o Senhor, o teu Deus, te dá.
+
+[[v5-5-17]]
+
+^<<v5-5-17,17>>^ "Não matarás.
+
+[[v5-5-18]]
+
+^<<v5-5-18,18>>^ "Não adulterarás.
+
+[[v5-5-19]]
+
+^<<v5-5-19,19>>^ "Não furtarás.
+
+[[v5-5-20]]
+
+^<<v5-5-20,20>>^ "Não darás falso testemunho contra o teu próximo.
+
+[[v5-5-21]]
+
+^<<v5-5-21,21>>^ "Não cobiçarás a mulher do teu próximo. Não desejarás a casa do teu próximo, nem sua propriedade; nem seu servo ou serva; nem seu boi ou jumento; nem coisa alguma que lhe pertença".
+
+[[v5-5-22]]
+
+^<<v5-5-22,22>>^ Essas foram as palavras que o Senhor falou a toda a assembléia de vocês, em alta voz, no monte, do meio do fogo, da nuvem e da densa escuridão; e nada mais acrescentou. Então as escreveu em duas tábuas de pedra e as deu a mim.
+
+[[v5-5-23]]
+
+^<<v5-5-23,23>>^ Quando vocês ouviram a voz que vinha do meio da escuridão, estando o monte em chamas, aproximaram-se de mim todos os chefes das tribos de vocês, com as suas autoridades.
+
+[[v5-5-24]]
+
+^<<v5-5-24,24>>^ E vocês disseram: "O Senhor, o nosso Deus, mostrou-nos sua glória e sua majestade, e nós ouvimos a sua voz vinda de dentro do fogo. Hoje vimos que Deus fala com o homem e que este ainda continua vivo!
+
+[[v5-5-25]]
+
+^<<v5-5-25,25>>^ Mas, agora, por que deveríamos morrer? Este grande fogo por certo nos consumirá. Se continuarmos a ouvir a voz do Senhor, o nosso Deus, morreremos.
+
+[[v5-5-26]]
+
+^<<v5-5-26,26>>^ Pois, que homem mortal chegou a ouvir a voz do Deus vivo falando de dentro do fogo, como nós o ouvimos, e sobreviveu?
+
+[[v5-5-27]]
+
+^<<v5-5-27,27>>^ Aproxime-se você, Moisés, e ouça tudo o que o Senhor, o nosso Deus, disser; você nos relatará tudo o que o Senhor, o nosso Deus, lhe disser. Nós ouviremos e obedeceremos".
+
+[[v5-5-28]]
+
+^<<v5-5-28,28>>^ O Senhor ouviu quando vocês me falaram e me disse: "Ouvi o que este povo lhe disse, e eles têm razão em tudo o que disseram.
+
+[[v5-5-29]]
+
+^<<v5-5-29,29>>^ Quem dera eles tivessem sempre no coração esta disposição para temer-me e para obedecer a todos os meus mandamentos. Assim tudo iria bem com eles e com seus descendentes para sempre! "
+
+[[v5-5-30]]
+
+^<<v5-5-30,30>>^ Vá, diga-lhes que voltem às suas tendas.
+
+[[v5-5-31]]
+
+^<<v5-5-31,31>>^ Você ficará aqui comigo, e lhe anunciarei toda a lei, isto é, os decretos e as ordenanças que você lhes ensinará, e que eles deverão cumprir na terra que eu dou a eles como propriedade.
+
+[[v5-5-32]]
+
+^<<v5-5-32,32>>^ Por isso, tenham o cuidado de fazer tudo como o Senhor, o seu Deus, lhes ordenou; não se desviem, nem para a direita, nem para a esquerda.
+
+[[v5-5-33]]
+
+^<<v5-5-33,33>>^ Andem sempre pelo caminho que o Senhor, o seu Deus, lhes ordenou, para que tenham vida, tudo lhes vá bem e os seus dias se prolonguem na terra da qual tomarão posse.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-004.adoc#v5-4-0[&#60; Capítulo Anterior] | <<v5-5-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-006.adoc#v5-6-0[Próximo Capítulo &#62;]

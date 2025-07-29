@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v30-2-0]]
+=== Amós, 2
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v30-2-1]]
+
+^<<v30-2-1,1>>^ Assim diz o SENHOR: "Por três transgressões de Moabe, e ainda mais por quatro, não anularei o castigo. Porque ele queimou até reduzir a cinzas os ossos do rei de Edom,
+
+[[v30-2-2]]
+
+^<<v30-2-2,2>>^ porei fogo em Moabe, que consumirá as fortalezas de Queriote. Moabe perecerá em grande tumulto, em meio a gritos de guerra e ao toque da trombeta.
+
+[[v30-2-3]]
+
+^<<v30-2-3,3>>^ Destruirei o seu governante e com ele matarei todas as autoridades", diz o SENHOR.
+
+[[v30-2-4]]
+
+^<<v30-2-4,4>>^ Assim diz o SENHOR: "Por três transgressões de Judá, e ainda mais por quatro, não anularei o castigo. Porque rejeitou a lei do SENHOR e não obedeceu aos seus decretos, porque se deixou enganar por deuses falsos, deuses que os seus antepassados seguiram,
+
+[[v30-2-5]]
+
+^<<v30-2-5,5>>^ porei fogo em Judá, que consumirá as fortalezas de Jerusalém".
+
+[[v30-2-6]]
+
+^<<v30-2-6,6>>^ Assim diz o SENHOR: "Por três transgressões de Israel, e ainda mais por quatro, não anularei o castigo. Vendem por prata o justo, e por um par de sandálias o pobre.
+
+[[v30-2-7]]
+
+^<<v30-2-7,7>>^ Pisam sobre a cabeça dos necessitados como pisam no pó da terra, e negam justiça ao oprimido. Pai e filho possuem a mesma mulher e assim profanam o meu santo nome.
+
+[[v30-2-8]]
+
+^<<v30-2-8,8>>^ Inclinam-se ao lado de todo altar com roupas tomadas como penhor. No templo do seu deus bebem vinho recebido como multa.
+
+[[v30-2-9]]
+
+^<<v30-2-9,9>>^ "Fui eu que destruí os amorreus diante deles, embora fossem altos como o cedro e fortes como o carvalho. Eu destruí os seus frutos em cima e as suas raízes embaixo".
+
+[[v30-2-10]]
+
+^<<v30-2-10,10>>^ "Eu mesmo os tirei do Egito, e os conduzi por quarenta anos no deserto para lhes dar a terra dos amorreus.
+
+[[v30-2-11]]
+
+^<<v30-2-11,11>>^ Também escolhi alguns de seus filhos para serem profetas e alguns de seus jovens para serem nazireus. Não é verdade, povo de Israel? ", declara o SENHOR.
+
+[[v30-2-12]]
+
+^<<v30-2-12,12>>^ "Mas vocês fizeram os nazireus beber vinho e ordenaram aos profetas que não profetizassem".
+
+[[v30-2-13]]
+
+^<<v30-2-13,13>>^ "Agora, então, eu os amassarei como uma carroça amassa a terra quando carregada de trigo.
+
+[[v30-2-14]]
+
+^<<v30-2-14,14>>^ O ágil não escapará, o forte não reunirá as suas forças, e o guerreiro não salvará a sua vida.
+
+[[v30-2-15]]
+
+^<<v30-2-15,15>>^ O arqueiro não manterá a sua posição, o que corre não se livrará, e o cavaleiro não salvará a própria vida.
+
+[[v30-2-16]]
+
+^<<v30-2-16,16>>^ Até mesmo os guerreiros mais corajosos fugirão nus naquele dia", declara o SENHOR.
+
+'''
+
+xref:030-amos/030-amos-001.adoc#v30-1-0[&#60; Capítulo Anterior] | <<v30-2-0,Topo>> | xref:030-amos/030-amos-003.adoc#v30-3-0[Próximo Capítulo &#62;]

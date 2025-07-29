@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v18-29-0]]
+=== Jó, 29
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-29-1]]
+
+^<<v18-29-1,1>>^ Jó prosseguiu sua fala:
+
+[[v18-29-2]]
+
+^<<v18-29-2,2>>^ "Como tenho saudade dos meses que se passaram, dos dias em que Deus cuidava de mim,
+
+[[v18-29-3]]
+
+^<<v18-29-3,3>>^ quando a sua lâmpada brilhava sobre a minha cabeça e por sua luz eu caminhava em meio às trevas!
+
+[[v18-29-4]]
+
+^<<v18-29-4,4>>^ Como tenho saudade dos dias do meu vigor, quando a amizade de Deus abençoava a minha casa,
+
+[[v18-29-5]]
+
+^<<v18-29-5,5>>^ quando o Todo-poderoso ainda estava comigo e meus filhos estavam ao meu redor,
+
+[[v18-29-6]]
+
+^<<v18-29-6,6>>^ quando as minhas veredas se embebiam em nata e a rocha me despejava torrentes de azeite.
+
+[[v18-29-7]]
+
+^<<v18-29-7,7>>^ "Quando eu ia à porta da cidade e tomava assento na praça pública;
+
+[[v18-29-8]]
+
+^<<v18-29-8,8>>^ quando, ao me verem, os jovens saíam do caminho, e os idosos ficavam de pé;
+
+[[v18-29-9]]
+
+^<<v18-29-9,9>>^ os líderes se abstinham de falar e com a mão cobriam a boca.
+
+[[v18-29-10]]
+
+^<<v18-29-10,10>>^ As vozes dos nobres silenciavam, e suas línguas colavam-se ao céu da boca.
+
+[[v18-29-11]]
+
+^<<v18-29-11,11>>^ Todos os que me ouviam falavam bem de mim, e quem me via me elogiava,
+
+[[v18-29-12]]
+
+^<<v18-29-12,12>>^ pois eu socorria o pobre que clamava por ajuda, e o órfão que não tinha quem o ajudasse.
+
+[[v18-29-13]]
+
+^<<v18-29-13,13>>^ O que estava à beira da morte me abençoava, e eu fazia regozijar-se o coração da viúva.
+
+[[v18-29-14]]
+
+^<<v18-29-14,14>>^ A retidão era a minha roupa; a justiça era o meu manto e o meu turbante.
+
+[[v18-29-15]]
+
+^<<v18-29-15,15>>^ Eu era os olhos do cego e os pés do aleijado.
+
+[[v18-29-16]]
+
+^<<v18-29-16,16>>^ Eu era o pai dos necessitados, e me interessava pela defesa de desconhecidos.
+
+[[v18-29-17]]
+
+^<<v18-29-17,17>>^ Eu quebrava as presas dos ímpios e dos seus dentes arrancava as suas vítimas.
+
+[[v18-29-18]]
+
+^<<v18-29-18,18>>^ "Eu pensava: ‘Morrerei em casa, e os meus dias serão numerosos como os grãos de areia.
+
+[[v18-29-19]]
+
+^<<v18-29-19,19>>^ Minhas raízes chegarão até as águas, e o orvalho passará a noite nos meus ramos.
+
+[[v18-29-20]]
+
+^<<v18-29-20,20>>^ Minha glória se renovará em mim, e novo será o meu arco em minha mão’.
+
+[[v18-29-21]]
+
+^<<v18-29-21,21>>^ "Os homens me escutavam em ansiosa expectativa, aguardando em silêncio o meu conselho.
+
+[[v18-29-22]]
+
+^<<v18-29-22,22>>^ Depois que eu falava, eles nada diziam; minhas palavras caíam suavemente em seus ouvidos.
+
+[[v18-29-23]]
+
+^<<v18-29-23,23>>^ Esperavam por mim como quem espera por uma chuvarada, e bebiam minhas palavras como quem bebe a chuva da primavera.
+
+[[v18-29-24]]
+
+^<<v18-29-24,24>>^ Quando eu lhes sorria, mal acreditavam; a luz do meu rosto lhes era preciosa.
+
+[[v18-29-25]]
+
+^<<v18-29-25,25>>^ Era eu que escolhia o caminho para eles, e me assentava como seu líder; instalava-me como um rei no meio das suas tropas; eu era como um consolador dos que choram.
+
+'''
+
+xref:018-jo/018-jo-028.adoc#v18-28-0[&#60; Capítulo Anterior] | <<v18-29-0,Topo>> | xref:018-jo/018-jo-030.adoc#v18-30-0[Próximo Capítulo &#62;]

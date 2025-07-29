@@ -1,0 +1,713 @@
+include::./index.adoc[]
+
+[[v19-119-0]]
+=== Salmos, 119
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-119-1]]
+
+^<<v19-119-1,1>>^ Como são felizes os que andam em caminhos irrepreensíveis, que vivem conforme a lei do Senhor!
+
+[[v19-119-2]]
+
+^<<v19-119-2,2>>^ Como são felizes os que obedecem aos seus estatutos e de todo o coração o buscam!
+
+[[v19-119-3]]
+
+^<<v19-119-3,3>>^ Não praticam o mal e andam nos caminhos do Senhor.
+
+[[v19-119-4]]
+
+^<<v19-119-4,4>>^ Tu mesmo ordenaste os teus preceitos para que sejam fielmente obedecidos.
+
+[[v19-119-5]]
+
+^<<v19-119-5,5>>^ Quem dera fossem firmados os meus caminhos na obediência aos teus decretos.
+
+[[v19-119-6]]
+
+^<<v19-119-6,6>>^ Então não ficaria decepcionado ao considerar todos os teus mandamentos.
+
+[[v19-119-7]]
+
+^<<v19-119-7,7>>^ Eu te louvarei de coração sincero quando aprender as tuas justas ordenanças.
+
+[[v19-119-8]]
+
+^<<v19-119-8,8>>^ Obedecerei aos teus decretos; nunca me abandones.
+
+[[v19-119-9]]
+
+^<<v19-119-9,9>>^ Como pode o jovem manter pura a sua conduta? Vivendo de acordo com a tua palavra.
+
+[[v19-119-10]]
+
+^<<v19-119-10,10>>^ Eu te busco de todo o coração; não permitas que eu me desvie dos teus mandamentos.
+
+[[v19-119-11]]
+
+^<<v19-119-11,11>>^ Guardei no coração a tua palavra para não pecar contra ti.
+
+[[v19-119-12]]
+
+^<<v19-119-12,12>>^ Bendito sejas, Senhor! Ensina-me os teus decretos.
+
+[[v19-119-13]]
+
+^<<v19-119-13,13>>^ Com os lábios repito todas as leis que promulgaste.
+
+[[v19-119-14]]
+
+^<<v19-119-14,14>>^ Regozijo-me em seguir os teus testemunhos como o que se regozija com grandes riquezas.
+
+[[v19-119-15]]
+
+^<<v19-119-15,15>>^ Meditarei nos teus preceitos e darei atenção às tuas veredas.
+
+[[v19-119-16]]
+
+^<<v19-119-16,16>>^ Tenho prazer nos teus decretos; não me esqueço da tua palavra.
+
+[[v19-119-17]]
+
+^<<v19-119-17,17>>^ Trata com bondade o teu servo para que eu viva e obedeça à tua palavra.
+
+[[v19-119-18]]
+
+^<<v19-119-18,18>>^ Abre os meus olhos para que eu veja as maravilhas da tua lei.
+
+[[v19-119-19]]
+
+^<<v19-119-19,19>>^ Sou peregrino na terra; não escondas de mim os teus mandamentos.
+
+[[v19-119-20]]
+
+^<<v19-119-20,20>>^ A minha alma consome-se de perene desejo das tuas ordenanças.
+
+[[v19-119-21]]
+
+^<<v19-119-21,21>>^ Tu repreendes os arrogantes; malditos os que se desviam dos teus mandamentos!
+
+[[v19-119-22]]
+
+^<<v19-119-22,22>>^ Tira de mim a afronta e o desprezo, pois obedeço aos teus estatutos.
+
+[[v19-119-23]]
+
+^<<v19-119-23,23>>^ Mesmo que os poderosos se reúnam para conspirar contra mim, ainda assim o teu servo meditará nos teus decretos.
+
+[[v19-119-24]]
+
+^<<v19-119-24,24>>^ Sim, os teus testemunhos são o meu prazer; eles são os meus conselheiros.
+
+[[v19-119-25]]
+
+^<<v19-119-25,25>>^ Agora estou prostrado no pó; preserva a minha vida conforme a tua promessa.
+
+[[v19-119-26]]
+
+^<<v19-119-26,26>>^ A ti relatei os meus caminhos e tu me respondeste; ensina-me os teus decretos.
+
+[[v19-119-27]]
+
+^<<v19-119-27,27>>^ Faze-me discernir o propósito dos teus preceitos, então meditarei nas tuas maravilhas.
+
+[[v19-119-28]]
+
+^<<v19-119-28,28>>^ A minha alma se consome de tristeza; fortalece-me conforme a tua promessa.
+
+[[v19-119-29]]
+
+^<<v19-119-29,29>>^ Desvia-me dos caminhos enganosos; por tua graça, ensina-me a tua lei.
+
+[[v19-119-30]]
+
+^<<v19-119-30,30>>^ Escolhi o caminho da fidelidade; decidi seguir as tuas ordenanças.
+
+[[v19-119-31]]
+
+^<<v19-119-31,31>>^ Apego-me aos teus testemunhos, ó Senhor; não permitas que eu fique decepcionado.
+
+[[v19-119-32]]
+
+^<<v19-119-32,32>>^ Corro pelo caminho que os teus mandamentos apontam, pois me deste maior entendimento.
+
+[[v19-119-33]]
+
+^<<v19-119-33,33>>^ Ensina-me, Senhor, o caminho dos teus decretos, e a eles obedecerei até o fim.
+
+[[v19-119-34]]
+
+^<<v19-119-34,34>>^ Dá-me entendimento, para que eu guarde a tua lei e a ela obedeça de todo o coração.
+
+[[v19-119-35]]
+
+^<<v19-119-35,35>>^ Dirige-me pelo caminho dos teus mandamentos, pois nele encontro satisfação.
+
+[[v19-119-36]]
+
+^<<v19-119-36,36>>^ Inclina o meu coração para os teus estatutos, e não para a ganância.
+
+[[v19-119-37]]
+
+^<<v19-119-37,37>>^ Desvia os meus olhos das coisas inúteis; faze-me viver nos caminhos que traçaste.
+
+[[v19-119-38]]
+
+^<<v19-119-38,38>>^ Cumpre a tua promessa para com o teu servo, para que sejas temido.
+
+[[v19-119-39]]
+
+^<<v19-119-39,39>>^ Livra-me da afronta que me apavora, pois as tuas ordenanças são boas.
+
+[[v19-119-40]]
+
+^<<v19-119-40,40>>^ Como anseio pelos teus preceitos! Preserva a minha vida por tua justiça!
+
+[[v19-119-41]]
+
+^<<v19-119-41,41>>^ Que o teu amor alcance-me, Senhor, e a tua salvação, segundo a tua promessa;
+
+[[v19-119-42]]
+
+^<<v19-119-42,42>>^ então responderei aos que me afrontam, pois confio na tua palavra.
+
+[[v19-119-43]]
+
+^<<v19-119-43,43>>^ Jamais tires da minha boca a palavra da verdade, pois nas tuas ordenanças coloquei a minha esperança.
+
+[[v19-119-44]]
+
+^<<v19-119-44,44>>^ Obedecerei constantemente à tua lei, para todo o sempre.
+
+[[v19-119-45]]
+
+^<<v19-119-45,45>>^ Andarei em verdadeira liberdade, pois tenho buscado os teus preceitos.
+
+[[v19-119-46]]
+
+^<<v19-119-46,46>>^ Falarei dos teus testemunhos diante de reis, sem ser envergonhado.
+
+[[v19-119-47]]
+
+^<<v19-119-47,47>>^ Tenho prazer nos teus mandamentos; eu os amo.
+
+[[v19-119-48]]
+
+^<<v19-119-48,48>>^ A ti levanto minhas mãos e medito nos teus decretos.
+
+[[v19-119-49]]
+
+^<<v19-119-49,49>>^ Lembra-te da tua palavra ao teu servo, pela qual me deste esperança.
+
+[[v19-119-50]]
+
+^<<v19-119-50,50>>^ Este é o meu consolo no meu sofrimento: A tua promessa dá-me vida.
+
+[[v19-119-51]]
+
+^<<v19-119-51,51>>^ Os arrogantes zombam de mim o tempo todo, mas eu não me desvio da tua lei.
+
+[[v19-119-52]]
+
+^<<v19-119-52,52>>^ Lembro-me, Senhor, das tuas ordenanças do passado e nelas acho consolo.
+
+[[v19-119-53]]
+
+^<<v19-119-53,53>>^ Fui tomado de ira tremenda por causa dos ímpios que rejeitaram a tua lei.
+
+[[v19-119-54]]
+
+^<<v19-119-54,54>>^ Os teus decretos são o tema da minha canção em minha peregrinação.
+
+[[v19-119-55]]
+
+^<<v19-119-55,55>>^ De noite lembro-me do teu nome, Senhor! Vou obedecer à tua lei.
+
+[[v19-119-56]]
+
+^<<v19-119-56,56>>^ Esta tem sido a minha prática: Obedecer aos teus preceitos.
+
+[[v19-119-57]]
+
+^<<v19-119-57,57>>^ Tu és a minha herança, Senhor; prometi obedecer às tuas palavras.
+
+[[v19-119-58]]
+
+^<<v19-119-58,58>>^ De todo o coração suplico a tua graça; tem misericórdia de mim, conforme a tua promessa.
+
+[[v19-119-59]]
+
+^<<v19-119-59,59>>^ Refleti em meus caminhos e voltei os meus passos para os teus testemunhos.
+
+[[v19-119-60]]
+
+^<<v19-119-60,60>>^ Eu me apressarei e não hesitarei em obedecer aos teus mandamentos.
+
+[[v19-119-61]]
+
+^<<v19-119-61,61>>^ Embora as cordas dos ímpios queiram prender-me, eu não me esqueço da tua lei.
+
+[[v19-119-62]]
+
+^<<v19-119-62,62>>^ À meia-noite me levanto para dar-te graças pelas tuas justas ordenanças.
+
+[[v19-119-63]]
+
+^<<v19-119-63,63>>^ Sou amigo de todos os que te temem e obedecem aos teus preceitos.
+
+[[v19-119-64]]
+
+^<<v19-119-64,64>>^ A terra está cheia do teu amor, Senhor; ensina-me os teus decretos.
+
+[[v19-119-65]]
+
+^<<v19-119-65,65>>^ Trata com bondade o teu servo, Senhor, conforme a tua promessa.
+
+[[v19-119-66]]
+
+^<<v19-119-66,66>>^ Ensina-me o bom senso e o conhecimento, pois confio em teus mandamentos.
+
+[[v19-119-67]]
+
+^<<v19-119-67,67>>^ Antes de ser castigado, eu andava desviado, mas agora obedeço à tua palavra.
+
+[[v19-119-68]]
+
+^<<v19-119-68,68>>^ Tu és bom, e o que fazes é bom; ensina-me os teus decretos.
+
+[[v19-119-69]]
+
+^<<v19-119-69,69>>^ Os arrogantes mancharam o meu nome com mentiras, mas eu obedeço aos teus preceitos de todo o coração.
+
+[[v19-119-70]]
+
+^<<v19-119-70,70>>^ O coração deles é insensível, eu, porém, tenho prazer na tua lei.
+
+[[v19-119-71]]
+
+^<<v19-119-71,71>>^ Foi bom para mim ter sido castigado, para que aprendesse os teus decretos.
+
+[[v19-119-72]]
+
+^<<v19-119-72,72>>^ Para mim vale mais a lei que decretaste do que milhares de peças de prata e ouro.
+
+[[v19-119-73]]
+
+^<<v19-119-73,73>>^ As tuas mãos me fizeram e me formaram; dá-me entendimento para aprender os teus mandamentos.
+
+[[v19-119-74]]
+
+^<<v19-119-74,74>>^ Quando os que têm temor de ti me virem, se alegrarão, pois na tua palavra coloquei a minha esperança.
+
+[[v19-119-75]]
+
+^<<v19-119-75,75>>^ Sei, Senhor, que as tuas ordenanças são justas, e que por tua fidelidade me castigaste.
+
+[[v19-119-76]]
+
+^<<v19-119-76,76>>^ Seja o teu amor o meu consolo, conforme a tua promessa ao teu servo.
+
+[[v19-119-77]]
+
+^<<v19-119-77,77>>^ Alcance-me a tua misericórdia para que eu tenha vida, porque a tua lei é o meu prazer.
+
+[[v19-119-78]]
+
+^<<v19-119-78,78>>^ Sejam humilhados os arrogantes, pois prejudicaram-me sem motivo; mas eu meditarei nos teus preceitos.
+
+[[v19-119-79]]
+
+^<<v19-119-79,79>>^ Venham apoiar-me aqueles que te temem, aqueles que entendem os teus estatutos.
+
+[[v19-119-80]]
+
+^<<v19-119-80,80>>^ Seja o meu coração íntegro para com os teus decretos, para que eu não seja humilhado.
+
+[[v19-119-81]]
+
+^<<v19-119-81,81>>^ Estou quase desfalecido, aguardando a tua salvação, mas na tua palavra coloquei a esperança.
+
+[[v19-119-82]]
+
+^<<v19-119-82,82>>^ Os meus olhos fraquejam de tanto esperar pela tua promessa, e pergunto: "Quando me consolarás? "
+
+[[v19-119-83]]
+
+^<<v19-119-83,83>>^ Embora eu seja como uma vasilha inútil, não me esqueço dos teus decretos.
+
+[[v19-119-84]]
+
+^<<v19-119-84,84>>^ Até quando o teu servo deverá esperar para que castigues os meus perseguidores?
+
+[[v19-119-85]]
+
+^<<v19-119-85,85>>^ Cavaram uma armadilha contra mim os arrogantes, os que não seguem a tua lei.
+
+[[v19-119-86]]
+
+^<<v19-119-86,86>>^ Todos os teus mandamentos merecem confiança; ajuda-me, pois sou perseguido com mentiras.
+
+[[v19-119-87]]
+
+^<<v19-119-87,87>>^ Quase acabaram com a minha vida na terra, mas não abandonei os teus preceitos.
+
+[[v19-119-88]]
+
+^<<v19-119-88,88>>^ Preserva a minha vida pelo teu amor, e obedecerei aos estatutos que decretaste.
+
+[[v19-119-89]]
+
+^<<v19-119-89,89>>^ A tua palavra, Senhor, para sempre está firmada nos céus.
+
+[[v19-119-90]]
+
+^<<v19-119-90,90>>^ A tua fidelidade é constante por todas as gerações; estabeleceste a terra, que firme subsiste.
+
+[[v19-119-91]]
+
+^<<v19-119-91,91>>^ Conforme as tuas ordens, tudo permanece até hoje, pois não há nada que não esteja a teu serviço.
+
+[[v19-119-92]]
+
+^<<v19-119-92,92>>^ Se a tua lei não fosse o meu prazer, o sofrimento já me teria destruído.
+
+[[v19-119-93]]
+
+^<<v19-119-93,93>>^ Jamais me esquecerei dos teus preceitos, pois é por meio deles que preservas a minha vida.
+
+[[v19-119-94]]
+
+^<<v19-119-94,94>>^ Salva-me, pois a ti pertenço e busco os teus preceitos!
+
+[[v19-119-95]]
+
+^<<v19-119-95,95>>^ Os ímpios estão à espera para destruir-me, mas eu considero os teus testemunhos.
+
+[[v19-119-96]]
+
+^<<v19-119-96,96>>^ Tenho constatado que toda perfeição tem limite; mas não há limite para o teu mandamento.
+
+[[v19-119-97]]
+
+^<<v19-119-97,97>>^ Como eu amo a tua lei! Medito nela o dia inteiro.
+
+[[v19-119-98]]
+
+^<<v19-119-98,98>>^ Os teus mandamentos me tornam mais sábio que os meus inimigos, porquanto estão sempre comigo.
+
+[[v19-119-99]]
+
+^<<v19-119-99,99>>^ Tenho mais discernimento que todos os meus mestres, pois medito nos teus testemunhos.
+
+[[v19-119-100]]
+
+^<<v19-119-100,100>>^ Tenho mais entendimento que os anciãos, pois obedeço aos teus preceitos.
+
+[[v19-119-101]]
+
+^<<v19-119-101,101>>^ Afasto os pés de todo caminho mau para obedecer à tua palavra.
+
+[[v19-119-102]]
+
+^<<v19-119-102,102>>^ Não me afasto das tuas ordenanças, pois tu mesmo me ensinas.
+
+[[v19-119-103]]
+
+^<<v19-119-103,103>>^ Como são doces para o meu paladar as tuas palavras! Mais do que o mel para a minha boca!
+
+[[v19-119-104]]
+
+^<<v19-119-104,104>>^ Ganho entendimento por meio dos teus preceitos; por isso odeio todo caminho de falsidade.
+
+[[v19-119-105]]
+
+^<<v19-119-105,105>>^ A tua palavra é lâmpada que ilumina os meus passos e luz que clareia o meu caminho.
+
+[[v19-119-106]]
+
+^<<v19-119-106,106>>^ Prometi sob juramento e o cumprirei: vou obedecer às tuas justas ordenanças.
+
+[[v19-119-107]]
+
+^<<v19-119-107,107>>^ Passei por muito sofrimento; preserva, Senhor, a minha vida, conforme a tua promessa.
+
+[[v19-119-108]]
+
+^<<v19-119-108,108>>^ Aceita, Senhor, a minha oferta de louvor dos meus lábios, e ensina-me as tuas ordenanças.
+
+[[v19-119-109]]
+
+^<<v19-119-109,109>>^ A minha vida está sempre em perigo, mas não me esqueço da tua lei.
+
+[[v19-119-110]]
+
+^<<v19-119-110,110>>^ Os ímpios prepararam uma armadilha contra mim, mas não me desviei dos teus preceitos.
+
+[[v19-119-111]]
+
+^<<v19-119-111,111>>^ Os teus testemunhos são a minha herança permanente; são a alegria do meu coração.
+
+[[v19-119-112]]
+
+^<<v19-119-112,112>>^ Dispus o meu coração para cumprir os teus decretos até o fim.
+
+[[v19-119-113]]
+
+^<<v19-119-113,113>>^ Odeio os que são inconstantes, mas amo a tua lei.
+
+[[v19-119-114]]
+
+^<<v19-119-114,114>>^ Tu és o meu abrigo e o meu escudo; e na tua palavra coloquei a minha esperança.
+
+[[v19-119-115]]
+
+^<<v19-119-115,115>>^ Afastem-se de mim os que praticam o mal! Quero obedecer aos mandamentos do meu Deus!
+
+[[v19-119-116]]
+
+^<<v19-119-116,116>>^ Sustenta-me, segundo a tua promessa, e eu viverei; não permitas que se frustrem as minhas esperanças.
+
+[[v19-119-117]]
+
+^<<v19-119-117,117>>^ Ampara-me, e estarei seguro; sempre estarei atento aos teus decretos.
+
+[[v19-119-118]]
+
+^<<v19-119-118,118>>^ Tu rejeitas todos os que se desviam dos teus decretos, pois os seus planos enganosos são inúteis.
+
+[[v19-119-119]]
+
+^<<v19-119-119,119>>^ Tu destróis como refugo todos os ímpios da terra; por isso amo os teus testemunhos.
+
+[[v19-119-120]]
+
+^<<v19-119-120,120>>^ O meu corpo estremece diante de ti; as tuas ordenanças enchem-me de temor.
+
+[[v19-119-121]]
+
+^<<v19-119-121,121>>^ Tenho vivido com justiça e retidão; não me abandones nas mãos dos meus opressores.
+
+[[v19-119-122]]
+
+^<<v19-119-122,122>>^ Garante o bem-estar do teu servo; não permitas que os arrogantes me oprimam.
+
+[[v19-119-123]]
+
+^<<v19-119-123,123>>^ Os meus olhos fraquejam, aguardando a tua salvação e o cumprimento da tua justiça.
+
+[[v19-119-124]]
+
+^<<v19-119-124,124>>^ Trata o teu servo conforme o teu amor leal e ensina-me os teus decretos.
+
+[[v19-119-125]]
+
+^<<v19-119-125,125>>^ Sou teu servo; dá-me discernimento para compreender os teus testemunhos.
+
+[[v19-119-126]]
+
+^<<v19-119-126,126>>^ Já é tempo de agires, Senhor, pois a tua lei está sendo desrespeitada.
+
+[[v19-119-127]]
+
+^<<v19-119-127,127>>^ Eu amo os teus mandamentos mais do que o ouro, mais do que o ouro puro.
+
+[[v19-119-128]]
+
+^<<v19-119-128,128>>^ Por isso considero justos os teus preceitos e odeio todo caminho de falsidade.
+
+[[v19-119-129]]
+
+^<<v19-119-129,129>>^ Os teus testemunhos são maravilhosos; por isso lhes obedeço.
+
+[[v19-119-130]]
+
+^<<v19-119-130,130>>^ A explicação das tuas palavras ilumina e dá discernimento aos inexperientes.
+
+[[v19-119-131]]
+
+^<<v19-119-131,131>>^ Abro a boca e suspiro, ansiando por teus mandamentos.
+
+[[v19-119-132]]
+
+^<<v19-119-132,132>>^ Volta-te para mim e tem misericórdia de mim, como sempre fazes aos que amam o teu nome.
+
+[[v19-119-133]]
+
+^<<v19-119-133,133>>^ Dirige os meus passos, conforme a tua palavra; não permitas que nenhum pecado me domine.
+
+[[v19-119-134]]
+
+^<<v19-119-134,134>>^ Resgata-me da opressão dos homens, para que eu obedeça aos teus preceitos.
+
+[[v19-119-135]]
+
+^<<v19-119-135,135>>^ Faze o teu rosto resplandecer sobre o teu servo, e ensina-me os teus decretos.
+
+[[v19-119-136]]
+
+^<<v19-119-136,136>>^ Rios de lágrimas correm dos meus olhos, porque a tua lei não é obedecida.
+
+[[v19-119-137]]
+
+^<<v19-119-137,137>>^ Justo és, Senhor, e retas são as tuas ordenanças.
+
+[[v19-119-138]]
+
+^<<v19-119-138,138>>^ Ordenaste os teus testemunhos com justiça; dignos são de inteira confiança!
+
+[[v19-119-139]]
+
+^<<v19-119-139,139>>^ O meu zelo me consome, pois os meus adversários se esquecem das tuas palavras.
+
+[[v19-119-140]]
+
+^<<v19-119-140,140>>^ A tua promessa foi plenamente comprovada, e, por isso, o teu servo a ama.
+
+[[v19-119-141]]
+
+^<<v19-119-141,141>>^ Sou pequeno e desprezado, mas não esqueço os teus preceitos.
+
+[[v19-119-142]]
+
+^<<v19-119-142,142>>^ A tua justiça é eterna, e a tua lei é a verdade.
+
+[[v19-119-143]]
+
+^<<v19-119-143,143>>^ Tribulação e angústia me atingiram, mas os teus mandamentos são o meu prazer.
+
+[[v19-119-144]]
+
+^<<v19-119-144,144>>^ Os teus testemunhos são eternamente justos, dá-me discernimento para que eu tenha vida.
+
+[[v19-119-145]]
+
+^<<v19-119-145,145>>^ Eu clamo de todo o coração; responde-me, Senhor, e obedecerei aos teus testemunhos!
+
+[[v19-119-146]]
+
+^<<v19-119-146,146>>^ Clamo a ti; salva-me, e obedecerei aos teus estatutos!
+
+[[v19-119-147]]
+
+^<<v19-119-147,147>>^ Antes do amanhecer me levanto e suplico o teu socorro; na tua palavra coloquei a minha esperança.
+
+[[v19-119-148]]
+
+^<<v19-119-148,148>>^ Fico acordado nas vigílias da noite, para meditar nas tuas promessas.
+
+[[v19-119-149]]
+
+^<<v19-119-149,149>>^ Ouve a minha voz pelo teu amor leal; faze-me viver, Senhor, conforme as tuas ordenanças.
+
+[[v19-119-150]]
+
+^<<v19-119-150,150>>^ Os meus perseguidores aproximam-se com más intenções; mas estão distantes da tua lei.
+
+[[v19-119-151]]
+
+^<<v19-119-151,151>>^ Tu, porém, Senhor, estás perto e todos os teus mandamentos são verdadeiros.
+
+[[v19-119-152]]
+
+^<<v19-119-152,152>>^ Há muito aprendi dos teus testemunhos que os estabeleceste para sempre.
+
+[[v19-119-153]]
+
+^<<v19-119-153,153>>^ Olha para o meu sofrimento e livra-me, pois não me esqueço da tua lei.
+
+[[v19-119-154]]
+
+^<<v19-119-154,154>>^ Defende a minha causa e resgata-me; preserva a minha vida conforme a tua promessa.
+
+[[v19-119-155]]
+
+^<<v19-119-155,155>>^ A salvação está longe dos ímpios, pois eles não buscam os teus decretos.
+
+[[v19-119-156]]
+
+^<<v19-119-156,156>>^ Grande é a tua compaixão, Senhor; preserva a minha vida conforme as tuas leis.
+
+[[v19-119-157]]
+
+^<<v19-119-157,157>>^ Muitos são os meus adversários e os meus perseguidores, mas eu não me desvio dos teus estatutos.
+
+[[v19-119-158]]
+
+^<<v19-119-158,158>>^ Com grande desgosto vejo os infiéis, que não obedecem à tua palavra.
+
+[[v19-119-159]]
+
+^<<v19-119-159,159>>^ Vê como amo os teus preceitos! Dá-me vida, segundo o teu amor leal.
+
+[[v19-119-160]]
+
+^<<v19-119-160,160>>^ A verdade é a essência da tua palavra, e todas as tuas justas ordenanças são eternas.
+
+[[v19-119-161]]
+
+^<<v19-119-161,161>>^ Os poderosos perseguem-me sem motivo, mas é diante da tua palavra que o meu coração treme.
+
+[[v19-119-162]]
+
+^<<v19-119-162,162>>^ Eu me regozijo na tua promessa como alguém que encontra grandes despojos.
+
+[[v19-119-163]]
+
+^<<v19-119-163,163>>^ Odeio e detesto a falsidade, mas amo a tua lei.
+
+[[v19-119-164]]
+
+^<<v19-119-164,164>>^ Sete vezes por dia eu te louvo por causa das tuas justas ordenanças.
+
+[[v19-119-165]]
+
+^<<v19-119-165,165>>^ Os que amam a tua lei desfrutam paz, e nada há que os faça tropeçar.
+
+[[v19-119-166]]
+
+^<<v19-119-166,166>>^ Aguardo a tua salvação, Senhor, e pratico os teus mandamentos.
+
+[[v19-119-167]]
+
+^<<v19-119-167,167>>^ Obedeço aos teus testemunhos; amo-os infinitamente!
+
+[[v19-119-168]]
+
+^<<v19-119-168,168>>^ Obedeço a todos os teus preceitos e testemunhos, pois conheces todos os meus caminhos.
+
+[[v19-119-169]]
+
+^<<v19-119-169,169>>^ Chegue à tua presença o meu clamor, Senhor! Dá-me entendimento conforme a tua palavra.
+
+[[v19-119-170]]
+
+^<<v19-119-170,170>>^ Chegue a ti a minha súplica. Livra-me, conforme a tua promessa.
+
+[[v19-119-171]]
+
+^<<v19-119-171,171>>^ Meus lábios transbordarão de louvor, pois me ensinas os teus decretos.
+
+[[v19-119-172]]
+
+^<<v19-119-172,172>>^ A minha língua cantará a tua palavra, pois todos os teus mandamentos são justos.
+
+[[v19-119-173]]
+
+^<<v19-119-173,173>>^ Com tua mão vem ajudar-me, pois escolhi os teus preceitos.
+
+[[v19-119-174]]
+
+^<<v19-119-174,174>>^ Anseio pela tua salvação, Senhor, e a tua lei é o meu prazer.
+
+[[v19-119-175]]
+
+^<<v19-119-175,175>>^ Permite-me viver para que eu te louve; e que as tuas ordenanças me sustentem.
+
+[[v19-119-176]]
+
+^<<v19-119-176,176>>^ Andei vagando como ovelha perdida; vem em busca do teu servo, pois não me esqueci dos teus mandamentos.
+
+'''
+
+xref:019-salmos/019-salmos-118.adoc#v19-118-0[&#60; Capítulo Anterior] | <<v19-119-0,Topo>> | xref:019-salmos/019-salmos-120.adoc#v19-120-0[Próximo Capítulo &#62;]

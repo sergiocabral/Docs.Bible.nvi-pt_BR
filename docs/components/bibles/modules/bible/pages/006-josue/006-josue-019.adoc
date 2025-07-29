@@ -1,0 +1,213 @@
+include::./index.adoc[]
+
+[[v6-19-0]]
+=== Josué, 19
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v6-19-1]]
+
+^<<v6-19-1,1>>^ Na segunda vez, a sorte saiu para a tribo de Simeão, clã por clã. A herança deles ficava dentro do território de Judá.
+
+[[v6-19-2]]
+
+^<<v6-19-2,2>>^ Eles receberam: Berseba ou Seba, Moladá,
+
+[[v6-19-3]]
+
+^<<v6-19-3,3>>^ Hazar-Sual, Balá, Ázen,
+
+[[v6-19-4]]
+
+^<<v6-19-4,4>>^ Eltolade, Betul, Hormá,
+
+[[v6-19-5]]
+
+^<<v6-19-5,5>>^ Ziclague, Bete-Marcabote, Hazar-Susa,
+
+[[v6-19-6]]
+
+^<<v6-19-6,6>>^ Bete-Lebaote e Saruém. Eram treze cidades com os seus povoados;
+
+[[v6-19-7]]
+
+^<<v6-19-7,7>>^ Aim, Rimom, Eter e Asã, quatro cidades com os seus povoados,
+
+[[v6-19-8]]
+
+^<<v6-19-8,8>>^ e todos os povoados ao redor dessas cidades, até Baalate-Beer, que é Ramá, no Neguebe. Essa foi a herança da tribo dos simeonitas, clã por clã.
+
+[[v6-19-9]]
+
+^<<v6-19-9,9>>^ A herança dos simeonitas foi tirada de Judá, pois Judá recebera mais terras do que precisava. Assim os simeonitas receberam a sua herança dentro do território de Judá.
+
+[[v6-19-10]]
+
+^<<v6-19-10,10>>^ Na terceira vez, a sorte saiu para Zebulom, clã por clã. A fronteira da sua herança ia até Saride.
+
+[[v6-19-11]]
+
+^<<v6-19-11,11>>^ De lá ia para o oeste, chegava a Maralá, alcançava Dabesete, e se estendia até o ribeiro próximo a Jocneão.
+
+[[v6-19-12]]
+
+^<<v6-19-12,12>>^ De Saride fazia uma curva para o leste, para o lado do nascente, em direção ao território de Quislote-Tabor, prosseguia até Daberate e subia para Jafia.
+
+[[v6-19-13]]
+
+^<<v6-19-13,13>>^ Depois continuava para o leste, até Gate-Hefer e Ete-Cazim, chegava a Rimom e fazia uma curva na direção de Neá.
+
+[[v6-19-14]]
+
+^<<v6-19-14,14>>^ Do norte a fronteira voltava até Hanatom e terminava no vale de Iftá-El.
+
+[[v6-19-15]]
+
+^<<v6-19-15,15>>^ Aí também estavam Catate, Naalal, Sinrom, Idala e Belém. Eram doze cidades com os seus povoados.
+
+[[v6-19-16]]
+
+^<<v6-19-16,16>>^ Essas cidades com os seus povoados foram a herança de Zebulom, clã por clã.
+
+[[v6-19-17]]
+
+^<<v6-19-17,17>>^ Na quarta vez, a sorte saiu para Issacar, clã por clã.
+
+[[v6-19-18]]
+
+^<<v6-19-18,18>>^ Seu território abrangia: Jezreel, Quesulote, Suném,
+
+[[v6-19-19]]
+
+^<<v6-19-19,19>>^ Hafaraim, Siom, Anaarate,
+
+[[v6-19-20]]
+
+^<<v6-19-20,20>>^ Rabite, Quisiom, Ebes,
+
+[[v6-19-21]]
+
+^<<v6-19-21,21>>^ Remete, En-Ganim, En-Hadá e Bete-Pazes.
+
+[[v6-19-22]]
+
+^<<v6-19-22,22>>^ A fronteira chegava a Tabor, Saazima e Bete-Semes, e terminava no Jordão. Eram dezesseis cidades com os seus povoados.
+
+[[v6-19-23]]
+
+^<<v6-19-23,23>>^ Essas cidades com os seus povoados foram a herança da tribo de Issacar, clã por clã.
+
+[[v6-19-24]]
+
+^<<v6-19-24,24>>^ Na quinta vez, a sorte saiu para Aser, clã por clã.
+
+[[v6-19-25]]
+
+^<<v6-19-25,25>>^ Seu território abrangia: Helcate, Hali, Béten, Acsafe,
+
+[[v6-19-26]]
+
+^<<v6-19-26,26>>^ Alameleque, Amade e Misal. A oeste a fronteira alcançava o Carmelo e Sior-Libnate.
+
+[[v6-19-27]]
+
+^<<v6-19-27,27>>^ De lá virava para o leste em direção a Bete-Dagom, alcançava Zebulom e o vale de Iftá-El, e ia para o norte, para Bete-Emeque e Neiel, passando por Cabul, à esquerda,
+
+[[v6-19-28]]
+
+^<<v6-19-28,28>>^ Ebrom, Reobe, Hamom e Caná, até Sidom, a grande.
+
+[[v6-19-29]]
+
+^<<v6-19-29,29>>^ Depois a fronteira voltava para Ramá e ia para a cidade fortificada de Tiro, virava na direção de Hosa e terminava no mar, na região de Aczibe,
+
+[[v6-19-30]]
+
+^<<v6-19-30,30>>^ Umá, Afeque e Reobe. Eram vinte e duas cidades com os seus povoados.
+
+[[v6-19-31]]
+
+^<<v6-19-31,31>>^ Essas cidades com os seus povoados foram a herança da tribo de Aser, clã por clã.
+
+[[v6-19-32]]
+
+^<<v6-19-32,32>>^ Na sexta vez, a sorte saiu para Naftali, clã por clã.
+
+[[v6-19-33]]
+
+^<<v6-19-33,33>>^ Sua fronteira ia desde Helefe e do Carvalho de Zaanim, passava por Adami-Neguebe e Jabneel, e ia até Lacum, terminando no Jordão.
+
+[[v6-19-34]]
+
+^<<v6-19-34,34>>^ Voltando para o oeste, a fronteira passava por Aznote-Tabor e ia para Hucoque. Atingia Zebulom ao sul, Aser a oeste e o Jordão a leste.
+
+[[v6-19-35]]
+
+^<<v6-19-35,35>>^ As cidades fortificadas eram Zidim, Zer, Hamate, Racate, Quinerete,
+
+[[v6-19-36]]
+
+^<<v6-19-36,36>>^ Adamá, Ramá, Hazor,
+
+[[v6-19-37]]
+
+^<<v6-19-37,37>>^ Quedes, Edrei, En-Hazor,
+
+[[v6-19-38]]
+
+^<<v6-19-38,38>>^ Irom, Migdal-El, Horém, Bete-Anate e Bete-Semes. Eram dezenove cidades com os seus povoados.
+
+[[v6-19-39]]
+
+^<<v6-19-39,39>>^ Essas cidades com os seus povoados foram a herança da tribo de Naftali, clã por clã.
+
+[[v6-19-40]]
+
+^<<v6-19-40,40>>^ Na sétima vez, a sorte saiu para Dã, clã por clã.
+
+[[v6-19-41]]
+
+^<<v6-19-41,41>>^ O território da sua herança abrangia: Zorá, Estaol, Ir-Semes,
+
+[[v6-19-42]]
+
+^<<v6-19-42,42>>^ Saalabim, Aijalom, Itla,
+
+[[v6-19-43]]
+
+^<<v6-19-43,43>>^ Elom, Timna, Ecrom,
+
+[[v6-19-44]]
+
+^<<v6-19-44,44>>^ Elteque, Gibetom, Baalate,
+
+[[v6-19-45]]
+
+^<<v6-19-45,45>>^ Jeúde, Bene-Beraque, Gate-Rimom,
+
+[[v6-19-46]]
+
+^<<v6-19-46,46>>^ Me-Jarcom e Racom, e a região defronte de Jope.
+
+[[v6-19-47]]
+
+^<<v6-19-47,47>>^ Mas a tribo de Dã teve dificuldade para tomar posse do seu território. Por isso atacaram Lesém, conquistaram-na, passaram-na ao fio da espada e a ocuparam. Estabeleceram-se em Lesém e lhe deram o nome de Dã, por causa do seu antepassado.
+
+[[v6-19-48]]
+
+^<<v6-19-48,48>>^ Essas cidades com os seus povoados foram a herança da tribo de Dã, clã por clã.
+
+[[v6-19-49]]
+
+^<<v6-19-49,49>>^ Quando terminaram de dividir a terra em territórios delimitados, os israelitas deram a Josué, filho de Num, uma herança no meio deles,
+
+[[v6-19-50]]
+
+^<<v6-19-50,50>>^ como o Senhor tinha ordenado. Deram-lhe a cidade que ele havia pedido, Timnate-Sera, nos montes de Efraim, onde ele reconstruiu a cidade e se estabeleceu.
+
+[[v6-19-51]]
+
+^<<v6-19-51,51>>^ Foram esses os territórios que o sacerdote Eleazar, Josué, filho de Num, e os chefes dos clãs das tribos de Israel repartiram por sorteio em Siló, na presença do Senhor, à entrada da Tenda do Encontro. E assim terminaram de dividir a terra.
+
+'''
+
+xref:006-josue/006-josue-018.adoc#v6-18-0[&#60; Capítulo Anterior] | <<v6-19-0,Topo>> | xref:006-josue/006-josue-020.adoc#v6-20-0[Próximo Capítulo &#62;]

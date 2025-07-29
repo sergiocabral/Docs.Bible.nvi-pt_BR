@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-29-0]]
+=== Salmos, 29
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-29-1]]
+
+^<<v19-29-1,1>>^ Atribuam ao Senhor, ó seres celestiais, atribuam ao Senhor glória e força.
+
+[[v19-29-2]]
+
+^<<v19-29-2,2>>^ Atribuam ao Senhor a glória que o seu nome merece; adorem o Senhor no esplendor do seu santuário.
+
+[[v19-29-3]]
+
+^<<v19-29-3,3>>^ A voz do Senhor ressoa sobre as águas; o Deus da glória troveja, o Senhor troveja sobre as muitas águas.
+
+[[v19-29-4]]
+
+^<<v19-29-4,4>>^ A voz do Senhor é poderosa; a voz do Senhor é majestosa.
+
+[[v19-29-5]]
+
+^<<v19-29-5,5>>^ A voz do Senhor quebra os cedros; o Senhor despedaça os cedros do Líbano.
+
+[[v19-29-6]]
+
+^<<v19-29-6,6>>^ Ele faz o Líbano saltar como bezerro, o Siriom como novilho selvagem.
+
+[[v19-29-7]]
+
+^<<v19-29-7,7>>^ A voz do Senhor corta os céus com raios flamejantes.
+
+[[v19-29-8]]
+
+^<<v19-29-8,8>>^ A voz do Senhor faz tremer o deserto; o Senhor faz tremer o deserto de Cades.
+
+[[v19-29-9]]
+
+^<<v19-29-9,9>>^ A voz do Senhor retorce os carvalhos e despe as florestas. E no seu templo todos clamam: "Glória! "
+
+[[v19-29-10]]
+
+^<<v19-29-10,10>>^ O Senhor assentou-se soberano sobre o dilúvio; o Senhor reina soberano para sempre.
+
+[[v19-29-11]]
+
+^<<v19-29-11,11>>^ O Senhor dá força ao seu povo; o Senhor dá a seu povo a bênção da paz.
+
+'''
+
+xref:019-salmos/019-salmos-028.adoc#v19-28-0[&#60; Capítulo Anterior] | <<v19-29-0,Topo>> | xref:019-salmos/019-salmos-030.adoc#v19-30-0[Próximo Capítulo &#62;]

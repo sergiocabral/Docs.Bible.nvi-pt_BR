@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v10-23-0]]
+=== 2 Samuel, 23
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v10-23-1]]
+
+^<<v10-23-1,1>>^ Estas são as últimas palavras de Davi: "Palavras de Davi, filho de Jessé; palavras do homem que foi exaltado, do ungido pelo Deus de Jacó, do cantor dos cânticos de Israel:
+
+[[v10-23-2]]
+
+^<<v10-23-2,2>>^ "O Espírito do Senhor falou por meu intermédio; sua palavra esteve em minha língua.
+
+[[v10-23-3]]
+
+^<<v10-23-3,3>>^ O Deus de Israel falou, a Rocha de Israel me disse: ‘Quem governa o povo com justiça, quem o governa com o temor de Deus,
+
+[[v10-23-4]]
+
+^<<v10-23-4,4>>^ é como a luz da manhã ao nascer do sol, numa manhã sem nuvens. É como a claridade depois da chuva, que faz crescer as plantas da terra’.
+
+[[v10-23-5]]
+
+^<<v10-23-5,5>>^ "A minha dinastia está de bem com Deus. Ele fez uma aliança eterna comigo, firmada e garantida em todos os aspectos. Certamente fará prosperar em tudo e concede-me tudo quanto desejo.
+
+[[v10-23-6]]
+
+^<<v10-23-6,6>>^ Mas os perversos serão lançados fora como espinhos, que não se ajuntam com as mãos;
+
+[[v10-23-7]]
+
+^<<v10-23-7,7>>^ quem quer tocá-los usa uma ferramenta ou o cabo de madeira da lança. Os espinhos serão totalmente queimados onde estiverem".
+
+[[v10-23-8]]
+
+^<<v10-23-8,8>>^ Estes são os nomes dos principais guerreiros de Davi: Jabesão, um tacmonita, chefe dos três guerreiros principais; numa ocasião, com uma lança, enfrentou oitocentos homens numa mesma batalha e os matou.
+
+[[v10-23-9]]
+
+^<<v10-23-9,9>>^ Depois dele, Eleazar, filho do aoíta Dodô. Ele era um dos três principais guerreiros e esteve com Davi quando os filisteus se reuniram em Pas-Damim para a batalha. Os israelitas recuaram,
+
+[[v10-23-10]]
+
+^<<v10-23-10,10>>^ mas ele manteve a sua posição e feriu os filisteus até a sua mão ficar dormente e grudar na espada. E o Senhor concedeu uma grande vitória naquele dia, e o exército voltou para onde Eleazar estava, mas somente para saquear os mortos.
+
+[[v10-23-11]]
+
+^<<v10-23-11,11>>^ Depois dele, Samá, filho de Agé, de Harar. Os filisteus reuniram-se em Leí, onde havia uma plantação de lentilha. O exército de Israel fugiu dos filisteus,
+
+[[v10-23-12]]
+
+^<<v10-23-12,12>>^ mas Samá tomou posição no meio da plantação, defendeu-a e derrotou os filisteus. E o Senhor concedeu-lhe uma grande vitória.
+
+[[v10-23-13]]
+
+^<<v10-23-13,13>>^ Durante a colheita, três chefes do batalhão dos trinta foram encontrar Davi na caverna de Adulão, enquanto um grupo de filisteus acampava no vale de Refaim.
+
+[[v10-23-14]]
+
+^<<v10-23-14,14>>^ Estando Davi nessa fortaleza, e o destacamento filisteu em Belém,
+
+[[v10-23-15]]
+
+^<<v10-23-15,15>>^ Davi expressou este forte desejo: "Quem me dera me trouxessem água da cisterna da porta de Belém! "
+
+[[v10-23-16]]
+
+^<<v10-23-16,16>>^ Então aqueles três atravessaram o acampamento filisteu, tiraram água da cisterna e a trouxeram a Davi. Mas ele se recusou a beber; em vez disso, derramou-a como uma oferta ao Senhor e disse:
+
+[[v10-23-17]]
+
+^<<v10-23-17,17>>^ "O Senhor me livre de beber desta água! Seria como beber o sangue dos que arriscaram a vida para trazê-la! " E Davi não bebeu daquela água. Foram esses os feitos dos três principais guerreiros.
+
+[[v10-23-18]]
+
+^<<v10-23-18,18>>^ Abisai, irmão de Joabe e filho de Zeruia, era o chefe do batalhão dos trinta. Certa ocasião, com sua lança matou trezentos homens, tornando-se tão famoso quanto os três.
+
+[[v10-23-19]]
+
+^<<v10-23-19,19>>^ Foi mais honrado que o batalhão dos trinta e tornou-se o chefe deles. Mas nunca igualou-se aos três principais guerreiros.
+
+[[v10-23-20]]
+
+^<<v10-23-20,20>>^ Benaia, filho de Joiada, era um corajoso soldado de Cabzeel, que realizou grandes feitos. Matou dois dos melhores guerreiros de Moabe e, num dia de neve, desceu num buraco e matou um leão.
+
+[[v10-23-21]]
+
+^<<v10-23-21,21>>^ Também matou um egípcio de grande estatura. O egípcio tinha na mão uma lança, e Benaia o enfrentou com um cajado. Arrancou a lança da mão do egípcio e com ela o matou.
+
+[[v10-23-22]]
+
+^<<v10-23-22,22>>^ Esses foram os grandes feitos de Benaia, filho de Joiada, que também foi tão famoso quanto os três principais guerreiros de Davi.
+
+[[v10-23-23]]
+
+^<<v10-23-23,23>>^ Foi mais honrado do que qualquer dos trinta, mas nunca igualou-se aos três. E Davi lhe deu o comando da sua guarda pessoal.
+
+[[v10-23-24]]
+
+^<<v10-23-24,24>>^ Entre os trinta estavam: Asael, irmão de Joabe; Elanã, filho de Dodô, de Belém;
+
+[[v10-23-25]]
+
+^<<v10-23-25,25>>^ Samá e Elica, de Harode;
+
+[[v10-23-26]]
+
+^<<v10-23-26,26>>^ Heles, de Pelete; Ira, filho de Iques, de Tecoa;
+
+[[v10-23-27]]
+
+^<<v10-23-27,27>>^ Abiezer, de Anatote; Mebunai, de Husate;
+
+[[v10-23-28]]
+
+^<<v10-23-28,28>>^ Zalmom, de Aoí; Maarai, de Netofate;
+
+[[v10-23-29]]
+
+^<<v10-23-29,29>>^ Helede, filho de Baaná, de Netofate; Itai, filho de Ribai, de Gibeá de Benjamim;
+
+[[v10-23-30]]
+
+^<<v10-23-30,30>>^ Benaia, de Piratom; Hidai, dos riachos de Gaás;
+
+[[v10-23-31]]
+
+^<<v10-23-31,31>>^ Abi-Albom, de Arbate; Azmavete, de Baurim;
+
+[[v10-23-32]]
+
+^<<v10-23-32,32>>^ Eliaba, de Saalbom; os filhos de Jasém; Jônatas,
+
+[[v10-23-33]]
+
+^<<v10-23-33,33>>^ filho de Samá, de Harar; Aião, filho de Sarar, de Harar;
+
+[[v10-23-34]]
+
+^<<v10-23-34,34>>^ Elifelete, filho de Aasbai, de Maaca; Eliã, filho de Aitofel, de Gilo;
+
+[[v10-23-35]]
+
+^<<v10-23-35,35>>^ Hezrai, de Carmelo; Paarai, de Arabe;
+
+[[v10-23-36]]
+
+^<<v10-23-36,36>>^ Igal, filho de Natã, de Zobá; o filho de Hagri;
+
+[[v10-23-37]]
+
+^<<v10-23-37,37>>^ Zeleque, de Amom; Naarai, de Beerote, escudeiro de Joabe, filho de Zeruia;
+
+[[v10-23-38]]
+
+^<<v10-23-38,38>>^ Ira e Garebe, de Jatir,
+
+[[v10-23-39]]
+
+^<<v10-23-39,39>>^ e o hitita Urias. Foram ao todo trinta e sete.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-022.adoc#v10-22-0[&#60; Capítulo Anterior] | <<v10-23-0,Topo>> | xref:010-2-samuel/010-2-samuel-024.adoc#v10-24-0[Próximo Capítulo &#62;]

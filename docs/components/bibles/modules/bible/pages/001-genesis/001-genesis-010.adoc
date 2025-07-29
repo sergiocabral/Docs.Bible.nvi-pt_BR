@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-10-0]]
+=== Gênesis, 10
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v1-10-1]]
+
+^<<v1-10-1,1>>^ Este é o registro da descendência de Sem, Cam e Jafé, filhos de Noé. Os filhos deles nasceram depois do Dilúvio.
+
+[[v1-10-2]]
+
+^<<v1-10-2,2>>^ Estes foram os filhos de Jafé: Gômer, Magogue, Madai, Javã, Tubal, Meseque e Tirás.
+
+[[v1-10-3]]
+
+^<<v1-10-3,3>>^ Estes foram os filhos de Gômer: Asquenaz, Rifate e Togarma.
+
+[[v1-10-4]]
+
+^<<v1-10-4,4>>^ Estes foram os filhos de Javã: Elisá, Társis, Quitim e Rodanim.
+
+[[v1-10-5]]
+
+^<<v1-10-5,5>>^ Deles procedem os povos marítimos, os quais se separaram em seu território, conforme a sua língua, cada um segundo os clãs de suas nações.
+
+[[v1-10-6]]
+
+^<<v1-10-6,6>>^ Estes foram os filhos de Cam: Cuxe, Mizraim, Fute e Canaã.
+
+[[v1-10-7]]
+
+^<<v1-10-7,7>>^ Estes foram os filhos de Cuxe: Sebá, Havilá, Sabtá, Raamá e Sabtecá. Estes foram os filhos de Raamá: Sabá e Dedã.
+
+[[v1-10-8]]
+
+^<<v1-10-8,8>>^ Cuxe gerou também Ninrode, o primeiro homem poderoso na terra.
+
+[[v1-10-9]]
+
+^<<v1-10-9,9>>^ Ele foi o mais valente dos caçadores, e por isso se diz: "Valente como Ninrode".
+
+[[v1-10-10]]
+
+^<<v1-10-10,10>>^ No início o seu reino abrangia Babel, Ereque, Acade e Calné, na terra de Sinear.
+
+[[v1-10-11]]
+
+^<<v1-10-11,11>>^ Dessa terra ele partiu para a Assíria, onde fundou Nínive, Reobote-Ir, Calá
+
+[[v1-10-12]]
+
+^<<v1-10-12,12>>^ e Resém, que fica entre Nínive e Calá, a grande cidade.
+
+[[v1-10-13]]
+
+^<<v1-10-13,13>>^ Mizraim gerou os luditas, os anamitas, os leabitas, os naftuítas,
+
+[[v1-10-14]]
+
+^<<v1-10-14,14>>^ os patrusitas, os casluítas, dos quais se originaram os filisteus, e os caftoritas.
+
+[[v1-10-15]]
+
+^<<v1-10-15,15>>^ Canaã gerou Sidom, seu filho mais velho, e Hete,
+
+[[v1-10-16]]
+
+^<<v1-10-16,16>>^ como também os jebuseus, os amorreus, os girgaseus,
+
+[[v1-10-17]]
+
+^<<v1-10-17,17>>^ os heveus, os arqueus, os sineus,
+
+[[v1-10-18]]
+
+^<<v1-10-18,18>>^ os arvadeus, os zemareus e os hamateus. Posteriormente, os clãs cananeus se espalharam.
+
+[[v1-10-19]]
+
+^<<v1-10-19,19>>^ As fronteiras de Canaã estendiam-se desde Sidom, iam até Gerar, e chegavam a Gaza e, de lá, prosseguiam até Sodoma, Gomorra, Admá e Zeboim, chegando até Lasa.
+
+[[v1-10-20]]
+
+^<<v1-10-20,20>>^ São esses os descendentes de Cam, conforme seus clãs e línguas, em seus territórios e nações.
+
+[[v1-10-21]]
+
+^<<v1-10-21,21>>^ Sem, irmão mais velho de Jafé, também gerou filhos. Sem foi o antepassado de todos os filhos de Héber.
+
+[[v1-10-22]]
+
+^<<v1-10-22,22>>^ Estes foram os filhos de Sem: Elão, Assur, Arfaxade, Lude e Arã.
+
+[[v1-10-23]]
+
+^<<v1-10-23,23>>^ Estes foram os filhos de Arã: Uz, Hul, Géter e Meseque.
+
+[[v1-10-24]]
+
+^<<v1-10-24,24>>^ Arfaxade gerou Salá, e este gerou Héber.
+
+[[v1-10-25]]
+
+^<<v1-10-25,25>>^ A Héber nasceram dois filhos: Um deles se chamou Pelegue, porque em sua época a terra foi dividida; seu irmão chamou-se Joctã.
+
+[[v1-10-26]]
+
+^<<v1-10-26,26>>^ Joctã gerou Almodá, Salefe, Hazarmavé, Jerá,
+
+[[v1-10-27]]
+
+^<<v1-10-27,27>>^ Hadorão, Uzal, Dicla,
+
+[[v1-10-28]]
+
+^<<v1-10-28,28>>^ Obal, Abimael, Sabá,
+
+[[v1-10-29]]
+
+^<<v1-10-29,29>>^ Ofir, Havilá e Jobabe. Todos esses foram filhos de Joctã.
+
+[[v1-10-30]]
+
+^<<v1-10-30,30>>^ A região onde viviam estendia-se de Messa até Sefar, nas colinas ao leste.
+
+[[v1-10-31]]
+
+^<<v1-10-31,31>>^ São esses os descendentes de Sem, conforme seus clãs e línguas, em seus territórios e nações.
+
+[[v1-10-32]]
+
+^<<v1-10-32,32>>^ São esses os clãs dos filhos de Noé, distribuídos em suas nações, conforme a história da sua descendência. A partir deles, os povos se dispersaram pela terra, depois do Dilúvio.
+
+'''
+
+xref:001-genesis/001-genesis-009.adoc#v1-9-0[&#60; Capítulo Anterior] | <<v1-10-0,Topo>> | xref:001-genesis/001-genesis-011.adoc#v1-11-0[Próximo Capítulo &#62;]

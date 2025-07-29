@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v34-1-0]]
+=== Naum, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v34-1-1]]
+
+^<<v34-1-1,1>>^ Advertência contra Nínive. Livro da visão de Naum, de Elcós.
+
+[[v34-1-2]]
+
+^<<v34-1-2,2>>^ O SENHOR é Deus zeloso e vingador! O SENHOR é vingador! Seu furor é terrível! O SENHOR executa vingança contra os seus adversários e manifesta o seu furor contra os seus inimigos.
+
+[[v34-1-3]]
+
+^<<v34-1-3,3>>^ O SENHOR é muito paciente, mas o seu poder é imenso; o SENHOR não deixará impune o culpado. O seu caminho está no vendaval e na tempestade, e as nuvens são a poeira de seus pés.
+
+[[v34-1-4]]
+
+^<<v34-1-4,4>>^ Ele repreende o mar e o faz secar, faz que todos os rios se sequem. Basã e o Carmelo se desvanecem e as flores do Líbano murcham.
+
+[[v34-1-5]]
+
+^<<v34-1-5,5>>^ Quando ele se aproxima os montes tremem e as colinas se derretem. A terra se agita na sua presença, o mundo e todos os que nele vivem.
+
+[[v34-1-6]]
+
+^<<v34-1-6,6>>^ Quem pode resistir à sua indignação? Quem pode suportar o despertar de sua ira? O seu furor se derrama como fogo, e as rochas se despedaçam diante dele.
+
+[[v34-1-7]]
+
+^<<v34-1-7,7>>^ O SENHOR é bom, um refúgio em tempos de angústia. Ele protege os que nele confiam,
+
+[[v34-1-8]]
+
+^<<v34-1-8,8>>^ mas com uma enchente devastadora dará fim a Nínive; expulsará os seus inimigos para a escuridão.
+
+[[v34-1-9]]
+
+^<<v34-1-9,9>>^ O SENHOR acabará com tudo o que vocês planejarem contra ele; a tribulação não precisará vir uma segunda vez.
+
+[[v34-1-10]]
+
+^<<v34-1-10,10>>^ Embora estejam entrelaçados como espinhos e encharcados de bebida como bêbados, serão consumidos como a palha mais seca.
+
+[[v34-1-11]]
+
+^<<v34-1-11,11>>^ Foi de você, ó Nínive, que saiu aquele que trama perversidades, que planeja o mal contra o SENHOR.
+
+[[v34-1-12]]
+
+^<<v34-1-12,12>>^ Assim diz o SENHOR: "Apesar de serem fortes e numerosos, serão ceifados e destruídos; mas, você, Judá, embora eu a tenha afligido, não a afligirei mais.
+
+[[v34-1-13]]
+
+^<<v34-1-13,13>>^ Agora vou quebrar o jugo do seu pescoço e arrancar as suas algemas".
+
+[[v34-1-14]]
+
+^<<v34-1-14,14>>^ O SENHOR decreta o seguinte a seu respeito, ó rei de Nínive: "Você não terá descendentes que perpetuem o seu nome. Destruirei as imagens esculpidas e os ídolos de metal do templo dos seus deuses. Prepararei o seu túmulo, porque você é desprezível".
+
+[[v34-1-15]]
+
+^<<v34-1-15,15>>^ Vejam sobre os montes os pés do que anuncia boas notícias e proclama a paz! Comemore as suas festas, ó Judá, e cumpra os seus votos. Nunca mais o perverso a invadirá; ele será completamente destruído.
+
+'''
+
+xref:033-miqueias/033-miqueias-007.adoc#v33-7-0[&#60; Capítulo Anterior] | <<v34-1-0,Topo>> | xref:034-naum/034-naum-002.adoc#v34-2-0[Próximo Capítulo &#62;]

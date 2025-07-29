@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v26-17-0]]
+=== Ezequiel, 17
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v26-17-1]]
+
+^<<v26-17-1,1>>^ Veio a mim esta palavra do Senhor:
+
+[[v26-17-2]]
+
+^<<v26-17-2,2>>^ "Filho do homem, apresente uma alegoria e conte uma parábola à nação de Israel.
+
+[[v26-17-3]]
+
+^<<v26-17-3,3>>^ Diga a eles: ‘Assim diz o Soberano Senhor: Uma grande águia, com asas poderosas, penas longas e basta plumagem de cores variadas veio ao Líbano. Apoderando-se do alto de um cedro,
+
+[[v26-17-4]]
+
+^<<v26-17-4,4>>^ arrancou o seu broto mais alto e o levou para uma terra de comerciantes, onde o plantou numa cidade de mercadores.
+
+[[v26-17-5]]
+
+^<<v26-17-5,5>>^ " ‘Depois apanhou um pouco de sementes da sua terra e as pôs em solo fértil. Ela as plantou como um salgueiro junto a muita água,
+
+[[v26-17-6]]
+
+^<<v26-17-6,6>>^ e elas brotaram e formaram uma videira baixa e copada. Seus ramos se voltaram para a águia, mas as suas raízes permaneceram debaixo da videira. A videira desenvolveu-se e cobriu-se de ramos, brotos e folhas.
+
+[[v26-17-7]]
+
+^<<v26-17-7,7>>^ " ‘Mas havia outra águia grande, com asas poderosas e rica plumagem. A videira lançou suas raízes na direção dessa águia, desde o lugar onde estava plantada e estendeu seus ramos para ela em busca de água.
+
+[[v26-17-8]]
+
+^<<v26-17-8,8>>^ Ora, ela havia sido plantada em terreno bom, junto a muita água, onde produziria ramos, daria fruto e se tornaria uma videira viçosa’.
+
+[[v26-17-9]]
+
+^<<v26-17-9,9>>^ "Diga a eles: ‘Assim diz o Soberano Senhor: Ela vingará? Não será desarraigada e seus frutos não serão arrancados dela para que ela seque? Tudo o que brotar dela secará. Não serão precisos nem braços fortes nem muitas pessoas para arrancá-la pelas raízes.
+
+[[v26-17-10]]
+
+^<<v26-17-10,10>>^ Ainda que seja transplantada, será que vingará? Não secará totalmente quando o vento oriental a atingir, murchando e desaparecendo do lugar onde crescia? ’ "
+
+[[v26-17-11]]
+
+^<<v26-17-11,11>>^ Veio depois a mim esta palavra do Senhor:
+
+[[v26-17-12]]
+
+^<<v26-17-12,12>>^ "Diga a essa nação rebelde: ‘Você não sabe o que essas coisas significam? ’ Diga a eles: ‘O rei da Babilônia foi a Jerusalém, tirou de lá o seu rei e os seus nobres, e os levou consigo de volta à Babilônia.
+
+[[v26-17-13]]
+
+^<<v26-17-13,13>>^ Depois fez um tratado com um membro da família real e o colocou sob juramento. Também levou embora os líderes da terra,
+
+[[v26-17-14]]
+
+^<<v26-17-14,14>>^ para humilhar o reino e torná-lo incapaz de voltar a erguer-se, garantindo apenas a sua sobrevivência pelo cumprimento do seu tratado.
+
+[[v26-17-15]]
+
+^<<v26-17-15,15>>^ Mas o rei se revoltou contra ele e enviou mensagem ao Egito pedindo cavalos e um grande exército. Será que ele se sairá bem? Escapará aquele que age dessa maneira? Romperá ele o tratado e ainda assim escapará?
+
+[[v26-17-16]]
+
+^<<v26-17-16,16>>^ " ‘Juro pela minha vida, palavra do Soberano Senhor, que ele morrerá na Babilônia, na terra do rei que o pôs no trono, cujo juramento ele desprezou e cujo tratado ele rompeu.
+
+[[v26-17-17]]
+
+^<<v26-17-17,17>>^ O faraó, com seu poderoso exército e seus batalhões, não será de nenhuma ajuda para ele na guerra, quando rampas são construídas e obras de cerco são erguidas para destruir muitas vidas.
+
+[[v26-17-18]]
+
+^<<v26-17-18,18>>^ Ele desprezou o juramento quando rompeu o tratado. Como deu a mão em penhor e fez todas essas coisas, de modo algum escapará.
+
+[[v26-17-19]]
+
+^<<v26-17-19,19>>^ " ‘Por isso assim diz o Soberano Senhor: Juro pela minha vida que farei cair sobre a cabeça dele o meu juramento que ele desprezou e a minha aliança que ele rompeu.
+
+[[v26-17-20]]
+
+^<<v26-17-20,20>>^ Estenderei sobre ele a minha rede, e ele será pego em meu laço. Eu o levarei para a Babilônia e ali executarei juízo sobre ele porque me foi infiel.
+
+[[v26-17-21]]
+
+^<<v26-17-21,21>>^ Todas as suas tropas em fuga cairão pela espada, e os sobreviventes serão espalhados aos ventos. Então vocês saberão que eu, o Senhor, falei.
+
+[[v26-17-22]]
+
+^<<v26-17-22,22>>^ " ‘Assim diz o Soberano Senhor: Eu mesmo apanharei um broto bem do alto de um cedro e o plantarei; arrancarei um renovo tenro de seus ramos mais altos e o plantarei num monte alto e imponente.
+
+[[v26-17-23]]
+
+^<<v26-17-23,23>>^ Nos montes altos de Israel eu o plantarei; ele produzirá galhos e dará fruto e se tornará um cedro viçoso. Pássaros de todo tipo se aninharão nele; encontrarão abrigo à sombra de seus galhos.
+
+[[v26-17-24]]
+
+^<<v26-17-24,24>>^ Todas as árvores do campo saberão que eu, o Senhor, faço cair a árvore alta e faço crescer bem alto a árvore baixa. Eu resseco a árvore verde e faço florescer a árvore seca. " ‘Eu o Senhor falei, e eu o farei’ ".
+
+'''
+
+xref:026-ezequiel/026-ezequiel-016.adoc#v26-16-0[&#60; Capítulo Anterior] | <<v26-17-0,Topo>> | xref:026-ezequiel/026-ezequiel-018.adoc#v26-18-0[Próximo Capítulo &#62;]

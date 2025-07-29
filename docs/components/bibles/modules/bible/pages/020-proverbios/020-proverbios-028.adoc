@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-28-0]]
+=== Provérbios, 28
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-28-1]]
+
+^<<v20-28-1,1>>^ O ímpio foge, embora ninguém o persiga, mas os justos são corajosos como o leão.
+
+[[v20-28-2]]
+
+^<<v20-28-2,2>>^ Os pecados de uma nação fazem mudar sempre os seus governantes, mas a ordem se mantém com um líder sábio e sensato.
+
+[[v20-28-3]]
+
+^<<v20-28-3,3>>^ O pobre que se torna poderoso e oprime os pobres é como a tempestade súbita que destrói toda a plantação.
+
+[[v20-28-4]]
+
+^<<v20-28-4,4>>^ Os que abandonam a lei elogiam os ímpios, mas os que obedecem à lei lutam contra eles.
+
+[[v20-28-5]]
+
+^<<v20-28-5,5>>^ Os homens maus não entendem a justiça, mas os que buscam ao Senhor a entendem plenamente.
+
+[[v20-28-6]]
+
+^<<v20-28-6,6>>^ Melhor é o pobre íntegro em sua conduta do que o rico perverso em seus caminhos.
+
+[[v20-28-7]]
+
+^<<v20-28-7,7>>^ Quem obedece à lei é filho sábio, mas o companheiro dos glutões envergonha o pai.
+
+[[v20-28-8]]
+
+^<<v20-28-8,8>>^ Quem aumenta sua riqueza com juros exorbitantes ajunta para algum outro, que será bondoso com os pobres.
+
+[[v20-28-9]]
+
+^<<v20-28-9,9>>^ Se alguém se recusa a ouvir a lei, até suas orações serão detestáveis.
+
+[[v20-28-10]]
+
+^<<v20-28-10,10>>^ Quem leva o homem direito pelo mau caminho cairá ele mesmo na armadilha que preparou, mas o que não se deixa corromper terá boa recompensa.
+
+[[v20-28-11]]
+
+^<<v20-28-11,11>>^ O rico pode até se julgar sábio, mas o pobre que tem discernimento o conhece a fundo.
+
+[[v20-28-12]]
+
+^<<v20-28-12,12>>^ Quando os justos triunfam, há prosperidade geral, mas, quando os ímpios sobem ao poder, os homens tratam de esconder-se.
+
+[[v20-28-13]]
+
+^<<v20-28-13,13>>^ Quem esconde os seus pecados não prospera, mas quem os confessa e os abandona encontra misericórdia.
+
+[[v20-28-14]]
+
+^<<v20-28-14,14>>^ Como é feliz o homem constante no temor do Senhor! Mas quem endurece o coração cairá na desgraça.
+
+[[v20-28-15]]
+
+^<<v20-28-15,15>>^ Como um leão que ruge ou um urso feroz é o ímpio que governa um povo necessitado.
+
+[[v20-28-16]]
+
+^<<v20-28-16,16>>^ O governante sem discernimento aumenta as opressões, mas os que odeiam o ganho desonesto prolongarão o seu governo.
+
+[[v20-28-17]]
+
+^<<v20-28-17,17>>^ O assassino atormentado pela culpa será fugitivo até a morte; que ninguém o proteja!
+
+[[v20-28-18]]
+
+^<<v20-28-18,18>>^ Quem procede com integridade viverá seguro, mas quem procede com perversidade de repente cairá.
+
+[[v20-28-19]]
+
+^<<v20-28-19,19>>^ Quem lavra sua terra terá comida com fartura, mas quem persegue fantasias se fartará de miséria.
+
+[[v20-28-20]]
+
+^<<v20-28-20,20>>^ O fiel será ricamente abençoado, mas quem tenta enriquecer-se depressa não ficará sem castigo.
+
+[[v20-28-21]]
+
+^<<v20-28-21,21>>^ Agir com parcialidade não é bom; pois até por um pedaço de pão o homem se dispõe a fazer o mal.
+
+[[v20-28-22]]
+
+^<<v20-28-22,22>>^ O invejoso é ávido por riquezas, e não percebe que a pobreza o aguarda.
+
+[[v20-28-23]]
+
+^<<v20-28-23,23>>^ Quem repreende o próximo obterá por fim mais favor do que aquele que só sabe bajular.
+
+[[v20-28-24]]
+
+^<<v20-28-24,24>>^ Quem rouba seu pai ou sua mãe e diz: "Não é errado" é amigo de quem destrói.
+
+[[v20-28-25]]
+
+^<<v20-28-25,25>>^ O ganancioso provoca brigas, mas quem confia no Senhor prosperará.
+
+[[v20-28-26]]
+
+^<<v20-28-26,26>>^ Quem confia em si mesmo é insensato, mas quem anda segundo a sabedoria não corre perigo.
+
+[[v20-28-27]]
+
+^<<v20-28-27,27>>^ Quem dá aos pobres não passará necessidade, mas quem fecha os olhos para não vê-los sofrerá muitas maldições.
+
+[[v20-28-28]]
+
+^<<v20-28-28,28>>^ Quando os ímpios sobem ao poder, o povo se esconde; mas, quando eles sucumbem, os justos florescem.
+
+'''
+
+xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[&#60; Capítulo Anterior] | <<v20-28-0,Topo>> | xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[Próximo Capítulo &#62;]

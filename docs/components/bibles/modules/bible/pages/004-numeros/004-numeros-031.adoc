@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v4-31-0]]
+=== Números, 31
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-31-1]]
+
+^<<v4-31-1,1>>^ O Senhor disse a Moisés:
+
+[[v4-31-2]]
+
+^<<v4-31-2,2>>^ "Vingue-se dos midianitas pelo que fizeram aos israelitas. Depois disso você será reunido aos seus antepassados".
+
+[[v4-31-3]]
+
+^<<v4-31-3,3>>^ Então Moisés disse ao povo: "Armem alguns dos homens para irem à guerra contra os midianitas e executarem a vingança do Senhor contra eles.
+
+[[v4-31-4]]
+
+^<<v4-31-4,4>>^ Enviem à batalha mil homens de cada tribo de Israel".
+
+[[v4-31-5]]
+
+^<<v4-31-5,5>>^ Doze mil homens armados para a guerra, mil de cada tribo, foram mandados pelos clãs de Israel.
+
+[[v4-31-6]]
+
+^<<v4-31-6,6>>^ Moisés os enviou à guerra, mil de cada tribo, juntamente com Finéias, filho do sacerdote Eleazar, que levou consigo objetos do santuário e as cornetas para o toque de guerra.
+
+[[v4-31-7]]
+
+^<<v4-31-7,7>>^ Lutaram então contra Midiã, conforme o Senhor tinha ordenado a Moisés, e mataram todos os homens.
+
+[[v4-31-8]]
+
+^<<v4-31-8,8>>^ Entre os mortos estavam os cinco reis de Midiã: Evi, Requém, Zur, Hur e Reba. Também mataram à espada Balaão, filho de Beor.
+
+[[v4-31-9]]
+
+^<<v4-31-9,9>>^ Os israelitas capturaram as mulheres e as crianças midianitas e tomaram como despojo todos os rebanhos e bens dos midianitas.
+
+[[v4-31-10]]
+
+^<<v4-31-10,10>>^ Queimaram todas as cidades em que os midianitas haviam se estabelecido, bem como todos os seus acampamentos.
+
+[[v4-31-11]]
+
+^<<v4-31-11,11>>^ Tomaram todos os despojos, incluindo pessoas e animais,
+
+[[v4-31-12]]
+
+^<<v4-31-12,12>>^ e levaram os prisioneiros, homens e mulheres, e os despojos a Moisés, ao sacerdote Eleazar e à comunidade de Israel em seu acampamento, nas campinas de Moabe, do outro lado de Jericó.
+
+[[v4-31-13]]
+
+^<<v4-31-13,13>>^ Moisés, o sacerdote Eleazar e todos os líderes da comunidade saíram para recebê-los fora do acampamento.
+
+[[v4-31-14]]
+
+^<<v4-31-14,14>>^ Mas Moisés indignou-se contra os oficiais do exército que voltaram da guerra, os líderes de milhares e os líderes de centenas.
+
+[[v4-31-15]]
+
+^<<v4-31-15,15>>^ "Vocês deixaram todas as mulheres vivas? ", perguntou-lhes.
+
+[[v4-31-16]]
+
+^<<v4-31-16,16>>^ "Foram elas que seguiram o conselho de Balaão e levaram Israel a ser infiel ao Senhor no caso de Peor, de modo que uma praga feriu a comunidade do Senhor.
+
+[[v4-31-17]]
+
+^<<v4-31-17,17>>^ Agora matem todos os meninos. E matem também todas as mulheres que se deitaram com homem,
+
+[[v4-31-18]]
+
+^<<v4-31-18,18>>^ mas poupem todas as meninas virgens.
+
+[[v4-31-19]]
+
+^<<v4-31-19,19>>^ "Todos vocês que mataram alguém ou que tocaram em algum morto ficarão sete dias fora do acampamento. No terceiro e no sétimo dia vocês deverão purificar-se a si mesmos e aos seus prisioneiros.
+
+[[v4-31-20]]
+
+^<<v4-31-20,20>>^ Purifiquem toda roupa e também tudo o que é feito de couro, de pêlo de bode ou de madeira. "
+
+[[v4-31-21]]
+
+^<<v4-31-21,21>>^ Depois o sacerdote Eleazar disse aos soldados que tinham ido à guerra: "Esta é a exigência da lei que o Senhor ordenou a Moisés:
+
+[[v4-31-22]]
+
+^<<v4-31-22,22>>^ Ouro, prata, bronze, ferro, estanho, chumbo
+
+[[v4-31-23]]
+
+^<<v4-31-23,23>>^ e tudo o que resista ao fogo, vocês terão que passar pelo fogo para purificá-las, mas também deverão purificá-las com a água da purificação. E tudo o que não resistir ao fogo terá que passar pela água.
+
+[[v4-31-24]]
+
+^<<v4-31-24,24>>^ No sétimo dia lavem as suas roupas, e vocês ficarão puros. Depois poderão entrar no acampamento".
+
+[[v4-31-25]]
+
+^<<v4-31-25,25>>^ O Senhor disse a Moisés:
+
+[[v4-31-26]]
+
+^<<v4-31-26,26>>^ "Você, o sacerdote Eleazar e os chefes das famílias da comunidade deverão contar todo o povo e os animais capturados.
+
+[[v4-31-27]]
+
+^<<v4-31-27,27>>^ Dividam os despojos entre os guerreiros que participaram da batalha e o restante da comunidade.
+
+[[v4-31-28]]
+
+^<<v4-31-28,28>>^ Daquilo que os guerreiros trouxeram da guerra, separem como tributo ao Senhor um de cada quinhentos, sejam pessoas, bois, jumentos, ovelhas ou bodes.
+
+[[v4-31-29]]
+
+^<<v4-31-29,29>>^ Tomem esse tributo da metade que foi dada como porção a eles e entreguem-no ao sacerdote Eleazar como a porção do Senhor.
+
+[[v4-31-30]]
+
+^<<v4-31-30,30>>^ Da metade dada aos israelitas, escolham um de cada cinqüenta, sejam pessoas, bois, jumentos, ovelhas ou bodes. Entreguem-nos aos levitas, encarregados de cuidar do tabernáculo do Senhor".
+
+[[v4-31-31]]
+
+^<<v4-31-31,31>>^ Moisés e o sacerdote Eleazar fizeram como o Senhor tinha ordenado a Moisés.
+
+[[v4-31-32]]
+
+^<<v4-31-32,32>>^ Os despojos que restaram das presas tomadas pelos soldados foram 675. 000 ovelhas,
+
+[[v4-31-33]]
+
+^<<v4-31-33,33>>^ 72. 000 cabeças de gado,
+
+[[v4-31-34]]
+
+^<<v4-31-34,34>>^ 61. 000 jumentos
+
+[[v4-31-35]]
+
+^<<v4-31-35,35>>^ e 32. 000 mulheres virgens.
+
+[[v4-31-36]]
+
+^<<v4-31-36,36>>^ A metade dada aos que lutaram na guerra foi esta: 337. 500 ovelhas,
+
+[[v4-31-37]]
+
+^<<v4-31-37,37>>^ das quais o tributo para o Senhor foram 675;
+
+[[v4-31-38]]
+
+^<<v4-31-38,38>>^ 36. 000 cabeças de gado, das quais o tributo para o Senhor foram 72;
+
+[[v4-31-39]]
+
+^<<v4-31-39,39>>^ 30. 500 jumentos, dos quais o tributo para o Senhor foram 61;
+
+[[v4-31-40]]
+
+^<<v4-31-40,40>>^ 16. 000 pessoas, das quais o tributo para o Senhor foram 32.
+
+[[v4-31-41]]
+
+^<<v4-31-41,41>>^ Moisés deu o tributo ao sacerdote Eleazar como contribuição ao Senhor, conforme o Senhor tinha ordenado a Moisés.
+
+[[v4-31-42]]
+
+^<<v4-31-42,42>>^ A outra metade, pertencente aos israelitas, Moisés separou da dos combatentes;
+
+[[v4-31-43]]
+
+^<<v4-31-43,43>>^ essa era a metade pertencente à comunidade, com 337. 500 ovelhas,
+
+[[v4-31-44]]
+
+^<<v4-31-44,44>>^ 36. 000 cabeças de gado,
+
+[[v4-31-45]]
+
+^<<v4-31-45,45>>^ 30. 500 jumentos
+
+[[v4-31-46]]
+
+^<<v4-31-46,46>>^ e 16. 000 pessoas.
+
+[[v4-31-47]]
+
+^<<v4-31-47,47>>^ Da metade pertencente aos israelitas, Moisés escolheu um de cada cinqüenta, tanto de pessoas como de animais, conforme o Senhor lhe tinha ordenado, e os entregou aos levitas, encarregados de cuidar do tabernáculo do Senhor.
+
+[[v4-31-48]]
+
+^<<v4-31-48,48>>^ Então os oficiais que estavam sobre as unidades do exército, os líderes de milhares e os líderes de centenas foram a Moisés
+
+[[v4-31-49]]
+
+^<<v4-31-49,49>>^ e lhe disseram: "Seus servos contaram os soldados sob o nosso comando, e não está faltando ninguém.
+
+[[v4-31-50]]
+
+^<<v4-31-50,50>>^ Por isso trouxemos como oferta ao Senhor os artigos de ouro dos quais cada um de nós se apossou: braceletes, pulseiras, anéis de sinete, brincos e colares; para fazer propiciação por nós perante o Senhor".
+
+[[v4-31-51]]
+
+^<<v4-31-51,51>>^ Moisés e o sacerdote Eleazar receberam deles. Todas as jóias de ouro.
+
+[[v4-31-52]]
+
+^<<v4-31-52,52>>^ Todo o ouro dado pelos líderes de milhares e pelos líderes de centenas que Moisés e Eleazar apresentaram como contribuição ao Senhor pesou duzentos quilos.
+
+[[v4-31-53]]
+
+^<<v4-31-53,53>>^ Cada soldado tinha tomado despojos para si mesmo.
+
+[[v4-31-54]]
+
+^<<v4-31-54,54>>^ Moisés e o sacerdote Eleazar receberam o ouro dado pelos líderes de milhares e pelos líderes de centenas e o levaram para a Tenda do Encontro como memorial para que o Senhor se lembrasse dos israelitas.
+
+'''
+
+xref:004-numeros/004-numeros-030.adoc#v4-30-0[&#60; Capítulo Anterior] | <<v4-31-0,Topo>> | xref:004-numeros/004-numeros-032.adoc#v4-32-0[Próximo Capítulo &#62;]

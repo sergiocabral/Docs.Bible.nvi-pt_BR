@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-1-0]]
+=== Jó, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-1-1]]
+
+^<<v18-1-1,1>>^ Na terra de Uz vivia um homem chamado Jó. Era homem íntegro e justo; temia a Deus e evitava o mal.
+
+[[v18-1-2]]
+
+^<<v18-1-2,2>>^ Tinha ele sete filhos e três filhas,
+
+[[v18-1-3]]
+
+^<<v18-1-3,3>>^ e possuía sete mil ovelhas, três mil camelos, quinhentas parelhas de boi e quinhentos jumentos, e tinha muita gente a seu serviço. Era o homem mais rico do oriente.
+
+[[v18-1-4]]
+
+^<<v18-1-4,4>>^ Seus filhos costumavam dar banquetes em casa, um de cada vez, e convidavam suas três irmãs para comerem e beberem com eles.
+
+[[v18-1-5]]
+
+^<<v18-1-5,5>>^ Terminado um período de banquetes, Jó mandava chamá-los e fazia com que se purificassem. De madrugada ele oferecia um holocausto em favor de cada um deles, pois pensava: "Talvez os meus filhos tenham lá no íntimo pecado e amaldiçoado a Deus". Essa era a prática constante de Jó.
+
+[[v18-1-6]]
+
+^<<v18-1-6,6>>^ Certo dia os anjos vieram apresentar-se ao Senhor, e Satanás também veio com eles.
+
+[[v18-1-7]]
+
+^<<v18-1-7,7>>^ O Senhor disse a Satanás: "De onde você veio? " Satanás respondeu ao Senhor: "De perambular pela terra e andar por ela".
+
+[[v18-1-8]]
+
+^<<v18-1-8,8>>^ Disse então o Senhor a Satanás: "Reparou em meu servo Jó? Não há ninguém na terra como ele, irrepreensível, íntegro, homem que teme a Deus e evita o mal".
+
+[[v18-1-9]]
+
+^<<v18-1-9,9>>^ "Será que Jó não tem razões para temer a Deus? ", respondeu Satanás.
+
+[[v18-1-10]]
+
+^<<v18-1-10,10>>^ "Acaso não puseste uma cerca em volta dele, da família dele e de tudo o que ele possui? Tu mesmo tens abençoado tudo o que ele faz, de modo que todos os seus rebanhos estão espalhados por toda a terra.
+
+[[v18-1-11]]
+
+^<<v18-1-11,11>>^ Mas estende a tua mão e fere tudo o que ele tem, e com certeza ele te amaldiçoará na tua face. "
+
+[[v18-1-12]]
+
+^<<v18-1-12,12>>^ O Senhor disse a Satanás: "Pois bem, tudo o que ele possui está nas suas mãos; apenas não encoste um dedo nele". Então Satanás saiu da presença do Senhor.
+
+[[v18-1-13]]
+
+^<<v18-1-13,13>>^ Certo dia, quando os filhos e as filhas de Jó estavam num banquete, comendo e bebendo vinho na casa do irmão mais velho,
+
+[[v18-1-14]]
+
+^<<v18-1-14,14>>^ um mensageiro veio dizer a Jó: "Os bois estavam arando, e os jumentos estavam pastando por perto,
+
+[[v18-1-15]]
+
+^<<v18-1-15,15>>^ e os sabeus atacaram e os levaram embora. Mataram à espada os empregados, e eu fui o único que escapou para lhe contar! "
+
+[[v18-1-16]]
+
+^<<v18-1-16,16>>^ Enquanto ele ainda estava falando, chegou outro mensageiro e disse: "Fogo de Deus caiu do céu e queimou totalmente as ovelhas e os empregados, e eu fui o único que escapou para lhe contar! "
+
+[[v18-1-17]]
+
+^<<v18-1-17,17>>^ Enquanto ele ainda estava falando, chegou outro mensageiro e disse: "Vieram caldeus em três bandos, atacaram os camelos e os levaram embora. Mataram à espada os empregados, e eu fui o único que escapou para lhe contar! "
+
+[[v18-1-18]]
+
+^<<v18-1-18,18>>^ Enquanto ele ainda estava falando, chegou ainda outro mensageiro e disse: "Seus filhos e suas filhas estavam num banquete, comendo e bebendo vinho na casa do irmão mais velho,
+
+[[v18-1-19]]
+
+^<<v18-1-19,19>>^ quando, de repente, um vento muito forte veio do deserto e atingiu os quatro cantos da casa, que desabou. Eles morreram, e eu fui o único que escapou para lhe contar! "
+
+[[v18-1-20]]
+
+^<<v18-1-20,20>>^ Ao ouvir isso, Jó levantou-se, rasgou o manto e rapou a cabeça. Então prostrou-se no chão em adoração,
+
+[[v18-1-21]]
+
+^<<v18-1-21,21>>^ e disse: "Saí nu do ventre da minha mãe, e nu partirei. O Senhor o deu, o Senhor o levou; louvado seja o nome do Senhor ".
+
+[[v18-1-22]]
+
+^<<v18-1-22,22>>^ Em tudo isso Jó não pecou nem de nada culpou a Deus.
+
+'''
+
+xref:017-ester/017-ester-010.adoc#v17-10-0[&#60; Capítulo Anterior] | <<v18-1-0,Topo>> | xref:018-jo/018-jo-002.adoc#v18-2-0[Próximo Capítulo &#62;]

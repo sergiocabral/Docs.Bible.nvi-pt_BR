@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-14-0]]
+=== Jó, 14
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-14-1]]
+
+^<<v18-14-1,1>>^ "O homem nascido de mulher vive pouco tempo e passa por muitas dificuldades.
+
+[[v18-14-2]]
+
+^<<v18-14-2,2>>^ Brota como a flor e murcha. Vai-se como a sombra passageira; não dura muito.
+
+[[v18-14-3]]
+
+^<<v18-14-3,3>>^ Fixas o olhar num homem desses? E o trarás à tua presença para julgamento?
+
+[[v18-14-4]]
+
+^<<v18-14-4,4>>^ Quem pode extrair algo puro da impureza? Ninguém!
+
+[[v18-14-5]]
+
+^<<v18-14-5,5>>^ Os dias do homem estão determinados; tu decretaste o número de seus meses e estabeleceste limites que ele não pode ultrapassar.
+
+[[v18-14-6]]
+
+^<<v18-14-6,6>>^ Por isso desvia dele o teu olhar, e deixa-o, até que ele cumpra o seu tempo como trabalhador contratado.
+
+[[v18-14-7]]
+
+^<<v18-14-7,7>>^ "Para a árvore pelo menos há esperança: se é cortada, torna a brotar, e os seus renovos vingam.
+
+[[v18-14-8]]
+
+^<<v18-14-8,8>>^ Suas raízes poderão envelhecer no solo e seu tronco morrer no chão;
+
+[[v18-14-9]]
+
+^<<v18-14-9,9>>^ ainda assim, com o cheiro de água ela brotará e dará ramos como se fosse muda plantada.
+
+[[v18-14-10]]
+
+^<<v18-14-10,10>>^ Mas o homem morre, e morto permanece; dá o último suspiro, e deixa de existir.
+
+[[v18-14-11]]
+
+^<<v18-14-11,11>>^ Assim como a água desaparece do mar e o leito do rio perde as águas e seca,
+
+[[v18-14-12]]
+
+^<<v18-14-12,12>>^ assim o homem se deita e não se levanta; até quando os céus já não existirem, os homens não acordarão e não serão despertados do seu sono.
+
+[[v18-14-13]]
+
+^<<v18-14-13,13>>^ "Se tão-somente me escondesses na sepultura e me ocultasses até passar a tua ira! Se tão-somente me impusesses um prazo e depois te lembrasses de mim!
+
+[[v18-14-14]]
+
+^<<v18-14-14,14>>^ Quando um homem morre, acaso tornará a viver? Durante todos os dias do meu árduo labor esperarei pela minha dispensa.
+
+[[v18-14-15]]
+
+^<<v18-14-15,15>>^ Chamarás, e eu te responderei; terás anelo pela criatura que as tuas mãos fizeram.
+
+[[v18-14-16]]
+
+^<<v18-14-16,16>>^ Por certo contarás então os meus passos, mas não tomarás conhecimento do meu pecado.
+
+[[v18-14-17]]
+
+^<<v18-14-17,17>>^ Minhas faltas serão encerradas num saco; tu esconderás a minha iniqüidade.
+
+[[v18-14-18]]
+
+^<<v18-14-18,18>>^ "Mas, assim como a montanha sofre erosão e desmorona, e a rocha muda de lugar;
+
+[[v18-14-19]]
+
+^<<v18-14-19,19>>^ e assim como a água desgasta as pedras e as torrentes arrastam terra, assim destróis a esperança do homem.
+
+[[v18-14-20]]
+
+^<<v18-14-20,20>>^ Tu o subjulgas de uma vez por todas, e ele se vai; alteras a sua fisionomia, e o mandas embora.
+
+[[v18-14-21]]
+
+^<<v18-14-21,21>>^ Se honram os seus filhos, ele não fica sabendo; se os humilham, ele não o vê.
+
+[[v18-14-22]]
+
+^<<v18-14-22,22>>^ Só sente a dor do seu próprio corpo; só pranteia por si mesmo".
+
+'''
+
+xref:018-jo/018-jo-013.adoc#v18-13-0[&#60; Capítulo Anterior] | <<v18-14-0,Topo>> | xref:018-jo/018-jo-015.adoc#v18-15-0[Próximo Capítulo &#62;]

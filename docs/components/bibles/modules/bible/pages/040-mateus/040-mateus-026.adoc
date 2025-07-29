@@ -1,0 +1,309 @@
+include::./index.adoc[]
+
+[[v40-26-0]]
+=== Mateus, 26
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v40-26-1]]
+
+^<<v40-26-1,1>>^ Tendo dito essas coisas, disse Jesus aos seus discípulos:
+
+[[v40-26-2]]
+
+^<<v40-26-2,2>>^ "Como vocês sabem, estamos a dois dias da Páscoa, e o Filho do homem será entregue para ser crucificado".
+
+[[v40-26-3]]
+
+^<<v40-26-3,3>>^ Naquela ocasião os chefes dos sacerdotes e os líderes religioso do povo se reuniram no palácio do sumo sacerdote, cujo nome era Caifás,
+
+[[v40-26-4]]
+
+^<<v40-26-4,4>>^ e juntos planejaram prender Jesus à traição e matá-lo.
+
+[[v40-26-5]]
+
+^<<v40-26-5,5>>^ Mas diziam: "Não durante a festa, para que não haja tumulto entre o povo".
+
+[[v40-26-6]]
+
+^<<v40-26-6,6>>^ Estando Jesus em Betânia, na casa de Simão, o leproso,
+
+[[v40-26-7]]
+
+^<<v40-26-7,7>>^ aproximou-se dele uma mulher com um frasco de alabastro contendo um perfume muito caro. Ela o derramou sobre a cabeça de Jesus, quando ele se encontrava reclinado à mesa.
+
+[[v40-26-8]]
+
+^<<v40-26-8,8>>^ Os discípulos, ao verem isso, ficaram indignados e perguntaram: "Por que este desperdício?
+
+[[v40-26-9]]
+
+^<<v40-26-9,9>>^ Este perfume poderia ser vendido por alto preço, e o dinheiro dado aos pobres".
+
+[[v40-26-10]]
+
+^<<v40-26-10,10>>^ Percebendo isso, Jesus lhes disse: "Por que vocês estão perturbando essa mulher? Ela praticou uma boa ação para comigo.
+
+[[v40-26-11]]
+
+^<<v40-26-11,11>>^ Pois os pobres vocês sempre terão consigo, mas a mim vocês nem sempre terão.
+
+[[v40-26-12]]
+
+^<<v40-26-12,12>>^ Quando derramou este perfume sobre o meu corpo, ela o fez a fim de me preparar para o sepultamento.
+
+[[v40-26-13]]
+
+^<<v40-26-13,13>>^ Eu lhes asseguro que onde quer que este evangelho for anunciado, em todo o mundo, também o que ela fez será contado, em sua memória".
+
+[[v40-26-14]]
+
+^<<v40-26-14,14>>^ Então, um dos Doze, chamado Judas Iscariotes, dirigiu-se aos chefes dos sacerdotes
+
+[[v40-26-15]]
+
+^<<v40-26-15,15>>^ e lhes perguntou: "O que me darão se eu o entregar a vocês? " E eles lhe fixaram o preço: trinta moedas de prata.
+
+[[v40-26-16]]
+
+^<<v40-26-16,16>>^ Desse momento em diante Judas passou a procurar uma oportunidade para entregá-lo.
+
+[[v40-26-17]]
+
+^<<v40-26-17,17>>^ No primeiro dia da festa dos pães sem fermento, os discípulos dirigiram-se a Jesus e lhe perguntaram: "Onde queres que preparemos a refeição da Páscoa? "
+
+[[v40-26-18]]
+
+^<<v40-26-18,18>>^ Ele respondeu dizendo que entrassem na cidade, procurassem um certo homem e lhe dissessem: "O Mestre diz: ‘O meu tempo está próximo. Vou celebrar a Páscoa com meus discípulos em sua casa".
+
+[[v40-26-19]]
+
+^<<v40-26-19,19>>^ Os discípulos fizeram como Jesus os havia instruído e prepararam a Páscoa.
+
+[[v40-26-20]]
+
+^<<v40-26-20,20>>^ Ao anoitecer, Jesus estava reclinado à mesa com os Doze.
+
+[[v40-26-21]]
+
+^<<v40-26-21,21>>^ E, enquanto estavam comendo, ele disse: "Digo-lhes que certamente um de vocês me trairá".
+
+[[v40-26-22]]
+
+^<<v40-26-22,22>>^ Eles ficaram muito tristes e começaram a dizer-lhe, um após outro: "Com certeza não sou eu, Senhor! "
+
+[[v40-26-23]]
+
+^<<v40-26-23,23>>^ Afirmou Jesus: "Aquele que comeu comigo do mesmo prato há de me trair.
+
+[[v40-26-24]]
+
+^<<v40-26-24,24>>^ O Filho do homem vai, como está escrito a seu respeito. Mas ai daquele que trai o Filho do homem! Melhor lhe seria não haver nascido".
+
+[[v40-26-25]]
+
+^<<v40-26-25,25>>^ Então, Judas, que haveria de traí-lo, disse: "Com certeza não sou eu, Mestre! " Jesus afirmou: "Sim, é você".
+
+[[v40-26-26]]
+
+^<<v40-26-26,26>>^ Enquanto comiam, Jesus tomou o pão, deu graças, partiu-o, e o deu aos seus discípulos, dizendo: "Tomem e comam; isto é o meu corpo".
+
+[[v40-26-27]]
+
+^<<v40-26-27,27>>^ Em seguida tomou o cálice, deu graças e o ofereceu aos discípulos, dizendo: "Bebam dele todos vocês.
+
+[[v40-26-28]]
+
+^<<v40-26-28,28>>^ Isto é o meu sangue da aliança, que é derramado em favor de muitos, para perdão de pecados.
+
+[[v40-26-29]]
+
+^<<v40-26-29,29>>^ Eu lhes digo que, de agora em diante, não beberei deste fruto da videira até aquele dia em que beberei o vinho novo com vocês no Reino de meu Pai".
+
+[[v40-26-30]]
+
+^<<v40-26-30,30>>^ Depois de terem cantado um hino, saíram para o monte das Oliveiras.
+
+[[v40-26-31]]
+
+^<<v40-26-31,31>>^ Então Jesus lhes disse: "Ainda esta noite todos vocês me abandonarão. Pois está escrito: ‘Ferirei o pastor, e as ovelhas do rebanho serão dispersas’.
+
+[[v40-26-32]]
+
+^<<v40-26-32,32>>^ Mas, depois de ressuscitar, irei adiante de vocês para a Galiléia".
+
+[[v40-26-33]]
+
+^<<v40-26-33,33>>^ Pedro respondeu: "Ainda que todos te abandonem, eu nunca te abandonarei! "
+
+[[v40-26-34]]
+
+^<<v40-26-34,34>>^ Respondeu Jesus: "Asseguro-lhe que ainda esta noite, antes que o galo cante, três vezes você me negará".
+
+[[v40-26-35]]
+
+^<<v40-26-35,35>>^ Mas Pedro declarou: "Mesmo que seja preciso que eu morra contigo, nunca te negarei". E todos os outros discípulos disseram o mesmo.
+
+[[v40-26-36]]
+
+^<<v40-26-36,36>>^ Então Jesus foi com seus discípulos para um lugar chamado Getsêmani e disse-lhes: "Sentem-se aqui enquanto vou ali orar".
+
+[[v40-26-37]]
+
+^<<v40-26-37,37>>^ Levando consigo Pedro e os dois filhos de Zebedeu, começou a entristecer-se e a angustiar-se.
+
+[[v40-26-38]]
+
+^<<v40-26-38,38>>^ Disse-lhes então: "A minha alma está profundamente triste, numa tristeza mortal. Fiquem aqui e vigiem comigo".
+
+[[v40-26-39]]
+
+^<<v40-26-39,39>>^ Indo um pouco mais adiante, prostrou-se com o rosto em terra e orou: "Meu Pai, se for possível, afasta de mim este cálice; contudo, não seja como eu quero, mas sim como tu queres".
+
+[[v40-26-40]]
+
+^<<v40-26-40,40>>^ Então, voltou aos seus discípulos e os encontrou dormindo. "Vocês não puderam vigiar comigo nem por uma hora? ", perguntou ele a Pedro.
+
+[[v40-26-41]]
+
+^<<v40-26-41,41>>^ "Vigiem e orem para que não caiam em tentação. O espírito está pronto, mas a carne é fraca".
+
+[[v40-26-42]]
+
+^<<v40-26-42,42>>^ E retirou-se outra vez para orar: "Meu Pai, se não for possível afastar de mim este cálice sem que eu o beba, faça-se a tua vontade".
+
+[[v40-26-43]]
+
+^<<v40-26-43,43>>^ Quando voltou, de novo os encontrou dormindo, porque seus olhos estavam pesados.
+
+[[v40-26-44]]
+
+^<<v40-26-44,44>>^ Então os deixou novamente e orou pela terceira vez, dizendo as mesmas palavras.
+
+[[v40-26-45]]
+
+^<<v40-26-45,45>>^ Depois voltou aos discípulos e lhes disse: "Vocês ainda dormem e descansam? Chegou a hora! Eis que o Filho do homem está sendo entregue nas mãos de pecadores.
+
+[[v40-26-46]]
+
+^<<v40-26-46,46>>^ Levantem-se e vamos! Aí vem aquele que me trai! "
+
+[[v40-26-47]]
+
+^<<v40-26-47,47>>^ Enquanto ele ainda falava, chegou Judas, um dos Doze. Com ele estava uma grande multidão armada de espadas e varas, enviada pelos chefes dos sacerdotes e líderes religiosos do povo.
+
+[[v40-26-48]]
+
+^<<v40-26-48,48>>^ O traidor havia combinado um sinal com eles, dizendo-lhes: "Aquele a quem eu saudar com um beijo, é ele; prendam-no".
+
+[[v40-26-49]]
+
+^<<v40-26-49,49>>^ Dirigindo-se imediatamente a Jesus, Judas disse: "Salve, Mestre! ", e o beijou.
+
+[[v40-26-50]]
+
+^<<v40-26-50,50>>^ Jesus perguntou: "Amigo, que é que o traz? " Então os homens se aproximaram, agarraram Jesus e o prenderam.
+
+[[v40-26-51]]
+
+^<<v40-26-51,51>>^ Um dos que estavam com Jesus, estendendo a mão, puxou a espada e feriu o servo do sumo sacerdote, decepando-lhe a orelha.
+
+[[v40-26-52]]
+
+^<<v40-26-52,52>>^ Disse-lhe Jesus: "Guarde a espada! Pois todos os que empunham a espada, pela espada morrerão.
+
+[[v40-26-53]]
+
+^<<v40-26-53,53>>^ Você acha que eu não posso pedir a meu Pai, e ele não colocaria imediatamente à minha disposição mais de doze legiões de anjos?
+
+[[v40-26-54]]
+
+^<<v40-26-54,54>>^ Como então se cumpririam as Escrituras que dizem que as coisas deveriam acontecer desta forma? "
+
+[[v40-26-55]]
+
+^<<v40-26-55,55>>^ Naquela hora Jesus disse à multidão: "Estou eu chefiando alguma rebelião, para que vocês venham prender-me com espadas e varas? Todos os dias eu estava ensinando no templo, e vocês não me prenderam!
+
+[[v40-26-56]]
+
+^<<v40-26-56,56>>^ Mas tudo isso aconteceu para que se cumprissem as Escrituras dos profetas". Então todos os discípulos o abandonaram e fugiram.
+
+[[v40-26-57]]
+
+^<<v40-26-57,57>>^ Os que prenderam Jesus o levaram a Caifás, o sumo sacerdote, em cuja casa se haviam reunido os mestres da lei e os líderes religiosos.
+
+[[v40-26-58]]
+
+^<<v40-26-58,58>>^ Mas Pedro o seguiu de longe até o pátio do sumo sacerdote, entrou e sentou-se com os guardas, para ver o que aconteceria.
+
+[[v40-26-59]]
+
+^<<v40-26-59,59>>^ Os chefes dos sacerdotes e todo o Sinédrio estavam procurando um depoimento falso contra Jesus, para que pudessem condená-lo à morte.
+
+[[v40-26-60]]
+
+^<<v40-26-60,60>>^ Mas nada encontraram, embora se apresentassem muitas falsas testemunhas. Finalmente se apresentaram duas
+
+[[v40-26-61]]
+
+^<<v40-26-61,61>>^ que declararam: "Este homem disse: ‘Sou capaz de destruir o santuário de Deus e reconstruí-lo em três dias’ ".
+
+[[v40-26-62]]
+
+^<<v40-26-62,62>>^ Então o sumo sacerdote levantou-se e disse a Jesus: "Você não vai responder à acusação que estes lhe fazem? "
+
+[[v40-26-63]]
+
+^<<v40-26-63,63>>^ Mas Jesus permaneceu em silêncio. O sumo sacerdote lhe disse: "Exijo que você jure pelo Deus vivo: se você é o Cristo, o Filho de Deus, diga-nos".
+
+[[v40-26-64]]
+
+^<<v40-26-64,64>>^ "Tu mesmo o disseste", respondeu Jesus. "Mas eu digo a todos vós: chegará o dia em que vereis o Filho do homem assentado à direita do Poderoso e vindo sobre as nuvens do céu".
+
+[[v40-26-65]]
+
+^<<v40-26-65,65>>^ Foi quando o sumo sacerdote rasgou as próprias vestes e disse: "Blasfemou! Por que precisamos de mais testemunhas? Vocês acabaram de ouvir a blasfêmia.
+
+[[v40-26-66]]
+
+^<<v40-26-66,66>>^ Que acham? " "É réu de morte! ", responderam eles.
+
+[[v40-26-67]]
+
+^<<v40-26-67,67>>^ Então alguns lhe cuspiram no rosto e lhe deram murros. Outros lhe davam tapas
+
+[[v40-26-68]]
+
+^<<v40-26-68,68>>^ e diziam: "Profetize-nos, Cristo. Quem foi que lhe bateu? "
+
+[[v40-26-69]]
+
+^<<v40-26-69,69>>^ Pedro estava sentado no pátio, e uma criada, aproximando-se dele, disse: "Você também estava com Jesus, o galileu".
+
+[[v40-26-70]]
+
+^<<v40-26-70,70>>^ Mas ele o negou diante de todos, dizendo: "Não sei do que você está falando".
+
+[[v40-26-71]]
+
+^<<v40-26-71,71>>^ Depois, saiu em direção à porta, onde outra criada o viu e disse aos que estavam ali: "Este homem estava com Jesus, o Nazareno".
+
+[[v40-26-72]]
+
+^<<v40-26-72,72>>^ E ele, jurando, o negou outra vez: "Não conheço esse homem! "
+
+[[v40-26-73]]
+
+^<<v40-26-73,73>>^ Pouco tempo depois, os que estavam por ali chegaram a Pedro e disseram: "Certamente você é um deles! O seu modo de falar o denuncia".
+
+[[v40-26-74]]
+
+^<<v40-26-74,74>>^ Aí ele começou a se amaldiçoar e a jurar: "Não conheço esse homem! " Imediatamente um galo cantou.
+
+[[v40-26-75]]
+
+^<<v40-26-75,75>>^ Então Pedro se lembrou da palavra que Jesus tinha dito: "Antes que o galo cante, você me negará três vezes". E, saindo dali, chorou amargamente.
+
+'''
+
+xref:040-mateus/040-mateus-025.adoc#v40-25-0[&#60; Capítulo Anterior] | <<v40-26-0,Topo>> | xref:040-mateus/040-mateus-027.adoc#v40-27-0[Próximo Capítulo &#62;]

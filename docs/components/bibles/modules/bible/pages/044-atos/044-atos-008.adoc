@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v44-8-0]]
+=== Atos, 8
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v44-8-1]]
+
+^<<v44-8-1,1>>^ E Saulo estava ali, consentindo na morte de Estêvão. Naquela ocasião desencadeou-se grande perseguição contra a igreja em Jerusalém. Todos, exceto os apóstolos, foram dispersos pelas regiões da Judéia e de Samaria.
+
+[[v44-8-2]]
+
+^<<v44-8-2,2>>^ Alguns homens piedosos sepultaram Estêvão e fizeram por ele grande lamentação.
+
+[[v44-8-3]]
+
+^<<v44-8-3,3>>^ Saulo, por sua vez, devastava a igreja. Indo de casa em casa, arrastava homens e mulheres e os lançava na prisão.
+
+[[v44-8-4]]
+
+^<<v44-8-4,4>>^ Os que haviam sido dispersos pregavam a palavra por onde quer que fossem.
+
+[[v44-8-5]]
+
+^<<v44-8-5,5>>^ Indo Filipe para uma cidade de Samaria, ali lhes anunciava o Cristo.
+
+[[v44-8-6]]
+
+^<<v44-8-6,6>>^ Quando a multidão ouviu Filipe e viu os sinais miraculosos que ele realizava, deu unânime atenção ao que ele dizia.
+
+[[v44-8-7]]
+
+^<<v44-8-7,7>>^ Os espíritos imundos saíam de muitos, dando gritos, e muitos paralíticos e mancos foram curados.
+
+[[v44-8-8]]
+
+^<<v44-8-8,8>>^ Assim, houve grande alegria naquela cidade.
+
+[[v44-8-9]]
+
+^<<v44-8-9,9>>^ Um homem chamado Simão vinha praticando feitiçaria durante algum tempo naquela cidade, impressionando todo o povo de Samaria. Ele se dizia muito importante,
+
+[[v44-8-10]]
+
+^<<v44-8-10,10>>^ e todo o povo, do mais simples ao mais rico, dava-lhe atenção e exclamava: "Este homem é o poder divino conhecido como Grande Poder".
+
+[[v44-8-11]]
+
+^<<v44-8-11,11>>^ Eles o seguiam, pois ele os havia iludido com sua mágica durante muito tempo.
+
+[[v44-8-12]]
+
+^<<v44-8-12,12>>^ No entanto, quando Filipe lhes pregou as boas novas do Reino de Deus e do nome de Jesus Cristo, creram nele, e foram batizados, tanto homens como mulheres.
+
+[[v44-8-13]]
+
+^<<v44-8-13,13>>^ O próprio Simão também creu e foi batizado, e seguia a Filipe por toda parte, observando maravilhado os grandes sinais e milagres que eram realizados.
+
+[[v44-8-14]]
+
+^<<v44-8-14,14>>^ Os apóstolos em Jerusalém, ouvindo que Samaria havia aceitado a palavra de Deus, enviaram para lá Pedro e João.
+
+[[v44-8-15]]
+
+^<<v44-8-15,15>>^ Estes, ao chegarem, oraram para que eles recebessem o Espírito Santo,
+
+[[v44-8-16]]
+
+^<<v44-8-16,16>>^ pois o Espírito ainda não havia descido sobre nenhum deles; tinham apenas sido batizados em nome do Senhor Jesus.
+
+[[v44-8-17]]
+
+^<<v44-8-17,17>>^ Então Pedro e João lhes impuseram as mãos, e eles receberam o Espírito Santo.
+
+[[v44-8-18]]
+
+^<<v44-8-18,18>>^ Vendo Simão que o Espírito era dado com a imposição das mãos dos apóstolos, ofereceu-lhes dinheiro
+
+[[v44-8-19]]
+
+^<<v44-8-19,19>>^ e disse: "Dêem-me também este poder, para que a pessoa sobre quem eu impuser as mãos receba o Espírito Santo".
+
+[[v44-8-20]]
+
+^<<v44-8-20,20>>^ Pedro respondeu: "Pereça com você o seu dinheiro! Você pensa que pode comprar o dom de Deus com dinheiro?
+
+[[v44-8-21]]
+
+^<<v44-8-21,21>>^ Você não tem parte nem direito algum neste ministério, porque o seu coração não é reto diante de Deus.
+
+[[v44-8-22]]
+
+^<<v44-8-22,22>>^ Arrependa-se dessa maldade e ore ao Senhor. Talvez ele lhe perdoe tal pensamento do seu coração,
+
+[[v44-8-23]]
+
+^<<v44-8-23,23>>^ pois vejo que você está cheio de amargura e preso pelo pecado".
+
+[[v44-8-24]]
+
+^<<v44-8-24,24>>^ Simão, porém, respondeu: "Orem vocês ao Senhor por mim, para que não me aconteça nada do que vocês disseram".
+
+[[v44-8-25]]
+
+^<<v44-8-25,25>>^ Tendo testemunhado e proclamado a palavra do Senhor, Pedro e João voltaram a Jerusalém, pregando o evangelho em muitos povoados samaritanos.
+
+[[v44-8-26]]
+
+^<<v44-8-26,26>>^ Um anjo do Senhor disse a Filipe: "Vá para o sul, para a estrada deserta que desce de Jerusalém a Gaza".
+
+[[v44-8-27]]
+
+^<<v44-8-27,27>>^ Ele se levantou e partiu. No caminho encontrou um eunuco etíope, um oficial importante, encarregado de todos os tesouros de Candace, rainha dos etíopes. Esse homem viera a Jerusalém para adorar a Deus e,
+
+[[v44-8-28]]
+
+^<<v44-8-28,28>>^ de volta para casa, sentado em sua carruagem, lia o livro do profeta Isaías.
+
+[[v44-8-29]]
+
+^<<v44-8-29,29>>^ E o Espírito disse a Filipe: "Aproxime-se dessa carruagem e acompanhe-a".
+
+[[v44-8-30]]
+
+^<<v44-8-30,30>>^ Então Filipe correu para a carruagem, ouviu o homem lendo o profeta Isaías e lhe perguntou: "O senhor entende o que está lendo? "
+
+[[v44-8-31]]
+
+^<<v44-8-31,31>>^ Ele respondeu: "Como posso entender se alguém não me explicar? " Assim, convidou Filipe para subir e sentar-se ao seu lado.
+
+[[v44-8-32]]
+
+^<<v44-8-32,32>>^ O eunuco estava lendo esta passagem da Escritura: "Ele foi levado como ovelha para o matadouro, e como cordeiro mudo diante do tosquiador, ele não abriu a sua boca.
+
+[[v44-8-33]]
+
+^<<v44-8-33,33>>^ Em sua humilhação foi privado de justiça. Quem pode falar dos seus descendentes? Pois a sua vida foi tirada da terra".
+
+[[v44-8-34]]
+
+^<<v44-8-34,34>>^ O eunuco perguntou a Filipe: "Diga-me, por favor: de quem o profeta está falando? De si próprio ou de outro? "
+
+[[v44-8-35]]
+
+^<<v44-8-35,35>>^ Então Filipe, começando com aquela passagem da Escritura, anunciou-lhe as boas novas de Jesus.
+
+[[v44-8-36]]
+
+^<<v44-8-36,36>>^ Prosseguindo pela estrada, chegaram a um lugar onde havia água. O eunuco disse: "Olhe, aqui há água. Que me impede de ser batizado? "
+
+[[v44-8-37]]
+
+^<<v44-8-37,37>>^ Disse Filipe: "Você pode, se crê de todo o coração". O eunuco respondeu: "Creio que Jesus Cristo é o Filho de Deus".
+
+[[v44-8-38]]
+
+^<<v44-8-38,38>>^ Assim, deu ordem para parar a carruagem. Então Filipe e o eunuco desceram à água, e Filipe o batizou.
+
+[[v44-8-39]]
+
+^<<v44-8-39,39>>^ Quando saíram da água, o Espírito do Senhor arrebatou Filipe repentinamente. O eunuco não o viu mais e, cheio de alegria, seguiu o seu caminho.
+
+[[v44-8-40]]
+
+^<<v44-8-40,40>>^ Filipe, porém, apareceu em Azoto e, indo para Cesaréia, pregava o evangelho em todas as cidades pelas quais passava.
+
+'''
+
+xref:044-atos/044-atos-007.adoc#v44-7-0[&#60; Capítulo Anterior] | <<v44-8-0,Topo>> | xref:044-atos/044-atos-009.adoc#v44-9-0[Próximo Capítulo &#62;]

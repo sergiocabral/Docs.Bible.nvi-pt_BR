@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v39-4-0]]
+=== Malaquias, 4
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v39-4-1]]
+
+^<<v39-4-1,1>>^ "Pois certamente vem o dia, ardente como uma fornalha. Todos os arrogantes e todos os malfeitores serão como palha, e aquele dia, que está chegando, ateará fogo neles", diz o Senhor dos Exércitos. "Nem raiz nem galho algum sobrará.
+
+[[v39-4-2]]
+
+^<<v39-4-2,2>>^ Mas para vocês que reverenciam o meu nome, o sol da justiça se levantará trazendo cura em suas asas. E vocês sairão e saltarão como bezerros soltos do curral.
+
+[[v39-4-3]]
+
+^<<v39-4-3,3>>^ Depois esmagarão os ímpios, que serão como pó sob as solas dos seus pés no dia em que eu agir", diz o Senhor dos Exércitos.
+
+[[v39-4-4]]
+
+^<<v39-4-4,4>>^ "Lembrem-se da lei do meu servo Moisés, dos decretos e das ordenanças que lhe dei em Horebe para todo o povo de Israel.
+
+[[v39-4-5]]
+
+^<<v39-4-5,5>>^ "Vejam, eu enviarei a vocês o profeta Elias antes do grande e terrível dia do Senhor.
+
+[[v39-4-6]]
+
+^<<v39-4-6,6>>^ Ele fará com que os corações dos pais se voltem para seus filhos, e os corações dos filhos para seus pais; do contrário eu virei e castigarei a terra com maldição. "
+
+'''
+
+xref:039-malaquias/039-malaquias-003.adoc#v39-3-0[&#60; Capítulo Anterior] | <<v39-4-0,Topo>> | xref:040-mateus/040-mateus-001.adoc#v40-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v11-5-0]]
+=== 1 Reis, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v11-5-1]]
+
+^<<v11-5-1,1>>^ Quando Hirão, rei de Tiro, soube que Salomão tinha sido ungido rei, mandou seus conselheiros a Salomão, pois sempre tinha sido amigo leal de Davi.
+
+[[v11-5-2]]
+
+^<<v11-5-2,2>>^ Salomão enviou esta mensagem a Hirão:
+
+[[v11-5-3]]
+
+^<<v11-5-3,3>>^ "Tu bem sabes que foi por causa das guerras travadas de todos os lados contra meu pai Davi que ele não pôde construir um templo em honra do nome do Senhor, o seu Deus, até que o Senhor pusesse os seus inimigos debaixo dos seus pés.
+
+[[v11-5-4]]
+
+^<<v11-5-4,4>>^ Mas agora o Senhor, o meu Deus, concedeu-me paz em todas as fronteiras, e não tenho que enfrentar nem inimigos nem calamidades.
+
+[[v11-5-5]]
+
+^<<v11-5-5,5>>^ Pretendo, por isso, construir um templo em honra do nome do Senhor, do meu Deus, conforme o Senhor disse a meu pai Davi: ‘O seu filho, a quem colocarei no trono em seu lugar, construirá o templo em honra do meu nome’.
+
+[[v11-5-6]]
+
+^<<v11-5-6,6>>^ "Agora te peço que ordenes que cortem para mim cedros do Líbano. Os meus servos trabalharão com os teus, e eu pagarei a teus servos o salário que determinares. Sabes que não há entre nós ninguém tão hábil em cortar árvores quanto os sidônios".
+
+[[v11-5-7]]
+
+^<<v11-5-7,7>>^ Hirão ficou muito alegre quando ouviu a mensagem de Salomão, e exclamou: "Bendito seja o Senhor, pois deu a Davi um filho sábio para governar essa grande nação".
+
+[[v11-5-8]]
+
+^<<v11-5-8,8>>^ E Hirão respondeu a Salomão: "Recebi a mensagem que me enviaste e atenderei ao teu pedido, enviando-lhe madeira de cedro e de pinho.
+
+[[v11-5-9]]
+
+^<<v11-5-9,9>>^ Meus servos levarão a madeira do Líbano até o mar, e eu a farei flutuar em jangadas no mar até o lugar que me indicares. Ali eu a deixarei e tu poderás levá-la. E em troca, fornecerás alimento para a minha corte".
+
+[[v11-5-10]]
+
+^<<v11-5-10,10>>^ Assim Hirão se tornou fornecedor de toda a madeira de cedro e de pinho que Salomão desejava,
+
+[[v11-5-11]]
+
+^<<v11-5-11,11>>^ e Salomão deu a Hirão vinte mil tonéis de trigo para suprir de mantimento a sua corte, além de vinte mil tonéis de azeite de oliva puro. Era o que Salomão dava anualmente a Hirão.
+
+[[v11-5-12]]
+
+^<<v11-5-12,12>>^ O Senhor deu sabedoria a Salomão, como lhe havia prometido. Houve paz entre Hirão e Salomão, e os dois fizeram um tratado.
+
+[[v11-5-13]]
+
+^<<v11-5-13,13>>^ O rei Salomão arregimentou trinta mil trabalhadores de todo o Israel.
+
+[[v11-5-14]]
+
+^<<v11-5-14,14>>^ Ele os mandou para o Líbano em grupos de dez mil por mês, e eles se revezavam: passavam um mês no Líbano e dois em casa. Adonirão chefiava o trabalho.
+
+[[v11-5-15]]
+
+^<<v11-5-15,15>>^ Salomão tinha setenta mil carregadores e oitenta mil cortadores de pedra nas colinas,
+
+[[v11-5-16]]
+
+^<<v11-5-16,16>>^ bem como três mil e trezentos capatazes que supervisionavam o trabalho e comandavam os operários.
+
+[[v11-5-17]]
+
+^<<v11-5-17,17>>^ Por ordem do rei retiravam da pedreira grandes blocos de pedra de ótima qualidade para servirem de alicerce de pedras lavradas para o templo.
+
+[[v11-5-18]]
+
+^<<v11-5-18,18>>^ Os construtores de Salomão e de Hirão e os homens de Gebal cortavam e preparavam a madeira e as pedras para a construção do templo.
+
+'''
+
+xref:011-1-reis/011-1-reis-004.adoc#v11-4-0[&#60; Capítulo Anterior] | <<v11-5-0,Topo>> | xref:011-1-reis/011-1-reis-006.adoc#v11-6-0[Próximo Capítulo &#62;]

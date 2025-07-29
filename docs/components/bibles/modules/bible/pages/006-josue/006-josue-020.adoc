@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v6-20-0]]
+=== Josué, 20
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v6-20-1]]
+
+^<<v6-20-1,1>>^ Disse o Senhor a Josué:
+
+[[v6-20-2]]
+
+^<<v6-20-2,2>>^ "Diga aos israelitas que designem as cidades de refúgio, como lhes ordenei por meio de Moisés,
+
+[[v6-20-3]]
+
+^<<v6-20-3,3>>^ para que todo aquele que matar alguém sem intenção e acidentalmente possa fugir para lá e proteger-se do vingador da vítima.
+
+[[v6-20-4]]
+
+^<<v6-20-4,4>>^ "Quando o homicida involuntário fugir para uma dessas cidades, terá que colocar-se junto à porta da cidade e expor o caso às autoridades daquela cidade. Eles o receberão e lhe darão um local para morar entre eles.
+
+[[v6-20-5]]
+
+^<<v6-20-5,5>>^ Caso o vingador da vítima o persiga, eles não o entregarão, pois matou seu próximo acidentalmente, sem maldade e sem premeditação.
+
+[[v6-20-6]]
+
+^<<v6-20-6,6>>^ Todavia, ele terá que permanecer naquela cidade até comparecer a julgamento perante a comunidade e até morrer o sumo sacerdote que estiver servindo naquele período. Então poderá voltar para a sua própria casa, à cidade de onde fugiu".
+
+[[v6-20-7]]
+
+^<<v6-20-7,7>>^ Assim eles separaram Quedes, na Galiléia, nos montes de Naftali, Siquém, nos montes de Efraim, e Quiriate-Arba, que é Hebrom, nos montes de Judá.
+
+[[v6-20-8]]
+
+^<<v6-20-8,8>>^ No lado leste do Jordão, perto de Jericó designaram Bezer, no planalto desértico da tribo de Rúben; Ramote, em Gileade, na tribo de Gade; e Golã, em Basã, na tribo de Manassés.
+
+[[v6-20-9]]
+
+^<<v6-20-9,9>>^ Qualquer israelita ou estrangeiro residente que matasse alguém sem intenção, poderia fugir para qualquer dessas cidades para isso designadas e escapar do vingador da vítima, antes de comparecer a julgamento perante a comunidade.
+
+'''
+
+xref:006-josue/006-josue-019.adoc#v6-19-0[&#60; Capítulo Anterior] | <<v6-20-0,Topo>> | xref:006-josue/006-josue-021.adoc#v6-21-0[Próximo Capítulo &#62;]

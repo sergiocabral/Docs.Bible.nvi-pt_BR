@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v9-13-0]]
+=== 1 Samuel, 13
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v9-13-1]]
+
+^<<v9-13-1,1>>^ Saul tinha trinta anos de idade quando começou a reinar, e reinou sobre Israel quarenta e dois anos.
+
+[[v9-13-2]]
+
+^<<v9-13-2,2>>^ Saul escolheu três mil homens de Israel; dois mil ficaram com ele em Micmás e nos montes de Betel, e mil ficaram com Jônatas em Gibeá de Benjamim. O restante dos homens ele mandou de volta para suas tendas.
+
+[[v9-13-3]]
+
+^<<v9-13-3,3>>^ Jônatas atacou os destacamentos dos filisteus em Gibeá, e os filisteus foram informados disso. Então Saul mandou tocar a trombeta por todo o país dizendo: "Que os hebreus fiquem sabendo disto! "
+
+[[v9-13-4]]
+
+^<<v9-13-4,4>>^ E todo Israel ouviu a notícia de que Saul tinha atacado o destacamento dos filisteus atraindo o ódio dos filisteus sobre Israel. Então os homens foram convocados para se unirem a Saul em Gilgal.
+
+[[v9-13-5]]
+
+^<<v9-13-5,5>>^ Os filisteus reuniram-se para lutar contra Israel, com três mil carros de guerra, seis mil condutores de carros e tantos soldados quanto a areia da praia. Eles foram a Micmás, a leste de Bete-Áven e lá acamparam.
+
+[[v9-13-6]]
+
+^<<v9-13-6,6>>^ Quando os soldados de Israel viram que a situação era difícil e que seu exército estava sendo muito pressionado, esconderam-se em cavernas e buracos, entre as rochas e em poços e cisternas.
+
+[[v9-13-7]]
+
+^<<v9-13-7,7>>^ Alguns hebreus até atravessaram o Jordão para chegar à terra de Gade e de Gileade. Saul ficou em Gilgal, e os soldados que estavam com ele tremiam de medo.
+
+[[v9-13-8]]
+
+^<<v9-13-8,8>>^ Ele esperou sete dias, o prazo estabelecido por Samuel; mas este não chegou a Gilgal, e os soldados de Saul começaram a se dispersar.
+
+[[v9-13-9]]
+
+^<<v9-13-9,9>>^ Então ele ordenou: "Tragam-me o holocausto e os sacrifícios de comunhão". Saul ofereceu então o holocausto,
+
+[[v9-13-10]]
+
+^<<v9-13-10,10>>^ e quando ele terminou de oferecê-lo, Samuel chegou, e Saul foi saudá-lo.
+
+[[v9-13-11]]
+
+^<<v9-13-11,11>>^ E perguntou-lhe Samuel: "O que você fez? " Saul respondeu: "Quando vi que os soldados estavam se dispersando e que você não tinha chegado no prazo estabelecido e que os filisteus estavam reunidos em Micmás,
+
+[[v9-13-12]]
+
+^<<v9-13-12,12>>^ pensei: ‘Agora, os filisteus me atacarão em Gilgal, e eu não busquei o Senhor’. Por isso senti-me obrigado a oferecer o holocausto".
+
+[[v9-13-13]]
+
+^<<v9-13-13,13>>^ Disse Samuel: "Você agiu como tolo, desobedecendo ao mandamento que o Senhor seu Deus lhe deu; se você tivesse obedecido, ele teria estabelecido para sempre o seu reinado sobre Israel.
+
+[[v9-13-14]]
+
+^<<v9-13-14,14>>^ Mas agora seu reinado não permanecerá; o Senhor procurou um homem segundo o seu coração e o designou líder de seu povo, pois você não obedeceu ao mandamento do Senhor".
+
+[[v9-13-15]]
+
+^<<v9-13-15,15>>^ Então Samuel partiu de Gilgal e foi a Gibeá de Benjamim, e Saul contou soldados que estavam com ele. Eram cerca de seiscentos.
+
+[[v9-13-16]]
+
+^<<v9-13-16,16>>^ Saul e seu filho Jônatas, acompanhados de seus soldados, ficaram em Gibeá de Benjamim, enquanto os filisteus estavam acampados em Micmás.
+
+[[v9-13-17]]
+
+^<<v9-13-17,17>>^ Uma tropa de ataque saiu do acampamento filisteu em três divisões. Uma foi em direção a Ofra, nos arredores de Sual,
+
+[[v9-13-18]]
+
+^<<v9-13-18,18>>^ outra para Bete-Horom, e a terceira para a região fronteiriça de onde se avista o vale de Zeboim, diante do deserto.
+
+[[v9-13-19]]
+
+^<<v9-13-19,19>>^ Naquela época não havia nem mesmo um único ferreiro em toda a terra de Israel, pois os filisteus não queriam que os hebreus fizessem espadas e lanças.
+
+[[v9-13-20]]
+
+^<<v9-13-20,20>>^ Assim, eles tinham que ir aos filisteus para afiar seus arados, enxadas, machados e foices.
+
+[[v9-13-21]]
+
+^<<v9-13-21,21>>^ O preço para afiar rastelos e enxadas era oito gramas de prata, e quatro gramas de prata para afiar tridentes, machados e pontas de aguilhadas.
+
+[[v9-13-22]]
+
+^<<v9-13-22,22>>^ Por isso no dia da batalha nenhum soldado de Saul e Jônatas tinha espada ou lança nas mãos, exceto o próprio Saul e seu filho Jônatas.
+
+[[v9-13-23]]
+
+^<<v9-13-23,23>>^ Aconteceu que um destacamento filisteu foi para o desfiladeiro de Micmás.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-012.adoc#v9-12-0[&#60; Capítulo Anterior] | <<v9-13-0,Topo>> | xref:009-1-samuel/009-1-samuel-014.adoc#v9-14-0[Próximo Capítulo &#62;]

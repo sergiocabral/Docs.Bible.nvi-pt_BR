@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-26-0]]
+=== Provérbios, 26
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-26-1]]
+
+^<<v20-26-1,1>>^ Como neve no verão ou chuva na colheita, assim a honra é imprópria para o tolo.
+
+[[v20-26-2]]
+
+^<<v20-26-2,2>>^ Como o pardal que voa em fuga, e a andorinha que esvoaça veloz, assim a maldição sem motivo justo não pega.
+
+[[v20-26-3]]
+
+^<<v20-26-3,3>>^ O chicote é para o cavalo, o freio, para o jumento, e a vara, para as costas do tolo!
+
+[[v20-26-4]]
+
+^<<v20-26-4,4>>^ Não responda ao insensato com igual insensatez, do contrário você se igualará a ele.
+
+[[v20-26-5]]
+
+^<<v20-26-5,5>>^ Responda ao insensato como a sua insensatez merece, do contrário ele pensará que é mesmo um sábio.
+
+[[v20-26-6]]
+
+^<<v20-26-6,6>>^ Como cortar o próprio pé ou beber veneno, assim é enviar mensagem pelas mãos do tolo.
+
+[[v20-26-7]]
+
+^<<v20-26-7,7>>^ Como pendem inúteis as pernas do coxo, assim é o provérbio na boca do tolo.
+
+[[v20-26-8]]
+
+^<<v20-26-8,8>>^ Como amarrar uma pedra na atiradeira, assim é prestar honra ao insensato.
+
+[[v20-26-9]]
+
+^<<v20-26-9,9>>^ Como ramo de espinhos nas mãos do bêbado, assim é o provérbio na boca do insensato.
+
+[[v20-26-10]]
+
+^<<v20-26-10,10>>^ Como o arqueiro que atira ao acaso, assim é quem contrata o tolo ou o primeiro que passa.
+
+[[v20-26-11]]
+
+^<<v20-26-11,11>>^ Como o cão volta ao seu vômito, assim o insensato repete a sua insensatez.
+
+[[v20-26-12]]
+
+^<<v20-26-12,12>>^ Você conhece alguém que se julga sábio? Há mais esperança para o insensato do que para ele.
+
+[[v20-26-13]]
+
+^<<v20-26-13,13>>^ O preguiçoso diz: "Lá está um leão no caminho, um leão feroz rugindo nas ruas! "
+
+[[v20-26-14]]
+
+^<<v20-26-14,14>>^ Como a porta gira em suas dobradiças, assim o preguiçoso se revira em sua cama.
+
+[[v20-26-15]]
+
+^<<v20-26-15,15>>^ O preguiçoso coloca a mão no prato, mas acha difícil demais levá-la de volta à boca.
+
+[[v20-26-16]]
+
+^<<v20-26-16,16>>^ O preguiçoso considera-se mais sábio do que sete homens que respondem com bom senso.
+
+[[v20-26-17]]
+
+^<<v20-26-17,17>>^ Como alguém que pega pelas orelhas um cão qualquer, assim é quem se mete em discussão alheia.
+
+[[v20-26-18]]
+
+^<<v20-26-18,18>>^ Como o louco que atira brasas e flechas mortais,
+
+[[v20-26-19]]
+
+^<<v20-26-19,19>>^ assim é o homem que engana o seu próximo e diz: "Eu estava só brincando! "
+
+[[v20-26-20]]
+
+^<<v20-26-20,20>>^ Sem lenha a fogueira se apaga; sem o caluniador morre a contenda.
+
+[[v20-26-21]]
+
+^<<v20-26-21,21>>^ O que o carvão é para as brasas e a lenha para a fogueira, o amigo de brigas é para atiçar discórdias.
+
+[[v20-26-22]]
+
+^<<v20-26-22,22>>^ As palavras do caluniador são como petiscos deliciosos; descem saborosos até o íntimo.
+
+[[v20-26-23]]
+
+^<<v20-26-23,23>>^ Como uma camada de esmalte sobre um vaso de barro, os lábios amistosos podem ocultar um coração mau.
+
+[[v20-26-24]]
+
+^<<v20-26-24,24>>^ Quem odeia, disfarça as suas intenções com os lábios, mas no coração abriga a falsidade.
+
+[[v20-26-25]]
+
+^<<v20-26-25,25>>^ Embora a sua conversa seja mansa, não acredite nele, pois o seu coração está cheio de maldade.
+
+[[v20-26-26]]
+
+^<<v20-26-26,26>>^ Ele pode fingir e esconder o seu ódio, mas a sua maldade será exposta em público.
+
+[[v20-26-27]]
+
+^<<v20-26-27,27>>^ Quem faz uma cova, nela cairá; se alguém rola uma pedra, esta rolará de volta sobre ele.
+
+[[v20-26-28]]
+
+^<<v20-26-28,28>>^ A língua mentirosa odeia aqueles a quem fere, e a boca lisonjeira provoca a ruína.
+
+'''
+
+xref:020-proverbios/020-proverbios-025.adoc#v20-25-0[&#60; Capítulo Anterior] | <<v20-26-0,Topo>> | xref:020-proverbios/020-proverbios-027.adoc#v20-27-0[Próximo Capítulo &#62;]

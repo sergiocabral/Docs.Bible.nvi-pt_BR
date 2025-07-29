@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v43-3-0]]
+=== João, 3
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v43-3-1]]
+
+^<<v43-3-1,1>>^ Havia um fariseu chamado Nicodemos, uma autoridade entre os judeus.
+
+[[v43-3-2]]
+
+^<<v43-3-2,2>>^ Ele veio a Jesus, à noite, e disse: "Mestre, sabemos que ensinas da parte de Deus, pois ninguém pode realizar os sinais miraculosos que estás fazendo, se Deus não estiver com ele".
+
+[[v43-3-3]]
+
+^<<v43-3-3,3>>^ Em resposta, Jesus declarou: "Digo-lhe a verdade: Ninguém pode ver o Reino de Deus, se não nascer de novo".
+
+[[v43-3-4]]
+
+^<<v43-3-4,4>>^ Perguntou Nicodemos: "Como alguém pode nascer, sendo velho? É claro que não pode entrar pela segunda vez no ventre de sua mãe e renascer! "
+
+[[v43-3-5]]
+
+^<<v43-3-5,5>>^ Respondeu Jesus: "Digo-lhe a verdade: Ninguém pode entrar no Reino de Deus, se não nascer da água e do Espírito.
+
+[[v43-3-6]]
+
+^<<v43-3-6,6>>^ O que nasce da carne é carne, mas o que nasce do Espírito é espírito.
+
+[[v43-3-7]]
+
+^<<v43-3-7,7>>^ Não se surpreenda pelo fato de eu ter dito: É necessário que vocês nasçam de novo.
+
+[[v43-3-8]]
+
+^<<v43-3-8,8>>^ O vento sopra onde quer. Você o escuta, mas não pode dizer de onde vem nem para onde vai. Assim acontece com todos os nascidos do Espírito".
+
+[[v43-3-9]]
+
+^<<v43-3-9,9>>^ Perguntou Nicodemos: "Como pode ser isso? "
+
+[[v43-3-10]]
+
+^<<v43-3-10,10>>^ Disse Jesus: "Você é mestre em Israel e não entende essas coisas?
+
+[[v43-3-11]]
+
+^<<v43-3-11,11>>^ Asseguro-lhe que nós falamos do que conhecemos e testemunhamos do que vimos, mas mesmo assim vocês não aceitam o nosso testemunho.
+
+[[v43-3-12]]
+
+^<<v43-3-12,12>>^ Eu lhes falei de coisas terrenas e vocês não creram; como crerão se lhes falar de coisas celestiais?
+
+[[v43-3-13]]
+
+^<<v43-3-13,13>>^ Ninguém jamais subiu ao céu, a não ser aquele que veio do céu: o Filho do homem.
+
+[[v43-3-14]]
+
+^<<v43-3-14,14>>^ Da mesma forma como Moisés levantou a serpente no deserto, assim também é necessário que o Filho do homem seja levantado,
+
+[[v43-3-15]]
+
+^<<v43-3-15,15>>^ para que todo o que nele crer tenha a vida eterna.
+
+[[v43-3-16]]
+
+^<<v43-3-16,16>>^ "Porque Deus tanto amou o mundo que deu o seu Filho Unigênito, para que todo o que nele crer não pereça, mas tenha a vida eterna.
+
+[[v43-3-17]]
+
+^<<v43-3-17,17>>^ Pois Deus enviou o seu Filho ao mundo, não para condenar o mundo, mas para que este fosse salvo por meio dele.
+
+[[v43-3-18]]
+
+^<<v43-3-18,18>>^ Quem nele crê não é condenado, mas quem não crê já está condenado, por não crer no nome do Filho Unigênito de Deus.
+
+[[v43-3-19]]
+
+^<<v43-3-19,19>>^ Este é o julgamento: a luz veio ao mundo, mas os homens amaram as trevas, e não a luz, porque as suas obras eram más.
+
+[[v43-3-20]]
+
+^<<v43-3-20,20>>^ Quem pratica o mal odeia a luz e não se aproxima da luz, temendo que as suas obras sejam manifestas.
+
+[[v43-3-21]]
+
+^<<v43-3-21,21>>^ Mas quem pratica a verdade vem para a luz, para que se veja claramente que as suas obras são realizadas por intermédio de Deus".
+
+[[v43-3-22]]
+
+^<<v43-3-22,22>>^ Depois disso Jesus foi com os seus discípulos para a terra da Judéia, onde passou algum tempo com eles e batizava.
+
+[[v43-3-23]]
+
+^<<v43-3-23,23>>^ João também estava batizando em Enom, perto de Salim, porque havia ali muitas águas, e o povo vinha para ser batizado.
+
+[[v43-3-24]]
+
+^<<v43-3-24,24>>^ ( Isto se deu antes de João ser preso. )
+
+[[v43-3-25]]
+
+^<<v43-3-25,25>>^ Surgiu uma discussão entre alguns discípulos de João e um certo judeu, a respeito da purificação cerimonial.
+
+[[v43-3-26]]
+
+^<<v43-3-26,26>>^ Eles se dirigiram a João e lhe disseram: "Mestre, aquele homem que estava contigo no outro lado do Jordão, do qual testemunhaste, está batizando, e todos estão se dirigindo a ele".
+
+[[v43-3-27]]
+
+^<<v43-3-27,27>>^ A isso João respondeu: "Uma pessoa só pode receber o que lhe é dado do céu.
+
+[[v43-3-28]]
+
+^<<v43-3-28,28>>^ Vocês mesmos são testemunhas de que eu disse: Eu não sou o Cristo, mas sou aquele que foi enviado adiante dele.
+
+[[v43-3-29]]
+
+^<<v43-3-29,29>>^ A noiva pertence ao noivo. O amigo que presta serviço ao noivo e que o atende e o ouve, enche-se de alegria quando ouve a voz do noivo. Esta é a minha alegria, que agora se completa.
+
+[[v43-3-30]]
+
+^<<v43-3-30,30>>^ É necessário que ele cresça e que eu diminua.
+
+[[v43-3-31]]
+
+^<<v43-3-31,31>>^ "Aquele que vem do alto está acima de todos; aquele que é da terra pertence à terra e fala como quem é da terra. Aquele que vem do céu está acima de todos.
+
+[[v43-3-32]]
+
+^<<v43-3-32,32>>^ Ele testifica o que tem visto e ouvido, mas ninguém aceita o seu testemunho.
+
+[[v43-3-33]]
+
+^<<v43-3-33,33>>^ Aquele que o aceita confirma que Deus é verdadeiro.
+
+[[v43-3-34]]
+
+^<<v43-3-34,34>>^ Pois aquele que Deus enviou fala as palavras de Deus, porque ele dá o Espírito sem limitações.
+
+[[v43-3-35]]
+
+^<<v43-3-35,35>>^ O Pai ama o Filho e entregou tudo em suas mãos.
+
+[[v43-3-36]]
+
+^<<v43-3-36,36>>^ Quem crê no Filho tem a vida eterna; já quem rejeita o Filho não verá a vida, mas a ira de Deus permanece sobre ele".
+
+'''
+
+xref:043-joao/043-joao-002.adoc#v43-2-0[&#60; Capítulo Anterior] | <<v43-3-0,Topo>> | xref:043-joao/043-joao-004.adoc#v43-4-0[Próximo Capítulo &#62;]

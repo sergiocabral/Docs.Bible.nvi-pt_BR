@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-45-0]]
+=== Salmos, 45
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-45-1]]
+
+^<<v19-45-1,1>>^ Com o coração vibrando de boas palavras recito os meus versos em honra do rei; seja a minha língua como a pena de um hábil escritor.
+
+[[v19-45-2]]
+
+^<<v19-45-2,2>>^ És dos homens o mais notável; derramou-se graça em teus lábios, visto que Deus te abençoou para sempre.
+
+[[v19-45-3]]
+
+^<<v19-45-3,3>>^ Prende a espada à cintura, ó poderoso! Cobre-te de esplendor e majestade.
+
+[[v19-45-4]]
+
+^<<v19-45-4,4>>^ Na tua majestade cavalga vitoriosamente pela verdade, pela misericórdia e pela justiça; que a tua mão direita realize feitos gloriosos.
+
+[[v19-45-5]]
+
+^<<v19-45-5,5>>^ Tuas flechas afiadas atingem o coração dos inimigos do rei; debaixo dos teus pés caem nações.
+
+[[v19-45-6]]
+
+^<<v19-45-6,6>>^ O teu trono, ó Deus, subsiste para todo o sempre; cetro de justiça é o cetro do teu reino.
+
+[[v19-45-7]]
+
+^<<v19-45-7,7>>^ Amas a justiça e odeias a iniqüidade; por isso Deus, o teu Deus, escolheu-te dentre os teus companheiros ungindo-te com óleo de alegria.
+
+[[v19-45-8]]
+
+^<<v19-45-8,8>>^ Todas as tuas vestes exalam aroma de mirra, aloés e cássia; nos palácios adornados de marfim ressoam os instrumentos de corda que te alegram.
+
+[[v19-45-9]]
+
+^<<v19-45-9,9>>^ Filhas de reis estão entre as mulheres da tua corte; à tua direita está a noiva real enfeitada de ouro puro de Ofir.
+
+[[v19-45-10]]
+
+^<<v19-45-10,10>>^ Ouça, ó filha, considere e incline os seus ouvidos: Esqueça o seu povo e a casa paterna.
+
+[[v19-45-11]]
+
+^<<v19-45-11,11>>^ O rei foi cativado pela sua beleza; honre-o, pois ele é o seu senhor.
+
+[[v19-45-12]]
+
+^<<v19-45-12,12>>^ A cidade de Tiro trará seus presentes; seus moradores mais ricos buscarão o seu favor.
+
+[[v19-45-13]]
+
+^<<v19-45-13,13>>^ Cheia de esplendor está a princesa em seus aposentos, com vestes enfeitadas de ouro.
+
+[[v19-45-14]]
+
+^<<v19-45-14,14>>^ Em roupas bordadas é conduzida ao rei, acompanhada de um cortejo de virgens; são levadas à tua presença.
+
+[[v19-45-15]]
+
+^<<v19-45-15,15>>^ Com alegria e exultação são conduzidas ao palácio do rei.
+
+[[v19-45-16]]
+
+^<<v19-45-16,16>>^ Os teus filhos ocuparão o trono dos teus pais; por toda a terra os farás príncipes.
+
+[[v19-45-17]]
+
+^<<v19-45-17,17>>^ Perpetuarei a tua lembrança por todas as gerações; por isso as nações te louvarão para todo o sempre.
+
+'''
+
+xref:019-salmos/019-salmos-044.adoc#v19-44-0[&#60; Capítulo Anterior] | <<v19-45-0,Topo>> | xref:019-salmos/019-salmos-046.adoc#v19-46-0[Próximo Capítulo &#62;]

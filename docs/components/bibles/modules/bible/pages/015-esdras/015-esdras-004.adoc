@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v15-4-0]]
+=== Esdras, 4
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v15-4-1]]
+
+^<<v15-4-1,1>>^ Quando os inimigos de Judá e de Benjamim souberam que os exilados estavam reconstruindo o templo do Senhor, o Deus de Israel,
+
+[[v15-4-2]]
+
+^<<v15-4-2,2>>^ foram falar com Zorobabel e com os chefes das famílias: "Vamos ajudá-los nessa obra porque, como vocês, nós buscamos o Deus de vocês e temos sacrificado a ele desde a época de Esar-Hadom, rei da Assíria, que nos trouxe para cá".
+
+[[v15-4-3]]
+
+^<<v15-4-3,3>>^ Contudo, Zorobabel, Jesua e os demais líderes das famílias de Israel responderam: "Não compete a vocês a reconstrução do templo de nosso Deus. Somente nós o construiremos para o Senhor, o Deus de Israel, conforme Ciro, o rei da Pérsia, nos ordenou".
+
+[[v15-4-4]]
+
+^<<v15-4-4,4>>^ Então a gente da região começou a desanimar o povo de Judá e a atemorizá-lo, para que não continuassem a construção.
+
+[[v15-4-5]]
+
+^<<v15-4-5,5>>^ Pagaram alguns funcionários para que se opusessem a eles e frustrassem o plano deles. E fizeram isso durante todo o reinado de Ciro até o reinado de Dario, reis da Pérsia.
+
+[[v15-4-6]]
+
+^<<v15-4-6,6>>^ No início do reinado de Xerxes, apresentaram uma acusação contra o povo de Judá e de Jerusalém.
+
+[[v15-4-7]]
+
+^<<v15-4-7,7>>^ E nos dias de Artaxerxes, rei da Pérsia, Bislão, Mitredate, Tabeel e o restante dos seus companheiros escreveram uma carta a Artaxerxes. A carta foi escrita em aramaico, com caracteres aramaicos.
+
+[[v15-4-8]]
+
+^<<v15-4-8,8>>^ O comandante Reum e o secretário Sinsai escreveram uma carta contra Jerusalém ao rei Artaxerxes nos seguintes termos:
+
+[[v15-4-9]]
+
+^<<v15-4-9,9>>^ O comandante Reum e o secretário Sinsai, e o restante de seus companheiros, os juízes e os oficiais de Trípoli, da Pérsia, de Ereque e da Babilônia, os elamitas de Susã,
+
+[[v15-4-10]]
+
+^<<v15-4-10,10>>^ e as outras nações a quem o grande e renomado Assurbanípal deportou e assentou na cidade de Samaria e noutros lugares a oeste do Eufrates,
+
+[[v15-4-11]]
+
+^<<v15-4-11,11>>^ ( esta é uma cópia da carta que lhe enviaram ): "Ao rei Artaxerxes, De seus servos, que vivem a oeste do Eufrates:
+
+[[v15-4-12]]
+
+^<<v15-4-12,12>>^ É bom o rei ficar sabendo que os judeus que chegaram a nós da tua parte vieram a Jerusalém e estão reconstruindo aquela cidade rebelde e má. Estão fazendo reparos nos muros e consertando os alicerces.
+
+[[v15-4-13]]
+
+^<<v15-4-13,13>>^ Além disso, é preciso que o rei saiba que, se essa cidade for reconstruída e os seus muros reparados, não mais se pagarão impostos, tributos ou taxas, e as rendas do rei sofrerão prejuízo.
+
+[[v15-4-14]]
+
+^<<v15-4-14,14>>^ Agora, visto que estamos a serviço do palácio e não nos é conveniente ver a desonra do rei, estamos enviando esta mensagem ao rei,
+
+[[v15-4-15]]
+
+^<<v15-4-15,15>>^ a fim de que se faça uma pesquisa nos arquivos de seus antecessores. Nesses arquivos o rei descobrirá e saberá que essa cidade é uma cidade rebelde, problemática para reis e províncias, um lugar de revoltas desde épocas antigas, motivo pelo qual foi destruída.
+
+[[v15-4-16]]
+
+^<<v15-4-16,16>>^ Informamos ao rei que, se essa cidade for reconstruída e seus muros reparados, nada lhe sobrará a oeste do Eufrates".
+
+[[v15-4-17]]
+
+^<<v15-4-17,17>>^ O rei enviou-lhes a seguinte resposta: "Ao comandante Reum, ao secretário Sinsai e aos seus demais companheiros que vivem em Samaria e em outras partes, a oeste do Eufrates: Saudações de paz!
+
+[[v15-4-18]]
+
+^<<v15-4-18,18>>^ A carta que vocês nos enviaram foi traduzida e lida na minha presença.
+
+[[v15-4-19]]
+
+^<<v15-4-19,19>>^ Sob minhas ordens fez-se uma pesquisa, e descobriu-se que essa cidade tem uma longa história de rebeldia contra os reis e que tem sido um lugar de rebeliões e revoltas.
+
+[[v15-4-20]]
+
+^<<v15-4-20,20>>^ Jerusalém teve reis poderosos que governaram toda a região a oeste do Eufrates, aos quais se pagavam impostos, tributos e taxas.
+
+[[v15-4-21]]
+
+^<<v15-4-21,21>>^ Ordene agora a esses homens que parem a obra, para que essa cidade não seja reconstruída enquanto eu não mandar.
+
+[[v15-4-22]]
+
+^<<v15-4-22,22>>^ "Tenham cuidado, não sejam negligentes neste assunto, para que os interesses reais não sofram prejuízo".
+
+[[v15-4-23]]
+
+^<<v15-4-23,23>>^ Lida a cópia da carta do rei Artaxerxes para Reum, para o secretário Sinsai e para os seus companheiros, eles foram depressa a Jerusalém e forçaram os judeus a parar a obra.
+
+[[v15-4-24]]
+
+^<<v15-4-24,24>>^ Assim a obra do templo de Deus em Jerusalém foi interrompida, e ficou parada até o segundo ano do reinado de Dario, rei da Pérsia.
+
+'''
+
+xref:015-esdras/015-esdras-003.adoc#v15-3-0[&#60; Capítulo Anterior] | <<v15-4-0,Topo>> | xref:015-esdras/015-esdras-005.adoc#v15-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-9-0]]
+=== Salmos, 9
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-9-1]]
+
+^<<v19-9-1,1>>^ Senhor, quero dar-te graças de todo o coração e falar de todas as tuas maravilhas.
+
+[[v19-9-2]]
+
+^<<v19-9-2,2>>^ Em ti quero alegrar-me e exultar, e cantar louvores ao teu nome, ó Altíssimo.
+
+[[v19-9-3]]
+
+^<<v19-9-3,3>>^ Quando os meus inimigos contigo se defrontam, tropeçam e são destruídos.
+
+[[v19-9-4]]
+
+^<<v19-9-4,4>>^ Pois defendeste o meu direito e a minha causa; em teu trono te assentaste, julgando com justiça.
+
+[[v19-9-5]]
+
+^<<v19-9-5,5>>^ Repreendeste as nações e destruíste os ímpios; para todo o sempre apagaste o nome deles.
+
+[[v19-9-6]]
+
+^<<v19-9-6,6>>^ O inimigo foi totalmente arrasado, para sempre; desarraigaste as suas cidades; já não há quem delas se lembre.
+
+[[v19-9-7]]
+
+^<<v19-9-7,7>>^ O Senhor reina para sempre; estabeleceu o seu trono para julgar.
+
+[[v19-9-8]]
+
+^<<v19-9-8,8>>^ Ele mesmo julga o mundo com justiça; governa os povos com retidão.
+
+[[v19-9-9]]
+
+^<<v19-9-9,9>>^ O Senhor é refúgio para os oprimidos, uma torre segura na hora da adversidade.
+
+[[v19-9-10]]
+
+^<<v19-9-10,10>>^ Os que conhecem o teu nome confiam em ti, pois tu, Senhor, jamais abandonas os que te buscam.
+
+[[v19-9-11]]
+
+^<<v19-9-11,11>>^ Cantem louvores ao Senhor, que reina em Sião; proclamem entre as nações os seus feitos.
+
+[[v19-9-12]]
+
+^<<v19-9-12,12>>^ Aquele que pede contas do sangue derramado não esquece; ele não ignora o clamor dos oprimidos.
+
+[[v19-9-13]]
+
+^<<v19-9-13,13>>^ Misericórdia, Senhor! Vê o sofrimento que me causam os que me odeiam. Salva-me das portas da morte,
+
+[[v19-9-14]]
+
+^<<v19-9-14,14>>^ para que, junto às portas da cidade de Sião, eu cante louvores a ti e ali exulte em tua salvação.
+
+[[v19-9-15]]
+
+^<<v19-9-15,15>>^ Caíram as nações na cova que abriram; os seus pés ficaram presos no laço que esconderam.
+
+[[v19-9-16]]
+
+^<<v19-9-16,16>>^ O Senhor é conhecido pela justiça que executa; os ímpios caem em suas próprias armadilhas. Interlúdio. Pausa
+
+[[v19-9-17]]
+
+^<<v19-9-17,17>>^ Voltem os ímpios ao pó, todas as nações que se esquecem de Deus!
+
+[[v19-9-18]]
+
+^<<v19-9-18,18>>^ Mas os pobres nunca serão esquecidos, nem se frustrará a esperança dos necessitados.
+
+[[v19-9-19]]
+
+^<<v19-9-19,19>>^ Levanta-te, Senhor! Não permitas que o mortal triunfe! Julgadas sejam as nações na tua presença.
+
+[[v19-9-20]]
+
+^<<v19-9-20,20>>^ Infunde-lhes terror, Senhor; saibam as nações que não passam de seres humanos. Pausa
+
+'''
+
+xref:019-salmos/019-salmos-008.adoc#v19-8-0[&#60; Capítulo Anterior] | <<v19-9-0,Topo>> | xref:019-salmos/019-salmos-010.adoc#v19-10-0[Próximo Capítulo &#62;]

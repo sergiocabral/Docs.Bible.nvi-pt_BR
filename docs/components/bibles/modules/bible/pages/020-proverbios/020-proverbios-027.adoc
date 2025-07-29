@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Provérbios, 27
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ Não se gabe do dia de amanhã, pois você não sabe o que este ou aquele dia poderá trazer.
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ Que outros façam elogios a você, não a sua própria boca; outras pessoas, não os seus próprios lábios.
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ A pedra é pesada e a areia é um fardo, mas a irritação causada pelo insensato é mais pesada do que as duas juntas.
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ O rancor é cruel e a fúria é destrutiva, mas quem consegue suportar a inveja?
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ Melhor é a repreensão feita abertamente do que o amor oculto.
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ Quem fere por amor mostra lealdade, mas o inimigo multiplica beijos.
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ Quem está satisfeito despreza o mel, mas para quem tem fome até o amargo é doce.
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Como a ave que vagueia longe do ninho, assim é o homem que vagueia longe do lar.
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ Perfume e incenso trazem alegria ao coração; do conselho sincero do homem nasce uma bela amizade.
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Não abandone o seu amigo nem o amigo de seu pai; quando for atingido pela adversidade não vá para a casa de seu irmão; melhor é o vizinho próximo do que o irmão distante.
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Seja sábio, meu filho, e traga alegria ao meu coração; poderei então responder a quem me desprezar.
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ O prudente percebe o perigo e busca refúgio; o inexperiente segue adiante e sofre as conseqüências.
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Tome-se a veste de quem serve de fiador ao estranho; sirva ela de penhor de quem dá garantia a uma mulher leviana.
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ A bênção dada aos gritos cedo de manhã, como maldição é recebida.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ A esposa briguenta é como o gotejar constante num dia chuvoso;
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ detê-la é como deter o vento, como apanhar óleo com a mão.
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ Assim como o ferro afia o ferro, o homem afia o seu companheiro.
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ Quem cuida de uma figueira comerá de seu fruto, e quem trata bem o seu senhor receberá tratamento de honra.
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ Assim como a água reflete o rosto, o coração reflete quem somos nós.
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ O Sheol e a Destruição são insaciáveis, como insaciáveis são os olhos do homem.
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ O crisol é para a prata e o forno é para o ouro, mas o que prova o homem são os elogios que recebe.
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Ainda que você moa o insensato, como trigo no pilão, a insensatez não se afastará dele.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ Esforce-se para saber bem como suas ovelhas estão, dê cuidadosa atenção aos seus rebanhos,
+
+[[v20-27-24]]
+
+^<<v20-27-24,24>>^ pois as riquezas não duram para sempre, e nada garante que a coroa passe de uma geração a outra.
+
+[[v20-27-25]]
+
+^<<v20-27-25,25>>^ Quando o feno for retirado, surgirem novos brotos e o capim das colinas for colhido,
+
+[[v20-27-26]]
+
+^<<v20-27-26,26>>^ os cordeiros lhe fornecerão roupa, e os bodes lhe renderão o preço de um campo.
+
+[[v20-27-27]]
+
+^<<v20-27-27,27>>^ Haverá fartura de leite de cabra para alimentar você e sua família, e para sustentar as suas servas.
+
+'''
+
+xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[Próximo Capítulo &#62;]

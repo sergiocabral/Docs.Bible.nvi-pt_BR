@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-5-0]]
+=== Gênesis, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v1-5-1]]
+
+^<<v1-5-1,1>>^ Este é o registro da descendência de Adão: Quando Deus criou o homem, à semelhança de Deus o fez;
+
+[[v1-5-2]]
+
+^<<v1-5-2,2>>^ homem e mulher os criou. Quando foram criados, ele os abençoou e os chamou Homem.
+
+[[v1-5-3]]
+
+^<<v1-5-3,3>>^ Aos 130 anos, Adão gerou um filho à sua semelhança, conforme a sua imagem; e deu-lhe o nome de Sete.
+
+[[v1-5-4]]
+
+^<<v1-5-4,4>>^ Depois que gerou Sete, Adão viveu 800 anos e gerou outros filhos e filhas.
+
+[[v1-5-5]]
+
+^<<v1-5-5,5>>^ Viveu ao todo 930 anos e morreu.
+
+[[v1-5-6]]
+
+^<<v1-5-6,6>>^ Aos 105 anos, Sete gerou Enos.
+
+[[v1-5-7]]
+
+^<<v1-5-7,7>>^ Depois que gerou Enos, Sete viveu 807 anos e gerou outros filhos e filhas.
+
+[[v1-5-8]]
+
+^<<v1-5-8,8>>^ Viveu ao todo 912 anos e morreu.
+
+[[v1-5-9]]
+
+^<<v1-5-9,9>>^ Aos 90 anos, Enos gerou Cainã.
+
+[[v1-5-10]]
+
+^<<v1-5-10,10>>^ Depois que gerou Cainã, Enos viveu 815 anos e gerou outros filhos e filhas.
+
+[[v1-5-11]]
+
+^<<v1-5-11,11>>^ Viveu ao todo 905 anos e morreu.
+
+[[v1-5-12]]
+
+^<<v1-5-12,12>>^ Aos 70 anos, Cainã gerou Maalaleel.
+
+[[v1-5-13]]
+
+^<<v1-5-13,13>>^ Depois que gerou Maalaleel, Cainã viveu 840 anos e gerou outros filhos e filhas.
+
+[[v1-5-14]]
+
+^<<v1-5-14,14>>^ Viveu ao todo 910 anos e morreu.
+
+[[v1-5-15]]
+
+^<<v1-5-15,15>>^ Aos 65 anos, Maalaleel gerou Jarede.
+
+[[v1-5-16]]
+
+^<<v1-5-16,16>>^ Depois que gerou Jarede, Maalaleel viveu 830 anos e gerou outros filhos e filhas.
+
+[[v1-5-17]]
+
+^<<v1-5-17,17>>^ Viveu ao todo 895 anos e morreu.
+
+[[v1-5-18]]
+
+^<<v1-5-18,18>>^ Aos 162 anos, Jarede gerou Enoque.
+
+[[v1-5-19]]
+
+^<<v1-5-19,19>>^ Depois que gerou Enoque, Jarede viveu 800 anos e gerou outros filhos e filhas.
+
+[[v1-5-20]]
+
+^<<v1-5-20,20>>^ Viveu ao todo 962 anos e morreu.
+
+[[v1-5-21]]
+
+^<<v1-5-21,21>>^ Aos 65 anos, Enoque gerou Matusalém.
+
+[[v1-5-22]]
+
+^<<v1-5-22,22>>^ Depois que gerou Matusalém, Enoque andou com Deus 300 anos e gerou outros filhos e filhas.
+
+[[v1-5-23]]
+
+^<<v1-5-23,23>>^ Viveu ao todo 365 anos.
+
+[[v1-5-24]]
+
+^<<v1-5-24,24>>^ Enoque andou com Deus; e já não foi encontrado, pois Deus o havia arrebatado.
+
+[[v1-5-25]]
+
+^<<v1-5-25,25>>^ Aos 187 anos, Matusalém gerou Lameque.
+
+[[v1-5-26]]
+
+^<<v1-5-26,26>>^ Depois que gerou Lameque, Matusalém viveu 782 anos e gerou outros filhos e filhas.
+
+[[v1-5-27]]
+
+^<<v1-5-27,27>>^ Viveu ao todo 969 anos e morreu.
+
+[[v1-5-28]]
+
+^<<v1-5-28,28>>^ Aos 182 anos, Lameque gerou um filho.
+
+[[v1-5-29]]
+
+^<<v1-5-29,29>>^ Deu-lhe o nome de Noé e disse: "Ele nos aliviará do nosso trabalho e do sofrimento de nossas mãos, causados pela terra que o SENHOR amaldiçoou".
+
+[[v1-5-30]]
+
+^<<v1-5-30,30>>^ Depois que Noé nasceu, Lameque viveu 595 anos e gerou outros filhos e filhas.
+
+[[v1-5-31]]
+
+^<<v1-5-31,31>>^ Viveu ao todo 777 anos e morreu.
+
+[[v1-5-32]]
+
+^<<v1-5-32,32>>^ Aos 500 anos, Noé tinha gerado Sem, Cam e Jafé.
+
+'''
+
+xref:001-genesis/001-genesis-004.adoc#v1-4-0[&#60; Capítulo Anterior] | <<v1-5-0,Topo>> | xref:001-genesis/001-genesis-006.adoc#v1-6-0[Próximo Capítulo &#62;]

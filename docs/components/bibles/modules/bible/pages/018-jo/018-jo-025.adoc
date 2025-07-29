@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v18-25-0]]
+=== Jó, 25
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-25-1]]
+
+^<<v18-25-1,1>>^ Então Bildade, de Suá, respondeu:
+
+[[v18-25-2]]
+
+^<<v18-25-2,2>>^ "O domínio e o temor pertencem a Deus; ele impõe ordem nas alturas, que a ele pertencem.
+
+[[v18-25-3]]
+
+^<<v18-25-3,3>>^ Seria possível contar os seus exércitos? E a sua luz, sobre quem não se levanta?
+
+[[v18-25-4]]
+
+^<<v18-25-4,4>>^ Como pode então o homem ser justo diante de Deus? Como pode ser puro quem nasce de mulher?
+
+[[v18-25-5]]
+
+^<<v18-25-5,5>>^ Se nem a lua é brilhante e as estrelas são puras aos olhos dele,
+
+[[v18-25-6]]
+
+^<<v18-25-6,6>>^ muito menos o será o homem, que não passa de larva, o filho do homem, que não passa de verme! "
+
+'''
+
+xref:018-jo/018-jo-024.adoc#v18-24-0[&#60; Capítulo Anterior] | <<v18-25-0,Topo>> | xref:018-jo/018-jo-026.adoc#v18-26-0[Próximo Capítulo &#62;]

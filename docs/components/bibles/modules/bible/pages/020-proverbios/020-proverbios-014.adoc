@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v20-14-0]]
+=== Provérbios, 14
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-14-1]]
+
+^<<v20-14-1,1>>^ A mulher sábia edifica a sua casa, mas com as próprias mãos a insensata derruba a sua.
+
+[[v20-14-2]]
+
+^<<v20-14-2,2>>^ Quem anda direito teme o Senhor, mas quem segue caminhos enganosos o despreza.
+
+[[v20-14-3]]
+
+^<<v20-14-3,3>>^ A conversa do insensato traz a vara para as suas costas, mas os lábios dos sábios os protegem.
+
+[[v20-14-4]]
+
+^<<v20-14-4,4>>^ Onde não há bois o celeiro fica vazio, mas da força do boi vem a grande colheita.
+
+[[v20-14-5]]
+
+^<<v20-14-5,5>>^ A testemunha sincera não engana, mas a falsa transborda em mentiras.
+
+[[v20-14-6]]
+
+^<<v20-14-6,6>>^ O zombador busca sabedoria e nada encontra, mas o conhecimento vem facilmente ao que tem discernimento.
+
+[[v20-14-7]]
+
+^<<v20-14-7,7>>^ Mantenha-se longe do tolo, pois você não achará conhecimento no que ele falar.
+
+[[v20-14-8]]
+
+^<<v20-14-8,8>>^ A sabedoria do homem prudente é discernir o seu caminho, mas a insensatez dos tolos é enganosa.
+
+[[v20-14-9]]
+
+^<<v20-14-9,9>>^ Os insensatos zombam da idéia de reparar o pecado cometido, mas a boa vontade está entre os justos.
+
+[[v20-14-10]]
+
+^<<v20-14-10,10>>^ Cada coração conhece a sua própria amargura, e não há quem possa partilhar sua alegria.
+
+[[v20-14-11]]
+
+^<<v20-14-11,11>>^ A casa dos ímpios será destruída, mas a tenda dos justos florescerá.
+
+[[v20-14-12]]
+
+^<<v20-14-12,12>>^ Há caminho que parece certo ao homem, mas no final conduz à morte.
+
+[[v20-14-13]]
+
+^<<v20-14-13,13>>^ Mesmo no riso o coração pode sofrer, e a alegria pode terminar em tristeza.
+
+[[v20-14-14]]
+
+^<<v20-14-14,14>>^ Os infiéis receberão a retribuição de sua conduta, mas o homem bom será recompensado.
+
+[[v20-14-15]]
+
+^<<v20-14-15,15>>^ O inexperiente acredita em qualquer coisa, mas o homem prudente vê bem onde pisa.
+
+[[v20-14-16]]
+
+^<<v20-14-16,16>>^ O sábio é cauteloso e evita o mal, mas o tolo é impetuoso e irresponsável.
+
+[[v20-14-17]]
+
+^<<v20-14-17,17>>^ Quem é irritadiço faz tolices, e o homem cheio de astúcias é odiado.
+
+[[v20-14-18]]
+
+^<<v20-14-18,18>>^ Os inexperientes herdam a insensatez, mas o conhecimento é a coroa dos prudentes.
+
+[[v20-14-19]]
+
+^<<v20-14-19,19>>^ Os maus se inclinarão diante dos homens de bem, e os ímpios, às portas da justiça.
+
+[[v20-14-20]]
+
+^<<v20-14-20,20>>^ Os pobres são evitados até por seus vizinhos, mas os amigos dos ricos são muitos.
+
+[[v20-14-21]]
+
+^<<v20-14-21,21>>^ Quem despreza o próximo comete pecado, mas como é feliz quem trata com bondade os necessitados!
+
+[[v20-14-22]]
+
+^<<v20-14-22,22>>^ Não é certo que se perdem os que só pensam no mal? Mas os que planejam o bem encontram amor e fidelidade.
+
+[[v20-14-23]]
+
+^<<v20-14-23,23>>^ Todo trabalho árduo traz proveito, mas o só falar leva à pobreza.
+
+[[v20-14-24]]
+
+^<<v20-14-24,24>>^ A riqueza dos sábios é a sua coroa, mas a insensatez dos tolos produz apenas insensatez.
+
+[[v20-14-25]]
+
+^<<v20-14-25,25>>^ A testemunha que fala a verdade salva vidas, mas a testemunha falsa é enganosa.
+
+[[v20-14-26]]
+
+^<<v20-14-26,26>>^ Aquele que teme ao Senhor possui uma fortaleza segura, refúgio para os seus filhos.
+
+[[v20-14-27]]
+
+^<<v20-14-27,27>>^ O temor do Senhor é fonte de vida, e afasta das armadilhas da morte.
+
+[[v20-14-28]]
+
+^<<v20-14-28,28>>^ Uma grande população é a glória do rei, mas, sem súditos, o príncipe está arruinado.
+
+[[v20-14-29]]
+
+^<<v20-14-29,29>>^ O homem paciente dá prova de grande entendimento, mas o precipitado revela insensatez.
+
+[[v20-14-30]]
+
+^<<v20-14-30,30>>^ O coração em paz dá vida ao corpo, mas a inveja apodrece os ossos.
+
+[[v20-14-31]]
+
+^<<v20-14-31,31>>^ Aquele que oprime o pobre com isso despreza o seu Criador, mas quem ao necessitado trata com bondade honra a Deus.
+
+[[v20-14-32]]
+
+^<<v20-14-32,32>>^ Quando chega a calamidade, os ímpios são derrubados; os justos, porém, até em face da morte encontram refúgio.
+
+[[v20-14-33]]
+
+^<<v20-14-33,33>>^ A sabedoria repousa no coração dos que têm discernimento e mesmo entre os tolos ela se deixa conhecer.
+
+[[v20-14-34]]
+
+^<<v20-14-34,34>>^ A justiça engrandece a nação, mas o pecado é uma vergonha para qualquer povo.
+
+[[v20-14-35]]
+
+^<<v20-14-35,35>>^ O servo sábio agrada o rei, mas o que procede vergonhosamente incorre em sua ira.
+
+'''
+
+xref:020-proverbios/020-proverbios-013.adoc#v20-13-0[&#60; Capítulo Anterior] | <<v20-14-0,Topo>> | xref:020-proverbios/020-proverbios-015.adoc#v20-15-0[Próximo Capítulo &#62;]

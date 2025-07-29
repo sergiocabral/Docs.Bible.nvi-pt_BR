@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v18-17-0]]
+=== Jó, 17
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-17-1]]
+
+^<<v18-17-1,1>>^ "Meu espírito está quebrantado, os meus dias se encurtam, a sepultura me espera.
+
+[[v18-17-2]]
+
+^<<v18-17-2,2>>^ A verdade é que zombadores me rodeiam, e tenho que ficar olhando a hostilidade deles.
+
+[[v18-17-3]]
+
+^<<v18-17-3,3>>^ "Dá-me, ó Deus, a garantia que exiges. Quem, senão tu, me dará segurança?
+
+[[v18-17-4]]
+
+^<<v18-17-4,4>>^ Fechaste as mentes deles para o entendimento, e com isso não os deixarás triunfar.
+
+[[v18-17-5]]
+
+^<<v18-17-5,5>>^ Se alguém denunciar os seus amigos por recompensa, os olhos dos filhos dele fraquejarão,
+
+[[v18-17-6]]
+
+^<<v18-17-6,6>>^ "mas de mim Deus fez um provérbio para todos, um homem em cujo rosto os outros cospem.
+
+[[v18-17-7]]
+
+^<<v18-17-7,7>>^ Meus olhos se turvaram de tristeza; o meu corpo não passa de uma sombra.
+
+[[v18-17-8]]
+
+^<<v18-17-8,8>>^ Os íntegros ficam atônitos em face disso, e os inocentes se levantam contra os ímpios.
+
+[[v18-17-9]]
+
+^<<v18-17-9,9>>^ Mas os justos se manterão firmes em seus caminhos, e os homens de mãos puras se tornarão cada vez mais fortes.
+
+[[v18-17-10]]
+
+^<<v18-17-10,10>>^ "Venham, porém, vocês todos, e façam nova tentativa! Não acharei nenhum sábio entre vocês.
+
+[[v18-17-11]]
+
+^<<v18-17-11,11>>^ Foram-se os meus dias, os meus planos fracassaram, como também os desejos do meu coração.
+
+[[v18-17-12]]
+
+^<<v18-17-12,12>>^ Andam querendo tornar a noite em dia; ante a aproximação das trevas dizem: ‘Vem chegando a luz’.
+
+[[v18-17-13]]
+
+^<<v18-17-13,13>>^ Ora, se o único lar pelo qual espero é a sepultura; se estendo a minha cama nas trevas;
+
+[[v18-17-14]]
+
+^<<v18-17-14,14>>^ se digo à corrupção mortal: Você é o meu pai, e se aos vermes digo: Vocês são minha mãe e minha irmã,
+
+[[v18-17-15]]
+
+^<<v18-17-15,15>>^ onde está então minha esperança? Quem poderá ver alguma esperança para mim?
+
+[[v18-17-16]]
+
+^<<v18-17-16,16>>^ Descerá ela às portas do Sheol? Desceremos juntos ao pó? "
+
+'''
+
+xref:018-jo/018-jo-016.adoc#v18-16-0[&#60; Capítulo Anterior] | <<v18-17-0,Topo>> | xref:018-jo/018-jo-018.adoc#v18-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-90-0]]
+=== Salmos, 90
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-90-1]]
+
+^<<v19-90-1,1>>^ Senhor, tu és o nosso refúgio, sempre, de geração em geração.
+
+[[v19-90-2]]
+
+^<<v19-90-2,2>>^ Antes de nascerem os montes e de criares a terra e o mundo, de eternidade a eternidade tu és Deus.
+
+[[v19-90-3]]
+
+^<<v19-90-3,3>>^ Fazes os homens voltarem ao pó, dizendo: "Retornem ao pó, seres humanos! "
+
+[[v19-90-4]]
+
+^<<v19-90-4,4>>^ De fato, mil anos para ti são como o dia de ontem que passou, como as horas da noite.
+
+[[v19-90-5]]
+
+^<<v19-90-5,5>>^ Como uma correnteza, tu arrastas os homens; são breves como o sono; são como a relva que brota ao amanhecer;
+
+[[v19-90-6]]
+
+^<<v19-90-6,6>>^ germina e brota pela manhã, mas, à tarde, murcha e seca.
+
+[[v19-90-7]]
+
+^<<v19-90-7,7>>^ Somos consumidos pela tua ira e aterrorizados pelo teu furor.
+
+[[v19-90-8]]
+
+^<<v19-90-8,8>>^ Conheces as nossas iniqüidades; não escapam os nossos pecados secretos à luz da tua presença.
+
+[[v19-90-9]]
+
+^<<v19-90-9,9>>^ Todos os nossos dias passam debaixo do teu furor; vão-se como um murmúrio.
+
+[[v19-90-10]]
+
+^<<v19-90-10,10>>^ Os anos de nossa vida chegam a setenta, ou a oitenta para os que têm mais vigor; entretanto, são anos difíceis e cheios de sofrimento, pois a vida passa depressa, e nós voamos!
+
+[[v19-90-11]]
+
+^<<v19-90-11,11>>^ Quem conhece o poder da tua ira? Pois o teu furor é tão grande como o temor que te é devido.
+
+[[v19-90-12]]
+
+^<<v19-90-12,12>>^ Ensina-nos a contar os nossos dias para que o nosso coração alcance sabedoria.
+
+[[v19-90-13]]
+
+^<<v19-90-13,13>>^ Volta-te, Senhor! Até quando será assim? Tem compaixão dos teus servos!
+
+[[v19-90-14]]
+
+^<<v19-90-14,14>>^ Satisfaze-nos pela manhã com o teu amor leal, e todos os nossos dias cantaremos felizes.
+
+[[v19-90-15]]
+
+^<<v19-90-15,15>>^ Dá-nos alegria pelo tempo que nos afligiste, pelos anos em que tanto sofremos.
+
+[[v19-90-16]]
+
+^<<v19-90-16,16>>^ Sejam manifestos os teus feitos aos teus servos, e aos filhos deles o teu esplendor!
+
+[[v19-90-17]]
+
+^<<v19-90-17,17>>^ Esteja sobre nós a bondade do nosso Deus Soberano. Consolida, para nós, a obra de nossas mãos; consolida a obra de nossas mãos!
+
+'''
+
+xref:019-salmos/019-salmos-089.adoc#v19-89-0[&#60; Capítulo Anterior] | <<v19-90-0,Topo>> | xref:019-salmos/019-salmos-091.adoc#v19-91-0[Próximo Capítulo &#62;]

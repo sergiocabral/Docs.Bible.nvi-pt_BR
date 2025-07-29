@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v6-22-0]]
+=== Josué, 22
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v6-22-1]]
+
+^<<v6-22-1,1>>^ Josué convocou as tribos de Rúben, de Gade e a metade da tribo de Manassés
+
+[[v6-22-2]]
+
+^<<v6-22-2,2>>^ e lhes disse: "Vocês fizeram tudo o que Moisés, servo do Senhor, ordenou.
+
+[[v6-22-3]]
+
+^<<v6-22-3,3>>^ Durante muito tempo, e até hoje, vocês não abandonaram os seus irmãos, mas cumpriram a missão que o Senhor, o seu Deus, lhes entregou.
+
+[[v6-22-4]]
+
+^<<v6-22-4,4>>^ Agora que o Senhor, o seu Deus, já concedeu descanso aos seus irmãos israelitas, como tinha prometido, voltem para casa, para a terra que Moisés, servo do Senhor, lhes deu no outro lado do Jordão.
+
+[[v6-22-5]]
+
+^<<v6-22-5,5>>^ Mas guardem fielmente o mandamento e a lei que Moisés, servo do Senhor, lhes deu de amar o Senhor, o seu Deus, andar em todos os seus caminhos, obedecer aos seus mandamentos, apegar-se a ele e servi-lo de todo o coração e de toda a alma".
+
+[[v6-22-6]]
+
+^<<v6-22-6,6>>^ Então Josué os abençoou e os despediu, e eles foram para casa.
+
+[[v6-22-7]]
+
+^<<v6-22-7,7>>^ ( À metade da tribo de Manassés Moisés dera terras em Basã, e à outra metade da tribo Josué dera terras no lado oeste do Jordão, junto com outros israelitas. ) Ao mandá-los para casa, Josué os abençoou,
+
+[[v6-22-8]]
+
+^<<v6-22-8,8>>^ dizendo: "Voltem para casa com as riquezas que juntaram: grandes rebanhos, prata, ouro, bronze e ferro, e muitas roupas. Dividam com os seus irmãos os despojos de seus inimigos".
+
+[[v6-22-9]]
+
+^<<v6-22-9,9>>^ Assim as tribos de Rúben, de Gade e a metade da tribo de Manassés deixaram os outros israelitas em Siló, na terra de Canaã, para voltarem para Gileade, sua própria terra, da qual se apossaram de acordo com a ordem do Senhor, dada por meio de Moisés.
+
+[[v6-22-10]]
+
+^<<v6-22-10,10>>^ Quando chegaram a Gelilote, perto do Jordão, em Canaã, as tribos de Rúben, de Gade e a metade da tribo de Manassés construíram um imponente altar ali, junto ao Jordão.
+
+[[v6-22-11]]
+
+^<<v6-22-11,11>>^ E, quando os outros israelitas souberam que eles tinham construído o altar na fronteira de Canaã, em Gelilote, perto do Jordão, no lado israelita,
+
+[[v6-22-12]]
+
+^<<v6-22-12,12>>^ toda a comunidade de Israel reuniu-se em Siló para guerrear contra eles.
+
+[[v6-22-13]]
+
+^<<v6-22-13,13>>^ Então os israelitas enviaram Finéias, filho do sacerdote Eleazar, à terra de Gileade, às tribos de Rúben e Gade e à metade da tribo de Manassés.
+
+[[v6-22-14]]
+
+^<<v6-22-14,14>>^ Com ele enviaram dez líderes, um de cada tribo de Israel, sendo cada um deles chefe de suas respectivas famílias dentre os clãs israelitas.
+
+[[v6-22-15]]
+
+^<<v6-22-15,15>>^ Quando chegaram a Gileade, às tribos de Rúben e de Gade e à metade da tribo de Manassés, disseram-lhes:
+
+[[v6-22-16]]
+
+^<<v6-22-16,16>>^ "Assim diz toda a comunidade do Senhor: ‘Como foi que vocês cometeram essa infidelidade para com o Deus de Israel? Como foi que se afastaram do Senhor, construindo um altar para vocês, rebelando-se assim contra ele?
+
+[[v6-22-17]]
+
+^<<v6-22-17,17>>^ Já não nos bastou o pecado de Peor? Até hoje não nos purificamos daquele pecado, muito embora uma praga tenha caído sobre a comunidade do Senhor!
+
+[[v6-22-18]]
+
+^<<v6-22-18,18>>^ E agora vocês estão abandonando o Senhor! " ‘Se hoje vocês se rebelarem contra o Senhor, amanhã a sua ira cairá sobre toda a comunidade de Israel.
+
+[[v6-22-19]]
+
+^<<v6-22-19,19>>^ Se a terra que vocês receberam como propriedade está contaminada, passem então para a terra que pertence ao Senhor, onde está o tabernáculo do Senhor, e se apossem de um território entre nós. Mas não se rebelem contra o Senhor nem contra nós, construindo para vocês um altar que não seja o altar do Senhor, do nosso Deus.
+
+[[v6-22-20]]
+
+^<<v6-22-20,20>>^ Quando Acã, filho de Zerá, foi infiel com relação às coisas consagradas, não caiu a ira sobre toda a comunidade de Israel? E ele não foi o único que morreu por causa do seu pecado’ ".
+
+[[v6-22-21]]
+
+^<<v6-22-21,21>>^ Então as tribos de Rúben, de Gade e a metade da tribo de Manassés responderam aos chefes dos clãs de Israel:
+
+[[v6-22-22]]
+
+^<<v6-22-22,22>>^ "O Poderoso, Deus, o Senhor! O Poderoso, Deus, o Senhor! Ele sabe! E que Israel o saiba! Se agimos com rebelião ou infidelidade para com o Senhor, não nos poupem hoje.
+
+[[v6-22-23]]
+
+^<<v6-22-23,23>>^ Se construímos nosso próprio altar para nos afastarmos do Senhor e para oferecermos holocaustos e ofertas de cereal, ou sacrifícios de comunhão sobre ele, que o próprio Senhor nos peça contas disso!
+
+[[v6-22-24]]
+
+^<<v6-22-24,24>>^ "Ao contrário! Fizemos isso temendo que no futuro os seus descendentes dissessem aos nossos: ‘Que relação vocês têm com o Senhor, com o Deus de Israel?
+
+[[v6-22-25]]
+
+^<<v6-22-25,25>>^ Homens de Rúben e de Gade! O Senhor fez do Jordão uma fronteira entre nós e vocês. Vocês não têm parte com o Senhor’. Assim os seus descendentes poderiam levar os nossos a deixarem de temer o Senhor.
+
+[[v6-22-26]]
+
+^<<v6-22-26,26>>^ "É por isso que resolvemos construir um altar, não para holocaustos ou sacrifícios,
+
+[[v6-22-27]]
+
+^<<v6-22-27,27>>^ mas, para que esse altar sirva de testemunho entre nós e vocês e as gerações futuras, de que cultuaremos o Senhor em seu santuário com nossos holocaustos, sacrifícios e ofertas de comunhão. Então, no futuro, os seus descendentes não poderão dizer aos nossos: ‘Vocês não têm parte com o Senhor’.
+
+[[v6-22-28]]
+
+^<<v6-22-28,28>>^ "E dissemos: Se algum dia disserem isso a nós ou aos nossos descendentes, responderemos: Vejam a réplica do altar do Senhor que os nossos antepassados construíram, não para holocaustos ou sacrifícios, mas como testemunho entre nós e vocês.
+
+[[v6-22-29]]
+
+^<<v6-22-29,29>>^ "Longe de nós nos rebelarmos contra o Senhor e nos afastarmos dele, construindo para holocaustos, ofertas de cereal e sacrifícios um altar que não seja o altar do Senhor, do nosso Deus, que está diante do seu tabernáculo! "
+
+[[v6-22-30]]
+
+^<<v6-22-30,30>>^ Quando o sacerdote Finéias e os líderes da comunidade, os chefes dos clãs dos israelitas, ouviram o que os homens de Rúben, de Gade e de Manassés disseram, deram-se por satisfeitos.
+
+[[v6-22-31]]
+
+^<<v6-22-31,31>>^ E Finéias, filho do sacerdote Eleazar, disse a Rúben, a Gade e a Manassés: "Hoje sabemos que o Senhor está conosco, pois vocês não foram infiéis para com o Senhor. E assim vocês livraram os israelitas da mão do Senhor".
+
+[[v6-22-32]]
+
+^<<v6-22-32,32>>^ Então Finéias, filho do sacerdote Eleazar, e os líderes voltaram do encontro com os homens de Rúben e de Gade em Gileade, e foram para Canaã dar relatório aos outros israelitas.
+
+[[v6-22-33]]
+
+^<<v6-22-33,33>>^ Estes se alegraram com o relatório e louvaram a Deus. E não mais falaram em guerrear contra as tribos de Rúben e de Gade, nem em devastar a região onde eles viviam.
+
+[[v6-22-34]]
+
+^<<v6-22-34,34>>^ Os homens de Rúben e de Gade deram ao altar este nome: Um Testemunho Entre Nós de que o Senhor é Deus.
+
+'''
+
+xref:006-josue/006-josue-021.adoc#v6-21-0[&#60; Capítulo Anterior] | <<v6-22-0,Topo>> | xref:006-josue/006-josue-023.adoc#v6-23-0[Próximo Capítulo &#62;]

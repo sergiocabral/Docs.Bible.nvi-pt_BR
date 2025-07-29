@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v2-20-0]]
+=== Êxodo, 20
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v2-20-1]]
+
+^<<v2-20-1,1>>^ E Deus falou todas estas palavras:
+
+[[v2-20-2]]
+
+^<<v2-20-2,2>>^ "Eu sou o Senhor, o teu Deus, que te tirou do Egito, da terra da escravidão.
+
+[[v2-20-3]]
+
+^<<v2-20-3,3>>^ "Não terás outros deuses além de mim.
+
+[[v2-20-4]]
+
+^<<v2-20-4,4>>^ "Não farás para ti nenhum ídolo, nenhuma imagem de qualquer coisa no céu, na terra, ou nas águas debaixo da terra.
+
+[[v2-20-5]]
+
+^<<v2-20-5,5>>^ Não te prostrarás diante deles nem lhes prestarás culto, porque eu, o Senhor teu Deus, sou Deus zeloso, que castigo os filhos pelos pecados de seus pais até a terceira e quarta geração daqueles que me desprezam,
+
+[[v2-20-6]]
+
+^<<v2-20-6,6>>^ mas trato com bondade até mil gerações aos que me amam e guardam os meus mandamentos.
+
+[[v2-20-7]]
+
+^<<v2-20-7,7>>^ "Não tomarás em vão o nome do Senhor teu Deus, pois o Senhor não deixará impune quem tomar o seu nome em vão.
+
+[[v2-20-8]]
+
+^<<v2-20-8,8>>^ "Lembra-te do dia de sábado, para santificá-lo.
+
+[[v2-20-9]]
+
+^<<v2-20-9,9>>^ Trabalharás seis dias e neles farás todos os teus trabalhos,
+
+[[v2-20-10]]
+
+^<<v2-20-10,10>>^ mas o sétimo dia é o sábado dedicado ao Senhor teu Deus. Nesse dia não farás trabalho algum, nem tu, nem teus filhos ou filhas, nem teus servos ou servas, nem teus animais, nem os estrangeiros que morarem em tuas cidades.
+
+[[v2-20-11]]
+
+^<<v2-20-11,11>>^ Pois em seis dias o Senhor fez os céus e a terra, o mar e tudo o que neles existe, mas no sétimo dia descansou. Portanto, o Senhor abençoou o sétimo dia e o santificou.
+
+[[v2-20-12]]
+
+^<<v2-20-12,12>>^ "Honra teu pai e tua mãe, a fim de que tenhas vida longa na terra que o Senhor teu Deus te dá.
+
+[[v2-20-13]]
+
+^<<v2-20-13,13>>^ "Não matarás.
+
+[[v2-20-14]]
+
+^<<v2-20-14,14>>^ "Não adulterarás.
+
+[[v2-20-15]]
+
+^<<v2-20-15,15>>^ "Não furtarás.
+
+[[v2-20-16]]
+
+^<<v2-20-16,16>>^ "Não darás falso testemunho contra o teu próximo.
+
+[[v2-20-17]]
+
+^<<v2-20-17,17>>^ "Não cobiçarás a casa do teu próximo. Não cobiçarás a mulher do teu próximo, nem seus servos ou servas, nem seu boi ou jumento, nem coisa alguma que lhe pertença".
+
+[[v2-20-18]]
+
+^<<v2-20-18,18>>^ Vendo-se o povo diante dos trovões e dos relâmpagos, e do som da trombeta e do monte fumegando, todos tremeram assustados. Ficaram à distância
+
+[[v2-20-19]]
+
+^<<v2-20-19,19>>^ e disseram a Moisés: "Fala tu mesmo conosco, e ouviremos. Mas que Deus não fale conosco, para que não morramos".
+
+[[v2-20-20]]
+
+^<<v2-20-20,20>>^ Moisés disse ao povo: "Não tenham medo! Deus veio prová-los, para que o temor de Deus esteja em vocês e os livre de pecar".
+
+[[v2-20-21]]
+
+^<<v2-20-21,21>>^ Mas o povo permaneceu à distância, ao passo que Moisés aproximou-se da nuvem escura em que Deus se encontrava.
+
+[[v2-20-22]]
+
+^<<v2-20-22,22>>^ O Senhor disse a Moisés: "Diga o seguinte aos israelitas: Vocês viram por si mesmos que do céu lhes falei:
+
+[[v2-20-23]]
+
+^<<v2-20-23,23>>^ não façam ídolos de prata nem de ouro para me representarem.
+
+[[v2-20-24]]
+
+^<<v2-20-24,24>>^ "Façam-me um altar de terra e nele sacrifiquem-me os seus holocaustos e as suas ofertas de comunhão, as suas ovelhas e os seus bois. Onde quer que eu faça celebrar o meu nome, virei a vocês e os abençoarei.
+
+[[v2-20-25]]
+
+^<<v2-20-25,25>>^ Se me fizerem um altar de pedras, não o façam com pedras lavradas, porque o uso de ferramentas o profanaria.
+
+[[v2-20-26]]
+
+^<<v2-20-26,26>>^ Não subam por degraus ao meu altar, para que nele não seja exposta a sua nudez".
+
+'''
+
+xref:002-exodo/002-exodo-019.adoc#v2-19-0[&#60; Capítulo Anterior] | <<v2-20-0,Topo>> | xref:002-exodo/002-exodo-021.adoc#v2-21-0[Próximo Capítulo &#62;]

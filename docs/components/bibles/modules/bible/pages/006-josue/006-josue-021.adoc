@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v6-21-0]]
+=== Josué, 21
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v6-21-1]]
+
+^<<v6-21-1,1>>^ Os chefes de família dos levitas se aproximaram do sacerdote Eleazar, de Josué, filho de Num, e dos chefes das outras famílias das tribos dos israelitas
+
+[[v6-21-2]]
+
+^<<v6-21-2,2>>^ em Siló, na terra de Canaã, e lhes disseram: "O Senhor ordenou por meio de Moisés que vocês nos dessem cidades onde possamos habitar, e pastagens para os nossos animais".
+
+[[v6-21-3]]
+
+^<<v6-21-3,3>>^ Por isso, de acordo com a ordem do Senhor, os israelitas deram da sua própria herança as seguintes cidades com suas pastagens aos levitas:
+
+[[v6-21-4]]
+
+^<<v6-21-4,4>>^ A sorte saiu primeiro para os coatitas, clã por clã. Os levitas, que eram descendentes do sacerdote Arão, receberam treze cidades das tribos de Judá, de Simeão e de Benjamim.
+
+[[v6-21-5]]
+
+^<<v6-21-5,5>>^ Os outros descendentes de Coate receberam dez cidades dos clãs das tribos de Efraim e de Dã, e da metade da tribo de Manassés.
+
+[[v6-21-6]]
+
+^<<v6-21-6,6>>^ Os descendentes de Gérson receberam treze cidades dos clãs das tribos de Issacar, de Aser e de Naftali, e da metade da tribo de Manassés estabelecida em Basã.
+
+[[v6-21-7]]
+
+^<<v6-21-7,7>>^ Os descendentes de Merari, clã por clã, receberam doze cidades das tribos de Rúben, de Gade e de Zebulom.
+
+[[v6-21-8]]
+
+^<<v6-21-8,8>>^ Dessa maneira os israelitas deram aos levitas essas cidades com suas pastagens, como o Senhor tinha ordenado por meio de Moisés.
+
+[[v6-21-9]]
+
+^<<v6-21-9,9>>^ Das tribos de Judá e de Simeão, os israelitas deram as seguintes cidades, indicadas nominalmente.
+
+[[v6-21-10]]
+
+^<<v6-21-10,10>>^ Foram dadas aos descendentes de Arão que pertenciam aos clãs coatitas dos levitas, pois para eles saiu a primeira sorte:
+
+[[v6-21-11]]
+
+^<<v6-21-11,11>>^ Quiriate-Arba, que é Hebrom, com as suas pastagens ao redor, nos montes de Judá. ( Arba era antepassado de Enaque. )
+
+[[v6-21-12]]
+
+^<<v6-21-12,12>>^ Mas os campos e os povoados em torno da cidade foram dados a Calebe, filho de Jefoné, como sua propriedade.
+
+[[v6-21-13]]
+
+^<<v6-21-13,13>>^ Assim, aos descendentes do sacerdote Arão deram Hebrom, cidade de refúgio para os acusados de homicídio, Libna,
+
+[[v6-21-14]]
+
+^<<v6-21-14,14>>^ Jatir, Estemoa,
+
+[[v6-21-15]]
+
+^<<v6-21-15,15>>^ Holom, Debir,
+
+[[v6-21-16]]
+
+^<<v6-21-16,16>>^ Aim, Jutá e Bete-Semes, cada qual com os seus arredores. Foram nove cidades dadas por essas duas tribos.
+
+[[v6-21-17]]
+
+^<<v6-21-17,17>>^ Da tribo de Benjamim deram-lhes Gibeom, Geba,
+
+[[v6-21-18]]
+
+^<<v6-21-18,18>>^ Anatote e Almom, cada qual com os seus arredores. Eram quatro cidades.
+
+[[v6-21-19]]
+
+^<<v6-21-19,19>>^ Todas as cidades dadas aos sacerdotes, descendentes de Arão, foram treze; cada qual com os seus arredores.
+
+[[v6-21-20]]
+
+^<<v6-21-20,20>>^ Os outros clãs coatitas dos levitas receberam cidades da tribo de Efraim.
+
+[[v6-21-21]]
+
+^<<v6-21-21,21>>^ Nos montes de Efraim receberam Siquém, cidade de refúgio para os acusados de homicídio, Gezer,
+
+[[v6-21-22]]
+
+^<<v6-21-22,22>>^ Quibzaim e Bete-Horom, cada qual com os seus arredores. Foram quatro cidades.
+
+[[v6-21-23]]
+
+^<<v6-21-23,23>>^ Também da tribo de Dã receberam Elteque, Gibetom,
+
+[[v6-21-24]]
+
+^<<v6-21-24,24>>^ Aijalom e Gate-Rimom, cada qual com os seus arredores. Foram quatro cidades.
+
+[[v6-21-25]]
+
+^<<v6-21-25,25>>^ Da meia tribo de Manassés receberam Taanaque e Gate-Rimom, cada qual com os seus arredores. Eram duas cidades.
+
+[[v6-21-26]]
+
+^<<v6-21-26,26>>^ Todas essas dez cidades e seus arredores foram dadas aos outros clãs coatitas.
+
+[[v6-21-27]]
+
+^<<v6-21-27,27>>^ Os clãs levitas gersonitas receberam da metade da tribo de Manassés: Golã, em Basã, cidade de refúgio para os acusados de homicídio, e Beesterá, cada qual com os seus arredores. Foram duas cidades.
+
+[[v6-21-28]]
+
+^<<v6-21-28,28>>^ Receberam da tribo de Issacar: Quisiom, Daberate,
+
+[[v6-21-29]]
+
+^<<v6-21-29,29>>^ Jarmute e En-Ganim, cada qual com os seus arredores. Foram quatro cidades.
+
+[[v6-21-30]]
+
+^<<v6-21-30,30>>^ Receberam da tribo de Aser: Misal, Abdom,
+
+[[v6-21-31]]
+
+^<<v6-21-31,31>>^ Helcate e Reobe, cada qual com os seus arredores. Foram quatro cidades.
+
+[[v6-21-32]]
+
+^<<v6-21-32,32>>^ Receberam da tribo de Naftali: Quedes, na Galiléia, cidade de refúgio dos acusados de homicídio, Hamote-Dor e Cartã, cada qual com os seus arredores. Foram três cidades.
+
+[[v6-21-33]]
+
+^<<v6-21-33,33>>^ Todas as cidades dos clãs gersonitas foram treze.
+
+[[v6-21-34]]
+
+^<<v6-21-34,34>>^ Os clãs meraritas, o restante dos levitas, receberam as seguintes cidades: Da tribo de Zebulom: Jocneão, Cartá,
+
+[[v6-21-35]]
+
+^<<v6-21-35,35>>^ Dimna e Naalal, cada qual com os seus arredores. Foram quatro cidades.
+
+[[v6-21-36]]
+
+^<<v6-21-36,36>>^ Da tribo de Rúben: Bezer, Jaza,
+
+[[v6-21-37]]
+
+^<<v6-21-37,37>>^ Quedemote e Mefaate, cada qual com os seus arredores. Foram quatro cidades.
+
+[[v6-21-38]]
+
+^<<v6-21-38,38>>^ Da tribo de Gade: em Gileade, Ramote, cidade de refúgio dos acusados de homicídio, Maanaim,
+
+[[v6-21-39]]
+
+^<<v6-21-39,39>>^ Hesbom e Jazar, cada qual com os seus arredores. Foram quatro cidades ao todo.
+
+[[v6-21-40]]
+
+^<<v6-21-40,40>>^ Todas as cidades dadas aos clãs meraritas, que eram o restante dos levitas, foram doze.
+
+[[v6-21-41]]
+
+^<<v6-21-41,41>>^ No total, as cidades dos levitas nos territórios dos outros israelitas foram quarenta e oito cidades com os seus arredores.
+
+[[v6-21-42]]
+
+^<<v6-21-42,42>>^ Cada uma de todas essas cidades tinha pastagens ao seu redor.
+
+[[v6-21-43]]
+
+^<<v6-21-43,43>>^ Assim o Senhor deu aos israelitas toda a terra que tinha prometido sob juramento aos seus antepassados, e eles tomaram posse dela e se estabeleceram ali.
+
+[[v6-21-44]]
+
+^<<v6-21-44,44>>^ O Senhor lhes concedeu descanso de todos os lados, como tinha jurado aos seus antepassados. Nenhum dos seus inimigos pode resisti-los, pois o Senhor entregou a todos eles em suas mãos.
+
+[[v6-21-45]]
+
+^<<v6-21-45,45>>^ De todas as boas promessas do Senhor à nação de Israel, nenhuma delas falhou; todas se cumpriram.
+
+'''
+
+xref:006-josue/006-josue-020.adoc#v6-20-0[&#60; Capítulo Anterior] | <<v6-21-0,Topo>> | xref:006-josue/006-josue-022.adoc#v6-22-0[Próximo Capítulo &#62;]

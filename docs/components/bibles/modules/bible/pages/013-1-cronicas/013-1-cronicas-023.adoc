@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v13-23-0]]
+=== 1 Crônicas, 23
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v13-23-1]]
+
+^<<v13-23-1,1>>^ Já envelhecido e de idade avançada, Davi fez do seu filho Salomão rei sobre Israel.
+
+[[v13-23-2]]
+
+^<<v13-23-2,2>>^ Ele reuniu todos os líderes de Israel, bem como os sacerdotes e os levitas.
+
+[[v13-23-3]]
+
+^<<v13-23-3,3>>^ Os levitas de trinta anos para cima foram contados, e o número total deles chegou a trinta e oito mil.
+
+[[v13-23-4]]
+
+^<<v13-23-4,4>>^ Davi escolheu vinte e quatro mil desses para supervisionarem o trabalho do templo do Senhor e seis mil para serem oficiais e juízes;
+
+[[v13-23-5]]
+
+^<<v13-23-5,5>>^ quatro mil para serem guardas das portas e quatro mil para louvarem o Senhor com os instrumentos musicais que Davi preparou com esse propósito.
+
+[[v13-23-6]]
+
+^<<v13-23-6,6>>^ Davi repartiu os levitas em grupos que descendiam dos filhos de Levi, Gérson, Coate e Merari.
+
+[[v13-23-7]]
+
+^<<v13-23-7,7>>^ Dos filhos de Gérson: Ladã e Simei.
+
+[[v13-23-8]]
+
+^<<v13-23-8,8>>^ Estes foram os filhos de Ladã: Jeiel, o primeiro, Zetã e Joel, três ao todo.
+
+[[v13-23-9]]
+
+^<<v13-23-9,9>>^ Estes foram os filhos de Simei: Selomote, Haziel e Harã, três ao todo. Esses foram os chefes das famílias de Ladã.
+
+[[v13-23-10]]
+
+^<<v13-23-10,10>>^ E os filhos de Simei foram: Jaate, Ziza, Jeús e Berias. Esses foram os filhos de Simei, quatro ao todo.
+
+[[v13-23-11]]
+
+^<<v13-23-11,11>>^ Jaate foi o primeiro e Ziza, o segundo, mas Jeús e Berias não tiveram muitos descendentes, por isso foram contados como uma única família.
+
+[[v13-23-12]]
+
+^<<v13-23-12,12>>^ Dos filhos de Coate: Anrão, Isar, Hebrom e Uziel, quatro ao todo.
+
+[[v13-23-13]]
+
+^<<v13-23-13,13>>^ Estes foram os filhos de Anrão: Arão e Moisés. Arão foi separado, ele e seus descendentes para sempre, para consagrar as coisas santíssimas, oferecer sacrifícios ao Senhor, ministrar diante dele e pronunciar bênçãos em seu nome, para sempre.
+
+[[v13-23-14]]
+
+^<<v13-23-14,14>>^ Os filhos de Moisés, homem de Deus, foram contados como parte da tribo de Levi.
+
+[[v13-23-15]]
+
+^<<v13-23-15,15>>^ Estes foram os filhos de Moisés: Gérson e Eliézer.
+
+[[v13-23-16]]
+
+^<<v13-23-16,16>>^ Sebuel foi o chefe dos descendentes de Gérson.
+
+[[v13-23-17]]
+
+^<<v13-23-17,17>>^ Reabias foi o chefe dos descendentes de Eliézer. Eliézer não teve nenhum outro filho, mas Reabias teve muitos filhos.
+
+[[v13-23-18]]
+
+^<<v13-23-18,18>>^ Selomite foi o chefe dos filhos de Isar.
+
+[[v13-23-19]]
+
+^<<v13-23-19,19>>^ Estes foram os filhos de Hebrom: Jerias foi o primeiro, Amarias, o segundo, Jaaziel, o terceiro, e Jecameão foi o quarto.
+
+[[v13-23-20]]
+
+^<<v13-23-20,20>>^ Estes foram os filhos de Uziel: Mica, o primeiro, e Issias, o segundo.
+
+[[v13-23-21]]
+
+^<<v13-23-21,21>>^ Dos filhos de Merari: Mali e Musi. Estes foram os filhos de Mali: Eleazar e Quis.
+
+[[v13-23-22]]
+
+^<<v13-23-22,22>>^ Eleazar morreu sem ter filhos, pois teve apenas filhas. Os primos delas, os filhos de Quis, casaram-se com elas.
+
+[[v13-23-23]]
+
+^<<v13-23-23,23>>^ Estes foram os filhos de Musi: Mali, Éder e Jeremote, três ao todo.
+
+[[v13-23-24]]
+
+^<<v13-23-24,24>>^ Esses foram os descendentes de Levi pelas suas famílias: os chefes de famílias conforme registrados por seus nomes e contados individualmente, ou seja, os de vinte anos para cima, que serviam no templo do Senhor.
+
+[[v13-23-25]]
+
+^<<v13-23-25,25>>^ Pois Davi dissera: "Uma vez que o Senhor, o Deus de Israel, concedeu descanso ao seu povo e veio habitar para sempre em Jerusalém,
+
+[[v13-23-26]]
+
+^<<v13-23-26,26>>^ os levitas não mais precisam carregar o tabernáculo nem os utensílios usados em seu serviço".
+
+[[v13-23-27]]
+
+^<<v13-23-27,27>>^ De acordo com as instruções finais de Davi, foram contados os levitas de vinte anos para cima.
+
+[[v13-23-28]]
+
+^<<v13-23-28,28>>^ O dever dos levitas era ajudar os descendentes de Arão no serviço do templo do Senhor. Encarregavam-se dos pátios, das salas laterais, da purificação de todas as coisas sagradas e dos outros deveres na casa de Deus.
+
+[[v13-23-29]]
+
+^<<v13-23-29,29>>^ Estavam encarregados do pão consagrado, da farinha para as ofertas de cereal, dos bolos sem fermento, de assar o pão e misturar a massa, e de todos os pesos e medidas.
+
+[[v13-23-30]]
+
+^<<v13-23-30,30>>^ Além disso, deviam se apresentar todas as manhãs e todas as tardes para agradecer e louvar ao Senhor, e fazer o mesmo
+
+[[v13-23-31]]
+
+^<<v13-23-31,31>>^ sempre que holocaustos fossem apresentados ao Senhor nos sábados, nas festas da lua nova e nas festas fixas. Deviam servir regularmente diante do Senhor, conforme o número prescrito para eles.
+
+[[v13-23-32]]
+
+^<<v13-23-32,32>>^ Dessa maneira os levitas ficaram responsáveis pela Tenda do Encontro, pelo Lugar Santo e, pela assistência aos seus irmãos, os descendentes de Arão, e pelo serviço do templo do Senhor.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-022.adoc#v13-22-0[&#60; Capítulo Anterior] | <<v13-23-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-024.adoc#v13-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-6-0]]
+=== Salmos, 6
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-6-1]]
+
+^<<v19-6-1,1>>^ Senhor, não me castigues na tua ira nem me disciplines no teu furor.
+
+[[v19-6-2]]
+
+^<<v19-6-2,2>>^ Misericórdia, Senhor, pois vou desfalecendo! Cura-me, Senhor, pois os meus ossos tremem:
+
+[[v19-6-3]]
+
+^<<v19-6-3,3>>^ Todo o meu ser estremece. Até quando, Senhor, até quando?
+
+[[v19-6-4]]
+
+^<<v19-6-4,4>>^ Volta-te, Senhor, e livra-me; salva-me por causa do teu amor leal.
+
+[[v19-6-5]]
+
+^<<v19-6-5,5>>^ Quem morreu não se lembra de ti. Entre os mortos, quem te louvará?
+
+[[v19-6-6]]
+
+^<<v19-6-6,6>>^ Estou exausto de tanto gemer. De tanto chorar inundo de noite a minha cama; de lágrimas encharco o meu leito.
+
+[[v19-6-7]]
+
+^<<v19-6-7,7>>^ Os meus olhos se consomem de tristeza; fraquejam por causa de todos os meus adversários.
+
+[[v19-6-8]]
+
+^<<v19-6-8,8>>^ Afastem-se de mim todos vocês que praticam o mal, porque o Senhor ouviu o meu choro.
+
+[[v19-6-9]]
+
+^<<v19-6-9,9>>^ O Senhor ouviu a minha súplica; o Senhor aceitou a minha oração.
+
+[[v19-6-10]]
+
+^<<v19-6-10,10>>^ Serão humilhados e aterrorizados todos os meus inimigos; frustrados, recuarão de repente.
+
+'''
+
+xref:019-salmos/019-salmos-005.adoc#v19-5-0[&#60; Capítulo Anterior] | <<v19-6-0,Topo>> | xref:019-salmos/019-salmos-007.adoc#v19-7-0[Próximo Capítulo &#62;]

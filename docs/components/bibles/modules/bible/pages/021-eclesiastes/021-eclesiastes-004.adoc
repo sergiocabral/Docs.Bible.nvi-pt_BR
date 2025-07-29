@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v21-4-0]]
+=== Eclesiastes, 4
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v21-4-1]]
+
+^<<v21-4-1,1>>^ De novo voltei a minha atenção e vi toda a opressão que ocorre debaixo do sol: Vi as lágrimas dos oprimidos, mas não há quem os console; o poder estava do lado dos seus opressores, e não há quem os console.
+
+[[v21-4-2]]
+
+^<<v21-4-2,2>>^ Por isso considerei os mortos, mais felizes do que os vivos, pois estes ainda têm que viver!
+
+[[v21-4-3]]
+
+^<<v21-4-3,3>>^ No entanto, melhor do que ambos é aquele que ainda não nasceu, que não viu o mal que se faz debaixo do sol.
+
+[[v21-4-4]]
+
+^<<v21-4-4,4>>^ Descobri que todo trabalho e toda realização surgem da competição que existe entre as pessoas. Mas isso também é absurdo, é correr atrás do vento.
+
+[[v21-4-5]]
+
+^<<v21-4-5,5>>^ O tolo cruza os braços e destrói a própria vida.
+
+[[v21-4-6]]
+
+^<<v21-4-6,6>>^ Melhor é ter um punhado com tranqüilidade do que dois punhados à custa de muito esforço e de correr atrás do vento.
+
+[[v21-4-7]]
+
+^<<v21-4-7,7>>^ Descobri ainda outra situação absurda debaixo do sol:
+
+[[v21-4-8]]
+
+^<<v21-4-8,8>>^ Havia um homem totalmente solitário; não tinha filho nem irmão. Trabalhava sem parar! Contudo, os seus olhos não se satisfaziam com a sua riqueza. Ele sequer perguntava: "Para quem estou trabalhando tanto, e por que razão deixo de me divertir? " Isso também é absurdo. É um trabalho muito ingrato!
+
+[[v21-4-9]]
+
+^<<v21-4-9,9>>^ É melhor ter companhia do que estar sozinho, porque maior é a recompensa do trabalho de duas pessoas.
+
+[[v21-4-10]]
+
+^<<v21-4-10,10>>^ Se um cair, o amigo pode ajudá-lo a levantar-se. Mas pobre do homem que cai e não tem quem o ajude a levantar-se!
+
+[[v21-4-11]]
+
+^<<v21-4-11,11>>^ E se dois dormirem juntos, vão manter-se aquecidos. Como, porém, manter-se aquecido sozinho?
+
+[[v21-4-12]]
+
+^<<v21-4-12,12>>^ Um homem sozinho pode ser vencido, mas dois conseguem defender-se. Um cordão de três dobras não se rompe com facilidade.
+
+[[v21-4-13]]
+
+^<<v21-4-13,13>>^ Melhor é um jovem pobre e sábio, do que um rei idoso e tolo, que não mais aceita repreensão.
+
+[[v21-4-14]]
+
+^<<v21-4-14,14>>^ O jovem pode ter saído da prisão e chegado ao trono, ou pode ter nascido pobre no país daquele rei.
+
+[[v21-4-15]]
+
+^<<v21-4-15,15>>^ Percebi que, ainda assim, o povo que vivia debaixo do sol seguia o jovem, o sucessor do rei.
+
+[[v21-4-16]]
+
+^<<v21-4-16,16>>^ O número dos que aderiram a ele era incontável. A geração seguinte, porém, não ficou satisfeita com o sucessor. Isso também não faz sentido, é correr atrás do vento.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-003.adoc#v21-3-0[&#60; Capítulo Anterior] | <<v21-4-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== 1 Crônicas, 24
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ Os filhos de Arão foram assim agrupados: Os filhos de Arão foram Nadabe, Abiú, Eleazar e Itamar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ Mas Nadabe e Abiú morreram antes de seu pai e não tiveram filhos; apenas Eleazar e Itamar serviram como sacerdotes.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ Com a ajuda de Zadoque, descendente de Eleazar, e de Aimeleque, descendente de Itamar, Davi os dividiu em grupos para que cumprissem as suas responsabilidades.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ Havia um número maior de chefes de família entre os descendentes de Eleazar do que entre os de Itamar, e por isso eles foram assim divididos: dezesseis chefes de famílias dentre os descendentes de Eleazar e oito, dentre os descendentes de Itamar.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ Eles foram divididos de maneira imparcial mediante sorteio, pois havia líderes do santuário e líderes de Deus tanto entre os descendentes de Eleazar como entre os de Itamar.
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ O escriba Semaías, filho do levita Natanael, registrou os nomes deles na presença do rei, dos líderes, dos sacerdotes Zadoque e Aimeleque, filho de Abiatar, e dos chefes de famílias dos sacerdotes e dos levitas; as famílias de Eleazar e de Itamar foram sorteadas alternadamente.
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ A primeira sorte caiu para Jeoiaribe, a segunda para Jedaías,
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ a terceira para Harim, a quarta para Seorim,
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ a quinta para Malquias, a sexta para Miamim,
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ a sétima para Hacoz, a oitava para Abias,
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ a nona para Jesua, a décima para Secanias,
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ a décima primeira para Eliasibe, a décima segunda para Jaquim,
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ a décima terceira para Hupá, a décima quarta para Jesebeabe,
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ a décima quinta para Bilga, a décima sexta para Imer,
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ a décima sétima para Hezir, a décima oitava para Hapises,
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ a décima nona para Petaías, a vigésima para Jeezquel,
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ a vigésima primeira para Jaquim, a vigésima segunda para Gamul,
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ a vigésima terceira para Delaías, e a vigésima quarta para Maazias.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ Conforme essa ordem eles deveriam ministrar quando entrassem no templo do Senhor, de acordo com as prescrições que Arão, antepassado deles, lhes deixou, conforme o Senhor, o Deus de Israel, havia lhe ordenado.
+
+[[v13-24-20]]
+
+^<<v13-24-20,20>>^ Estes foram os chefes dos outros levitas: dos descendentes de Anrão: Subael; dos descendentes de Subael: Jedias.
+
+[[v13-24-21]]
+
+^<<v13-24-21,21>>^ Quanto a Reabias, Issias foi o chefe dos seus filhos.
+
+[[v13-24-22]]
+
+^<<v13-24-22,22>>^ Dos descendentes de Isar: Selomote; dos filhos de Selomote: Jaate.
+
+[[v13-24-23]]
+
+^<<v13-24-23,23>>^ Dos descendentes de Hebrom: Jerias, o primeiro, Amarias, o segundo, Jaaziel, o terceiro, e Jecameão, o quarto.
+
+[[v13-24-24]]
+
+^<<v13-24-24,24>>^ Dos descendentes de Uziel: Mica; dos filhos de Mica: Samir.
+
+[[v13-24-25]]
+
+^<<v13-24-25,25>>^ Dos descendentes de Issias, irmão de Mica, Zacarias.
+
+[[v13-24-26]]
+
+^<<v13-24-26,26>>^ Dos filhos de Merari: Mali e Musi. Dos filhos de Jaazias: Beno.
+
+[[v13-24-27]]
+
+^<<v13-24-27,27>>^ Os descendentes de Merari por Jaazias: Beno, Soão, Zacur e Ibri.
+
+[[v13-24-28]]
+
+^<<v13-24-28,28>>^ De Mali: Eleazar, que não teve filhos.
+
+[[v13-24-29]]
+
+^<<v13-24-29,29>>^ De Quis: Jerameel.
+
+[[v13-24-30]]
+
+^<<v13-24-30,30>>^ E foram estes os filhos de Musi: Mali, Éder e Jeremote. Esses foram os levitas, de acordo com as suas famílias.
+
+[[v13-24-31]]
+
+^<<v13-24-31,31>>^ Eles também tiraram sortes na presença do rei Davi e de Zadoque, de Aimeleque, e dos chefes de famílias dos sacerdotes e dos levitas, assim como fizeram seus irmãos, os descendentes de Arão. As famílias dos irmãos mais velhos foram tratadas da mesma maneira que as dos mais novos.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[Próximo Capítulo &#62;]

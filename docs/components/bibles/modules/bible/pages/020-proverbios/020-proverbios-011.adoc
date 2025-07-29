@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v20-11-0]]
+=== Provérbios, 11
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-11-1]]
+
+^<<v20-11-1,1>>^ O Senhor repudia balanças desonestas, mas os pesos exatos lhe dão prazer.
+
+[[v20-11-2]]
+
+^<<v20-11-2,2>>^ Quando vem o orgulho, chega a desgraça, mas a sabedoria está com os humildes.
+
+[[v20-11-3]]
+
+^<<v20-11-3,3>>^ A integridade dos justos os guia, mas a falsidade dos infiéis os destrói.
+
+[[v20-11-4]]
+
+^<<v20-11-4,4>>^ De nada vale a riqueza no dia da ira divina, mas a retidão livra da morte.
+
+[[v20-11-5]]
+
+^<<v20-11-5,5>>^ A retidão dos irrepreensíveis lhes abre um caminho reto, mas os ímpios são abatidos por sua própria impiedade.
+
+[[v20-11-6]]
+
+^<<v20-11-6,6>>^ A justiça dos justos os livra, mas o desejo dos infiéis os aprisiona.
+
+[[v20-11-7]]
+
+^<<v20-11-7,7>>^ Quando morre o ímpio, sua esperança perece; tudo o que ele esperava do seu poder dá em nada.
+
+[[v20-11-8]]
+
+^<<v20-11-8,8>>^ O justo é salvo das tribulações, e estas são transferidas para o ímpio.
+
+[[v20-11-9]]
+
+^<<v20-11-9,9>>^ Com a boca o ímpio pretende destruir o próximo, mas pelo seu conhecimento o justo se livra.
+
+[[v20-11-10]]
+
+^<<v20-11-10,10>>^ Quando os justos prosperam, a cidade exulta; quando os ímpios perecem, há cantos de alegria.
+
+[[v20-11-11]]
+
+^<<v20-11-11,11>>^ Pela bênção dos justos a cidade é exaltada, mas pela boca dos ímpios é destruída.
+
+[[v20-11-12]]
+
+^<<v20-11-12,12>>^ O homem que não tem juízo ridiculariza o seu próximo, mas o que tem entendimento refreia a língua.
+
+[[v20-11-13]]
+
+^<<v20-11-13,13>>^ Quem muito fala trai a confidência, mas quem merece confiança guarda o segredo.
+
+[[v20-11-14]]
+
+^<<v20-11-14,14>>^ Sem diretrizes a nação cai; o que a salva é ter muitos conselheiros.
+
+[[v20-11-15]]
+
+^<<v20-11-15,15>>^ Quem serve de fiador certamente sofrerá, mas quem se nega a fazê-lo está seguro.
+
+[[v20-11-16]]
+
+^<<v20-11-16,16>>^ A mulher bondosa conquista o respeito, mas os homens cruéis só conquistam riquezas.
+
+[[v20-11-17]]
+
+^<<v20-11-17,17>>^ Quem faz o bem aos outros, a si mesmo o faz; o homem cruel causa o seu próprio mal.
+
+[[v20-11-18]]
+
+^<<v20-11-18,18>>^ O ímpio recebe salários enganosos, mas quem semeia a retidão colhe segura recompensa.
+
+[[v20-11-19]]
+
+^<<v20-11-19,19>>^ Quem permanece na justiça viverá, mas quem sai em busca do mal corre para a morte.
+
+[[v20-11-20]]
+
+^<<v20-11-20,20>>^ O Senhor detesta os perversos de coração, mas os de conduta irrepreensível dão-lhe prazer.
+
+[[v20-11-21]]
+
+^<<v20-11-21,21>>^ Esteja certo de que os ímpios não ficarão sem castigo, mas os justos serão poupados.
+
+[[v20-11-22]]
+
+^<<v20-11-22,22>>^ Como anel de ouro em focinho de porco, assim é a mulher bonita, mas indiscreta.
+
+[[v20-11-23]]
+
+^<<v20-11-23,23>>^ O desejo dos justos resulta em bem; a esperança dos ímpios, em ira.
+
+[[v20-11-24]]
+
+^<<v20-11-24,24>>^ Há quem dê generosamente, e vê aumentar suas riquezas; outros retêm o que deveriam dar, e caem na pobreza.
+
+[[v20-11-25]]
+
+^<<v20-11-25,25>>^ O generoso prosperará; quem dá alívio aos outros, alívio receberá.
+
+[[v20-11-26]]
+
+^<<v20-11-26,26>>^ O povo amaldiçoa aquele que esconde o trigo, mas a bênção coroa aquele que logo se dispõe a vendê-lo.
+
+[[v20-11-27]]
+
+^<<v20-11-27,27>>^ Quem procura o bem será respeitado; já o mal vai de encontro a quem o busca.
+
+[[v20-11-28]]
+
+^<<v20-11-28,28>>^ Quem confia em suas riquezas certamente cairá, mas os justos florescerão como a folhagem verdejante.
+
+[[v20-11-29]]
+
+^<<v20-11-29,29>>^ Quem causa problemas à sua família herdará somente vento; o insensato será servo do sábio.
+
+[[v20-11-30]]
+
+^<<v20-11-30,30>>^ O fruto da retidão é árvore de vida, e aquele que conquista almas é sábio.
+
+[[v20-11-31]]
+
+^<<v20-11-31,31>>^ Se os justos recebem a punição que merecem na terra, quanto mais o ímpio e o pecador!
+
+'''
+
+xref:020-proverbios/020-proverbios-010.adoc#v20-10-0[&#60; Capítulo Anterior] | <<v20-11-0,Topo>> | xref:020-proverbios/020-proverbios-012.adoc#v20-12-0[Próximo Capítulo &#62;]

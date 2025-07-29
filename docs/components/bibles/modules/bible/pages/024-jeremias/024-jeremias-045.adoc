@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v24-45-0]]
+=== Jeremias, 45
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v24-45-1]]
+
+^<<v24-45-1,1>>^ No quarto ano do reinado de Jeoaquim, filho de Josias, rei de Judá, depois que Baruque, filho de Nerias, escreveu num rolo as palavras ditadas por Jeremias, este lhe disse:
+
+[[v24-45-2]]
+
+^<<v24-45-2,2>>^ "Assim diz o Senhor, o Deus de Israel, a você, Baruque:
+
+[[v24-45-3]]
+
+^<<v24-45-3,3>>^ Você disse, ‘Ai de mim! O Senhor acrescentou tristeza ao meu sofrimento. Estou exausto de tanto gemer, e não encontro descanso’.
+
+[[v24-45-4]]
+
+^<<v24-45-4,4>>^ Mas o Senhor manda-me dizer-lhe: ‘Assim diz o Senhor: Destruirei o que edifiquei e arrancarei o que plantei em toda esta terra.
+
+[[v24-45-5]]
+
+^<<v24-45-5,5>>^ E então? Você deveria buscar coisas especiais para você? Não as busque; pois trarei desgraça sobre toda a humanidade’, diz o Senhor, ‘mas eu o deixarei escapar com vida onde quer que você vá’ ".
+
+'''
+
+xref:024-jeremias/024-jeremias-044.adoc#v24-44-0[&#60; Capítulo Anterior] | <<v24-45-0,Topo>> | xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[Próximo Capítulo &#62;]

@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-110-0]]
+=== Salmos, 110
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-110-1]]
+
+^<<v19-110-1,1>>^ O Senhor disse ao meu Senhor: "Senta-te à minha direita até que eu faça dos teus inimigos um estrado para os teus pés".
+
+[[v19-110-2]]
+
+^<<v19-110-2,2>>^ O Senhor estenderá o cetro de teu poder desde Sião, e dominarás sobre os teus inimigos!
+
+[[v19-110-3]]
+
+^<<v19-110-3,3>>^ Quando convocares as tuas tropas, o teu povo se apresentará voluntariamente. Trajando vestes santas, desde o romper da alvorada os teus jovens virão como o orvalho.
+
+[[v19-110-4]]
+
+^<<v19-110-4,4>>^ O Senhor jurou e não se arrependerá: "Tu és sacerdote para sempre, segundo a ordem de Melquisedeque".
+
+[[v19-110-5]]
+
+^<<v19-110-5,5>>^ O Senhor está à tua direita; ele esmagará reis no dia da sua ira.
+
+[[v19-110-6]]
+
+^<<v19-110-6,6>>^ Julgará as nações, amontoando os mortos e esmagando governantes em toda a extensão da terra.
+
+[[v19-110-7]]
+
+^<<v19-110-7,7>>^ No caminho beberá de um ribeiro, e então erguerá a cabeça.
+
+'''
+
+xref:019-salmos/019-salmos-109.adoc#v19-109-0[&#60; Capítulo Anterior] | <<v19-110-0,Topo>> | xref:019-salmos/019-salmos-111.adoc#v19-111-0[Próximo Capítulo &#62;]

@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v1-7-0]]
+=== Gênesis, 7
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v1-7-1]]
+
+^<<v1-7-1,1>>^ Então o Senhor disse a Noé: "Entre na arca, você e toda a sua família, porque você é o único justo que encontrei nesta geração.
+
+[[v1-7-2]]
+
+^<<v1-7-2,2>>^ Leve com você sete casais de cada espécie de animal puro, macho e fêmea, e um casal de cada espécie de animal impuro, macho e fêmea,
+
+[[v1-7-3]]
+
+^<<v1-7-3,3>>^ e leve também sete casais de aves de cada espécie, macho e fêmea, a fim de preservá-las em toda a terra.
+
+[[v1-7-4]]
+
+^<<v1-7-4,4>>^ Daqui a sete dias farei chover sobre a terra quarenta dias e quarenta noites, e farei desaparecer da face da terra todos os seres vivos que fiz".
+
+[[v1-7-5]]
+
+^<<v1-7-5,5>>^ E Noé fez tudo como o Senhor lhe tinha ordenado.
+
+[[v1-7-6]]
+
+^<<v1-7-6,6>>^ Noé tinha seiscentos anos de idade quando as águas do Dilúvio vieram sobre a terra.
+
+[[v1-7-7]]
+
+^<<v1-7-7,7>>^ Noé, seus filhos, sua mulher e as mulheres de seus filhos entraram na arca, por causa das águas do Dilúvio.
+
+[[v1-7-8]]
+
+^<<v1-7-8,8>>^ Casais de animais grandes, puros e impuros, de aves e de todos os animais pequenos que se movem rente ao chão
+
+[[v1-7-9]]
+
+^<<v1-7-9,9>>^ vieram a Noé e entraram na arca, como Deus tinha ordenado a Noé.
+
+[[v1-7-10]]
+
+^<<v1-7-10,10>>^ E depois dos sete dias, as águas do Dilúvio vieram sobre a terra.
+
+[[v1-7-11]]
+
+^<<v1-7-11,11>>^ No dia em que Noé completou seiscentos anos, um mês e dezessete dias, nesse mesmo dia todas as fontes das grandes profundezas jorraram, e as comportas do céu se abriram.
+
+[[v1-7-12]]
+
+^<<v1-7-12,12>>^ E a chuva caiu sobre a terra quarenta dias e quarenta noites.
+
+[[v1-7-13]]
+
+^<<v1-7-13,13>>^ Naquele mesmo dia, Noé e seus filhos, Sem, Cam e Jafé, com sua mulher e com as mulheres de seus três filhos, entraram na arca.
+
+[[v1-7-14]]
+
+^<<v1-7-14,14>>^ Com eles entraram todos os animais de acordo com as suas espécies: todos os animais selvagens, todos os rebanhos domésticos, todos os demais seres vivos que se movem rente ao chão e todas as criaturas que têm asas: todas as aves e todos os outros animais que voam.
+
+[[v1-7-15]]
+
+^<<v1-7-15,15>>^ Casais de todas as criaturas que tinham fôlego de vida vieram a Noé e entraram na arca.
+
+[[v1-7-16]]
+
+^<<v1-7-16,16>>^ Os animais que entraram foram um macho e uma fêmea de cada ser vivo, conforme Deus ordenara a Noé. Então o Senhor fechou a porta.
+
+[[v1-7-17]]
+
+^<<v1-7-17,17>>^ Quarenta dias durou o Dilúvio sobre a terra, e as águas aumentaram e elevaram a arca acima da terra.
+
+[[v1-7-18]]
+
+^<<v1-7-18,18>>^ As águas prevaleceram, aumentando muito sobre a terra, e a arca flutuava na superfície das águas.
+
+[[v1-7-19]]
+
+^<<v1-7-19,19>>^ As águas dominavam cada vez mais a terra, e foram cobertas todas as altas montanhas debaixo do céu.
+
+[[v1-7-20]]
+
+^<<v1-7-20,20>>^ As águas subiram até quase sete metros acima das montanhas.
+
+[[v1-7-21]]
+
+^<<v1-7-21,21>>^ Todos os seres vivos que se movem sobre a terra pereceram: aves, rebanhos domésticos, animais selvagens, todas as pequenas criaturas que povoam a terra e toda a humanidade.
+
+[[v1-7-22]]
+
+^<<v1-7-22,22>>^ Tudo o que havia em terra seca e tinha nas narinas o fôlego de vida morreu.
+
+[[v1-7-23]]
+
+^<<v1-7-23,23>>^ Todos os seres vivos foram exterminados da face da terra; tanto os homens, como os animais grandes, os animais pequenos que se movem rente ao chão e as aves do céu foram exterminados da terra. Só restaram Noé e aqueles que com ele estavam na arca.
+
+[[v1-7-24]]
+
+^<<v1-7-24,24>>^ E as águas prevaleceram sobre a terra cento e cinqüenta dias.
+
+'''
+
+xref:001-genesis/001-genesis-006.adoc#v1-6-0[&#60; Capítulo Anterior] | <<v1-7-0,Topo>> | xref:001-genesis/001-genesis-008.adoc#v1-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v9-23-0]]
+=== 1 Samuel, 23
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v9-23-1]]
+
+^<<v9-23-1,1>>^ Quando disseram a Davi que os filisteus estavam atacando a cidade de Queila e saqueando as eiras,
+
+[[v9-23-2]]
+
+^<<v9-23-2,2>>^ ele perguntou ao Senhor: "Devo atacar esses filisteus? " O Senhor lhe respondeu: "Vá, ataque os filisteus e liberte Queila".
+
+[[v9-23-3]]
+
+^<<v9-23-3,3>>^ Os soldados de Davi, porém, lhe disseram: "Aqui em Judá estamos com medo. Quanto mais, então, se formos a Queila lutar contra as tropas dos filisteus! "
+
+[[v9-23-4]]
+
+^<<v9-23-4,4>>^ Davi consultou o Senhor novamente. "Levante-se", disse o Senhor, "vá à cidade de Queila, pois estou entregando os filisteus em suas mãos".
+
+[[v9-23-5]]
+
+^<<v9-23-5,5>>^ Então Davi e seus homens foram a Queila, combateram os filisteus e se apoderaram de seus rebanhos, impondo-lhes grande derrota e libertando o povo de Queila.
+
+[[v9-23-6]]
+
+^<<v9-23-6,6>>^ Ora, Abiatar, filho de Aimeleque, tinha levado o colete sacerdotal, quando fugiu para se juntar a Davi, em Queila.
+
+[[v9-23-7]]
+
+^<<v9-23-7,7>>^ Foi dito a Saul que Davi tinha ido a Queila, e ele disse: "Deus o entregou nas minhas mãos, pois Davi se aprisionou ao entrar numa cidade com portas e trancas".
+
+[[v9-23-8]]
+
+^<<v9-23-8,8>>^ E Saul convocou todo o seu exército para a batalha, para irem a Queila e cercarem Davi e os homens que o seguiam.
+
+[[v9-23-9]]
+
+^<<v9-23-9,9>>^ Quando Davi soube que Saul tramava atacá-lo, disse a Abiatar: "Traga o colete sacerdotal".
+
+[[v9-23-10]]
+
+^<<v9-23-10,10>>^ Então orou: "Ó Senhor, Deus de Israel, este teu servo ouviu claramente que Saul planeja vir a Queila e destruir a cidade por causa dele.
+
+[[v9-23-11]]
+
+^<<v9-23-11,11>>^ Será que os cidadãos de Queila me entregarão a ele? Saul virá de fato, conforme teu servo ouviu? Ó Senhor, Deus de Israel, responde". E o Senhor disse: "Ele virá".
+
+[[v9-23-12]]
+
+^<<v9-23-12,12>>^ E Davi, novamente, perguntou: "Será que os cidadãos de Queila entregarão a mim e a meus soldados a Saul? " E o Senhor respondeu: "Entregarão".
+
+[[v9-23-13]]
+
+^<<v9-23-13,13>>^ Então Davi e seus soldados, que eram cerca de seiscentos, partiram de Queila, e ficaram andando sem direção definida. Quando informaram a Saul que Davi tinha fugido de Queila, ele interrompeu a marcha.
+
+[[v9-23-14]]
+
+^<<v9-23-14,14>>^ Davi permaneceu nas fortalezas do deserto e nas colinas do deserto de Zife. Dia após dia, Saul o procurava, mas Deus não entregou Davi em suas mãos.
+
+[[v9-23-15]]
+
+^<<v9-23-15,15>>^ Quando Davi estava em Horesa, no deserto de Zife, soube que Saul tinha saído para matá-lo.
+
+[[v9-23-16]]
+
+^<<v9-23-16,16>>^ E Jônatas, filho de Saul, foi falar com ele, em Horesa, e o ajudou a encontrar forças em Deus.
+
+[[v9-23-17]]
+
+^<<v9-23-17,17>>^ "Não tenha medo", disse ele, "meu pai não porá as mãos em você. Você será rei de Israel, e eu lhe serei o segundo em comando. Até meu pai sabe disso. "
+
+[[v9-23-18]]
+
+^<<v9-23-18,18>>^ Os dois fizeram um acordo perante o Senhor. Então, Jônatas foi para casa, mas Davi ficou em Horesa.
+
+[[v9-23-19]]
+
+^<<v9-23-19,19>>^ Alguns zifeus foram informar a Saul, em Gibeá: "Davi está se escondendo entre nós nas fortalezas de Horesa, na colina de Haquilá, ao sul do Deserto de Jesimom.
+
+[[v9-23-20]]
+
+^<<v9-23-20,20>>^ Agora, ó rei, vá quando quiser, e nós seremos responsáveis por entregá-lo em suas mãos".
+
+[[v9-23-21]]
+
+^<<v9-23-21,21>>^ Saul respondeu: "O Senhor os abençoe por terem compaixão de mim.
+
+[[v9-23-22]]
+
+^<<v9-23-22,22>>^ Vão e façam mais preparativos. Descubram aonde Davi geralmente vai e quem o tem visto ali. Dizem-me que ele é muito astuto.
+
+[[v9-23-23]]
+
+^<<v9-23-23,23>>^ Descubram todos os esconderijos dele e voltem aqui com informações exatas. Então irei com vocês; se ele estiver na região, eu o procurarei entre todos os clãs de Judá".
+
+[[v9-23-24]]
+
+^<<v9-23-24,24>>^ E eles voltaram para Zife, à frente de Saul. Davi e seus soldados estavam no deserto de Maom, na Arabá, ao sul do deserto de Jesimom.
+
+[[v9-23-25]]
+
+^<<v9-23-25,25>>^ Saul e seus soldados começaram a busca, e, ao ser informado disso, Davi desceu à rocha e permaneceu no deserto de Maom. Sabendo disso, Saul foi para lá em perseguição a Davi.
+
+[[v9-23-26]]
+
+^<<v9-23-26,26>>^ Saul ia por um lado da montanha, e Davi e seus soldados pelo outro, fugiam depressa para escapar de Saul. Quando Saul e suas tropas estavam cercando Davi e seus soldados para capturá-los,
+
+[[v9-23-27]]
+
+^<<v9-23-27,27>>^ um mensageiro veio dizer a Saul: "Venha depressa! Os filisteus estão atacando Israel".
+
+[[v9-23-28]]
+
+^<<v9-23-28,28>>^ Então Saul interrompeu a perseguição a Davi e foi enfrentar os filisteus. Por isso chamam esse lugar Selá-Hamalecote.
+
+[[v9-23-29]]
+
+^<<v9-23-29,29>>^ E Davi saiu daquele lugar e foi viver nas fortalezas de En-Gedi.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-022.adoc#v9-22-0[&#60; Capítulo Anterior] | <<v9-23-0,Topo>> | xref:009-1-samuel/009-1-samuel-024.adoc#v9-24-0[Próximo Capítulo &#62;]

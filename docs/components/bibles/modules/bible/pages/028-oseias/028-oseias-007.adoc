@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v28-7-0]]
+=== Oséias, 7
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v28-7-1]]
+
+^<<v28-7-1,1>>^ "Quando eu tento curar Israel, o mal de Efraim fica exposto e os crimes de Samaria são revelados. Pois praticam o engano, ladrões entram nas casas, bandidos roubam nas ruas;
+
+[[v28-7-2]]
+
+^<<v28-7-2,2>>^ mas eles não percebem que eu me lembro de todas as suas más obras. Seus pecados os envolvem; eu os vejo constantemente.
+
+[[v28-7-3]]
+
+^<<v28-7-3,3>>^ "Eles alegram o rei com as suas impiedades, os líderes com as suas mentiras.
+
+[[v28-7-4]]
+
+^<<v28-7-4,4>>^ São todos adúlteros, queimando como um forno cujo fogo o padeiro não precisa atiçar desde sova a massa até quando a faz crescer.
+
+[[v28-7-5]]
+
+^<<v28-7-5,5>>^ No dia da festa de nosso rei os líderes são inflamados pelo vinho, e ele dá as mãos aos zombadores.
+
+[[v28-7-6]]
+
+^<<v28-7-6,6>>^ Quando se aproximam com suas intrigas, seus corações ardem como um forno. A fúria deles arde lentamente, a noite toda; pela manhã queima como chama abrasadora.
+
+[[v28-7-7]]
+
+^<<v28-7-7,7>>^ Todos eles se esquentam como um forno, e devoram os seus governantes. Todos os seus reis caem, e ninguém clama a mim.
+
+[[v28-7-8]]
+
+^<<v28-7-8,8>>^ "Efraim mistura-se com as nações; Efraim é um bolo que não foi virado.
+
+[[v28-7-9]]
+
+^<<v28-7-9,9>>^ Estrangeiros sugam sua força, mas ele não o percebe. A cinza espalha-se pelo seu cabelo, mas ele nem repara.
+
+[[v28-7-10]]
+
+^<<v28-7-10,10>>^ A arrogância de Israel testifica contra ele, mas, apesar de tudo isso, ele não se volta para o Senhor, para o seu Deus, e não o busca.
+
+[[v28-7-11]]
+
+^<<v28-7-11,11>>^ "Efraim é como uma pomba facilmente enganada e sem entendimento; uma hora apela para o Egito, outra hora se volta para a Assíria.
+
+[[v28-7-12]]
+
+^<<v28-7-12,12>>^ Quando se forem, atirarei sobre eles a minha rede; eu os farei descer como as aves do céu. Quando os ouvir se reunindo, eu os apanharei.
+
+[[v28-7-13]]
+
+^<<v28-7-13,13>>^ Ai deles, porque se afastaram de mim! Destruição sobre eles, porque se rebelaram contra mim! Eu desejo redimi-los, mas eles falam mentiras a meu respeito.
+
+[[v28-7-14]]
+
+^<<v28-7-14,14>>^ Eles não clamam a mim do fundo do coração quando gemem orando em suas camas. Ajuntam-se por causa do trigo e do vinho, mas se afastam de mim.
+
+[[v28-7-15]]
+
+^<<v28-7-15,15>>^ Eu os ensinei e os fortaleci, mas eles tramam o mal contra mim.
+
+[[v28-7-16]]
+
+^<<v28-7-16,16>>^ Eles não se voltam para o Altíssimo; são como um arco defeituoso. Seus líderes serão mortos à espada por causa de suas palavras insolentes. E por isso serão ridicularizados no Egito.
+
+'''
+
+xref:028-oseias/028-oseias-006.adoc#v28-6-0[&#60; Capítulo Anterior] | <<v28-7-0,Topo>> | xref:028-oseias/028-oseias-008.adoc#v28-8-0[Próximo Capítulo &#62;]

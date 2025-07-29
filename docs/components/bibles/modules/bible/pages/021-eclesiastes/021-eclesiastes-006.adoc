@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v21-6-0]]
+=== Eclesiastes, 6
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v21-6-1]]
+
+^<<v21-6-1,1>>^ Vi ainda outro mal debaixo do sol, que pesa bastante sobre a humanidade:
+
+[[v21-6-2]]
+
+^<<v21-6-2,2>>^ Deus dá riquezas, bens e honra ao homem, de modo que não lhe falta nada que os seus olhos desejam; mas Deus não lhe permite desfrutar tais coisas, e outro as desfruta em seu lugar. Isso não faz sentido; é um mal terrível.
+
+[[v21-6-3]]
+
+^<<v21-6-3,3>>^ Um homem pode ter cem filhos e viver muitos anos. No entanto, se não desfrutar as coisas boas da vida, digo que uma criança que nasce morta e nem recebe um enterro digno, tem melhor sorte do que ele.
+
+[[v21-6-4]]
+
+^<<v21-6-4,4>>^ Ela nasce em vão, e parte em trevas, e nas trevas o seu nome fica escondido.
+
+[[v21-6-5]]
+
+^<<v21-6-5,5>>^ Embora jamais tenha visto o sol ou conhecido qualquer coisa, ela tem mais descanso do que tal homem.
+
+[[v21-6-6]]
+
+^<<v21-6-6,6>>^ Pois, de que lhe valeria viver dois mil anos, e não poder desfrutar a sua prosperidade? Afinal, não vão todos para o mesmo lugar?
+
+[[v21-6-7]]
+
+^<<v21-6-7,7>>^ Todo o esforço do homem é feito para a sua boca, contudo, o seu apetite jamais se satisfaz.
+
+[[v21-6-8]]
+
+^<<v21-6-8,8>>^ Que vantagem tem o sábio em relação ao tolo? Que vantagem tem o pobre em saber como se portar diante dos outros?
+
+[[v21-6-9]]
+
+^<<v21-6-9,9>>^ Melhor é contentar-se com o que os olhos vêem do que vaguear o apetite. Isso também não faz sentido, é correr atrás do vento.
+
+[[v21-6-10]]
+
+^<<v21-6-10,10>>^ Tudo o que existe já recebeu um nome, e já se sabe o que o homem é; não se pode lutar contra alguém mais forte.
+
+[[v21-6-11]]
+
+^<<v21-6-11,11>>^ Quanto mais palavras, mais tolices, e sem nenhum proveito.
+
+[[v21-6-12]]
+
+^<<v21-6-12,12>>^ Pois, quem sabe o que é bom para o homem, nos poucos dias de sua vida vazia, em que ele passa como uma sombra? Quem poderá lhe contar o que acontecerá debaixo do sol depois que ele partir?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[&#60; Capítulo Anterior] | <<v21-6-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[Próximo Capítulo &#62;]

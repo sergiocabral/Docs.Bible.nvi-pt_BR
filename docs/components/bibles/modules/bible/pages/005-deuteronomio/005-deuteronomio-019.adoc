@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v5-19-0]]
+=== Deuteronômio, 19
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v5-19-1]]
+
+^<<v5-19-1,1>>^ Quando o Senhor, o seu Deus, tiver destruído as nações cuja terra lhes dá, e quando vocês as expulsarem e ocuparem as cidades e as casas dessas nações,
+
+[[v5-19-2]]
+
+^<<v5-19-2,2>>^ separem três cidades de refúgio na parte central da terra que o Senhor, o seu Deus, está dando a vocês para que dela tomem posse.
+
+[[v5-19-3]]
+
+^<<v5-19-3,3>>^ Dividam em três partes a terra que o Senhor, o seu Deus, lhe está dando como herança e façam nela acessos, para que aquele que matar alguém possa fugir para lá.
+
+[[v5-19-4]]
+
+^<<v5-19-4,4>>^ Este é o caso em que um homem que matar outro poderá fugir para lá para salvar a vida: se matar o seu próximo sem intenção, sem que houvesse inimizade entre eles.
+
+[[v5-19-5]]
+
+^<<v5-19-5,5>>^ Por exemplo, se um homem for com o seu amigo cortar lenha na floresta e, ao levantar o machado para derrubar uma árvore, o ferro escapar e atingir o seu amigo e matá-lo, ele poderá fugir para uma daquelas cidades para salvar a vida.
+
+[[v5-19-6]]
+
+^<<v5-19-6,6>>^ Do contrário, o vingador da vítima poderia persegui-lo enfurecido e alcançá-lo, caso a distância fosse grande demais, e poderia matá-lo, muito embora este não merecesse morrer, pois não havia inimizade entre ele e o seu próximo.
+
+[[v5-19-7]]
+
+^<<v5-19-7,7>>^ É por isso que lhe ordeno que separe três cidades.
+
+[[v5-19-8]]
+
+^<<v5-19-8,8>>^ Se o Senhor, o seu Deus, aumentar o seu território, como prometeu sob juramento aos seus antepassados, e lhe der toda a terra que prometeu a eles,
+
+[[v5-19-9]]
+
+^<<v5-19-9,9>>^ separem então mais três cidades. Isso acontecerá se vocês obedecerem fielmente a toda esta lei que hoje lhes ordeno: amar o Senhor, o seu Deus, e sempre andar nos seus caminhos.
+
+[[v5-19-10]]
+
+^<<v5-19-10,10>>^ Façam isso para que não se derrame sangue inocente na sua terra, a qual o Senhor, o seu Deus, lhes dá por herança, e para que não sejam culpados de derramamento de sangue.
+
+[[v5-19-11]]
+
+^<<v5-19-11,11>>^ Mas, se alguém odiar o seu próximo, ficar à espreita dele, atacá-lo e matá-lo, e fugir para uma dessas cidades,
+
+[[v5-19-12]]
+
+^<<v5-19-12,12>>^ as autoridades da sua cidade mandarão buscá-lo nas cidade de refúgio, e o entregarão nas mãos do vingador da vítima, para que morra.
+
+[[v5-19-13]]
+
+^<<v5-19-13,13>>^ Não tenham piedade dele. Eliminem de Israel a culpa pelo derramamento de sangue inocente, para que tudo lhes vá bem.
+
+[[v5-19-14]]
+
+^<<v5-19-14,14>>^ Não mudem os marcos de divisa da propriedade do seu vizinho, que os seus colocaram na herança que receberão na terra que o Senhor, o seu Deus, lhes dá para que dela tomem posse.
+
+[[v5-19-15]]
+
+^<<v5-19-15,15>>^ Uma só testemunha não é suficiente para condenar alguém de algum crime ou delito. Qualquer acusação precisa ser confirmada pelo depoimento de duas ou três testemunhas.
+
+[[v5-19-16]]
+
+^<<v5-19-16,16>>^ Se uma testemunha falsa quiser acusar um homem de algum crime,
+
+[[v5-19-17]]
+
+^<<v5-19-17,17>>^ os dois envolvidos na questão deverão apresentar-se ao Senhor, diante dos sacerdotes e juízes que estiverem exercendo o cargo naquela ocasião.
+
+[[v5-19-18]]
+
+^<<v5-19-18,18>>^ Os juízes investigarão o caso e, se ficar provado que a testemunha mentiu e deu falso testemunho contra o seu próximo,
+
+[[v5-19-19]]
+
+^<<v5-19-19,19>>^ dêem-lhe a punição que ele planejava para o seu irmão. Eliminem o mal do meio de vocês.
+
+[[v5-19-20]]
+
+^<<v5-19-20,20>>^ O restante do povo saberá disso e terá medo, e nunca mais se fará uma coisa dessas entre vocês.
+
+[[v5-19-21]]
+
+^<<v5-19-21,21>>^ Não tenham piedade. Exijam vida por vida, olho por olho, dente por dente, mão por mão, pé por pé.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-018.adoc#v5-18-0[&#60; Capítulo Anterior] | <<v5-19-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[Próximo Capítulo &#62;]

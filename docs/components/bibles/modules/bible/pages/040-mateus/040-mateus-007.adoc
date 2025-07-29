@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v40-7-0]]
+=== Mateus, 7
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v40-7-1]]
+
+^<<v40-7-1,1>>^ "Não julguem, para que vocês não sejam julgados.
+
+[[v40-7-2]]
+
+^<<v40-7-2,2>>^ Pois da mesma forma que julgarem, vocês serão julgados; e a medida que usarem, também será usada para medir vocês.
+
+[[v40-7-3]]
+
+^<<v40-7-3,3>>^ "Por que você repara no cisco que está no olho do seu irmão, e não se dá conta da viga que está em seu próprio olho?
+
+[[v40-7-4]]
+
+^<<v40-7-4,4>>^ Como você pode dizer ao seu irmão: ‘Deixe-me tirar o cisco do seu olho’, quando há uma viga no seu?
+
+[[v40-7-5]]
+
+^<<v40-7-5,5>>^ Hipócrita, tire primeiro a viga do seu olho, e então você verá claramente para tirar o cisco do olho do seu irmão.
+
+[[v40-7-6]]
+
+^<<v40-7-6,6>>^ "Não dêem o que é sagrado aos cães, nem atirem suas pérolas aos porcos; caso contrário, estes as pisarão e, aqueles, voltando-se contra vocês, os despedaçarão".
+
+[[v40-7-7]]
+
+^<<v40-7-7,7>>^ "Peçam, e lhes será dado; busquem, e encontrarão; batam, e a porta lhes será aberta.
+
+[[v40-7-8]]
+
+^<<v40-7-8,8>>^ Pois todo o que pede, recebe; o que busca, encontra; e àquele que bate, a porta será aberta.
+
+[[v40-7-9]]
+
+^<<v40-7-9,9>>^ "Qual de vocês, se seu filho pedir pão, lhe dará uma pedra?
+
+[[v40-7-10]]
+
+^<<v40-7-10,10>>^ Ou se pedir peixe, lhe dará uma cobra?
+
+[[v40-7-11]]
+
+^<<v40-7-11,11>>^ Se vocês, apesar de serem maus, sabem dar boas coisas aos seus filhos, quanto mais o Pai de vocês, que está nos céus, dará coisas boas aos que lhe pedirem!
+
+[[v40-7-12]]
+
+^<<v40-7-12,12>>^ Assim, em tudo, façam aos outros o que vocês querem que eles lhes façam; pois esta é a Lei e os Profetas".
+
+[[v40-7-13]]
+
+^<<v40-7-13,13>>^ "Entrem pela porta estreita, pois larga é a porta e amplo o caminho que leva à perdição, e são muitos os que entram por ela.
+
+[[v40-7-14]]
+
+^<<v40-7-14,14>>^ Como é estreita a porta, e apertado o caminho que leva à vida! São poucos os que a encontram".
+
+[[v40-7-15]]
+
+^<<v40-7-15,15>>^ "Cuidado com os falsos profetas. Eles vêm a vocês vestidos de peles de ovelhas, mas por dentro são lobos devoradores.
+
+[[v40-7-16]]
+
+^<<v40-7-16,16>>^ Vocês os reconhecerão por seus frutos. Pode alguém colher uvas de um espinheiro ou figos de ervas daninhas?
+
+[[v40-7-17]]
+
+^<<v40-7-17,17>>^ Semelhantemente, toda árvore boa dá frutos bons, mas a árvore ruim dá frutos ruins.
+
+[[v40-7-18]]
+
+^<<v40-7-18,18>>^ A árvore boa não pode dar frutos ruins, nem a árvore ruim pode dar frutos bons.
+
+[[v40-7-19]]
+
+^<<v40-7-19,19>>^ Toda árvore que não produz bons frutos é cortada e lançada ao fogo.
+
+[[v40-7-20]]
+
+^<<v40-7-20,20>>^ Assim, pelos seus frutos vocês os reconhecerão!
+
+[[v40-7-21]]
+
+^<<v40-7-21,21>>^ "Nem todo aquele que me diz: ‘Senhor, Senhor’, entrará no Reino dos céus, mas apenas aquele que faz a vontade de meu Pai que está nos céus.
+
+[[v40-7-22]]
+
+^<<v40-7-22,22>>^ Muitos me dirão naquele dia: ‘Senhor, Senhor, não profetizamos nós em teu nome? Em teu nome não expulsamos demônios e não realizamos muitos milagres? ’
+
+[[v40-7-23]]
+
+^<<v40-7-23,23>>^ Então eu lhes direi claramente: ‘Nunca os conheci. Afastem-se de mim vocês, que praticam o mal! ’ "
+
+[[v40-7-24]]
+
+^<<v40-7-24,24>>^ "Portanto, quem ouve estas minhas palavras e as pratica é como um homem prudente que construiu a sua casa sobre a rocha.
+
+[[v40-7-25]]
+
+^<<v40-7-25,25>>^ Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela não caiu, porque tinha seus alicerces na rocha.
+
+[[v40-7-26]]
+
+^<<v40-7-26,26>>^ Mas quem ouve estas minhas palavras e não as pratica é como um insensato que construiu a sua casa sobre a areia.
+
+[[v40-7-27]]
+
+^<<v40-7-27,27>>^ Caiu a chuva, transbordaram os rios, sopraram os ventos e deram contra aquela casa, e ela caiu. E foi grande a sua queda".
+
+[[v40-7-28]]
+
+^<<v40-7-28,28>>^ Quando Jesus acabou de dizer essas coisas, as multidões estavam maravilhadas com o seu ensino,
+
+[[v40-7-29]]
+
+^<<v40-7-29,29>>^ porque ele as ensinava como quem tem autoridade, e não como os mestres da lei.
+
+'''
+
+xref:040-mateus/040-mateus-006.adoc#v40-6-0[&#60; Capítulo Anterior] | <<v40-7-0,Topo>> | xref:040-mateus/040-mateus-008.adoc#v40-8-0[Próximo Capítulo &#62;]

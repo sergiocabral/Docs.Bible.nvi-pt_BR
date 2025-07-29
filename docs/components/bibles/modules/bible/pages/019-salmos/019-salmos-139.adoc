@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Salmos, 139
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ Senhor, tu me sondas e me conheces.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ Sabes quando me sento e quando me levanto; de longe percebes os meus pensamentos.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ Sabes muito bem quando trabalho e quando descanso; todos os meus caminhos te são bem conhecidos.
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ Antes mesmo que a palavra me chegue à língua, tu já a conheces inteiramente, Senhor.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Tu me cercas, por trás e pela frente, e pões a tua mão sobre mim.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ Tal conhecimento é maravilhoso demais e está além do meu alcance, é tão elevado que não o posso atingir.
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Para onde poderia eu escapar do teu Espírito? Para onde poderia fugir da tua presença?
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ Se eu subir aos céus, lá estás; se eu fizer a minha cama na sepultura, também lá estás.
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ Se eu subir com as asas da alvorada e morar na extremidade do mar,
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ mesmo ali a tua mão direita me guiará e me susterá.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ Mesmo que eu dissesse que as trevas me encobrirão, e que a luz se tornará noite ao meu redor,
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ verei que nem as trevas são escuras para ti. A noite brilhará como o dia, pois para ti as trevas são luz.
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ Tu criaste o íntimo do meu ser e me teceste no ventre de minha mãe.
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ Eu te louvo porque me fizeste de modo especial e admirável. Tuas obras são maravilhosas! Disso tenho plena certeza.
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ Meus ossos não estavam escondidos de ti quando em secreto fui formado e entretecido como nas profundezas da terra.
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ Os teus olhos viram o meu embrião; todos os dias determinados para mim foram escritos no teu livro antes de qualquer deles existir.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ Como são preciosos para mim os teus pensamentos, ó Deus! Como é grande a soma deles!
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ Se eu os contasse seriam mais do que os grãos de areia. Se terminasse de contá-los, eu ainda estaria contigo.
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ Quem dera matasses os ímpios, ó Deus! Afastem-se de mim os assassinos!
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Porque falam de ti com maldade; em vão rebelam-se contra ti.
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Acaso não odeio os que te odeiam, Senhor? E não detesto os que se revoltam contra ti?
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ Tenho por eles ódio implacável! Considero-os inimigos meus!
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Sonda-me, ó Deus, e conhece o meu coração; prova-me, e conhece as minhas inquietações.
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ Vê se em minha conduta algo que te ofende, e dirige-me pelo caminho eterno.
+
+'''
+
+xref:019-salmos/019-salmos-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-salmos/019-salmos-140.adoc#v19-140-0[Próximo Capítulo &#62;]

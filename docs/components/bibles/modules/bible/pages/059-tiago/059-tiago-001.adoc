@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v59-1-0]]
+=== Tiago, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v59-1-1]]
+
+^<<v59-1-1,1>>^ Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos dispersas entre as nações: Saudações.
+
+[[v59-1-2]]
+
+^<<v59-1-2,2>>^ Meus irmãos, considerem motivo de grande alegria o fato de passarem por diversas provações,
+
+[[v59-1-3]]
+
+^<<v59-1-3,3>>^ pois vocês sabem que a prova da sua fé produz perseverança.
+
+[[v59-1-4]]
+
+^<<v59-1-4,4>>^ E a perseverança deve ter ação completa, a fim de que vocês sejam maduros e íntegros, sem lhes faltar coisa alguma.
+
+[[v59-1-5]]
+
+^<<v59-1-5,5>>^ Se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá livremente, de boa vontade; e lhe será concedida.
+
+[[v59-1-6]]
+
+^<<v59-1-6,6>>^ Peça-a, porém, com fé, sem duvidar, pois aquele que duvida é semelhante à onda do mar, levada e agitada pelo vento.
+
+[[v59-1-7]]
+
+^<<v59-1-7,7>>^ Não pense tal homem que receberá coisa alguma do Senhor;
+
+[[v59-1-8]]
+
+^<<v59-1-8,8>>^ é alguém que tem mente dividida e é instável em tudo o que faz.
+
+[[v59-1-9]]
+
+^<<v59-1-9,9>>^ O irmão de condição humilde deve orgulhar-se quando estiver em elevada posição.
+
+[[v59-1-10]]
+
+^<<v59-1-10,10>>^ E o rico deve orgulhar-se se passar a viver em condição humilde, porque passará como a flor do campo.
+
+[[v59-1-11]]
+
+^<<v59-1-11,11>>^ Pois o sol se levanta, traz o calor e seca a planta; cai então a sua flor, e é destruída a beleza da sua aparência. Da mesma forma o rico murchará em meio aos seus afazeres.
+
+[[v59-1-12]]
+
+^<<v59-1-12,12>>^ Feliz é o homem que persevera na provação, porque depois de aprovado receberá a coroa da vida que Deus prometeu aos que o amam.
+
+[[v59-1-13]]
+
+^<<v59-1-13,13>>^ Quando alguém for tentado, jamais deverá dizer: "Estou sendo tentado por Deus". Pois Deus não pode ser tentado pelo mal, e a ninguém tenta.
+
+[[v59-1-14]]
+
+^<<v59-1-14,14>>^ Cada um, porém, é tentado pela própria cobiça, sendo por esta arrastado e seduzido.
+
+[[v59-1-15]]
+
+^<<v59-1-15,15>>^ Então a cobiça, tendo engravidado, dá à luz o pecado; e o pecado, após ter-se consumado, gera a morte.
+
+[[v59-1-16]]
+
+^<<v59-1-16,16>>^ Meus amados irmãos, não se deixem enganar.
+
+[[v59-1-17]]
+
+^<<v59-1-17,17>>^ Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, que não muda como sombras inconstantes.
+
+[[v59-1-18]]
+
+^<<v59-1-18,18>>^ Por sua decisão ele nos gerou pela palavra da verdade, para que sejamos como que os primeiros frutos de tudo o que ele criou.
+
+[[v59-1-19]]
+
+^<<v59-1-19,19>>^ Meus amados irmãos, tenham isto em mente: Sejam todos prontos para ouvir, tardios para falar e tardios para irar-se,
+
+[[v59-1-20]]
+
+^<<v59-1-20,20>>^ pois a ira do homem não produz a justiça de Deus.
+
+[[v59-1-21]]
+
+^<<v59-1-21,21>>^ Portanto, livrem-se de toda impureza moral e da maldade que prevalece, e aceitem humildemente a palavra implantada em vocês, a qual é poderosa para salvá-los.
+
+[[v59-1-22]]
+
+^<<v59-1-22,22>>^ Sejam praticantes da palavra, e não apenas ouvintes, enganando-se a si mesmos.
+
+[[v59-1-23]]
+
+^<<v59-1-23,23>>^ Aquele que ouve a palavra, mas não a põe em prática, é semelhante a um homem que olha a sua face num espelho
+
+[[v59-1-24]]
+
+^<<v59-1-24,24>>^ e, depois de olhar para si mesmo, sai e logo esquece a sua aparência.
+
+[[v59-1-25]]
+
+^<<v59-1-25,25>>^ Mas o homem que observa atentamente a lei perfeita que traz a liberdade, e persevera na prática dessa lei, não esquecendo o que ouviu mas praticando-o, será feliz naquilo que fizer.
+
+[[v59-1-26]]
+
+^<<v59-1-26,26>>^ Se alguém se considera religioso, mas não refreia a sua língua, engana-se a si mesmo. Sua religião não tem valor algum!
+
+[[v59-1-27]]
+
+^<<v59-1-27,27>>^ A religião que Deus, o nosso Pai aceita como pura e imaculada é esta: cuidar dos órfãos e das viúvas em suas dificuldades e não se deixar corromper pelo mundo.
+
+'''
+
+xref:058-hebreus/058-hebreus-013.adoc#v58-13-0[&#60; Capítulo Anterior] | <<v59-1-0,Topo>> | xref:059-tiago/059-tiago-002.adoc#v59-2-0[Próximo Capítulo &#62;]

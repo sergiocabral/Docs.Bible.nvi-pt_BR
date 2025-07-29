@@ -1,0 +1,237 @@
+include::./index.adoc[]
+
+[[v43-11-0]]
+=== João, 11
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v43-11-1]]
+
+^<<v43-11-1,1>>^ Havia um homem chamado Lázaro. Ele era de Betânia, do povoado de Maria e de sua irmã Marta. E aconteceu que Lázaro ficou doente.
+
+[[v43-11-2]]
+
+^<<v43-11-2,2>>^ Maria, sua irmã, era a mesma que derramara perfume sobre o Senhor e lhe enxugara os pés com os cabelos.
+
+[[v43-11-3]]
+
+^<<v43-11-3,3>>^ Então as irmãs de Lázaro mandaram dizer a Jesus: "Senhor, aquele a quem amas está doente".
+
+[[v43-11-4]]
+
+^<<v43-11-4,4>>^ Ao ouvir isso, Jesus disse: "Essa doença não acabará em morte; é para a glória de Deus, para que o Filho de Deus seja glorificado por meio dela".
+
+[[v43-11-5]]
+
+^<<v43-11-5,5>>^ Jesus amava Marta, a irmã dela e Lázaro.
+
+[[v43-11-6]]
+
+^<<v43-11-6,6>>^ No entanto, quando ouviu falar que Lázaro estava doente, ficou mais dois dias onde estava.
+
+[[v43-11-7]]
+
+^<<v43-11-7,7>>^ Depois disse aos seus discípulos: "Vamos voltar para a Judéia".
+
+[[v43-11-8]]
+
+^<<v43-11-8,8>>^ Estes disseram: "Mestre, há pouco os judeus tentaram apedrejar-te e assim mesmo vais voltar para lá? "
+
+[[v43-11-9]]
+
+^<<v43-11-9,9>>^ Jesus respondeu: "O dia não tem doze horas? Quem anda de dia não tropeça, pois vê a luz deste mundo.
+
+[[v43-11-10]]
+
+^<<v43-11-10,10>>^ Quando anda de noite, tropeça, pois nele não há luz".
+
+[[v43-11-11]]
+
+^<<v43-11-11,11>>^ Depois de dizer isso, prosseguiu dizendo-lhes: "Nosso amigo Lázaro adormeceu, mas vou até lá para acordá-lo".
+
+[[v43-11-12]]
+
+^<<v43-11-12,12>>^ Seus discípulos responderam: "Senhor, se ele dorme, vai melhorar".
+
+[[v43-11-13]]
+
+^<<v43-11-13,13>>^ Jesus tinha falado de sua morte, mas os seus discípulos pensaram que ele estava falando simplesmente do sono.
+
+[[v43-11-14]]
+
+^<<v43-11-14,14>>^ Então lhes disse claramente: "Lázaro morreu,
+
+[[v43-11-15]]
+
+^<<v43-11-15,15>>^ e para o bem de vocês estou contente por não ter estado lá, para que vocês creiam. Mas, vamos até ele".
+
+[[v43-11-16]]
+
+^<<v43-11-16,16>>^ Então Tomé, chamado Dídimo, disse aos outros discípulos: "Vamos também para morrermos com ele".
+
+[[v43-11-17]]
+
+^<<v43-11-17,17>>^ Ao chegar, Jesus verificou que Lázaro já estava no sepulcro havia quatro dias.
+
+[[v43-11-18]]
+
+^<<v43-11-18,18>>^ Betânia distava cerca de três quilômetros de Jerusalém,
+
+[[v43-11-19]]
+
+^<<v43-11-19,19>>^ e muitos judeus tinham ido visitar Marta e Maria para confortá-las pela perda do irmão.
+
+[[v43-11-20]]
+
+^<<v43-11-20,20>>^ Quando Marta ouviu que Jesus estava chegando, foi encontrá-lo, mas Maria ficou em casa.
+
+[[v43-11-21]]
+
+^<<v43-11-21,21>>^ Disse Marta a Jesus: "Senhor, se estivesses aqui meu irmão não teria morrido.
+
+[[v43-11-22]]
+
+^<<v43-11-22,22>>^ Mas sei que, mesmo agora, Deus te dará tudo o que pedires".
+
+[[v43-11-23]]
+
+^<<v43-11-23,23>>^ Disse-lhe Jesus: "O seu irmão vai ressuscitar".
+
+[[v43-11-24]]
+
+^<<v43-11-24,24>>^ Marta respondeu: "Eu sei que ele vai ressuscitar na ressurreição, no último dia".
+
+[[v43-11-25]]
+
+^<<v43-11-25,25>>^ Disse-lhe Jesus: "Eu sou a ressurreição e a vida. Aquele que crê em mim, ainda que morra, viverá;
+
+[[v43-11-26]]
+
+^<<v43-11-26,26>>^ e quem vive e crê em mim, não morrerá eternamente. Você crê nisso? "
+
+[[v43-11-27]]
+
+^<<v43-11-27,27>>^ Ela lhe respondeu: "Sim, Senhor, eu tenho crido que tu és o Cristo, o Filho de Deus que devia vir ao mundo".
+
+[[v43-11-28]]
+
+^<<v43-11-28,28>>^ E depois de dizer isso, foi para casa e, chamando à parte Maria, disse-lhe: "O Mestre está aqui e está chamando você".
+
+[[v43-11-29]]
+
+^<<v43-11-29,29>>^ Ao ouvir isso, Maria levantou-se depressa e foi ao encontro dele.
+
+[[v43-11-30]]
+
+^<<v43-11-30,30>>^ Jesus ainda não tinha entrado no povoado, mas estava no lugar onde Marta o encontrara.
+
+[[v43-11-31]]
+
+^<<v43-11-31,31>>^ Quando notaram que ela se levantou depressa e saiu, os judeus, que a estavam confortando em casa, seguiram-na, supondo que ela ia ao sepulcro, para ali chorar.
+
+[[v43-11-32]]
+
+^<<v43-11-32,32>>^ Chegando ao lugar onde Jesus estava e vendo-o, Maria prostrou-se aos seus pés e disse: "Senhor, se estivesses aqui meu irmão não teria morrido".
+
+[[v43-11-33]]
+
+^<<v43-11-33,33>>^ Ao ver chorando Maria e os judeus que a acompanhavam, Jesus agitou-se no espírito e perturbou-se.
+
+[[v43-11-34]]
+
+^<<v43-11-34,34>>^ "Onde o colocaram? ", perguntou ele. "Vem e vê, Senhor", responderam eles.
+
+[[v43-11-35]]
+
+^<<v43-11-35,35>>^ Jesus chorou.
+
+[[v43-11-36]]
+
+^<<v43-11-36,36>>^ Então os judeus disseram: "Vejam como ele o amava! "
+
+[[v43-11-37]]
+
+^<<v43-11-37,37>>^ Mas alguns deles disseram: "Ele, que abriu os olhos do cego, não poderia ter impedido que este homem morresse? "
+
+[[v43-11-38]]
+
+^<<v43-11-38,38>>^ Jesus, outra vez profundamente comovido, foi até o sepulcro. Era uma gruta com uma pedra colocada à entrada.
+
+[[v43-11-39]]
+
+^<<v43-11-39,39>>^ "Tirem a pedra", disse ele. Disse Marta, irmã do morto: "Senhor, ele já cheira mal, pois já faz quatro dias".
+
+[[v43-11-40]]
+
+^<<v43-11-40,40>>^ Disse-lhe Jesus: "Não lhe falei que, se você cresse, veria a glória de Deus? "
+
+[[v43-11-41]]
+
+^<<v43-11-41,41>>^ Então tiraram a pedra. Jesus olhou para cima e disse: "Pai, eu te agradeço porque me ouviste.
+
+[[v43-11-42]]
+
+^<<v43-11-42,42>>^ Eu sabia que sempre me ouves, mas disse isso por causa do povo que está aqui, para que creia que tu me enviaste".
+
+[[v43-11-43]]
+
+^<<v43-11-43,43>>^ Depois de dizer isso, Jesus bradou em alta voz: "Lázaro, venha para fora! "
+
+[[v43-11-44]]
+
+^<<v43-11-44,44>>^ O morto saiu, com as mãos e os pés envolvidos em faixas de linho, e o rosto envolto num pano. Disse-lhes Jesus: "Tirem as faixas dele e deixem-no ir".
+
+[[v43-11-45]]
+
+^<<v43-11-45,45>>^ Muitos dos judeus que tinham vindo visitar Maria, vendo o que Jesus fizera, creram nele.
+
+[[v43-11-46]]
+
+^<<v43-11-46,46>>^ Mas alguns deles foram contar aos fariseus o que Jesus tinha feito.
+
+[[v43-11-47]]
+
+^<<v43-11-47,47>>^ Então os chefes dos sacerdotes e os fariseus convocaram uma reunião do Sinédrio. "O que estamos fazendo? ", perguntaram eles. "Aí está esse homem realizando muitos sinais miraculosos.
+
+[[v43-11-48]]
+
+^<<v43-11-48,48>>^ Se o deixarmos, todos crerão nele, e então os romanos virão e tirarão tanto o nosso lugar como a nossa nação".
+
+[[v43-11-49]]
+
+^<<v43-11-49,49>>^ Então um deles, chamado Caifás, que naquele ano era o sumo sacerdote, tomou a palavra e disse: "Nada sabeis!
+
+[[v43-11-50]]
+
+^<<v43-11-50,50>>^ Não percebeis que vos é melhor que morra um homem pelo povo, e que não pereça toda a nação".
+
+[[v43-11-51]]
+
+^<<v43-11-51,51>>^ Ele não disse isso de si mesmo, mas, sendo o sumo sacerdote naquele ano, profetizou que Jesus morreria pela nação judaica,
+
+[[v43-11-52]]
+
+^<<v43-11-52,52>>^ e não somente por aquela nação, mas também pelos filhos de Deus que estão espalhados, para reuni-los num povo.
+
+[[v43-11-53]]
+
+^<<v43-11-53,53>>^ E daquele dia em diante, resolveram tirar-lhe a vida.
+
+[[v43-11-54]]
+
+^<<v43-11-54,54>>^ Por essa razão, Jesus não andava mais publicamente entre os judeus. Ao invés disso, retirou-se para uma região próxima do deserto, para um povoado chamado Efraim, onde ficou com os seus discípulos.
+
+[[v43-11-55]]
+
+^<<v43-11-55,55>>^ Ao se aproximar a Páscoa judaica, muitos foram daquela região para Jerusalém a fim de participarem das purificações cerimoniais antes da Páscoa.
+
+[[v43-11-56]]
+
+^<<v43-11-56,56>>^ Continuavam procurando Jesus e, no templo, perguntavam uns aos outros: "O que vocês acham? Será que ele virá à festa? "
+
+[[v43-11-57]]
+
+^<<v43-11-57,57>>^ Mas os chefes dos sacerdotes e os fariseus tinham ordenado que, se alguém soubesse onde Jesus estava, o denunciasse, para que o pudessem prender.
+
+'''
+
+xref:043-joao/043-joao-010.adoc#v43-10-0[&#60; Capítulo Anterior] | <<v43-11-0,Topo>> | xref:043-joao/043-joao-012.adoc#v43-12-0[Próximo Capítulo &#62;]

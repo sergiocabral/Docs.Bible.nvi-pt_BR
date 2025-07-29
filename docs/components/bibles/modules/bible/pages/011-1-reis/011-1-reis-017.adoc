@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v11-17-0]]
+=== 1 Reis, 17
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v11-17-1]]
+
+^<<v11-17-1,1>>^ Ora, Elias, o tesbita da Tisbe de Gileade, disse a Acabe: "Juro pelo nome do Senhor, o Deus de Israel, a quem sirvo, que não cairá orvalho nem chuva nos anos seguintes, exceto mediante a minha palavra".
+
+[[v11-17-2]]
+
+^<<v11-17-2,2>>^ Depois disso a palavra do Senhor veio a Elias:
+
+[[v11-17-3]]
+
+^<<v11-17-3,3>>^ "Saia daqui, vá para o leste e esconda-se perto do riacho de Querite, a leste do Jordão.
+
+[[v11-17-4]]
+
+^<<v11-17-4,4>>^ Você beberá do riacho, e dei ordens aos corvos para o alimentarem lá".
+
+[[v11-17-5]]
+
+^<<v11-17-5,5>>^ E ele fez o que o Senhor lhe tinha dito. Foi para o riacho de Querite, a leste do Jordão, e ficou por lá.
+
+[[v11-17-6]]
+
+^<<v11-17-6,6>>^ Os corvos lhe traziam pão e carne de manhã e de tarde, e ele bebia água do riacho.
+
+[[v11-17-7]]
+
+^<<v11-17-7,7>>^ Algum tempo depois, o riacho secou-se por falta de chuva.
+
+[[v11-17-8]]
+
+^<<v11-17-8,8>>^ Então a palavra do Senhor veio a Elias:
+
+[[v11-17-9]]
+
+^<<v11-17-9,9>>^ "Vá imediatamente para a cidade de Sarepta de Sidom e fique por lá. Ordenei a uma viúva daquele lugar que lhe forneça comida".
+
+[[v11-17-10]]
+
+^<<v11-17-10,10>>^ E ele foi. Quando chegou à porta da cidade, encontrou uma viúva que estava colhendo gravetos. Ele a chamou e perguntou: "Pode me trazer um pouco d’água numa jarra para eu beber? "
+
+[[v11-17-11]]
+
+^<<v11-17-11,11>>^ Enquanto ela ia indo buscar água, ele gritou: "Por favor, traga também um pedaço de pão".
+
+[[v11-17-12]]
+
+^<<v11-17-12,12>>^ "Juro pelo nome do Senhor, o teu Deus", ela respondeu, "não tenho nenhum pedaço de pão; só um punhado de farinha num jarro e um pouco de azeite numa botija. Estou colhendo uns dois gravetos para levar para casa e preparar uma refeição para mim e para o meu filho, para que a comamos e depois morramos. "
+
+[[v11-17-13]]
+
+^<<v11-17-13,13>>^ Elias, porém, lhe disse: "Não tenha medo. Vá para casa e faça o que disse. Mas primeiro faça um pequeno bolo com o que você tem e traga para mim, e depois faça algo para você e para o seu filho.
+
+[[v11-17-14]]
+
+^<<v11-17-14,14>>^ Pois assim diz o Senhor, o Deus de Israel: ‘A farinha na vasilha não se acabará e o azeite na botija não se secará até o dia em que o Senhor fizer chover sobre a terra’ ".
+
+[[v11-17-15]]
+
+^<<v11-17-15,15>>^ Ela foi e fez conforme Elias lhe dissera. E aconteceu que a comida durou todos os dias para Elias e para a mulher e sua família.
+
+[[v11-17-16]]
+
+^<<v11-17-16,16>>^ Pois a farinha na vasilha não se acabou e o azeite na botija não se secou, conforme a palavra do Senhor proferida por Elias.
+
+[[v11-17-17]]
+
+^<<v11-17-17,17>>^ Algum tempo depois o filho da mulher, dona da casa, ficou doente, foi piorando e finalmente parou de respirar.
+
+[[v11-17-18]]
+
+^<<v11-17-18,18>>^ E a mulher reclamou a Elias: "Que foi que eu te fiz, ó homem de Deus? Vieste para lembrar-me do meu pecado e matar o meu filho? "
+
+[[v11-17-19]]
+
+^<<v11-17-19,19>>^ "Dê-me o seu filho", respondeu Elias. Ele o apanhou dos braços dela, levou-o para o quarto de cima onde estava hospedado, e o pôs em cima da cama.
+
+[[v11-17-20]]
+
+^<<v11-17-20,20>>^ Então clamou ao Senhor: "Ó Senhor, meu Deus, trouxeste também desgraça sobre esta viúva, com quem estou hospedado, fazendo morrer o seu filho? "
+
+[[v11-17-21]]
+
+^<<v11-17-21,21>>^ Então ele se deitou sobre o menino três vezes e clamou ao Senhor: "Ó Senhor, meu Deus, faze voltar a vida a este menino! "
+
+[[v11-17-22]]
+
+^<<v11-17-22,22>>^ O Senhor ouviu o clamor de Elias, e a vida voltou ao menino, e ele viveu.
+
+[[v11-17-23]]
+
+^<<v11-17-23,23>>^ Então Elias levou o menino para baixo, entregou-o à mãe e disse: "Veja, seu filho está vivo! "
+
+[[v11-17-24]]
+
+^<<v11-17-24,24>>^ Então a mulher disse a Elias: "Agora sei que tu és um homem de Deus e que a palavra do Senhor, vinda da tua boca, é a verdade".
+
+'''
+
+xref:011-1-reis/011-1-reis-016.adoc#v11-16-0[&#60; Capítulo Anterior] | <<v11-17-0,Topo>> | xref:011-1-reis/011-1-reis-018.adoc#v11-18-0[Próximo Capítulo &#62;]

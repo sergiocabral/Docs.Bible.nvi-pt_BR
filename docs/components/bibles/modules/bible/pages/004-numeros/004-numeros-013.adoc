@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v4-13-0]]
+=== Números, 13
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-13-1]]
+
+^<<v4-13-1,1>>^ E o Senhor disse a Moisés: "
+
+[[v4-13-2]]
+
+^<<v4-13-2,2>>^ Envie alguns homens em missão de reconhecimento à terra de Canaã, terra que dou aos israelitas. Envie um líder de cada tribo dos seus antepassados".
+
+[[v4-13-3]]
+
+^<<v4-13-3,3>>^ Assim Moisés os enviou do deserto de Parã, conforme a ordem do Senhor. Todos eles eram chefes dos israelitas.
+
+[[v4-13-4]]
+
+^<<v4-13-4,4>>^ São estes os seus nomes: da tribo de Rúben, Samua, filho de Zacur;
+
+[[v4-13-5]]
+
+^<<v4-13-5,5>>^ da tribo de Simeão, Safate, filho de Hori;
+
+[[v4-13-6]]
+
+^<<v4-13-6,6>>^ da tribo de Judá, Calebe, filho de Jefoné;
+
+[[v4-13-7]]
+
+^<<v4-13-7,7>>^ da tribo de Issacar, Jigeal, filho de José;
+
+[[v4-13-8]]
+
+^<<v4-13-8,8>>^ da tribo de Efraim, Oséias, filho de Num;
+
+[[v4-13-9]]
+
+^<<v4-13-9,9>>^ da tribo de Benjamim, Palti, filho de Rafu;
+
+[[v4-13-10]]
+
+^<<v4-13-10,10>>^ da tribo de Zebulom, Gadiel, filho de Sodi;
+
+[[v4-13-11]]
+
+^<<v4-13-11,11>>^ da tribo de José, isto é, da tribo de Manassés, Gadi, filho de Susi;
+
+[[v4-13-12]]
+
+^<<v4-13-12,12>>^ da tribo de Dã, Amiel, filho de Gemali;
+
+[[v4-13-13]]
+
+^<<v4-13-13,13>>^ da tribo de Aser, Setur, filho de Micael;
+
+[[v4-13-14]]
+
+^<<v4-13-14,14>>^ da tribo de Naftali, Nabi, filho de Vofsi;
+
+[[v4-13-15]]
+
+^<<v4-13-15,15>>^ da tribo de Gade, Güel, filho de Maqui.
+
+[[v4-13-16]]
+
+^<<v4-13-16,16>>^ São esses os nomes dos homens que Moisés enviou em missão de reconhecimento do território. ( A Oséias, filho de Num, Moisés deu o nome de Josué. )
+
+[[v4-13-17]]
+
+^<<v4-13-17,17>>^ Quando Moisés os enviou para observarem Canaã, disse: "Subam pelo Neguebe e prossigam até a região montanhosa.
+
+[[v4-13-18]]
+
+^<<v4-13-18,18>>^ Vejam como é a terra e se o povo que vive lá é forte ou fraco, se são muitos ou poucos;
+
+[[v4-13-19]]
+
+^<<v4-13-19,19>>^ se a terra em que habitam é boa ou ruim; se as cidades em que vivem são cidades sem muros ou fortificadas;
+
+[[v4-13-20]]
+
+^<<v4-13-20,20>>^ se o solo é fértil ou pobre; se existe ali floresta ou não. Sejam corajosos! Tragam alguns frutos da terra". Era a época do início da colheita das uvas.
+
+[[v4-13-21]]
+
+^<<v4-13-21,21>>^ Eles subiram e observaram a terra desde o deserto de Zim até Reobe, na direção de Lebo-Hamate.
+
+[[v4-13-22]]
+
+^<<v4-13-22,22>>^ Subiram do Neguebe e chegaram a Hebrom, onde viviam Aimã, Sesai e Talmai, descendentes de Enaque. ( Hebrom havia sido construída sete anos antes de Zoã, no Egito. )
+
+[[v4-13-23]]
+
+^<<v4-13-23,23>>^ Quando chegaram ao vale de Escol, cortaram um ramo do qual pendia um único cacho de uvas. Dois deles carregaram o cacho, pendurado numa vara. Colheram também romãs e figos.
+
+[[v4-13-24]]
+
+^<<v4-13-24,24>>^ Aquele lugar foi chamado vale de Escol por causa do cacho de uvas que os israelitas cortaram ali.
+
+[[v4-13-25]]
+
+^<<v4-13-25,25>>^ Ao fim de quarenta dias eles voltaram da missão de reconhecimento daquela terra.
+
+[[v4-13-26]]
+
+^<<v4-13-26,26>>^ Eles então retornaram a Moisés e a Arão e a toda a comunidade de Israel em Cades, no deserto de Parã, onde prestaram relatório a eles e a toda a comunidade de Israel, e lhes mostraram os frutos da terra.
+
+[[v4-13-27]]
+
+^<<v4-13-27,27>>^ E deram o seguinte relatório a Moisés: "Entramos na terra à qual você nos enviou, onde manam leite e mel! Aqui estão alguns frutos dela.
+
+[[v4-13-28]]
+
+^<<v4-13-28,28>>^ Mas o povo que lá vive é poderoso, e as cidades são fortificadas e muito grandes. Também vimos descendentes de Enaque.
+
+[[v4-13-29]]
+
+^<<v4-13-29,29>>^ Os amalequitas vivem no Neguebe; os hititas, os jebuseus e os amorreus vivem na região montanhosa; os cananeus vivem perto do mar e junto ao Jordão".
+
+[[v4-13-30]]
+
+^<<v4-13-30,30>>^ Então Calebe fez o povo calar-se perante Moisés e disse: "Subamos e tomemos posse da terra. É certo que venceremos! "
+
+[[v4-13-31]]
+
+^<<v4-13-31,31>>^ Mas os homens que tinham ido com ele disseram: "Não podemos atacar aquele povo; é mais forte do que nós".
+
+[[v4-13-32]]
+
+^<<v4-13-32,32>>^ E espalharam entre os israelitas um relatório negativo acerca daquela terra. Disseram: "A terra para a qual fomos em missão de reconhecimento devora os que nela vivem. Todos os que vimos são de grande estatura.
+
+[[v4-13-33]]
+
+^<<v4-13-33,33>>^ Vimos também os gigantes, os descendentes de Enaque, diante de quem parecíamos gafanhotos, a nós e a eles".
+
+'''
+
+xref:004-numeros/004-numeros-012.adoc#v4-12-0[&#60; Capítulo Anterior] | <<v4-13-0,Topo>> | xref:004-numeros/004-numeros-014.adoc#v4-14-0[Próximo Capítulo &#62;]

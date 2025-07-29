@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-83-0]]
+=== Salmos, 83
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-83-1]]
+
+^<<v19-83-1,1>>^ Ó Deus, não te emudeças; não fiques em silêncio nem te detenhas, ó Deus.
+
+[[v19-83-2]]
+
+^<<v19-83-2,2>>^ Vê como se agitam os teus inimigos, como os teus adversários te desafiam de cabeça erguida.
+
+[[v19-83-3]]
+
+^<<v19-83-3,3>>^ Com astúcia conspiram contra o teu povo; tramam contra aqueles que são o teu tesouro.
+
+[[v19-83-4]]
+
+^<<v19-83-4,4>>^ Eles dizem: "Venham, vamos destruí-los como nação, para que o nome de Israel não seja mais lembrado! "
+
+[[v19-83-5]]
+
+^<<v19-83-5,5>>^ Com um só propósito tramam juntos; é contra ti que fazem acordo
+
+[[v19-83-6]]
+
+^<<v19-83-6,6>>^ as tendas de Edom e os ismaelitas, Moabe e os hagarenos,
+
+[[v19-83-7]]
+
+^<<v19-83-7,7>>^ Gebal, Amom e Amaleque, a Filístia, com os habitantes de Tiro.
+
+[[v19-83-8]]
+
+^<<v19-83-8,8>>^ Até a Assíria a eles se aliou, e trouxe força aos descendentes de Ló. Pausa
+
+[[v19-83-9]]
+
+^<<v19-83-9,9>>^ Trata-os como trataste Midiã, como trataste Sísera e Jabim no rio Quisom,
+
+[[v19-83-10]]
+
+^<<v19-83-10,10>>^ os quais morreram em En-Dor e se tornaram esterco para a terra.
+
+[[v19-83-11]]
+
+^<<v19-83-11,11>>^ Faze com os seus nobres o que fizeste com Orebe e Zeebe, e com todos os seus príncipes o que fizeste com Zeba e Zalmuna,
+
+[[v19-83-12]]
+
+^<<v19-83-12,12>>^ que disseram: "Vamos apossar-nos das pastagens de Deus".
+
+[[v19-83-13]]
+
+^<<v19-83-13,13>>^ Faze-os como folhas secas levadas no redemoinho, ó meu Deus, como palha ao vento.
+
+[[v19-83-14]]
+
+^<<v19-83-14,14>>^ Assim como o fogo consome a floresta e as chamas incendeiam os montes,
+
+[[v19-83-15]]
+
+^<<v19-83-15,15>>^ persegue-os com o teu vendaval e aterroriza-os com a tua tempestade.
+
+[[v19-83-16]]
+
+^<<v19-83-16,16>>^ Cobre-lhes de vergonha o rosto até que busquem o teu nome, Senhor.
+
+[[v19-83-17]]
+
+^<<v19-83-17,17>>^ Sejam eles humilhados e aterrorizados para sempre; pereçam em completa desgraça.
+
+[[v19-83-18]]
+
+^<<v19-83-18,18>>^ Saibam eles que tu, cujo nome é Senhor, somente tu, és o Altíssimo sobre toda a terra.
+
+'''
+
+xref:019-salmos/019-salmos-082.adoc#v19-82-0[&#60; Capítulo Anterior] | <<v19-83-0,Topo>> | xref:019-salmos/019-salmos-084.adoc#v19-84-0[Próximo Capítulo &#62;]

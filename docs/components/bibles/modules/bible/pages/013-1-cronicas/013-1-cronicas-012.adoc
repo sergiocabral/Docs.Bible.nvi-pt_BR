@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v13-12-0]]
+=== 1 Crônicas, 12
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v13-12-1]]
+
+^<<v13-12-1,1>>^ Estes são os que se juntaram a Davi em Ziclague, onde se escondia de Saul, filho de Quis. Eles estavam entre os combatentes que o ajudaram na guerra;
+
+[[v13-12-2]]
+
+^<<v13-12-2,2>>^ utilizavam arco e flecha e a funda para atirar pedras tanto com a mão direita como com a esquerda; pertenciam à tribo de Benjamim e eram parentes de Saul:
+
+[[v13-12-3]]
+
+^<<v13-12-3,3>>^ Aiezer, o chefe deles, e Joás, filhos de Semaá, de Gibeate; Jeziel e Pelete, filhos de Azmavete; Beraca, Jeú, de Anatote,
+
+[[v13-12-4]]
+
+^<<v13-12-4,4>>^ e Ismaías, de Gibeom, um grande guerreiro do pelotão dos trinta, e chefe deles; Jeremias, Jaaziel, Joanã, Jozabade, de Gederate,
+
+[[v13-12-5]]
+
+^<<v13-12-5,5>>^ Eluzai, Jeremote, Bealías, Semarias e Sefatias, de Harufe;
+
+[[v13-12-6]]
+
+^<<v13-12-6,6>>^ os coreítas Elcana, Issias, Azareel, Joezer e Jasobeão;
+
+[[v13-12-7]]
+
+^<<v13-12-7,7>>^ e Joela e Zebadias, filhos de Jeroão de Gedor.
+
+[[v13-12-8]]
+
+^<<v13-12-8,8>>^ Da tribo de Gade alguns aliaram-se a Davi em sua fortaleza no deserto. Eram guerreiros corajosos, prontos para o combate, e sabiam lutar com escudo e com lança. Tinham a bravura de um leão, e eram ágeis como gazelas nos montes.
+
+[[v13-12-9]]
+
+^<<v13-12-9,9>>^ Ézer era o primeiro; Obadias, o segundo; Eliabe, o terceiro;
+
+[[v13-12-10]]
+
+^<<v13-12-10,10>>^ Mismana, o quarto; Jeremias, o quinto;
+
+[[v13-12-11]]
+
+^<<v13-12-11,11>>^ Atai, o sexto; Eliel, o sétimo;
+
+[[v13-12-12]]
+
+^<<v13-12-12,12>>^ Joanã, o oitavo; Elzabade, o nono;
+
+[[v13-12-13]]
+
+^<<v13-12-13,13>>^ Jeremias, o décimo; e Macbanai era o décimo primeiro.
+
+[[v13-12-14]]
+
+^<<v13-12-14,14>>^ Todos esses de Gade eram chefes de exército; o menor valia por cem, e o maior enfrentava mil.
+
+[[v13-12-15]]
+
+^<<v13-12-15,15>>^ Foram eles que atravessaram o Jordão no primeiro mês do ano, quando o rio transborda em todas as suas margens, e puseram em fuga todos os que moravam nos vales, a leste e a oeste.
+
+[[v13-12-16]]
+
+^<<v13-12-16,16>>^ Alguns outros benjamitas e certos homens de Judá também vieram a Davi em sua fortaleza.
+
+[[v13-12-17]]
+
+^<<v13-12-17,17>>^ Davi saiu ao encontro deles e lhes disse: "Se vocês vieram em paz, para me ajudarem, estou pronto para recebê-los. Mas, se querem trair-me e entregar-me aos meus inimigos quando minhas mãos não cometeram violência, que o Deus de nossos antepassados veja isso e julgue vocês".
+
+[[v13-12-18]]
+
+^<<v13-12-18,18>>^ Então o Espírito veio sobre Amasai, chefe do pelotão dos trinta, e ele disse: "Somos teus, ó Davi! Estamos contigo, ó filho de Jessé! Paz, paz seja contigo, e aos teus aliados, pois o teu Deus te ajudará". Davi os recebeu e os nomeou chefes de seus grupos de ataque.
+
+[[v13-12-19]]
+
+^<<v13-12-19,19>>^ Alguns soldados de Manassés desertaram para Davi quando ele foi com os filisteus guerrear contra Saul. Mas eles não ajudaram os filisteus, porque os seus chefes os aconselharam e os mandaram embora, dizendo: "Pagaremos com a vida, caso Davi deserte e passe para Saul, seu senhor".
+
+[[v13-12-20]]
+
+^<<v13-12-20,20>>^ Estes foram os homens de Manassés que desertaram para Davi quando ele foi a Ziclague: Adna, Jozabade, Jediael, Micael, Jozabade, Eliú e Ziletai, chefes de batalhões de mil em Manassés.
+
+[[v13-12-21]]
+
+^<<v13-12-21,21>>^ Eles ajudaram Davi contra grupos de ataque, pois todos eles eram guerreiros valentes, e eram líderes no exército dele.
+
+[[v13-12-22]]
+
+^<<v13-12-22,22>>^ De fato, diariamente chegavam soldados para ajudar Davi, até que seu exército tornou-se tão grande como o exército de Deus.
+
+[[v13-12-23]]
+
+^<<v13-12-23,23>>^ Este é o número dos soldados armados para a guerra que vieram a Davi em Hebrom para entregar a ele o reino de Saul, conforme o Senhor tinha dito:
+
+[[v13-12-24]]
+
+^<<v13-12-24,24>>^ Da tribo de Judá, 6. 800 armados para a guerra, com escudo e lança;
+
+[[v13-12-25]]
+
+^<<v13-12-25,25>>^ Da tribo de Simeão, 7. 100 guerreiros prontos para o combate;
+
+[[v13-12-26]]
+
+^<<v13-12-26,26>>^ Da tribo de Levi, 4. 600,
+
+[[v13-12-27]]
+
+^<<v13-12-27,27>>^ inclusive Joiada, líder da família de Arão, com 3. 700 homens,
+
+[[v13-12-28]]
+
+^<<v13-12-28,28>>^ e Zadoque, um jovem e valente guerreiro, com 22 oficiais de sua família;
+
+[[v13-12-29]]
+
+^<<v13-12-29,29>>^ Da tribo de Benjamim, parentes de Saul, 3. 000, a maioria dos quais era até então fiel à família de Saul;
+
+[[v13-12-30]]
+
+^<<v13-12-30,30>>^ Da tribo de Efraim, 20. 800 soldados valentes, famosos em seus próprios clãs;
+
+[[v13-12-31]]
+
+^<<v13-12-31,31>>^ Da metade da tribo de Manassés, 18. 000, indicados por nome para fazerem Davi rei;
+
+[[v13-12-32]]
+
+^<<v13-12-32,32>>^ Da tribo de Issacar, 200 chefes que sabiam como Israel devia agir em qualquer circunstância. Comandavam todos os seus parentes;
+
+[[v13-12-33]]
+
+^<<v13-12-33,33>>^ Da tribo de Zebulom, 50. 000 soldados experientes, preparados para guerrear com qualquer tipo de arma, totalmente decididos a ajudar Davi;
+
+[[v13-12-34]]
+
+^<<v13-12-34,34>>^ Da tribo de Naftali, 1. 000 líderes com 37. 000 homens armados de escudos e lanças;
+
+[[v13-12-35]]
+
+^<<v13-12-35,35>>^ Da tribo de Dã, 28. 600 prontos para o combate;
+
+[[v13-12-36]]
+
+^<<v13-12-36,36>>^ Da tribo de Aser, 40. 000 soldados experientes, preparados para o combate;
+
+[[v13-12-37]]
+
+^<<v13-12-37,37>>^ e do leste do Jordão, das tribos de Rúben e de Gade, e da metade da tribo de Manassés, 120. 000 completamente armados.
+
+[[v13-12-38]]
+
+^<<v13-12-38,38>>^ Todos esses eram homens de combate que se apresentaram voluntariamente para servirem nas fileiras. Foram a Hebrom totalmente decididos a fazerem de Davi rei sobre todo o Israel. E todos os outros israelitas tinham esse mesmo propósito.
+
+[[v13-12-39]]
+
+^<<v13-12-39,39>>^ Ficaram com Davi três dias, comendo e bebendo, pois as suas famílias haviam fornecido provisões para eles.
+
+[[v13-12-40]]
+
+^<<v13-12-40,40>>^ Os habitantes das tribos vizinhas e também de lugares distantes como Issacar, Zebulom e Naftali, trouxeram-lhes muitas provisões em jumentos, camelos, mulas e bois: farinha, bolos de figo, bolos de uvas passas, vinho, azeite, bois e ovelhas, pois havia grande alegria em Israel.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-011.adoc#v13-11-0[&#60; Capítulo Anterior] | <<v13-12-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-013.adoc#v13-13-0[Próximo Capítulo &#62;]

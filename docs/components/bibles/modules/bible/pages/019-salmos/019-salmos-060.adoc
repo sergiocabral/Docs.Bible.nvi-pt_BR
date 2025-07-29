@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-60-0]]
+=== Salmos, 60
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-60-1]]
+
+^<<v19-60-1,1>>^ Tu nos rejeitaste e nos dispersaste, ó Deus; tu derramaste a tua ira; restaura-nos agora!
+
+[[v19-60-2]]
+
+^<<v19-60-2,2>>^ Sacudiste a terra e abriste-lhe fendas; repara suas brechas, pois ameaça desmoronar-se.
+
+[[v19-60-3]]
+
+^<<v19-60-3,3>>^ Fizeste passar o teu povo por tempos difíceis; deste-nos um vinho estonteante.
+
+[[v19-60-4]]
+
+^<<v19-60-4,4>>^ Mas aos que te temem deste um sinal para que fugissem das flechas. Pausa
+
+[[v19-60-5]]
+
+^<<v19-60-5,5>>^ Salva-nos com a tua mão direita e responde-nos, para que sejam libertos aqueles a quem amas.
+
+[[v19-60-6]]
+
+^<<v19-60-6,6>>^ Do seu santuário Deus falou: "No meu triunfo dividirei Siquém e repartirei o vale de Sucote.
+
+[[v19-60-7]]
+
+^<<v19-60-7,7>>^ Gileade é minha, Manassés também; Efraim é o meu capacete, Judá é o meu cetro.
+
+[[v19-60-8]]
+
+^<<v19-60-8,8>>^ Moabe é a pia em que me lavo, em Edom atiro a minha sandália; sobre a Filístia dou meu brado de vitória! "
+
+[[v19-60-9]]
+
+^<<v19-60-9,9>>^ Quem me levará à cidade fortificada? Quem me guiará a Edom?
+
+[[v19-60-10]]
+
+^<<v19-60-10,10>>^ Não foste tu, ó Deus, que nos rejeitaste e deixaste de sair com os nossos exércitos?
+
+[[v19-60-11]]
+
+^<<v19-60-11,11>>^ Dá-nos ajuda contra os adversários, pois inútil é o socorro do homem.
+
+[[v19-60-12]]
+
+^<<v19-60-12,12>>^ Com Deus conquistaremos a vitória, e ele pisoteará os nossos adversários.
+
+'''
+
+xref:019-salmos/019-salmos-059.adoc#v19-59-0[&#60; Capítulo Anterior] | <<v19-60-0,Topo>> | xref:019-salmos/019-salmos-061.adoc#v19-61-0[Próximo Capítulo &#62;]

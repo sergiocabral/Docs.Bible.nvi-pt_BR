@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v32-2-0]]
+=== Jonas, 2
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v32-2-1]]
+
+^<<v32-2-1,1>>^ Lá de dentro do peixe, Jonas orou ao Senhor, ao seu Deus.
+
+[[v32-2-2]]
+
+^<<v32-2-2,2>>^ Ele disse: "Em meu desespero clamei ao Senhor, e ele me respondeu. Do ventre da morte gritei por socorro, e ouviste o meu clamor.
+
+[[v32-2-3]]
+
+^<<v32-2-3,3>>^ Jogaste-me nas profundezas, no coração dos mares; correntezas formavam turbilhão ao meu redor; todas as tuas ondas e vagas passaram sobre mim.
+
+[[v32-2-4]]
+
+^<<v32-2-4,4>>^ Eu disse: Fui expulso da tua presença; contudo, olharei de novo para o teu santo templo.
+
+[[v32-2-5]]
+
+^<<v32-2-5,5>>^ As águas agitadas me envolveram, o abismo me cercou, as algas marinhas se enrolaram em minha cabeça.
+
+[[v32-2-6]]
+
+^<<v32-2-6,6>>^ Afundei até os fundamentos dos montes; à terra cujas trancas estavam me aprisionando para sempre. Mas tu trouxeste a minha vida de volta da cova, ó Senhor meu Deus!
+
+[[v32-2-7]]
+
+^<<v32-2-7,7>>^ "Quando a minha vida já se apagava, eu me lembrei de ti, Senhor, e a minha oração subiu a ti, ao teu santo templo.
+
+[[v32-2-8]]
+
+^<<v32-2-8,8>>^ "Aqueles que acreditam em ídolos inúteis desprezam a misericórdia.
+
+[[v32-2-9]]
+
+^<<v32-2-9,9>>^ Mas eu, com um cântico de gratidão, oferecerei sacrifício a ti. O que eu prometi cumprirei totalmente. A salvação vem do Senhor".
+
+[[v32-2-10]]
+
+^<<v32-2-10,10>>^ E o Senhor deu ordens ao peixe, e ele vomitou Jonas em terra firme.
+
+'''
+
+xref:032-jonas/032-jonas-001.adoc#v32-1-0[&#60; Capítulo Anterior] | <<v32-2-0,Topo>> | xref:032-jonas/032-jonas-003.adoc#v32-3-0[Próximo Capítulo &#62;]

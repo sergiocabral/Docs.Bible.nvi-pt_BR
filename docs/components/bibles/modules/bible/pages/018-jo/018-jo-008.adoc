@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-8-0]]
+=== Jó, 8
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-8-1]]
+
+^<<v18-8-1,1>>^ Então Bildade, de Suá, respondeu:
+
+[[v18-8-2]]
+
+^<<v18-8-2,2>>^ "Até quando você vai falar desse modo? Suas palavras são um grande vendaval!
+
+[[v18-8-3]]
+
+^<<v18-8-3,3>>^ Acaso Deus torce a justiça? Será que o Todo-poderoso torce o que é direito?
+
+[[v18-8-4]]
+
+^<<v18-8-4,4>>^ Quando os seus filhos pecaram contra ele, ele os castigou pelo mal que fizeram.
+
+[[v18-8-5]]
+
+^<<v18-8-5,5>>^ Mas, se você procurar a Deus e implorar junto ao Todo-poderoso,
+
+[[v18-8-6]]
+
+^<<v18-8-6,6>>^ se você for íntegro e puro, ele se levantará agora mesmo em seu favor e o restabelecerá no lugar que por justiça cabe a você.
+
+[[v18-8-7]]
+
+^<<v18-8-7,7>>^ O seu começo parecerá modesto, mas o seu futuro será de grande prosperidade.
+
+[[v18-8-8]]
+
+^<<v18-8-8,8>>^ "Pergunte às gerações anteriores e veja o que os seus pais aprenderam,
+
+[[v18-8-9]]
+
+^<<v18-8-9,9>>^ pois nós nascemos ontem e não sabemos nada. Nossos dias na terra não passam de uma sombra.
+
+[[v18-8-10]]
+
+^<<v18-8-10,10>>^ Acaso eles não o instruirão, não lhe falarão? Não proferirão palavras vindas do entendimento?
+
+[[v18-8-11]]
+
+^<<v18-8-11,11>>^ Poderá o papiro crescer senão no pântano? Sem água cresce o junco?
+
+[[v18-8-12]]
+
+^<<v18-8-12,12>>^ Mal cresce e, antes de ser colhido, seca-se, mais depressa que qualquer grama.
+
+[[v18-8-13]]
+
+^<<v18-8-13,13>>^ Esse é o destino de todo o que se esquece de Deus; assim perece a esperança dos ímpios.
+
+[[v18-8-14]]
+
+^<<v18-8-14,14>>^ Aquilo em que ele confia é frágil, aquilo em que se apóia é uma teia de aranha.
+
+[[v18-8-15]]
+
+^<<v18-8-15,15>>^ Encosta-se em sua teia, mas ela cede; agarra-se a ela, mas ela não agüenta.
+
+[[v18-8-16]]
+
+^<<v18-8-16,16>>^ Ele é como uma planta bem regada ao brilho do sol, espalhando seus brotos pelo jardim;
+
+[[v18-8-17]]
+
+^<<v18-8-17,17>>^ entrelaça as raízes em torno de um monte de pedras e procura um lugar entre as rochas.
+
+[[v18-8-18]]
+
+^<<v18-8-18,18>>^ Mas, quando é arrancada do seu lugar, este o rejeita e diz: ‘Nunca o vi’.
+
+[[v18-8-19]]
+
+^<<v18-8-19,19>>^ Esse é o fim da sua vida, e do solo brotam outras plantas.
+
+[[v18-8-20]]
+
+^<<v18-8-20,20>>^ "Pois o certo é que Deus não rejeita o íntegro, e não fortalece as mãos dos que fazem o mal.
+
+[[v18-8-21]]
+
+^<<v18-8-21,21>>^ Mas, quanto a você, ele encherá de riso a sua boca e de brados de alegria os seus lábios.
+
+[[v18-8-22]]
+
+^<<v18-8-22,22>>^ Seus inimigos se vestirão de vergonha, e as tendas dos ímpios não mais existirão".
+
+'''
+
+xref:018-jo/018-jo-007.adoc#v18-7-0[&#60; Capítulo Anterior] | <<v18-8-0,Topo>> | xref:018-jo/018-jo-009.adoc#v18-9-0[Próximo Capítulo &#62;]

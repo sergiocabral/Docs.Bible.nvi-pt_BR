@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v21-3-0]]
+=== Eclesiastes, 3
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v21-3-1]]
+
+^<<v21-3-1,1>>^ Para tudo há uma ocasião, e um tempo para cada propósito debaixo do céu:
+
+[[v21-3-2]]
+
+^<<v21-3-2,2>>^ tempo de nascer e tempo de morrer, tempo de plantar e tempo de arrancar o que se plantou,
+
+[[v21-3-3]]
+
+^<<v21-3-3,3>>^ tempo de matar e tempo de curar, tempo de derrubar e tempo de construir,
+
+[[v21-3-4]]
+
+^<<v21-3-4,4>>^ tempo de chorar e tempo de rir, tempo de prantear e tempo de dançar,
+
+[[v21-3-5]]
+
+^<<v21-3-5,5>>^ tempo de espalhar pedras e tempo de ajuntá-las, tempo de abraçar e tempo de se conter,
+
+[[v21-3-6]]
+
+^<<v21-3-6,6>>^ tempo de procurar e tempo de desistir, tempo de guardar e tempo de lançar fora,
+
+[[v21-3-7]]
+
+^<<v21-3-7,7>>^ tempo de rasgar e tempo de costurar, tempo de calar e tempo de falar,
+
+[[v21-3-8]]
+
+^<<v21-3-8,8>>^ tempo de amar e tempo de odiar, tempo de lutar e tempo de viver em paz.
+
+[[v21-3-9]]
+
+^<<v21-3-9,9>>^ O que ganha o trabalhador com todo o seu esforço?
+
+[[v21-3-10]]
+
+^<<v21-3-10,10>>^ Tenho visto o fardo que Deus impôs aos homens.
+
+[[v21-3-11]]
+
+^<<v21-3-11,11>>^ Ele fez tudo apropriado a seu tempo. Também pôs no coração do homem o anseio pela eternidade; mesmo assim este não consegue compreender inteiramente o que Deus fez.
+
+[[v21-3-12]]
+
+^<<v21-3-12,12>>^ Descobri que não há nada melhor para o homem do que ser feliz e praticar o bem enquanto vive.
+
+[[v21-3-13]]
+
+^<<v21-3-13,13>>^ Descobri também que poder comer, beber e ser recompensado pelo seu trabalho, é um presente de Deus.
+
+[[v21-3-14]]
+
+^<<v21-3-14,14>>^ Sei que tudo o que Deus faz permanecerá para sempre; a isso nada se pode acrescentar, e disso nada se pode tirar. Deus assim faz para que os homens o temam.
+
+[[v21-3-15]]
+
+^<<v21-3-15,15>>^ Aquilo que é, já foi, e o que será já foi anteriormente; Deus investigará o passado.
+
+[[v21-3-16]]
+
+^<<v21-3-16,16>>^ Descobri também que debaixo do sol: No lugar da justiça havia impiedade, no lugar da retidão, ainda mais impiedade.
+
+[[v21-3-17]]
+
+^<<v21-3-17,17>>^ Pensei comigo mesmo: O justo e o ímpio, Deus julgará a ambos, pois há um tempo para todo propósito, um tempo para tudo o que acontece.
+
+[[v21-3-18]]
+
+^<<v21-3-18,18>>^ Também pensei: Deus prova os homens para que vejam que são como os animais.
+
+[[v21-3-19]]
+
+^<<v21-3-19,19>>^ O destino do homem é o mesmo do animal; o mesmo destino os aguarda. Assim como morre um, também morre o outro. Todos têm o mesmo fôlego de vida; o homem não tem vantagem alguma sobre o animal. Nada faz sentido!
+
+[[v21-3-20]]
+
+^<<v21-3-20,20>>^ Todos vão para o mesmo lugar; vieram todos do pó, e ao pó todos retornarão.
+
+[[v21-3-21]]
+
+^<<v21-3-21,21>>^ Quem pode dizer se o fôlego do homem sobe às alturas e se o fôlego do animal desce para a terra?
+
+[[v21-3-22]]
+
+^<<v21-3-22,22>>^ Por isso concluí que não há nada melhor para o homem do que desfrutar do seu trabalho, porque esta é a sua recompensa. Pois, quem poderá fazê-lo ver o que acontecerá depois de morto?
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-002.adoc#v21-2-0[&#60; Capítulo Anterior] | <<v21-3-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-004.adoc#v21-4-0[Próximo Capítulo &#62;]

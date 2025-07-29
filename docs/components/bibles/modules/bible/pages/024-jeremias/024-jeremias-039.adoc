@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v24-39-0]]
+=== Jeremias, 39
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v24-39-1]]
+
+^<<v24-39-1,1>>^ Foi assim que Jerusalém foi tomada: No nono ano do reinado de Zedequias, rei de Judá, no décimo mês, Nabucodonosor, rei da Babilônia, marchou contra Jerusalém com todo seu exército e a sitiou.
+
+[[v24-39-2]]
+
+^<<v24-39-2,2>>^ E no dia novo do quarto mês do décimo primeiro ano do reinado de Zedequias, o muro da cidade foi rompido.
+
+[[v24-39-3]]
+
+^<<v24-39-3,3>>^ Então todos os oficiais do rei da Babilônia vieram e se assentaram junto à porta do Meio: Nergal-Sarezer de Sangar, Nebo-Sarsequim, um dos chefes dos oficiais, Nergal-Sarezer, um alto oficial, e todos os outros oficiais do rei da Babilônia.
+
+[[v24-39-4]]
+
+^<<v24-39-4,4>>^ Quando Zedequias, rei de Judá, e todos os soldados os viram, fugiram e saíram da cidade, à noite, na direção do jardim real, pela porta entre os dois muros; e foram para a Arabá.
+
+[[v24-39-5]]
+
+^<<v24-39-5,5>>^ Mas o exército babilônio os perseguiu e alcançou Zedequias na planície de Jericó. Eles o capturaram e o levaram a Nabucodonosor, rei da Babilônia, em Ribla, na terra de Hamate, que o sentenciou.
+
+[[v24-39-6]]
+
+^<<v24-39-6,6>>^ Em Ribla, o rei da Babilônia mandou executar os filhos de Zedequias diante dos seus olhos, e também matou todos os nobres de Judá.
+
+[[v24-39-7]]
+
+^<<v24-39-7,7>>^ Mandou furar os olhos de Zedequias e prendê-lo com correntes de bronze para levá-lo para a Babilônia.
+
+[[v24-39-8]]
+
+^<<v24-39-8,8>>^ Os babilônios incendiaram o palácio real e as casas do povo, e derrubaram os muros de Jerusalém.
+
+[[v24-39-9]]
+
+^<<v24-39-9,9>>^ Nebuzaradã, o comandante da guarda imperial, deportou para a Babilônia o povo que restou na cidade, juntamente com aqueles que tinham se rendido a ele, e o restante dos artesãos.
+
+[[v24-39-10]]
+
+^<<v24-39-10,10>>^ Somente alguns dos mais pobres do povo, que nada tinham, Nebuzaradã, o comandante da guarda imperial, deixou para trás em Judá. E, naquela ocasião, ele lhes deu vinhas e campos.
+
+[[v24-39-11]]
+
+^<<v24-39-11,11>>^ Mas Nabucodonosor, rei da Babilônia, deu ordens a respeito de Jeremias a Nebuzaradã, o comandante da guarda imperial:
+
+[[v24-39-12]]
+
+^<<v24-39-12,12>>^ "Vá buscá-lo e cuide bem dele; não o maltrate, mas faça o que ele pedir".
+
+[[v24-39-13]]
+
+^<<v24-39-13,13>>^ Então Nebuzaradã, o comandante da guarda imperial, Nebusazbã, um dos chefes dos oficiais, Nergal-Sarezer, um alto oficial, e todos os outros oficiais do rei da Babilônia
+
+[[v24-39-14]]
+
+^<<v24-39-14,14>>^ mandaram tirar Jeremias do pátio da guarda e o entregaram a Gedalias, filho de Aicam, filho de Safã, para que o levasse à residência do governador. Assim, Jeremias permaneceu no meio do seu povo.
+
+[[v24-39-15]]
+
+^<<v24-39-15,15>>^ Enquanto Jeremias esteve preso no pátio da guarda, o Senhor lhe dirigiu a palavra:
+
+[[v24-39-16]]
+
+^<<v24-39-16,16>>^ "Vá dizer a Ebede-Meleque, o etíope: ‘Assim diz o Senhor dos Exércitos, Deus de Israel: Estou para cumprir as minhas advertências contra esta cidade, com desgraça e não com prosperidade. Naquele dia, elas se cumprirão diante dos seus olhos.
+
+[[v24-39-17]]
+
+^<<v24-39-17,17>>^ Mas eu o resgatarei naquele dia’, declara o Senhor; ‘você não será entregue nas mãos daqueles a quem teme.
+
+[[v24-39-18]]
+
+^<<v24-39-18,18>>^ Eu certamente o resgatarei; você não morrerá pela espada, mas escapará com vida, porque você confia em mim’ ", declara o Senhor.
+
+'''
+
+xref:024-jeremias/024-jeremias-038.adoc#v24-38-0[&#60; Capítulo Anterior] | <<v24-39-0,Topo>> | xref:024-jeremias/024-jeremias-040.adoc#v24-40-0[Próximo Capítulo &#62;]

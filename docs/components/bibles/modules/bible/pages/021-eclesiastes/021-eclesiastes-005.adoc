@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v21-5-0]]
+=== Eclesiastes, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v21-5-1]]
+
+^<<v21-5-1,1>>^ Quando você for ao santuário de Deus, seja reverente. Quem se aproxima para ouvir é melhor do que os tolos que oferecem sacrifício sem saber que estão agindo mal.
+
+[[v21-5-2]]
+
+^<<v21-5-2,2>>^ Não seja precipitado de lábios, nem apressado de coração para fazer promessas diante de Deus. Deus está nos céus, e você está na terra, por isso, fale pouco.
+
+[[v21-5-3]]
+
+^<<v21-5-3,3>>^ Das muitas ocupações brotam sonhos; do muito falar nasce a prosa vã do tolo.
+
+[[v21-5-4]]
+
+^<<v21-5-4,4>>^ Quando você fizer um voto, cumpra-o sem demora, pois os tolos desagradam a Deus; cumpra o seu voto.
+
+[[v21-5-5]]
+
+^<<v21-5-5,5>>^ É melhor não fazer voto do que fazer e não cumprir.
+
+[[v21-5-6]]
+
+^<<v21-5-6,6>>^ Não permita que a sua boca o faça pecar. E não diga ao mensageiro de Deus: "O meu voto foi um engano". Por que irritar a Deus com o que você diz e deixá-lo destruir o que você realizou?
+
+[[v21-5-7]]
+
+^<<v21-5-7,7>>^ Em meio a tantos sonhos, absurdos e conversas inúteis, tenha temor de Deus.
+
+[[v21-5-8]]
+
+^<<v21-5-8,8>>^ Se você vir o pobre oprimido numa província e vir que lhe são negados o direito e a justiça, não fique surpreso; pois todo oficial está subordinado a alguém em posição superior, e sobre os dois há outros em posição ainda mais alta.
+
+[[v21-5-9]]
+
+^<<v21-5-9,9>>^ Mesmo assim, é vantagem a nação ter um rei que a governe e que se interesse pela agricultura.
+
+[[v21-5-10]]
+
+^<<v21-5-10,10>>^ Quem ama o dinheiro jamais terá o suficiente; quem ama as riquezas jamais ficará satisfeito com os seus rendimentos. Isso também não faz sentido.
+
+[[v21-5-11]]
+
+^<<v21-5-11,11>>^ Quando aumentam os bens, também aumentam os que os consomem. E que benefício trazem os bens a quem os possui, senão dar um pouco de alegria aos seus olhos?
+
+[[v21-5-12]]
+
+^<<v21-5-12,12>>^ O sono do trabalhador é ameno, quer coma pouco quer coma muito, mas a fartura de um homem rico não lhe dá tranqüilidade para dormir.
+
+[[v21-5-13]]
+
+^<<v21-5-13,13>>^ Há um mal terrível que vi debaixo do sol: riquezas acumuladas para infelicidade do seu possuidor.
+
+[[v21-5-14]]
+
+^<<v21-5-14,14>>^ Se as riquezas se perdem num mau negócio, nada ficará para o filho que lhe nascer.
+
+[[v21-5-15]]
+
+^<<v21-5-15,15>>^ O homem sai nu do ventre de sua mãe, e como vem, assim vai. De todo o trabalho em que se esforçou nada levará consigo.
+
+[[v21-5-16]]
+
+^<<v21-5-16,16>>^ Há também outro mal terrível: Como o homem vem, assim ele vai, e o que obtém, de todo o seu esforço em busca do vento?
+
+[[v21-5-17]]
+
+^<<v21-5-17,17>>^ Passa toda a sua vida nas trevas, com grande frustração, doença e amargura.
+
+[[v21-5-18]]
+
+^<<v21-5-18,18>>^ Assim, descobri que o melhor e o que vale a pena é comer, beber, e desfrutar o resultado de todo o esforço que se faz debaixo do sol durante os poucos dias de vida que Deus dá ao homem, pois essa é a sua recompensa.
+
+[[v21-5-19]]
+
+^<<v21-5-19,19>>^ E, quando Deus concede riquezas e bens a alguém, e o capacita a desfrutá-los, a aceitar a sua sorte e a ser feliz em seu trabalho, isso é um presente de Deus.
+
+[[v21-5-20]]
+
+^<<v21-5-20,20>>^ Raramente essa pessoa reflete no fato de que a sua vida é curta, porque Deus o mantém ocupado com a alegria do coração.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-004.adoc#v21-4-0[&#60; Capítulo Anterior] | <<v21-5-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-006.adoc#v21-6-0[Próximo Capítulo &#62;]

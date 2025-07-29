@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v4-29-0]]
+=== Números, 29
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-29-1]]
+
+^<<v4-29-1,1>>^ "No dia primeiro do sétimo mês convoquem uma santa assembléia e não façam trabalho algum. Nesse dia vocês tocarão as trombetas.
+
+[[v4-29-2]]
+
+^<<v4-29-2,2>>^ Como aroma agradável ao Senhor, ofereçam um holocausto de um novilho, um carneiro e sete cordeiros de um ano, todos sem defeito.
+
+[[v4-29-3]]
+
+^<<v4-29-3,3>>^ Com o novilho preparem uma oferta de cereal de três jarros da melhor farinha amassada com óleo; com o carneiro, dois jarros;
+
+[[v4-29-4]]
+
+^<<v4-29-4,4>>^ e com cada um dos sete cordeiros, um jarro.
+
+[[v4-29-5]]
+
+^<<v4-29-5,5>>^ Ofereçam também um bode como sacrifício pelo pecado, para fazer propiciação por vocês,
+
+[[v4-29-6]]
+
+^<<v4-29-6,6>>^ além dos holocaustos mensais e diários com as ofertas de cereal e com as ofertas derramadas, conforme prescritas. São ofertas preparadas no fogo, de aroma agradável ao Senhor.
+
+[[v4-29-7]]
+
+^<<v4-29-7,7>>^ "No dia dez desse sétimo mês convoquem uma santa assembléia. Vocês se humilharão a si mesmos e não farão trabalho algum.
+
+[[v4-29-8]]
+
+^<<v4-29-8,8>>^ Apresentem como aroma agradável ao Senhor um holocausto de um novilho, de um carneiro e de sete cordeiros de um ano de idade, todos sem defeito.
+
+[[v4-29-9]]
+
+^<<v4-29-9,9>>^ Com o novilho preparem uma oferta de cereais de três jarros da melhor farinha amassada com óleo; com o carneiro, dois jarros;
+
+[[v4-29-10]]
+
+^<<v4-29-10,10>>^ e com cada um dos sete cordeiros, um jarro.
+
+[[v4-29-11]]
+
+^<<v4-29-11,11>>^ Ofereçam também um bode como sacrifício pelo pecado, além do sacrifício pelo pecado para fazer propiciação e o holocausto diário com a oferta de cereal e com as ofertas derramadas.
+
+[[v4-29-12]]
+
+^<<v4-29-12,12>>^ "No décimo quinto dia do sétimo mês convoquem uma santa assembléia e não façam trabalho algum. Celebrem uma festa ao Senhor durante sete dias.
+
+[[v4-29-13]]
+
+^<<v4-29-13,13>>^ Apresentem uma oferta preparada no fogo, de aroma agradável ao Senhor, um holocausto de treze novilhos, dois carneiros e catorze cordeiros de um ano de idade, todos sem defeito.
+
+[[v4-29-14]]
+
+^<<v4-29-14,14>>^ Com cada um dos treze novilhos preparem uma oferta de cereal de três jarros da melhor farinha amassada com óleo; com cada um dos carneiros, dois jarros;
+
+[[v4-29-15]]
+
+^<<v4-29-15,15>>^ e com cada um dos sete cordeiros, um jarro.
+
+[[v4-29-16]]
+
+^<<v4-29-16,16>>^ Ofereçam também um bode como sacrifício pelo pecado, além do holocausto diário com a oferta de cereal e com a oferta derramada.
+
+[[v4-29-17]]
+
+^<<v4-29-17,17>>^ "No segundo dia preparem doze novilhos, dois carneiros e catorze cordeiros de um ano de idade, todos sem defeito.
+
+[[v4-29-18]]
+
+^<<v4-29-18,18>>^ Com os novilhos, carneiros e cordeiros, preparem ofertas de cereal e ofertas derramadas, de acordo com o número especificado.
+
+[[v4-29-19]]
+
+^<<v4-29-19,19>>^ Ofereçam também um bode como sacrifício pelo pecado, além do holocausto diário com a oferta de cereal e com a oferta derramada.
+
+[[v4-29-20]]
+
+^<<v4-29-20,20>>^ "No terceiro dia preparem onze novilhos, dois carneiros e catorze cordeiros de um ano de idade, todos sem defeito.
+
+[[v4-29-21]]
+
+^<<v4-29-21,21>>^ Com os novilhos, carneiros e cordeiros, preparem ofertas de cereal e ofertas derramadas, de acordo com o número especificado.
+
+[[v4-29-22]]
+
+^<<v4-29-22,22>>^ Ofereçam também um bode como sacrifício pelo pecado, além do holocausto diário com a oferta de cereal e com a oferta derramada.
+
+[[v4-29-23]]
+
+^<<v4-29-23,23>>^ "No quarto dia preparem dez novilhos, dois carneiros e catorze cordeiros de um ano de idade, todos sem defeito.
+
+[[v4-29-24]]
+
+^<<v4-29-24,24>>^ Com os novilhos, carneiros e cordeiros, preparem ofertas de cereal e ofertas derramadas, de acordo com o número especificado.
+
+[[v4-29-25]]
+
+^<<v4-29-25,25>>^ Ofereçam também um bode como sacrifício pelo pecado, além do holocausto diário com a oferta de cereal e com a oferta derramada.
+
+[[v4-29-26]]
+
+^<<v4-29-26,26>>^ "No quinto dia preparem nove novilhos, dois carneiros e catorze cordeiros de um ano de idade, todos sem defeito.
+
+[[v4-29-27]]
+
+^<<v4-29-27,27>>^ Com os novilhos, carneiros e cordeiros, preparem ofertas de cereal e ofertas derramadas, de acordo com o número especificado.
+
+[[v4-29-28]]
+
+^<<v4-29-28,28>>^ Ofereçam também um bode como sacrifício pelo pecado, além do holocausto diário com a oferta de cereal e com a oferta derramada.
+
+[[v4-29-29]]
+
+^<<v4-29-29,29>>^ "No sexto dia preparem oito novilhos, dois carneiros e catorze cordeiros de um ano de idade, todos sem defeito.
+
+[[v4-29-30]]
+
+^<<v4-29-30,30>>^ Com os novilhos, carneiros e cordeiros, preparem ofertas de cereal e ofertas derramadas, de acordo com o número especificado.
+
+[[v4-29-31]]
+
+^<<v4-29-31,31>>^ Ofereçam também um bode como sacrifício pelo pecado, além do holocausto diário com a oferta de cereal e com a oferta derramada.
+
+[[v4-29-32]]
+
+^<<v4-29-32,32>>^ "No sétimo dia preparem sete novilhos, dois carneiros e catorze cordeiros de um ano de idade, todos sem defeito.
+
+[[v4-29-33]]
+
+^<<v4-29-33,33>>^ Com os novilhos, carneiros e cordeiros, preparem ofertas de cereal e ofertas derramadas, de acordo com o número especificado.
+
+[[v4-29-34]]
+
+^<<v4-29-34,34>>^ Ofereçam também um bode como sacrifício pelo pecado, além do holocausto diário com a oferta de cereal e com a oferta derramada.
+
+[[v4-29-35]]
+
+^<<v4-29-35,35>>^ "No oitavo dia convoquem uma assembléia e não façam trabalho algum.
+
+[[v4-29-36]]
+
+^<<v4-29-36,36>>^ Apresentem uma oferta preparada no fogo, de aroma agradável ao Senhor, um holocausto de um novilho, um carneiro e sete cordeiros de um ano, todos sem defeito.
+
+[[v4-29-37]]
+
+^<<v4-29-37,37>>^ Com o novilho, o carneiro e os cordeiros, preparem ofertas de cereal e ofertas derramadas, de acordo com o número especificado.
+
+[[v4-29-38]]
+
+^<<v4-29-38,38>>^ Ofereçam também um bode como sacrifício pelo pecado, além do holocausto diário com a oferta de cereal e com a oferta derramada.
+
+[[v4-29-39]]
+
+^<<v4-29-39,39>>^ "Além dos votos que fizerem e das ofertas voluntárias, preparem isto para o Senhor nas festas que lhes são designadas: os holocaustos, as ofertas de cereal, as ofertas derramadas e as ofertas de comunhão. "
+
+[[v4-29-40]]
+
+^<<v4-29-40,40>>^ E Moisés comunicou aos israelitas tudo o que o Senhor lhe tinha ordenado.
+
+'''
+
+xref:004-numeros/004-numeros-028.adoc#v4-28-0[&#60; Capítulo Anterior] | <<v4-29-0,Topo>> | xref:004-numeros/004-numeros-030.adoc#v4-30-0[Próximo Capítulo &#62;]

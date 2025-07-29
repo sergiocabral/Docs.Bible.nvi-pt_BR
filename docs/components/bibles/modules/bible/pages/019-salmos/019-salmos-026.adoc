@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-26-0]]
+=== Salmos, 26
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-26-1]]
+
+^<<v19-26-1,1>>^ Faze-me justiça, Senhor, pois tenho vivido com integridade. Tenho confiado no Senhor, sem vacilação.
+
+[[v19-26-2]]
+
+^<<v19-26-2,2>>^ Sonda-me, Senhor, e prova-me, examina o meu coração e a minha mente;
+
+[[v19-26-3]]
+
+^<<v19-26-3,3>>^ pois o teu amor está sempre diante de mim, e continuamente sigo a tua verdade.
+
+[[v19-26-4]]
+
+^<<v19-26-4,4>>^ Não me associo com homens falsos, nem ando com hipócritas;
+
+[[v19-26-5]]
+
+^<<v19-26-5,5>>^ detesto o ajuntamento dos malfeitores, e não me assento com os ímpios.
+
+[[v19-26-6]]
+
+^<<v19-26-6,6>>^ Lavo as mãos na inocência, e do teu altar, Senhor, me aproximo
+
+[[v19-26-7]]
+
+^<<v19-26-7,7>>^ cantando hinos de gratidão e falando de todas as tuas maravilhas.
+
+[[v19-26-8]]
+
+^<<v19-26-8,8>>^ Eu amo, Senhor, o lugar da tua habitação, onde a tua glória habita.
+
+[[v19-26-9]]
+
+^<<v19-26-9,9>>^ Não me dês o destino dos pecadores, nem o fim dos assassinos;
+
+[[v19-26-10]]
+
+^<<v19-26-10,10>>^ suas mãos executam planos perversos, praticam suborno abertamente.
+
+[[v19-26-11]]
+
+^<<v19-26-11,11>>^ Mas eu vivo com integridade; livra-me e tem misericórdia de mim.
+
+[[v19-26-12]]
+
+^<<v19-26-12,12>>^ Os meus pés estão firmes na retidão; na grande assembléia bendirei o Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-025.adoc#v19-25-0[&#60; Capítulo Anterior] | <<v19-26-0,Topo>> | xref:019-salmos/019-salmos-027.adoc#v19-27-0[Próximo Capítulo &#62;]

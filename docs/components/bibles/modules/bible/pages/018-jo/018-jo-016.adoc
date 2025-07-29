@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-16-0]]
+=== Jó, 16
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-16-1]]
+
+^<<v18-16-1,1>>^ Então Jó respondeu:
+
+[[v18-16-2]]
+
+^<<v18-16-2,2>>^ "Já ouvi muitas palavras como essas. Pobres consoladores são vocês todos!
+
+[[v18-16-3]]
+
+^<<v18-16-3,3>>^ Esses discursos inúteis nunca acabarão? O que o leva a continuar discutindo?
+
+[[v18-16-4]]
+
+^<<v18-16-4,4>>^ Bem que eu poderia falar como vocês, se estivessem em meu lugar; eu poderia condená-los com belos discursos, e menear a cabeça contra vocês.
+
+[[v18-16-5]]
+
+^<<v18-16-5,5>>^ Mas a minha boca procuraria encorajá-los; a consolação dos meus lábios lhes daria alívio.
+
+[[v18-16-6]]
+
+^<<v18-16-6,6>>^ "Contudo, se falo, a minha dor não se alivia; se me calo, ela não desaparece.
+
+[[v18-16-7]]
+
+^<<v18-16-7,7>>^ Sem dúvida, ó Deus, tu me esgotaste as forças; deste fim a toda a minha família.
+
+[[v18-16-8]]
+
+^<<v18-16-8,8>>^ Tu me deixaste deprimido, o que é uma testemunha disso; a minha magreza se levanta e depõe contra mim.
+
+[[v18-16-9]]
+
+^<<v18-16-9,9>>^ Deus, em sua ira, ataca-me e faz-me em pedaços, e range os dentes contra mim; meus inimigos fitam-me com olhar penetrante.
+
+[[v18-16-10]]
+
+^<<v18-16-10,10>>^ Os homens abrem sua boca contra mim, esmurram meu rosto com zombaria e se unem contra mim.
+
+[[v18-16-11]]
+
+^<<v18-16-11,11>>^ Deus fez-me cair nas mãos dos ímpios, e atirou-me nas garras dos maus.
+
+[[v18-16-12]]
+
+^<<v18-16-12,12>>^ Eu estava tranqüilo, mas ele me arrebentou; agarrou-me pelo pescoço e esmagou-me. Fez de mim o seu alvo;
+
+[[v18-16-13]]
+
+^<<v18-16-13,13>>^ seus flecheiros me cercam. Ele traspassou sem dó os meus rins e derramou na terra a minha bílis.
+
+[[v18-16-14]]
+
+^<<v18-16-14,14>>^ Lança-se sobre mim uma e outra vez; ataca-me como um guerreiro.
+
+[[v18-16-15]]
+
+^<<v18-16-15,15>>^ "Costurei veste de lamento sobre a minha pele e enterrei a minha testa no pó.
+
+[[v18-16-16]]
+
+^<<v18-16-16,16>>^ Meu rosto está rubro de tanto eu chorar, e sombras densas circundam os meus olhos,
+
+[[v18-16-17]]
+
+^<<v18-16-17,17>>^ apesar de que não há violência em minhas mãos e de que é pura a minha oração.
+
+[[v18-16-18]]
+
+^<<v18-16-18,18>>^ "Ó terra, não cubra o meu sangue! Não haja lugar de repouso para o meu clamor!
+
+[[v18-16-19]]
+
+^<<v18-16-19,19>>^ Saibam que agora mesmo a minha testemunha está nos céus; nas alturas está o meu advogado.
+
+[[v18-16-20]]
+
+^<<v18-16-20,20>>^ O meu intercessor é meu amigo, quando diante de Deus correm lágrimas dos meus olhos;
+
+[[v18-16-21]]
+
+^<<v18-16-21,21>>^ ele defende a causa do homem perante Deus, como quem defende a causa do amigo.
+
+[[v18-16-22]]
+
+^<<v18-16-22,22>>^ "Pois mais alguns anos apenas, e farei a viagem sem retorno.
+
+'''
+
+xref:018-jo/018-jo-015.adoc#v18-15-0[&#60; Capítulo Anterior] | <<v18-16-0,Topo>> | xref:018-jo/018-jo-017.adoc#v18-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Lamentações, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ Lembra-te, Senhor, do que tem acontecido conosco; olha e vê a nossa desgraça.
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ Nossa herança foi entregue aos estranhos, nossas casas, aos estrangeiros.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ Somos órfãos de pai, nossas mães são viúvas.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ Temos que comprar a água que bebemos; nossa lenha, só conseguimos pagando.
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Aqueles que nos perseguem estão bem próximos; estamos exaustos e não temos como descansar.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ Submetemo-nos ao Egito e à Assíria a fim de conseguirmos pão.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Nossos pais pecaram e já não existem mais, e nós levamos o castigo pelos seus pecados.
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ Escravos dominam sobre nós, e não há quem possa livrar-nos das suas mãos.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ Conseguimos pão arriscando as nossas vidas enfrentando a espada do deserto.
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ Nossa pele está quente como um forno, febril de tanta fome.
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ As mulheres têm sido violentadas em Sião, e as virgens, nas cidades de Judá.
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Os líderes foram pendurados pelas mãos; aos idosos não se mostra nenhum respeito.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Os jovens trabalham nos moinhos; os meninos cambaleiam sob o fardo de lenha.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ Os líderes já não se reúnem junto às portas da cidade; os jovens cessaram a sua música.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ Dos nossos corações fugiu a alegria; nossas danças se transformaram em lamentos.
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ A coroa caiu da nossa cabeça. Ai de nós, porque temos pecado!
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ E por esse motivo o nosso coração desfalece, e os nossos olhos perdem o brilho.
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ Tudo porque o monte Sião está deserto, e os chacais perambulam por ele.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ Tu, Senhor, reinas para sempre; teu trono permanece de geração a geração.
+
+[[v25-5-20]]
+
+^<<v25-5-20,20>>^ Por que motivo então te esquecerias de nós? Por que haverias de desamparar-nos por tanto tempo?
+
+[[v25-5-21]]
+
+^<<v25-5-21,21>>^ Restaura-nos para ti, Senhor, para que voltemos; renova os nossos dias como os de antigamente,
+
+[[v25-5-22]]
+
+^<<v25-5-22,22>>^ a não ser que já nos tenhas rejeitado completamente e a tua ira contra nós não tenha limite!
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:026-ezequiel/026-ezequiel-001.adoc#v26-1-0[Próximo Capítulo &#62;]

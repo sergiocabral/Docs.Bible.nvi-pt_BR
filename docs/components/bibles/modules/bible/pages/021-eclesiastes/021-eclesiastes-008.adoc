@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v21-8-0]]
+=== Eclesiastes, 8
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v21-8-1]]
+
+^<<v21-8-1,1>>^ Quem é como o sábio? Quem sabe interpretar as coisas? A sabedoria de um homem Alcança o favor do rei e muda o seu semblante carregado.
+
+[[v21-8-2]]
+
+^<<v21-8-2,2>>^ Este é o meu conselho: obedeça às ordens do rei porque você fez um juramento diante de Deus.
+
+[[v21-8-3]]
+
+^<<v21-8-3,3>>^ Não se apresse em deixar a presença do rei, nem se levante em favor de uma causa errada, pois o rei faz o que bem entende.
+
+[[v21-8-4]]
+
+^<<v21-8-4,4>>^ Pois a palavra do rei é soberana, e ninguém lhe pode perguntar: "Que é que estás fazendo? "
+
+[[v21-8-5]]
+
+^<<v21-8-5,5>>^ Quem obedece às suas ordens não sofrerá mal algum, pois o coração sábio saberá a hora e a maneira certa de agir.
+
+[[v21-8-6]]
+
+^<<v21-8-6,6>>^ Pois há uma hora certa e também uma maneira certa de agir para cada situação. O sofrimento de um homem, no entanto, pesa muito sobre ele,
+
+[[v21-8-7]]
+
+^<<v21-8-7,7>>^ visto que ninguém conhece o futuro. Quem lhe poderá dizer o que vai acontecer?
+
+[[v21-8-8]]
+
+^<<v21-8-8,8>>^ Ninguém tem o poder de conter o próprio espírito; tampouco tem poder sobre o dia da sua morte, e de escapar dos efeitos da guerra; nem mesmo a maldade livra aqueles que a praticam.
+
+[[v21-8-9]]
+
+^<<v21-8-9,9>>^ Tudo isso vi quando me pus a refletir em tudo o que se faz debaixo do sol. Há ocasiões em que um homem domina sobre outros para a sua própria infelicidade.
+
+[[v21-8-10]]
+
+^<<v21-8-10,10>>^ Nessas ocasiões, vi ímpios serem sepultados e gente indo e vindo do lugar onde eles foram enterrados. Todavia, os que haviam praticado o bem foram esquecidos na cidade. Isso também não faz sentido.
+
+[[v21-8-11]]
+
+^<<v21-8-11,11>>^ Quando os crimes não são castigados logo, o coração do homem se enche de planos para fazer o mal.
+
+[[v21-8-12]]
+
+^<<v21-8-12,12>>^ O ímpio pode cometer uma centena de crimes e até ter vida longa, mas sei muito bem que as coisas serão melhores para os que temem a Deus, para os que mostram respeito diante dele.
+
+[[v21-8-13]]
+
+^<<v21-8-13,13>>^ Para os ímpios, no entanto, nada irá bem, porque não temem a Deus, e os seus dias, como sombras, serão poucos.
+
+[[v21-8-14]]
+
+^<<v21-8-14,14>>^ Há mais uma coisa sem sentido na terra: justos que recebem o que os ímpios merecem, e ímpios que recebem o que os justos merecem. Isto também, penso eu, não faz sentido.
+
+[[v21-8-15]]
+
+^<<v21-8-15,15>>^ Por isso recomendo que se desfrute a vida, porque debaixo do sol não há nada melhor para o homem do que comer, beber e alegrar-se. Sejam esses os seus companheiros no seu duro trabalho durante todos os dias da vida que Deus lhe der debaixo do sol!
+
+[[v21-8-16]]
+
+^<<v21-8-16,16>>^ Quando voltei a mente para conhecer a sabedoria e observar as atividades do homem sobre a terra, daquele cujos olhos não vêem sono nem de dia nem de noite,
+
+[[v21-8-17]]
+
+^<<v21-8-17,17>>^ então percebi tudo o que Deus tem feito. Ninguém é capaz de entender o que se faz debaixo do sol. Por mais que se esforce para descobrir o sentido das coisas, o homem não o encontrará. O sábio pode até afirmar que entende, mas, na realidade não o consegue encontrar.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-007.adoc#v21-7-0[&#60; Capítulo Anterior] | <<v21-8-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-009.adoc#v21-9-0[Próximo Capítulo &#62;]

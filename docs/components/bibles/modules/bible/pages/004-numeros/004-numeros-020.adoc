@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v4-20-0]]
+=== Números, 20
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-20-1]]
+
+^<<v4-20-1,1>>^ No primeiro mês toda a comunidade de Israel chegou ao deserto de Zim e ficou em Cades. Ali Miriã morreu e foi sepultada.
+
+[[v4-20-2]]
+
+^<<v4-20-2,2>>^ Não havia água para a comunidade, e o povo se juntou contra Moisés e contra Arão.
+
+[[v4-20-3]]
+
+^<<v4-20-3,3>>^ Discutiram com Moisés e disseram: "Quem dera tivéssemos morrido quando os nossos irmãos caíram mortos perante o Senhor!
+
+[[v4-20-4]]
+
+^<<v4-20-4,4>>^ Por que vocês trouxeram a assembléia do Senhor a este deserto, para que nós e os nossos rebanhos morrêssemos aqui?
+
+[[v4-20-5]]
+
+^<<v4-20-5,5>>^ Por que vocês nos tiraram do Egito e nos trouxeram para este lugar terrível? Aqui não há cereal, nem figos, nem uvas, nem romãs, nem água para beber! "
+
+[[v4-20-6]]
+
+^<<v4-20-6,6>>^ Moisés e Arão saíram de diante da assembléia para a entrada da Tenda do Encontro e se prostraram, rosto em terra, e a glória do Senhor lhes apareceu.
+
+[[v4-20-7]]
+
+^<<v4-20-7,7>>^ E o Senhor disse a Moisés:
+
+[[v4-20-8]]
+
+^<<v4-20-8,8>>^ "Pegue a vara, e com o seu irmão Arão reúna a comunidade e diante desta fale àquela rocha, e ela verterá água. Vocês tirarão água da rocha para a comunidade e os rebanhos beberem".
+
+[[v4-20-9]]
+
+^<<v4-20-9,9>>^ Então Moisés pegou a vara que estava diante do Senhor, como este lhe havia ordenado.
+
+[[v4-20-10]]
+
+^<<v4-20-10,10>>^ Moisés e Arão reuniram a assembléia em frente da rocha, e Moisés disse: "Escutem, rebeldes, será que teremos que tirar água desta rocha para lhes dar? "
+
+[[v4-20-11]]
+
+^<<v4-20-11,11>>^ Então Moisés ergueu o braço e bateu na rocha duas vezes com a vara. Jorrou água, e a comunidade e os rebanhos beberam.
+
+[[v4-20-12]]
+
+^<<v4-20-12,12>>^ O Senhor, porém, disse a Moisés e a Arão: "Como vocês não confiaram em mim para honrar minha santidade à vista dos israelitas, vocês não conduzirão esta comunidade para a terra que lhes dou".
+
+[[v4-20-13]]
+
+^<<v4-20-13,13>>^ Essas foram as águas de Meribá, onde os israelitas discutiram com o Senhor e onde ele manifestou sua santidade entre eles.
+
+[[v4-20-14]]
+
+^<<v4-20-14,14>>^ De Cades, Moisés enviou mensageiros ao rei de Edom, dizendo: "Assim diz o teu irmão Israel: Tu sabes de todas as dificuldades que vieram sobre nós.
+
+[[v4-20-15]]
+
+^<<v4-20-15,15>>^ Os nossos antepassados desceram para o Egito, e ali vivemos durante muitos anos. Os egípcios, porém, nos maltrataram, como também a eles,
+
+[[v4-20-16]]
+
+^<<v4-20-16,16>>^ mas quando clamamos ao Senhor, ele ouviu o nosso clamor, enviou um anjo e nos tirou do Egito. "Agora estamos em Cades, cidade na fronteira do teu território.
+
+[[v4-20-17]]
+
+^<<v4-20-17,17>>^ Deixa-nos atravessar a tua terra. Não passaremos por nenhuma plantação ou vinha, nem beberemos água de poço algum. Passaremos pela estrada do rei e não nos desviaremos nem para a direita nem para a esquerda, até que tenhamos atravessado o teu território".
+
+[[v4-20-18]]
+
+^<<v4-20-18,18>>^ Mas Edom respondeu: "Vocês não poderão passar por aqui; se tentarem, nós os atacaremos com a espada".
+
+[[v4-20-19]]
+
+^<<v4-20-19,19>>^ E os israelitas disseram: "Iremos pela estrada principal; se nós e os nossos rebanhos bebermos de tua água, pagaremos por ela. Queremos apenas atravessar a pé, e nada mais".
+
+[[v4-20-20]]
+
+^<<v4-20-20,20>>^ Mas Edom insistiu: "Vocês não poderão atravessar". Então Edom os atacou com um exército grande e poderoso.
+
+[[v4-20-21]]
+
+^<<v4-20-21,21>>^ Visto que Edom se recusou a deixá-los atravessar o seu território, Israel desviou-se dele.
+
+[[v4-20-22]]
+
+^<<v4-20-22,22>>^ Toda a comunidade israelita partiu de Cades e chegou ao monte Hor.
+
+[[v4-20-23]]
+
+^<<v4-20-23,23>>^ Naquele monte, perto da fronteira de Edom, o Senhor disse a Moisés e a Arão:
+
+[[v4-20-24]]
+
+^<<v4-20-24,24>>^ "Arão será reunido aos seus antepassados. Não entrará na terra que dou aos israelitas, porque vocês dois se rebelaram contra a minha ordem junto às águas de Meribá.
+
+[[v4-20-25]]
+
+^<<v4-20-25,25>>^ Leve Arão e seu filho Eleazar para o alto do monte Hor.
+
+[[v4-20-26]]
+
+^<<v4-20-26,26>>^ Tire as vestes de Arão e coloque-as em seu filho Eleazar, pois Arão será reunido aos seus antepassados; ele morrerá ali".
+
+[[v4-20-27]]
+
+^<<v4-20-27,27>>^ Moisés fez conforme o Senhor ordenou; subiram o monte Hor à vista de toda a comunidade.
+
+[[v4-20-28]]
+
+^<<v4-20-28,28>>^ Moisés tirou as vestes de Arão e as colocou em seu filho Eleazar. E Arão morreu no alto do monte. Depois disso, Moisés e Eleazar desceram do monte,
+
+[[v4-20-29]]
+
+^<<v4-20-29,29>>^ e, quando toda a comunidade soube que Arão tinha morrido, toda a nação de Israel pranteou por ele durante trinta dias.
+
+'''
+
+xref:004-numeros/004-numeros-019.adoc#v4-19-0[&#60; Capítulo Anterior] | <<v4-20-0,Topo>> | xref:004-numeros/004-numeros-021.adoc#v4-21-0[Próximo Capítulo &#62;]

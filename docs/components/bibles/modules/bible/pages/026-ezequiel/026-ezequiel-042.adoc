@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v26-42-0]]
+=== Ezequiel, 42
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v26-42-1]]
+
+^<<v26-42-1,1>>^ Depois disso o homem conduziu-me para o lado norte, para o pátio externo, e levou-me aos quartos opostos ao pátio do templo e ao muro externo do lado norte.
+
+[[v26-42-2]]
+
+^<<v26-42-2,2>>^ O prédio cuja porta dava para o norte tinha cinqüenta metros de comprimento e vinte e cinco metros de largura.
+
+[[v26-42-3]]
+
+^<<v26-42-3,3>>^ Tanto na secção que ficava a dez metros de distância do pátio interno quanto na secção oposta ao piso do pátio externo, havia uma galeria frente à outra nos três andares.
+
+[[v26-42-4]]
+
+^<<v26-42-4,4>>^ Em frente dos quartos havia uma passagem interna com cinco metros de largura e cinqüenta metros de comprimento. Suas portas ficavam no lado norte.
+
+[[v26-42-5]]
+
+^<<v26-42-5,5>>^ Ora, os quartos superiores eram mais estreitos, pois as galerias tomavam mais espaço deles do que dos quartos do andar inferior e médio.
+
+[[v26-42-6]]
+
+^<<v26-42-6,6>>^ Os quartos do terceiro andar não tinham colunas, ao passo que os pátios as tinham. Por isso a área deles era menor do que a dos quartos do andar inferior e o do meio.
+
+[[v26-42-7]]
+
+^<<v26-42-7,7>>^ Havia uma parede externa paralela aos quartos e ao pátio externo; sua extensão era de vinte e cinco metros, em frente dos quartos.
+
+[[v26-42-8]]
+
+^<<v26-42-8,8>>^ A carreira de quartos junto ao pátio interno tinha vinte e cinco metros de comprimento, e a que ficava mais próximo do santuário tinha cinqüenta metros de comprimento.
+
+[[v26-42-9]]
+
+^<<v26-42-9,9>>^ Os quartos de baixo tinham entrada pelo lado leste, quando se vem do pátio externo.
+
+[[v26-42-10]]
+
+^<<v26-42-10,10>>^ No lado sul, ao longo do comprimento da parede do pátio externo, adjacentes ao pátio do templo e no lado oposto do muro externo, havia quartos
+
+[[v26-42-11]]
+
+^<<v26-42-11,11>>^ com uma passagem em frente deles. Eram como os quartos do lado norte; tinham o mesmo comprimento e a mesma largura, com saídas e dimensões semelhantes. As portas do lado norte
+
+[[v26-42-12]]
+
+^<<v26-42-12,12>>^ eram semelhantes às portas dos quartos do lado sul. Havia uma entrada no início do corredor paralelo ao muro correspondente que se estendia para leste; e havia uma entrada para os quartos.
+
+[[v26-42-13]]
+
+^<<v26-42-13,13>>^ Depois ele me disse: "Os quartos do norte e do sul que dão para o pátio do templo são os quartos dos sacerdotes, onde os sacerdotes que se aproximam do Senhor comerão as ofertas santíssimas. Ali porão as ofertas santíssimas: as ofertas de cereal, as ofertas pelo pecado e as ofertas pela culpa, pois o local é santo.
+
+[[v26-42-14]]
+
+^<<v26-42-14,14>>^ Assim que os sacerdotes entrarem nos recintos sagrados, só poderão ir para o pátio externo após tirarem as vestes com as quais ministram, pois elas são santas. Porão outras vestes antes de se aproximarem dos lugares reservados para o povo".
+
+[[v26-42-15]]
+
+^<<v26-42-15,15>>^ Quando ele acabou de medir o que havia dentro da área do templo, levou-me para fora pela porta leste e mediu a área em redor:
+
+[[v26-42-16]]
+
+^<<v26-42-16,16>>^ Mediu o lado leste com a vara de medir; e ele tinha duzentos e cinqüenta metros.
+
+[[v26-42-17]]
+
+^<<v26-42-17,17>>^ Mediu o lado norte; ele tinha duzentos e cinqüenta metros, segundo a vara de medir.
+
+[[v26-42-18]]
+
+^<<v26-42-18,18>>^ Mediu o lado sul; e tinha duzentos e cinqüenta metros, segundo a vara de medir.
+
+[[v26-42-19]]
+
+^<<v26-42-19,19>>^ Depois ele foi para o lado oeste e o mediu; ele tinha duzentos e cinqüenta metros, segundo a vara de medir.
+
+[[v26-42-20]]
+
+^<<v26-42-20,20>>^ Assim ele mediu a área nos quatro lados. Em torno dela havia um muro de duzentos e cinqüenta metros de comprimento e duzentos e cinqüenta metros de largura, para separar o santo do comum.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-041.adoc#v26-41-0[&#60; Capítulo Anterior] | <<v26-42-0,Topo>> | xref:026-ezequiel/026-ezequiel-043.adoc#v26-43-0[Próximo Capítulo &#62;]

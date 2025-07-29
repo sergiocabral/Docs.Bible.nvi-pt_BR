@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v56-2-0]]
+=== Tito, 2
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v56-2-1]]
+
+^<<v56-2-1,1>>^ Você, porém, fale o que está de acordo com a sã doutrina.
+
+[[v56-2-2]]
+
+^<<v56-2-2,2>>^ Ensine os homens mais velhos a serem sóbrios, dignos de respeito, sensatos, e sadios na fé, no amor e na perseverança.
+
+[[v56-2-3]]
+
+^<<v56-2-3,3>>^ Semelhantemente, ensine as mulheres mais velhas a serem reverentes na sua maneira de viver, a não serem caluniadoras nem escravizadas a muito vinho, mas a serem capazes de ensinar o que é bom.
+
+[[v56-2-4]]
+
+^<<v56-2-4,4>>^ Assim, poderão orientar as mulheres mais jovens a amarem seus maridos e seus filhos,
+
+[[v56-2-5]]
+
+^<<v56-2-5,5>>^ a serem prudentes e puras, a estarem ocupadas em casa, e a serem bondosas e sujeitas a seus próprios maridos, a fim de que a palavra de Deus não seja difamada.
+
+[[v56-2-6]]
+
+^<<v56-2-6,6>>^ Da mesma maneira, encoraje os jovens a serem prudentes.
+
+[[v56-2-7]]
+
+^<<v56-2-7,7>>^ Em tudo seja você mesmo um exemplo para eles, fazendo boas obras. Em seu ensino, mostre integridade e seriedade;
+
+[[v56-2-8]]
+
+^<<v56-2-8,8>>^ use linguagem sadia, contra a qual nada se possa dizer, para que aqueles que se lhe opõem fiquem envergonhados por não terem nada de mal para dizer a nosso respeito.
+
+[[v56-2-9]]
+
+^<<v56-2-9,9>>^ Ensine os escravos a se submeterem em tudo a seus senhores, a procurarem agradá-los, a não serem respondões e
+
+[[v56-2-10]]
+
+^<<v56-2-10,10>>^ a não roubá-los, mas a mostrarem que são inteiramente dignos de confiança, para que assim tornem atraente, em tudo, o ensino de Deus, nosso Salvador.
+
+[[v56-2-11]]
+
+^<<v56-2-11,11>>^ Porque a graça de Deus se manifestou salvadora a todos os homens.
+
+[[v56-2-12]]
+
+^<<v56-2-12,12>>^ Ela nos ensina a renunciar à impiedade e às paixões mundanas e a viver de maneira sensata, justa e piedosa nesta era presente,
+
+[[v56-2-13]]
+
+^<<v56-2-13,13>>^ enquanto aguardamos a bendita esperança: a gloriosa manifestação de nosso grande Deus e Salvador, Jesus Cristo.
+
+[[v56-2-14]]
+
+^<<v56-2-14,14>>^ Ele se entregou por nós a fim de nos remir de toda a maldade e purificar para si mesmo um povo particularmente seu, dedicado à prática de boas obras.
+
+[[v56-2-15]]
+
+^<<v56-2-15,15>>^ É isso que você deve ensinar, exortando-os e repreendendo-os com toda a autoridade. Ninguém o despreze.
+
+'''
+
+xref:056-tito/056-tito-001.adoc#v56-1-0[&#60; Capítulo Anterior] | <<v56-2-0,Topo>> | xref:056-tito/056-tito-003.adoc#v56-3-0[Próximo Capítulo &#62;]

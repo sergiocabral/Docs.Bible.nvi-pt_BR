@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-29-0]]
+=== Provérbios, 29
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-29-1]]
+
+^<<v20-29-1,1>>^ Quem insiste no erro depois de muita repreensão, será destruído, sem aviso e irremediavelmente.
+
+[[v20-29-2]]
+
+^<<v20-29-2,2>>^ Quando os justos florescem, o povo se alegra; quando os ímpios governam, o povo geme.
+
+[[v20-29-3]]
+
+^<<v20-29-3,3>>^ O homem que ama a sabedoria dá alegria a seu pai, mas quem anda com prostitutas dá fim à sua fortuna.
+
+[[v20-29-4]]
+
+^<<v20-29-4,4>>^ O rei que exerce a justiça dá estabilidade ao país, mas o que gosta de subornos o leva à ruína.
+
+[[v20-29-5]]
+
+^<<v20-29-5,5>>^ Quem adula seu próximo está armando uma rede para os pés dele.
+
+[[v20-29-6]]
+
+^<<v20-29-6,6>>^ O pecado do homem mau o apanha na sua própria armadilha, mas o justo pode cantar e alegrar-se.
+
+[[v20-29-7]]
+
+^<<v20-29-7,7>>^ Os justos levam em conta os direitos dos pobres, mas os ímpios nem se importam com isso.
+
+[[v20-29-8]]
+
+^<<v20-29-8,8>>^ Os zombadores agitam a cidade, mas os sábios a apaziguam.
+
+[[v20-29-9]]
+
+^<<v20-29-9,9>>^ Se o sábio for ao tribunal contra o insensato, não haverá paz, pois o insensato se enfurecerá e zombará.
+
+[[v20-29-10]]
+
+^<<v20-29-10,10>>^ Os violentos odeiam os honestos e procuram matar o homem íntegro.
+
+[[v20-29-11]]
+
+^<<v20-29-11,11>>^ O tolo dá vazão à sua ira, mas o sábio domina-se.
+
+[[v20-29-12]]
+
+^<<v20-29-12,12>>^ Para o governante que dá ouvidos a mentiras, todos os seus oficiais são ímpios.
+
+[[v20-29-13]]
+
+^<<v20-29-13,13>>^ O pobre e o opressor têm algo em comum: O Senhor dá vista a ambos.
+
+[[v20-29-14]]
+
+^<<v20-29-14,14>>^ Se o rei julga os pobres com justiça, seu trono estará sempre seguro.
+
+[[v20-29-15]]
+
+^<<v20-29-15,15>>^ A vara da correção dá sabedoria, mas a criança entregue a si mesma envergonha a sua mãe.
+
+[[v20-29-16]]
+
+^<<v20-29-16,16>>^ Quando os ímpios prosperam, prospera o pecado, mas os justos verão a queda deles.
+
+[[v20-29-17]]
+
+^<<v20-29-17,17>>^ Discipline seu filho, e este lhe dará paz; trará grande prazer à sua alma.
+
+[[v20-29-18]]
+
+^<<v20-29-18,18>>^ Onde não há revelação divina, o povo se desvia; mas como é feliz quem obedece à lei!
+
+[[v20-29-19]]
+
+^<<v20-29-19,19>>^ Meras palavras não bastam para corrigir o escravo; mesmo que entenda, não reagirá bem.
+
+[[v20-29-20]]
+
+^<<v20-29-20,20>>^ Você já viu alguém que se precipita no falar? Há mais esperança para o insensato do que para ele.
+
+[[v20-29-21]]
+
+^<<v20-29-21,21>>^ Se alguém mima seu escravo desde jovem, no fim terá tristezas.
+
+[[v20-29-22]]
+
+^<<v20-29-22,22>>^ O homem irado provoca brigas, e o de gênio violento comete muitos pecados.
+
+[[v20-29-23]]
+
+^<<v20-29-23,23>>^ O orgulho do homem o humilha, mas o de espírito humilde obtém honra.
+
+[[v20-29-24]]
+
+^<<v20-29-24,24>>^ O cúmplice do ladrão odeia a si mesmo; posto sob juramento, não ousa testemunhar.
+
+[[v20-29-25]]
+
+^<<v20-29-25,25>>^ Quem teme ao homem cai em armadilhas, mas quem confia no Senhor está seguro.
+
+[[v20-29-26]]
+
+^<<v20-29-26,26>>^ Muitos desejam os favores do governante, mas é do Senhor que procede a justiça.
+
+[[v20-29-27]]
+
+^<<v20-29-27,27>>^ Os justos detestam os desonestos, já os ímpios detestam os íntegros.
+
+'''
+
+xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[&#60; Capítulo Anterior] | <<v20-29-0,Topo>> | xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[Próximo Capítulo &#62;]

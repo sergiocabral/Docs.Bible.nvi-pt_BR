@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v19-23-0]]
+=== Salmos, 23
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-23-1]]
+
+^<<v19-23-1,1>>^ O Senhor é o meu pastor; de nada terei falta.
+
+[[v19-23-2]]
+
+^<<v19-23-2,2>>^ Em verdes pastagens me faz repousar e me conduz a águas tranqüilas;
+
+[[v19-23-3]]
+
+^<<v19-23-3,3>>^ restaura-me o vigor. Guia-me nas veredas da justiça por amor do seu nome.
+
+[[v19-23-4]]
+
+^<<v19-23-4,4>>^ Mesmo quando eu andar por um vale de trevas e morte, não temerei perigo algum, pois tu estás comigo; a tua vara e o teu cajado me protegem.
+
+[[v19-23-5]]
+
+^<<v19-23-5,5>>^ Preparas um banquete para mim à vista dos meus inimigos. Tu me honras, ungindo a minha cabeça com óleo e fazendo transbordar o meu cálice.
+
+[[v19-23-6]]
+
+^<<v19-23-6,6>>^ Sei que a bondade e a fidelidade me acompanharão todos os dias da minha vida, e voltarei à casa do Senhor enquanto eu viver.
+
+'''
+
+xref:019-salmos/019-salmos-022.adoc#v19-22-0[&#60; Capítulo Anterior] | <<v19-23-0,Topo>> | xref:019-salmos/019-salmos-024.adoc#v19-24-0[Próximo Capítulo &#62;]

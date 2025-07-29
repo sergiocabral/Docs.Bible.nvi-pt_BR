@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v18-38-0]]
+=== Jó, 38
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-38-1]]
+
+^<<v18-38-1,1>>^ Então o Senhor respondeu a Jó do meio da tempestade. Disse ele:
+
+[[v18-38-2]]
+
+^<<v18-38-2,2>>^ "Quem é esse que obscurece o meu conselho com palavras sem conhecimento?
+
+[[v18-38-3]]
+
+^<<v18-38-3,3>>^ Prepare-se como simples homem; vou fazer-lhe perguntas, e você me responderá.
+
+[[v18-38-4]]
+
+^<<v18-38-4,4>>^ "Onde você estava quando lancei os alicerces da terra? Responda-me, se é que você sabe tanto.
+
+[[v18-38-5]]
+
+^<<v18-38-5,5>>^ Quem marcou os limites das suas dimensões? Vai ver que você sabe! E quem estendeu sobre ela a linha de medir?
+
+[[v18-38-6]]
+
+^<<v18-38-6,6>>^ E as suas bases, sobre o que foram postas? E quem colocou sua pedra de esquina,
+
+[[v18-38-7]]
+
+^<<v18-38-7,7>>^ enquanto as estrelas matutinas juntas cantavam e todos os anjos se regozijavam?
+
+[[v18-38-8]]
+
+^<<v18-38-8,8>>^ "Quem represou o mar pondo-lhe portas, quando ele irrompeu do ventre materno,
+
+[[v18-38-9]]
+
+^<<v18-38-9,9>>^ quando o vesti de nuvens e em densas trevas o envolvi,
+
+[[v18-38-10]]
+
+^<<v18-38-10,10>>^ quando fixei os seus limites e lhe coloquei portas e barreiras,
+
+[[v18-38-11]]
+
+^<<v18-38-11,11>>^ quando eu lhe disse: Até aqui você pode vir, além deste ponto não, aqui faço parar suas ondas orgulhosas?
+
+[[v18-38-12]]
+
+^<<v18-38-12,12>>^ "Você já deu ordens à manhã ou mostrou à alvorada o seu lugar,
+
+[[v18-38-13]]
+
+^<<v18-38-13,13>>^ para que ela apanhasse a terra pelas pontas e sacudisse dela os ímpios?
+
+[[v18-38-14]]
+
+^<<v18-38-14,14>>^ A terra toma forma como o barro sob o sinete; e tudo nela se vê como uma veste.
+
+[[v18-38-15]]
+
+^<<v18-38-15,15>>^ Aos ímpios é negada a sua luz, e quebra-se o seu braço levantado.
+
+[[v18-38-16]]
+
+^<<v18-38-16,16>>^ "Você já foi até às nascentes do mar, ou já passeou pelas obscuras profundezas do abismo?
+
+[[v18-38-17]]
+
+^<<v18-38-17,17>>^ As portas da morte lhe foram mostradas? Você viu as portas das densas trevas?
+
+[[v18-38-18]]
+
+^<<v18-38-18,18>>^ Você faz idéia de quão imensas são as áreas da terra? Fale-me, se é que você sabe.
+
+[[v18-38-19]]
+
+^<<v18-38-19,19>>^ "Como se vai ao lugar onde mora a luz? E onde está a residência das trevas?
+
+[[v18-38-20]]
+
+^<<v18-38-20,20>>^ Poderá você conduzi-las ao lugar que lhes pertence? Conhece o caminho da habitação delas?
+
+[[v18-38-21]]
+
+^<<v18-38-21,21>>^ Vai ver que conhece, pois você já tinha nascido! Você já viveu tantos anos!
+
+[[v18-38-22]]
+
+^<<v18-38-22,22>>^ "Acaso você entrou nos reservatórios de neve, já viu os depósitos de saraiva,
+
+[[v18-38-23]]
+
+^<<v18-38-23,23>>^ que eu guardo para os períodos de tribulação, para os dias de guerra e de combate?
+
+[[v18-38-24]]
+
+^<<v18-38-24,24>>^ Qual o caminho por onde se repartem os relâmpagos? Onde é que os ventos orientais são distribuídos sobre a terra?
+
+[[v18-38-25]]
+
+^<<v18-38-25,25>>^ Quem é que abre um canal para a chuva torrencial, e um caminho para a tempestade trovejante,
+
+[[v18-38-26]]
+
+^<<v18-38-26,26>>^ para fazer chover na terra em que não vive nenhum homem, no deserto onde não há ninguém,
+
+[[v18-38-27]]
+
+^<<v18-38-27,27>>^ para matar a sede do deserto árido e nele fazer brotar vegetação?
+
+[[v18-38-28]]
+
+^<<v18-38-28,28>>^ Acaso a chuva tem pai? Quem é o pai das gotas de orvalho?
+
+[[v18-38-29]]
+
+^<<v18-38-29,29>>^ De que ventre materno vem o gelo? E quem dá à luz a geada que cai dos céus,
+
+[[v18-38-30]]
+
+^<<v18-38-30,30>>^ quando as águas se tornam duras como pedra e a superfície do abismo se congela?
+
+[[v18-38-31]]
+
+^<<v18-38-31,31>>^ "Você pode amarrar as lindas Plêiades? Pode afrouxar as cordas do Órion?
+
+[[v18-38-32]]
+
+^<<v18-38-32,32>>^ Pode fazer surgir no tempo certo as constelações ou fazer sair a Ursa com os seus filhotes?
+
+[[v18-38-33]]
+
+^<<v18-38-33,33>>^ Você conhece as leis dos céus? Voce pode determinar o domínio de Deus sobre a terra?
+
+[[v18-38-34]]
+
+^<<v18-38-34,34>>^ "Você é capaz de levantar a voz até às nuvens e cobrir-se com uma inundação?
+
+[[v18-38-35]]
+
+^<<v18-38-35,35>>^ É você que envia os relâmpagos, e eles lhe dizem: ‘Aqui estamos’?
+
+[[v18-38-36]]
+
+^<<v18-38-36,36>>^ Quem foi que deu sabedoria ao coração e entendimento à mente?
+
+[[v18-38-37]]
+
+^<<v18-38-37,37>>^ Quem é que tem sabedoria para avaliar as nuvens? Quem é capaz de despejar os cântaros de água dos céus,
+
+[[v18-38-38]]
+
+^<<v18-38-38,38>>^ quando o pó se endurece e os torrões de terra grudam uns nos outros?
+
+[[v18-38-39]]
+
+^<<v18-38-39,39>>^ "É você que caça a presa para a leoa e satisfaz a fome dos leões,
+
+[[v18-38-40]]
+
+^<<v18-38-40,40>>^ quando se agacham em suas tocas ou ficam à espreita no matagal?
+
+[[v18-38-41]]
+
+^<<v18-38-41,41>>^ Quem dá alimento aos corvos quando os seus filhotes clamam a Deus e vagueiam por falta de comida?
+
+'''
+
+xref:018-jo/018-jo-037.adoc#v18-37-0[&#60; Capítulo Anterior] | <<v18-38-0,Topo>> | xref:018-jo/018-jo-039.adoc#v18-39-0[Próximo Capítulo &#62;]

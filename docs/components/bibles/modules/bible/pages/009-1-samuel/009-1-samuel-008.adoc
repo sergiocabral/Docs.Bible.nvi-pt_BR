@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v9-8-0]]
+=== 1 Samuel, 8
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v9-8-1]]
+
+^<<v9-8-1,1>>^ Quando envelheceu, Samuel nomeou seus filhos como líderes de Israel.
+
+[[v9-8-2]]
+
+^<<v9-8-2,2>>^ Seu filho mais velho chamava-se Joel, o segundo, Abias. Eles eram líderes em Berseba.
+
+[[v9-8-3]]
+
+^<<v9-8-3,3>>^ Mas os filhos dele não andaram em seus caminhos. Eles se tornaram gananciosos, aceitaram suborno e perverteram a justiça.
+
+[[v9-8-4]]
+
+^<<v9-8-4,4>>^ Por isso, todas as autoridades de Israel reuniram-se e foram falar com Samuel, em Ramá.
+
+[[v9-8-5]]
+
+^<<v9-8-5,5>>^ E disseram-lhe: "Tu já estás idoso, e teus filhos não andam em teus caminhos; escolhe agora um rei para que nos lidere, à semelhança das outras nações".
+
+[[v9-8-6]]
+
+^<<v9-8-6,6>>^ Quando, porém, disseram: "Dá-nos um rei para que nos lidere", isto desagradou a Samuel; então ele orou ao Senhor.
+
+[[v9-8-7]]
+
+^<<v9-8-7,7>>^ E o Senhor lhe respondeu: "Atenda a tudo o que o povo está lhe pedindo; não foi a você que rejeitaram; foi a mim que rejeitaram como rei.
+
+[[v9-8-8]]
+
+^<<v9-8-8,8>>^ Assim como fizeram comigo desde o dia em que os tirei do Egito, até hoje, abandonando-me e prestando culto a outros deuses, também estão fazendo com você.
+
+[[v9-8-9]]
+
+^<<v9-8-9,9>>^ Agora atenda-os; mas advirta-os solenemente e diga-lhes que direitos reivindicará o rei que os governará".
+
+[[v9-8-10]]
+
+^<<v9-8-10,10>>^ Samuel transmitiu todas as palavras do Senhor ao povo, que estava lhe pedindo um rei,
+
+[[v9-8-11]]
+
+^<<v9-8-11,11>>^ dizendo: "Isto é o que o rei que reinará sobre vocês reivindicará como seu direito: ele tomará os filhos de vocês para servi-lo em seus carros de guerra e em sua cavalaria, e para correr à frente dos seus carros de guerra.
+
+[[v9-8-12]]
+
+^<<v9-8-12,12>>^ Colocará alguns como comandantes de mil e outros como comandantes de cinqüenta. Ele os fará arar as terras dele, fazer a colheita, e fabricar armas de guerra e equipamentos para os seus carros de guerra.
+
+[[v9-8-13]]
+
+^<<v9-8-13,13>>^ Tomará as filhas de vocês para serem perfumistas, cozinheiras e padeiras.
+
+[[v9-8-14]]
+
+^<<v9-8-14,14>>^ Tomará de vocês o melhor das plantações, das vinhas e dos olivais, e o dará aos criados dele.
+
+[[v9-8-15]]
+
+^<<v9-8-15,15>>^ Tomará um décimo dos cereais e da colheita das uvas e o dará a seus oficiais e a seus criados.
+
+[[v9-8-16]]
+
+^<<v9-8-16,16>>^ Também tomará de vocês para seu uso particular os servos e as servas, o melhor do gado e dos jumentos.
+
+[[v9-8-17]]
+
+^<<v9-8-17,17>>^ E tomará de vocês um décimo dos rebanhos, e vocês mesmos se tornarão escravos dele.
+
+[[v9-8-18]]
+
+^<<v9-8-18,18>>^ Naquele dia, vocês clamarão por causa do rei que vocês mesmos escolheram, e o Senhor não os ouvirá".
+
+[[v9-8-19]]
+
+^<<v9-8-19,19>>^ Todavia, o povo recusou-se a ouvir Samuel, e disseram: "Não! Queremos ter um rei.
+
+[[v9-8-20]]
+
+^<<v9-8-20,20>>^ Seremos como todas as outras nações; um rei nos governará, e sairá à nossa frente para combater em nossas batalhas".
+
+[[v9-8-21]]
+
+^<<v9-8-21,21>>^ Depois de ter ouvido tudo o que o povo disse, Samuel o repetiu perante o Senhor.
+
+[[v9-8-22]]
+
+^<<v9-8-22,22>>^ E o Senhor respondeu: "Atenda-os e dê-lhes um rei". Então Samuel disse aos homens de Israel: "Volte cada um para sua cidade".
+
+'''
+
+xref:009-1-samuel/009-1-samuel-007.adoc#v9-7-0[&#60; Capítulo Anterior] | <<v9-8-0,Topo>> | xref:009-1-samuel/009-1-samuel-009.adoc#v9-9-0[Próximo Capítulo &#62;]

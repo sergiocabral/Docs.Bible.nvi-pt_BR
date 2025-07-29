@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-5-0]]
+=== Salmos, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-5-1]]
+
+^<<v19-5-1,1>>^ Escuta, Senhor, as minhas palavras, considera o meu gemer.
+
+[[v19-5-2]]
+
+^<<v19-5-2,2>>^ Atenta para o meu grito de socorro, meu Rei e meu Deus, pois é a ti que imploro.
+
+[[v19-5-3]]
+
+^<<v19-5-3,3>>^ De manhã ouves, Senhor, o meu clamor; de manhã te apresento a minha oração e aguardo com esperança.
+
+[[v19-5-4]]
+
+^<<v19-5-4,4>>^ Tu não és um Deus que tenha prazer na injustiça; contigo o mal não pode habitar.
+
+[[v19-5-5]]
+
+^<<v19-5-5,5>>^ Os arrogantes não são aceitos na tua presença; odeias todos os que praticam o mal.
+
+[[v19-5-6]]
+
+^<<v19-5-6,6>>^ Destróis os mentirosos; os assassinos e os traiçoeiros o Senhor detesta.
+
+[[v19-5-7]]
+
+^<<v19-5-7,7>>^ Eu, porém, pelo teu grande amor, entrarei em tua casa; com temor me inclinarei para o teu santo templo.
+
+[[v19-5-8]]
+
+^<<v19-5-8,8>>^ Conduze-me, Senhor, na tua justiça, por causa dos meus inimigos; aplaina o teu caminho diante de mim.
+
+[[v19-5-9]]
+
+^<<v19-5-9,9>>^ Nos lábios deles não há palavra confiável; suas mentes só tramam destruição. Suas gargantas são um túmulo aberto; com suas línguas enganam sutilmente.
+
+[[v19-5-10]]
+
+^<<v19-5-10,10>>^ Condena-os, ó Deus! Caiam eles por suas próprias maquinações. Expulsa-os por causa dos seus muitos crimes, pois se rebelaram contra ti.
+
+[[v19-5-11]]
+
+^<<v19-5-11,11>>^ Alegrem-se, porém, todos os que se refugiam em ti; cantem sempre de alegria! Estende sobre eles a tua proteção. Em ti exultem os que amam o teu nome.
+
+[[v19-5-12]]
+
+^<<v19-5-12,12>>^ Pois tu, Senhor, abençoas o justo; o teu favor o protege como um escudo.
+
+'''
+
+xref:019-salmos/019-salmos-004.adoc#v19-4-0[&#60; Capítulo Anterior] | <<v19-5-0,Topo>> | xref:019-salmos/019-salmos-006.adoc#v19-6-0[Próximo Capítulo &#62;]

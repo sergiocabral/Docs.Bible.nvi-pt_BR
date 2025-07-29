@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v5-8-0]]
+=== Deuteronômio, 8
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v5-8-1]]
+
+^<<v5-8-1,1>>^ Tenham o cuidado de obedecer toda a lei que eu hoje lhes ordeno, para que vocês vivam, multipliquem-se e tomem posse da terra que o Senhor prometeu, com juramento, aos seus antepassados.
+
+[[v5-8-2]]
+
+^<<v5-8-2,2>>^ Lembre-se de como o Senhor, o seu Deus, os conduziu por todo o caminho no deserto, durante estes quarenta anos, para humilhá-los e pô-los à prova, a fim de conhecer suas intenções, se iriam obedecer aos seus mandamentos ou não.
+
+[[v5-8-3]]
+
+^<<v5-8-3,3>>^ Assim, ele os humilhou e os deixou passar fome. Mas depois os sustentou com maná, que nem vocês nem os seus antepassados conheciam, para mostrar-lhe que nem só de pão viverá o homem, mas de toda palavra que procede da boca do Senhor.
+
+[[v5-8-4]]
+
+^<<v5-8-4,4>>^ As roupas de vocês não se gastaram e os seus pés não incharam durante esses quarenta anos.
+
+[[v5-8-5]]
+
+^<<v5-8-5,5>>^ Saibam, pois, em seu coração que, assim como um homem disciplina o seu filho, da mesma forma o Senhor, o seu Deus, os disciplina.
+
+[[v5-8-6]]
+
+^<<v5-8-6,6>>^ Obedeçam aos mandamentos do Senhor, o seu Deus, andando em seus caminhos e dele tendo temor.
+
+[[v5-8-7]]
+
+^<<v5-8-7,7>>^ Pois o Senhor, o seu Deus, os está levando a uma boa terra, cheia de riachos e tanques de água, de fontes que jorram nos vales e nas colinas;
+
+[[v5-8-8]]
+
+^<<v5-8-8,8>>^ terra de trigo e cevada, videiras e figueiras e romãzeiras, azeite de oliva e mel;
+
+[[v5-8-9]]
+
+^<<v5-8-9,9>>^ terra onde não faltará pão e onde não terão falta de nada; terra onde as rochas têm ferro e onde você poderá escavar cobre nas colinas.
+
+[[v5-8-10]]
+
+^<<v5-8-10,10>>^ Depois que tiverem comido até ficarem satisfeitos, louvem ao Senhor, o seu Deus, pela boa terra que lhe deu.
+
+[[v5-8-11]]
+
+^<<v5-8-11,11>>^ Tenham o cuidado de não se esquecer do Senhor, do seu Deus, deixando de obedecer aos seus mandamentos, às suas ordenanças e aos seus decretos que hoje lhes ordeno.
+
+[[v5-8-12]]
+
+^<<v5-8-12,12>>^ Não aconteça que, depois de terem comido até ficarem satisfeitos, de terem construído boas casas e nelas morado,
+
+[[v5-8-13]]
+
+^<<v5-8-13,13>>^ de aumentarem os seus rebanhos, a sua prata e o seu ouro, e todos os seus bens,
+
+[[v5-8-14]]
+
+^<<v5-8-14,14>>^ o seu coração fique orgulhoso e vocês se esqueçam do Senhor, do seu Deus, que os tirou do Egito, da terra da escravidão.
+
+[[v5-8-15]]
+
+^<<v5-8-15,15>>^ Ele os conduziu pelo imenso e pavoroso deserto, por aquela terra seca e sem água, de serpentes e escorpiões venenosos. Ele tirou água da rocha para vocês,
+
+[[v5-8-16]]
+
+^<<v5-8-16,16>>^ e o sustentou no deserto com maná, que os seus antepassados não conheciam, para humilhá-los e prová-los, a fim de que tudo fosse bem com vocês.
+
+[[v5-8-17]]
+
+^<<v5-8-17,17>>^ Não digam, pois, em seu coração: "A minha capacidade e a força das minhas mãos ajuntaram para mim toda esta riqueza".
+
+[[v5-8-18]]
+
+^<<v5-8-18,18>>^ Mas, lembrem-se do Senhor, do seu Deus, pois é ele que lhes dá a capacidade de produzir riqueza, confirmando a aliança que jurou aos seus antepassados, conforme hoje se vê.
+
+[[v5-8-19]]
+
+^<<v5-8-19,19>>^ Mas se vocês se esquecerem do Senhor, do seu Deus, e seguirem outros deuses, prestando-lhes culto e curvando-se diante deles, asseguro-lhes hoje que vocês serão destruídos.
+
+[[v5-8-20]]
+
+^<<v5-8-20,20>>^ Por não obedecerem ao Senhor, ao seu Deus, vocês serão destruídos como o foram as outras nações que o Senhor destruiu perante vocês.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-007.adoc#v5-7-0[&#60; Capítulo Anterior] | <<v5-8-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-009.adoc#v5-9-0[Próximo Capítulo &#62;]

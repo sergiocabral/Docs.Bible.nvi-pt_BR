@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v4-25-0]]
+=== Números, 25
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-25-1]]
+
+^<<v4-25-1,1>>^ Enquanto Israel estava em Sitim, o povo começou a entregar-se à imoralidade sexual com mulheres moabitas,
+
+[[v4-25-2]]
+
+^<<v4-25-2,2>>^ que os convidavam aos sacrifícios de seus deuses. O povo comia e se prostrava perante esses deuses.
+
+[[v4-25-3]]
+
+^<<v4-25-3,3>>^ Assim Israel se juntou à adoração de Baal-Peor. E a ira do Senhor acendeu-se contra Israel.
+
+[[v4-25-4]]
+
+^<<v4-25-4,4>>^ E o Senhor disse a Moisés: "Prenda todos os chefes desse povo, enforque-os diante do Senhor, à luz do sol, para que o fogo da ira do Senhor se afaste de Israel".
+
+[[v4-25-5]]
+
+^<<v4-25-5,5>>^ Então Moisés disse aos juízes de Israel: "Cada um de vocês terá que matar aqueles que dentre os seus homens se juntaram à adoração de Baal-Peor".
+
+[[v4-25-6]]
+
+^<<v4-25-6,6>>^ Um israelita trouxe para casa uma mulher midianita, na presença de Moisés e de toda a comunidade de Israel, que choravam à entrada da Tenda do Encontro.
+
+[[v4-25-7]]
+
+^<<v4-25-7,7>>^ Quando Finéias, filho de Eleazar, neto do sacerdote Arão, viu isso, apanhou uma lança,
+
+[[v4-25-8]]
+
+^<<v4-25-8,8>>^ seguiu o israelita até o interior da tenda e atravessou os dois com a lança; atravessou o corpo do israelita e o da mulher. Então cessou a praga contra os israelitas.
+
+[[v4-25-9]]
+
+^<<v4-25-9,9>>^ Mas os que morreram por causa da praga foram vinte e quatro mil.
+
+[[v4-25-10]]
+
+^<<v4-25-10,10>>^ E o Senhor disse a Moisés:
+
+[[v4-25-11]]
+
+^<<v4-25-11,11>>^ "Finéias, filho de Eleazar, neto do sacerdote Arão, desviou a minha ira de sobre os israelitas, pois foi zeloso, com o mesmo zelo que tenho por eles, para que em meu zelo eu não os consumisse.
+
+[[v4-25-12]]
+
+^<<v4-25-12,12>>^ Diga-lhe, pois, que estabeleço com ele a minha aliança de paz.
+
+[[v4-25-13]]
+
+^<<v4-25-13,13>>^ Dele e dos seus descendentes será a aliança do sacerdócio perpétuo, porque ele foi zeloso pelo seu Deus e fez propiciação pelos israelitas".
+
+[[v4-25-14]]
+
+^<<v4-25-14,14>>^ O nome do israelita que foi morto com a midianita era Zinri, filho de Salu, líder de uma família simeonita.
+
+[[v4-25-15]]
+
+^<<v4-25-15,15>>^ E o nome da mulher midianita que morreu era Cosbi, filha de Zur, chefe de um clã midianita.
+
+[[v4-25-16]]
+
+^<<v4-25-16,16>>^ O Senhor disse a Moisés:
+
+[[v4-25-17]]
+
+^<<v4-25-17,17>>^ "Tratem os midianitas como inimigos e matem-nos,
+
+[[v4-25-18]]
+
+^<<v4-25-18,18>>^ porque trataram vocês como inimigos quando os enganaram no caso de Peor e de Cosbi, filha de um líder midianita, mulher do povo deles que foi morta quando a praga que enviei por causa de Peor".
+
+'''
+
+xref:004-numeros/004-numeros-024.adoc#v4-24-0[&#60; Capítulo Anterior] | <<v4-25-0,Topo>> | xref:004-numeros/004-numeros-026.adoc#v4-26-0[Próximo Capítulo &#62;]

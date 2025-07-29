@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v18-21-0]]
+=== Jó, 21
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-21-1]]
+
+^<<v18-21-1,1>>^ Então Jó respondeu:
+
+[[v18-21-2]]
+
+^<<v18-21-2,2>>^ "Escutem com atenção as minhas palavras; seja esse o consolo que vocês haverão de dar-me.
+
+[[v18-21-3]]
+
+^<<v18-21-3,3>>^ Suportem-me enquanto eu estiver falando; depois que eu falar poderão zombar de mim.
+
+[[v18-21-4]]
+
+^<<v18-21-4,4>>^ "Acaso é dos homens que me queixo? Por que não deveria eu estar impaciente?
+
+[[v18-21-5]]
+
+^<<v18-21-5,5>>^ Olhem para mim, e ficarão atônitos; tapem a boca com a mão.
+
+[[v18-21-6]]
+
+^<<v18-21-6,6>>^ Quando penso nisso, fico aterrorizado; todo o meu corpo se põe a tremer.
+
+[[v18-21-7]]
+
+^<<v18-21-7,7>>^ Por que vivem os ímpios? Por que chegam à velhice e aumentam seu poder?
+
+[[v18-21-8]]
+
+^<<v18-21-8,8>>^ Eles vêem os seus filhos estabelecidos ao seu redor, e os seus descendentes diante dos seus olhos.
+
+[[v18-21-9]]
+
+^<<v18-21-9,9>>^ Seus lares estão seguros e livres de medo; a vara de Deus não os vem ferir.
+
+[[v18-21-10]]
+
+^<<v18-21-10,10>>^ Seus touros nunca deixam de procriar; suas vacas dão crias e não abortam.
+
+[[v18-21-11]]
+
+^<<v18-21-11,11>>^ Eles soltam os seus filhos como um rebanho; seus pequeninos põem-se a dançar.
+
+[[v18-21-12]]
+
+^<<v18-21-12,12>>^ Cantam, acompanhando a música do tamborim e da harpa; alegram-se ao som da flauta.
+
+[[v18-21-13]]
+
+^<<v18-21-13,13>>^ Passam a vida na prosperidade e descem à sepultura em paz.
+
+[[v18-21-14]]
+
+^<<v18-21-14,14>>^ Contudo, dizem eles a Deus: ‘Deixa-nos! Não queremos conhecer os teus caminhos.
+
+[[v18-21-15]]
+
+^<<v18-21-15,15>>^ Quem é o Todo-poderoso, para que o sirvamos? Que vantagem nos dá orar a ele? ’
+
+[[v18-21-16]]
+
+^<<v18-21-16,16>>^ Mas não depende deles a prosperidade de que desfrutam; por isso fico longe do conselho dos ímpios.
+
+[[v18-21-17]]
+
+^<<v18-21-17,17>>^ "Pois, quantas vezes a lâmpada dos ímpios se apaga? Quantas vezes a desgraça cai sobre eles, o destino que em sua ira Deus lhes dá?
+
+[[v18-21-18]]
+
+^<<v18-21-18,18>>^ Quantas vezes o vento os leva como palha, e o furacão os arrebata como cisco?
+
+[[v18-21-19]]
+
+^<<v18-21-19,19>>^ Dizem que Deus reserva o castigo de um homem para os seus filhos. Que ele mesmo o receba, para que aprenda a lição!
+
+[[v18-21-20]]
+
+^<<v18-21-20,20>>^ Que os seus próprios olhos vejam a sua ruína; que ele mesmo beba da ira do Todo-poderoso!
+
+[[v18-21-21]]
+
+^<<v18-21-21,21>>^ Pois, que lhe importará a família que deixa atrás de si quando chegar ao fim os meses que lhe foram destinados?
+
+[[v18-21-22]]
+
+^<<v18-21-22,22>>^ "Haverá alguém que o ensine a conhecer a Deus, uma vez que ele julga até os de mais alta posição?
+
+[[v18-21-23]]
+
+^<<v18-21-23,23>>^ Um homem morre em pleno vigor, quando se sentia bem e seguro,
+
+[[v18-21-24]]
+
+^<<v18-21-24,24>>^ tendo o corpo bem nutrido e os ossos cheios de tutano.
+
+[[v18-21-25]]
+
+^<<v18-21-25,25>>^ Já outro morre tendo a alma amargurada, sem nada ter desfrutado.
+
+[[v18-21-26]]
+
+^<<v18-21-26,26>>^ Um e outro jazem no pó, ambos cobertos de vermes.
+
+[[v18-21-27]]
+
+^<<v18-21-27,27>>^ "Sei muito bem o que vocês estão pensando, as suas conspirações contra mim.
+
+[[v18-21-28]]
+
+^<<v18-21-28,28>>^ ‘Onde está agora a casa do grande homem? ’, vocês perguntam. ‘Onde a tenda dos ímpios? ’
+
+[[v18-21-29]]
+
+^<<v18-21-29,29>>^ Vocês nunca fizeram perguntas aos que viajam? Não deram atenção ao que contam?
+
+[[v18-21-30]]
+
+^<<v18-21-30,30>>^ Que o mau é poupado da calamidade, e que do dia da ira recebe livramento?
+
+[[v18-21-31]]
+
+^<<v18-21-31,31>>^ Quem o acusa lançando em rosto a sua conduta? Quem lhe retribui pelo mal que fez?
+
+[[v18-21-32]]
+
+^<<v18-21-32,32>>^ Pois o levam para o túmulo, e sobre a sua sepultura se mantém vigilância.
+
+[[v18-21-33]]
+
+^<<v18-21-33,33>>^ Para ele é macio o terreno do vale; todos o seguem, e uma multidão incontável o precede.
+
+[[v18-21-34]]
+
+^<<v18-21-34,34>>^ "Por isso, como podem vocês consolar-me com esses absurdos? O que sobra das suas respostas é pura falsidade! "
+
+'''
+
+xref:018-jo/018-jo-020.adoc#v18-20-0[&#60; Capítulo Anterior] | <<v18-21-0,Topo>> | xref:018-jo/018-jo-022.adoc#v18-22-0[Próximo Capítulo &#62;]

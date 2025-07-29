@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v6-11-0]]
+=== Josué, 11
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v6-11-1]]
+
+^<<v6-11-1,1>>^ Quando Jabim, rei de Hazor, soube disso, enviou mensagem a Jobabe, rei de Madom, aos reis de Sinrom e Acsafe,
+
+[[v6-11-2]]
+
+^<<v6-11-2,2>>^ e aos reis do norte que viviam nas montanhas, na Arabá ao sul de Quinerete, na Sefelá e em Nafote-Dor, a oeste;
+
+[[v6-11-3]]
+
+^<<v6-11-3,3>>^ aos cananeus a leste e a oeste; aos amorreus, aos hititas, aos ferezeus e aos jebuseus das montanhas; e aos heveus do sopé do Hermom, na região de Mispá.
+
+[[v6-11-4]]
+
+^<<v6-11-4,4>>^ Saíram com todas as suas tropas, um exército imenso, tão numeroso como a areia da praia, além de um grande número de cavalos e carros.
+
+[[v6-11-5]]
+
+^<<v6-11-5,5>>^ Todos esses reis se uniram e acamparam junto às águas de Merom, para lutar contra Israel.
+
+[[v6-11-6]]
+
+^<<v6-11-6,6>>^ E o Senhor disse a Josué: "Não tenha medo deles, porque amanhã a esta hora entregarei todos mortos a Israel. A você cabe cortar os tendões dos cavalos deles e queimar os seus carros".
+
+[[v6-11-7]]
+
+^<<v6-11-7,7>>^ Josué e todo o seu exército os surpreenderam junto às águas de Merom e os atacaram,
+
+[[v6-11-8]]
+
+^<<v6-11-8,8>>^ e o Senhor os entregou nas mãos de Israel, que os derrotou e os perseguiu até Sidom, a grande, até Misrefote-Maim e até o vale de Mispá, a leste. Eles os mataram sem deixar sobrevivente algum.
+
+[[v6-11-9]]
+
+^<<v6-11-9,9>>^ Josué os tratou como o Senhor lhe tinha ordenado. Cortou os tendões dos seus cavalos e queimou os seus carros.
+
+[[v6-11-10]]
+
+^<<v6-11-10,10>>^ Na mesma ocasião Josué voltou, conquistou Hazor e matou o seu rei à espada. ( Hazor tinha sido a capital de todos esses reinos. )
+
+[[v6-11-11]]
+
+^<<v6-11-11,11>>^ Matou à espada todos os que nela estavam. Exterminou-os totalmente, sem poupar nada que respirasse, e incendiou Hazor.
+
+[[v6-11-12]]
+
+^<<v6-11-12,12>>^ Josué conquistou todas essas cidades e matou à espada os reis que as governavam. Destruiu-as totalmente, como Moisés, servo do Senhor, tinha ordenado.
+
+[[v6-11-13]]
+
+^<<v6-11-13,13>>^ Contudo, Israel não incendiou nenhuma das cidades construídas nas colinas, com exceção de Hazor, que Josué incendiou.
+
+[[v6-11-14]]
+
+^<<v6-11-14,14>>^ Os israelitas tomaram posse de todos os despojos e dos animais dessas cidades, mas mataram todo o povo à espada, até exterminá-lo completamente, sem poupar ninguém.
+
+[[v6-11-15]]
+
+^<<v6-11-15,15>>^ Tudo o que o Senhor tinha ordenado a seu servo Moisés, Moisés ordenou a Josué, e Josué obedeceu, sem deixar de cumprir nada de tudo o que o Senhor tinha ordenado a Moisés.
+
+[[v6-11-16]]
+
+^<<v6-11-16,16>>^ Assim Josué conquistou toda aquela terra: a serra central, todo o Neguebe, toda a região de Gósen, a Sefelá, a Arabá e os montes de Israel e suas planícies,
+
+[[v6-11-17]]
+
+^<<v6-11-17,17>>^ desde o monte Halaque, que se ergue na direção de Seir, até Baal-Gade, no vale do Líbano, no sopé do monte Hermom. Ele capturou todos os seus reis e os matou.
+
+[[v6-11-18]]
+
+^<<v6-11-18,18>>^ Josué guerreou contra todos esses reis por muito tempo.
+
+[[v6-11-19]]
+
+^<<v6-11-19,19>>^ Com exceção dos heveus que viviam em Gibeom, nenhuma cidade fez a paz com os israelitas, que a todas conquistou em combate.
+
+[[v6-11-20]]
+
+^<<v6-11-20,20>>^ Pois foi o próprio Senhor que endureceu os seus corações para guerrearem contra Israel, para que ele os destruísse totalmente, exterminando-os sem misericórdia, como o Senhor tinha ordenado a Moisés.
+
+[[v6-11-21]]
+
+^<<v6-11-21,21>>^ Naquela ocasião Josué exterminou os enaquins dos montes de Hebrom, de Debir e de Anabe, de todos os montes de Judá, e de Israel. Josué destruiu-os totalmente, e também as suas cidades.
+
+[[v6-11-22]]
+
+^<<v6-11-22,22>>^ Nenhum enaquim foi deixado vivo no território israelita; somente em Gaza, em Gate e em Asdode é que alguns sobreviveram.
+
+[[v6-11-23]]
+
+^<<v6-11-23,23>>^ Foi assim que Josué conquistou toda a terra, conforme o Senhor tinha dito a Moisés, e deu-a por herança a Israel, repartindo-a entre as suas tribos. E a terra teve descanso da guerra.
+
+'''
+
+xref:006-josue/006-josue-010.adoc#v6-10-0[&#60; Capítulo Anterior] | <<v6-11-0,Topo>> | xref:006-josue/006-josue-012.adoc#v6-12-0[Próximo Capítulo &#62;]

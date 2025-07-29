@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v1-47-0]]
+=== Gênesis, 47
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v1-47-1]]
+
+^<<v1-47-1,1>>^ José foi dar as notícias ao faraó: "Meu pai e meus irmãos chegaram de Canaã com suas ovelhas, seus bois e tudo o que lhes pertence, e estão agora em Gósen".
+
+[[v1-47-2]]
+
+^<<v1-47-2,2>>^ Depois escolheu cinco de seus irmãos e os apresentou ao faraó.
+
+[[v1-47-3]]
+
+^<<v1-47-3,3>>^ Perguntou-lhes o faraó: "Em que vocês trabalham? " Eles lhe responderam: "Teus servos são pastores, como os nossos antepassados".
+
+[[v1-47-4]]
+
+^<<v1-47-4,4>>^ Disseram-lhe ainda: "Viemos morar aqui por uns tempos, porque a fome é rigorosa em Canaã, e os rebanhos de teus servos não têm pastagem. Agora, por favor, permite que teus servos se estabeleçam em Gósen".
+
+[[v1-47-5]]
+
+^<<v1-47-5,5>>^ Então o faraó disse a José: "Seu pai e seus irmãos vieram a você,
+
+[[v1-47-6]]
+
+^<<v1-47-6,6>>^ e a terra do Egito está a sua disposição; faça com que seu pai e seus irmãos habitem na melhor parte da terra. Deixe-os morar em Gósen. E se você vê que alguns deles são competentes, coloque-os como responsáveis por meu rebanho".
+
+[[v1-47-7]]
+
+^<<v1-47-7,7>>^ Então José levou seu pai Jacó ao faraó e o apresentou a ele. Depois Jacó abençoou o faraó,
+
+[[v1-47-8]]
+
+^<<v1-47-8,8>>^ e este lhe perguntou: "Quantos anos o senhor tem? "
+
+[[v1-47-9]]
+
+^<<v1-47-9,9>>^ Jacó respondeu ao faraó: "São cento e trinta os anos da minha peregrinação. Foram poucos e difíceis e não chegam aos anos da peregrinação dos meus antepassados".
+
+[[v1-47-10]]
+
+^<<v1-47-10,10>>^ Então, Jacó abençoou o faraó e retirou-se.
+
+[[v1-47-11]]
+
+^<<v1-47-11,11>>^ José instalou seu pai e seus irmãos e deu-lhes propriedade na melhor parte das terras do Egito, na região de Ramessés, conforme a ordem do faraó.
+
+[[v1-47-12]]
+
+^<<v1-47-12,12>>^ Providenciou também sustento para seu pai, para seus irmãos e para toda a sua família, de acordo com o número de filhos de cada um.
+
+[[v1-47-13]]
+
+^<<v1-47-13,13>>^ Não havia mantimento em toda a região, pois a fome era rigorosa; tanto o Egito como Canaã desfaleciam por causa da fome.
+
+[[v1-47-14]]
+
+^<<v1-47-14,14>>^ José recolheu toda a prata que circulava no Egito e em Canaã, dada como pagamento do trigo que o povo comprava, e levou-a ao palácio do faraó.
+
+[[v1-47-15]]
+
+^<<v1-47-15,15>>^ Quando toda a prata do Egito e de Canaã se esgotou, todos os egípcios foram suplicar a José: "Dá-nos comida! Não nos deixes morrer só porque a nossa prata acabou".
+
+[[v1-47-16]]
+
+^<<v1-47-16,16>>^ E José lhes disse: "Tragam então os seus rebanhos, e em troca lhes darei trigo, uma vez que a prata de vocês acabou".
+
+[[v1-47-17]]
+
+^<<v1-47-17,17>>^ E trouxeram a José os rebanhos, e ele deu-lhes trigo em troca de cavalos, ovelhas, bois e jumentos. Durante aquele ano inteiro ele os sustentou em troca de todos os seus rebanhos.
+
+[[v1-47-18]]
+
+^<<v1-47-18,18>>^ O ano passou, e no ano seguinte voltaram a José, dizendo: "Não temos como esconder de ti, meu senhor, que uma vez que a nossa prata acabou e os nossos rebanhos lhe pertencem, nada mais nos resta para oferecer, a não ser os nossos próprios corpos e as nossas terras.
+
+[[v1-47-19]]
+
+^<<v1-47-19,19>>^ Não deixes que morramos e que as nossas terras pereçam diante dos teus olhos! Compra-nos, juntamente com as terras, em troca de trigo, e nós, com as nossas terras, seremos escravos do faraó. Dá-nos sementes para que sobrevivamos e não morramos de fome, a fim de que a terra não fique desolada".
+
+[[v1-47-20]]
+
+^<<v1-47-20,20>>^ Assim, José comprou todas as terras do Egito para o faraó. Todos os egípcios tiveram que vender os seus campos, pois a fome os obrigou a isso. A terra tornou-se propriedade do faraó.
+
+[[v1-47-21]]
+
+^<<v1-47-21,21>>^ Quanto ao povo, José o reduziu à servidão, de uma à outra extremidade do Egito.
+
+[[v1-47-22]]
+
+^<<v1-47-22,22>>^ Somente as terras dos sacerdotes não foram compradas, porque, por lei, esses recebiam sustento regular do faraó, e disso viviam. Por isso não tiveram que vender as suas terras.
+
+[[v1-47-23]]
+
+^<<v1-47-23,23>>^ Então José disse ao povo: "Ouçam! Hoje comprei vocês e suas terras para o faraó; aqui estão as sementes para que cultivem a terra.
+
+[[v1-47-24]]
+
+^<<v1-47-24,24>>^ Mas vocês darão a quinta parte das suas colheitas ao faraó. Os outros quatro quintos ficarão para vocês como sementes para os campos e como alimento para vocês, seus filhos e os que vivem em suas casas".
+
+[[v1-47-25]]
+
+^<<v1-47-25,25>>^ Eles disseram: "Meu senhor, tu nos salvaste a vida. Visto que nos favoreceste, seremos escravos do faraó".
+
+[[v1-47-26]]
+
+^<<v1-47-26,26>>^ Assim, quanto à terra, José estabeleceu o seguinte decreto no Egito, que permanece até hoje: Um quinto da produção pertence ao faraó. Somente as terras dos sacerdotes não se tornaram propriedade do faraó.
+
+[[v1-47-27]]
+
+^<<v1-47-27,27>>^ Os israelitas se estabeleceram no Egito, na região de Gósen. Lá adquiriram propriedades, foram prolíferos e multiplicaram-se muito.
+
+[[v1-47-28]]
+
+^<<v1-47-28,28>>^ Jacó viveu dezessete anos no Egito, e os anos da sua vida chegaram a cento e quarenta e sete.
+
+[[v1-47-29]]
+
+^<<v1-47-29,29>>^ Aproximando-se a hora da sua morte, Israel chamou seu filho José e lhe disse: "Se quer agradar-me, ponha a mão debaixo da minha coxa e prometa que será bondoso e fiel comigo: Não me sepulte no Egito.
+
+[[v1-47-30]]
+
+^<<v1-47-30,30>>^ Quando eu descansar com meus pais, leve-me daqui do Egito e sepulte-me junto a eles". José respondeu: "Farei como o senhor me pede".
+
+[[v1-47-31]]
+
+^<<v1-47-31,31>>^ Mas Jacó insistiu: "Jure-me". E José lhe jurou, e Israel curvou-se apoiado em seu bordão.
+
+'''
+
+xref:001-genesis/001-genesis-046.adoc#v1-46-0[&#60; Capítulo Anterior] | <<v1-47-0,Topo>> | xref:001-genesis/001-genesis-048.adoc#v1-48-0[Próximo Capítulo &#62;]

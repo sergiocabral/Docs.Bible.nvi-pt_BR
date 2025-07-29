@@ -1,0 +1,365 @@
+include::./index.adoc[]
+
+[[v4-7-0]]
+=== Números, 7
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-7-1]]
+
+^<<v4-7-1,1>>^ Quando Moisés acabou de armar o tabernáculo, ele o ungiu e o consagrou, juntamente com todos os seus utensílios. Também ungiu e consagrou o altar com todos os seus utensílios.
+
+[[v4-7-2]]
+
+^<<v4-7-2,2>>^ Então os líderes de Israel, os chefes das famílias que eram os líderes das tribos encarregados do recenseamento, apresentaram ofertas.
+
+[[v4-7-3]]
+
+^<<v4-7-3,3>>^ Trouxeram as suas dádivas ao Senhor: seis carroças cobertas e doze bois, um boi de cada líder e uma carroça de cada dois líderes; e as apresentaram diante do tabernáculo.
+
+[[v4-7-4]]
+
+^<<v4-7-4,4>>^ O Senhor disse a Moisés:
+
+[[v4-7-5]]
+
+^<<v4-7-5,5>>^ "Aceite as ofertas deles para que sejam usadas no trabalho da Tenda do Encontro. Entregue-as aos levitas, conforme exigir o trabalho de cada homem".
+
+[[v4-7-6]]
+
+^<<v4-7-6,6>>^ Então Moisés recebeu as carroças e os bois e os entregou aos levitas.
+
+[[v4-7-7]]
+
+^<<v4-7-7,7>>^ Deu duas carroças e quatro bois aos gersonitas, conforme exigia o trabalho deles,
+
+[[v4-7-8]]
+
+^<<v4-7-8,8>>^ e quatro carroças e oito bois aos meraritas, conforme exigia o trabalho deles. Estavam todos sob a supervisão de Itamar, filho do sacerdote Arão.
+
+[[v4-7-9]]
+
+^<<v4-7-9,9>>^ Mas aos coatitas Moisés não deu nada, pois eles deveriam carregar nos ombros os objetos sagrados pelos quais eram responsáveis.
+
+[[v4-7-10]]
+
+^<<v4-7-10,10>>^ Quando o altar foi ungido, os líderes trouxeram as suas ofertas para a dedicação do altar, e as apresentaram diante dele.
+
+[[v4-7-11]]
+
+^<<v4-7-11,11>>^ Pois o Senhor tinha dito a Moisés: "Cada dia um líder deverá trazer a sua oferta para a dedicação do altar".
+
+[[v4-7-12]]
+
+^<<v4-7-12,12>>^ No primeiro dia, Naassom, filho de Aminadabe, da tribo de Judá, trouxe a sua oferta.
+
+[[v4-7-13]]
+
+^<<v4-7-13,13>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-14]]
+
+^<<v4-7-14,14>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-15]]
+
+^<<v4-7-15,15>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-16]]
+
+^<<v4-7-16,16>>^ um bode como oferta pelo pecado;
+
+[[v4-7-17]]
+
+^<<v4-7-17,17>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Naassom, filho de Aminadabe.
+
+[[v4-7-18]]
+
+^<<v4-7-18,18>>^ No segundo dia, Natanael, filho de Zuar e líder de Issacar, trouxe a sua oferta.
+
+[[v4-7-19]]
+
+^<<v4-7-19,19>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-20]]
+
+^<<v4-7-20,20>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-21]]
+
+^<<v4-7-21,21>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-22]]
+
+^<<v4-7-22,22>>^ um bode como oferta pelo pecado;
+
+[[v4-7-23]]
+
+^<<v4-7-23,23>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Natanael, filho de Zuar.
+
+[[v4-7-24]]
+
+^<<v4-7-24,24>>^ No terceiro dia, Eliabe, filho de Helom e líder de Zebulom, trouxe a sua oferta.
+
+[[v4-7-25]]
+
+^<<v4-7-25,25>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-26]]
+
+^<<v4-7-26,26>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-27]]
+
+^<<v4-7-27,27>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-28]]
+
+^<<v4-7-28,28>>^ um bode como oferta pelo pecado;
+
+[[v4-7-29]]
+
+^<<v4-7-29,29>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Eliabe, filho de Helom.
+
+[[v4-7-30]]
+
+^<<v4-7-30,30>>^ No quarto dia, Elizur, filho de Sedeur e líder de Rúben, trouxe a sua oferta.
+
+[[v4-7-31]]
+
+^<<v4-7-31,31>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-32]]
+
+^<<v4-7-32,32>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-33]]
+
+^<<v4-7-33,33>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-34]]
+
+^<<v4-7-34,34>>^ um bode como oferta pelo pecado;
+
+[[v4-7-35]]
+
+^<<v4-7-35,35>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Elizur, filho de Sedeur.
+
+[[v4-7-36]]
+
+^<<v4-7-36,36>>^ No quinto dia, Selumiel, filho de Zurisadai e líder de Simeão, trouxe a sua oferta.
+
+[[v4-7-37]]
+
+^<<v4-7-37,37>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-38]]
+
+^<<v4-7-38,38>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-39]]
+
+^<<v4-7-39,39>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-40]]
+
+^<<v4-7-40,40>>^ um bode como oferta pelo pecado;
+
+[[v4-7-41]]
+
+^<<v4-7-41,41>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Selumiel, filho de Zurisadai.
+
+[[v4-7-42]]
+
+^<<v4-7-42,42>>^ No sexto dia, Eliasafe, filho de Deuel e líder de Gade, trouxe a sua oferta.
+
+[[v4-7-43]]
+
+^<<v4-7-43,43>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-44]]
+
+^<<v4-7-44,44>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-45]]
+
+^<<v4-7-45,45>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-46]]
+
+^<<v4-7-46,46>>^ um bode como oferta pelo pecado;
+
+[[v4-7-47]]
+
+^<<v4-7-47,47>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Eliasafe, filho de Deuel.
+
+[[v4-7-48]]
+
+^<<v4-7-48,48>>^ No sétimo dia, Elisama, filho de Amiúde e líder de Efraim, trouxe a sua oferta.
+
+[[v4-7-49]]
+
+^<<v4-7-49,49>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-50]]
+
+^<<v4-7-50,50>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-51]]
+
+^<<v4-7-51,51>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-52]]
+
+^<<v4-7-52,52>>^ um bode como oferta pelo pecado;
+
+[[v4-7-53]]
+
+^<<v4-7-53,53>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Elisama, filho de Amiúde.
+
+[[v4-7-54]]
+
+^<<v4-7-54,54>>^ No oitavo dia, Gamaliel, filho de Pedazur e líder de Manassés, trouxe a sua oferta.
+
+[[v4-7-55]]
+
+^<<v4-7-55,55>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-56]]
+
+^<<v4-7-56,56>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-57]]
+
+^<<v4-7-57,57>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-58]]
+
+^<<v4-7-58,58>>^ um bode como oferta pelo pecado;
+
+[[v4-7-59]]
+
+^<<v4-7-59,59>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Gamaliel, filho de Pedazur.
+
+[[v4-7-60]]
+
+^<<v4-7-60,60>>^ No nono dia, Abidã, filho de Gideoni e líder de Benjamim, trouxe a sua oferta.
+
+[[v4-7-61]]
+
+^<<v4-7-61,61>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-62]]
+
+^<<v4-7-62,62>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-63]]
+
+^<<v4-7-63,63>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-64]]
+
+^<<v4-7-64,64>>^ um bode como oferta pelo pecado;
+
+[[v4-7-65]]
+
+^<<v4-7-65,65>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Abidã, filho de Gideoni.
+
+[[v4-7-66]]
+
+^<<v4-7-66,66>>^ No décimo dia, Aieser, filho de Amisadai e líder de Dã, trouxe a sua oferta.
+
+[[v4-7-67]]
+
+^<<v4-7-67,67>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-68]]
+
+^<<v4-7-68,68>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-69]]
+
+^<<v4-7-69,69>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-70]]
+
+^<<v4-7-70,70>>^ um bode como oferta pelo pecado;
+
+[[v4-7-71]]
+
+^<<v4-7-71,71>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Aieser, filho de Amisadai.
+
+[[v4-7-72]]
+
+^<<v4-7-72,72>>^ No décimo primeiro dia, Pagiel, filho de Ocrã e líder de Aser, trouxe a sua oferta.
+
+[[v4-7-73]]
+
+^<<v4-7-73,73>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-74]]
+
+^<<v4-7-74,74>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-75]]
+
+^<<v4-7-75,75>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-76]]
+
+^<<v4-7-76,76>>^ um bode como oferta pelo pecado;
+
+[[v4-7-77]]
+
+^<<v4-7-77,77>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Pagiel, filho de Ocrã.
+
+[[v4-7-78]]
+
+^<<v4-7-78,78>>^ No décimo segundo dia, Aira, filho de Enã e líder de Naftali, trouxe a sua oferta.
+
+[[v4-7-79]]
+
+^<<v4-7-79,79>>^ A oferta dele foi um prato de prata de um quilo e quinhentos e sessenta gramas e uma bacia de prata para as aspersões de oitocentos e quarenta gramas, ambos pesados com base no peso padrão do santuário, cada um cheio da melhor farinha amassada com óleo como oferta de cereal;
+
+[[v4-7-80]]
+
+^<<v4-7-80,80>>^ uma vasilha de ouro de cento e vinte gramas, cheia de incenso;
+
+[[v4-7-81]]
+
+^<<v4-7-81,81>>^ um novilho, um carneiro e um cordeiro de um ano como holocausto;
+
+[[v4-7-82]]
+
+^<<v4-7-82,82>>^ um bode como oferta pelo pecado;
+
+[[v4-7-83]]
+
+^<<v4-7-83,83>>^ e dois bois, cinco carneiros, cinco bodes e cinco cordeiros de um ano para serem oferecidos como sacrifício de comunhão. Essa foi a oferta de Aira, filho de Enã.
+
+[[v4-7-84]]
+
+^<<v4-7-84,84>>^ Essas foram as ofertas dos líderes israelitas para a dedicação do altar quando este foi ungido: doze pratos de prata, doze bacias de prata para as aspersões e doze vasilhas de ouro.
+
+[[v4-7-85]]
+
+^<<v4-7-85,85>>^ Cada prato de prata pesava um quilo e quinhentos e sessenta gramas, e cada bacia para as aspersões pesava oitocentos e quarenta gramas. O total de peças de prata pesava vinte e oito quilos e oitocentos gramas, com base no peso padrão do santuário.
+
+[[v4-7-86]]
+
+^<<v4-7-86,86>>^ As doze vasilhas de ouro cheias de incenso pesavam cada uma cento e vinte gramas, com base no peso padrão do santuário. O total de vasilhas de ouro pesava um quilo e quatrocentos e quarenta gramas.
+
+[[v4-7-87]]
+
+^<<v4-7-87,87>>^ O total de animais oferecidos em holocausto foi doze novilhos, doze carneiros e doze cordeiros de um ano, juntamente com as ofertas de cereal. Doze bodes foram trazidos para a oferta pelo pecado.
+
+[[v4-7-88]]
+
+^<<v4-7-88,88>>^ O total de animais oferecidos em sacrifício de comunhão foi vinte e quatro bois, sessenta carneiros, sessenta bodes e sessenta cordeiros de um ano. Foram essas as ofertas trazidas para a dedicação do altar depois que este foi ungido.
+
+[[v4-7-89]]
+
+^<<v4-7-89,89>>^ Quando entrava na Tenda do Encontro para falar com o Senhor, Moisés ouvia a voz que lhe falava do meio dos dois querubins, de cima da tampa da arca da aliança. Era assim que o Senhor falava com ele.
+
+'''
+
+xref:004-numeros/004-numeros-006.adoc#v4-6-0[&#60; Capítulo Anterior] | <<v4-7-0,Topo>> | xref:004-numeros/004-numeros-008.adoc#v4-8-0[Próximo Capítulo &#62;]

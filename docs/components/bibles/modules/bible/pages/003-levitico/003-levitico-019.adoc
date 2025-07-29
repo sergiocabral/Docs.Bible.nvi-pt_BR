@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v3-19-0]]
+=== Levítico, 19
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v3-19-1]]
+
+^<<v3-19-1,1>>^ Disse ainda o Senhor a Moisés:
+
+[[v3-19-2]]
+
+^<<v3-19-2,2>>^ "Diga o seguinte a toda comunidade de Israel: Sejam santos porque eu, o Senhor, o Deus de vocês, sou santo.
+
+[[v3-19-3]]
+
+^<<v3-19-3,3>>^ "Respeite cada um de vocês a sua mãe e o seu pai, e guarde os meus sábados. Eu sou o Senhor, o Deus de vocês.
+
+[[v3-19-4]]
+
+^<<v3-19-4,4>>^ "Não se voltem para os ídolos, nem façam para si deuses de metal. Eu sou o Senhor, o Deus de vocês.
+
+[[v3-19-5]]
+
+^<<v3-19-5,5>>^ "Quando vocês oferecerem um sacrifício de comunhão ao Senhor, ofereçam-no de modo que seja aceito em favor de vocês.
+
+[[v3-19-6]]
+
+^<<v3-19-6,6>>^ Terá que ser comido no dia em que o oferecerem, ou no dia seguinte; o que sobrar até ao terceiro dia será queimado.
+
+[[v3-19-7]]
+
+^<<v3-19-7,7>>^ Se alguma coisa for comida no terceiro dia, estará estragada e não será aceita.
+
+[[v3-19-8]]
+
+^<<v3-19-8,8>>^ Quem comer sofrerá as conseqüências da sua iniqüidade, porque profanou o que é santo ao Senhor; será eliminado do meio do seu povo.
+
+[[v3-19-9]]
+
+^<<v3-19-9,9>>^ "Quando fizerem a colheita da sua terra, não colham até às extremidades da sua lavoura, nem ajuntem as espigas caídas de sua colheita.
+
+[[v3-19-10]]
+
+^<<v3-19-10,10>>^ Não passem duas vezes pela sua vinha, nem apanhem as uvas que tiverem caído. Deixem-nas para o necessitado e para o estrangeiro. Eu sou o Senhor, o Deus de vocês.
+
+[[v3-19-11]]
+
+^<<v3-19-11,11>>^ "Não furtem. "Não mintam. "Não enganem uns aos outros.
+
+[[v3-19-12]]
+
+^<<v3-19-12,12>>^ "Não jurem falsamente pelo meu nome, profanando assim o nome do seu Deus. Eu sou o Senhor.
+
+[[v3-19-13]]
+
+^<<v3-19-13,13>>^ "Não oprimam nem roubem o seu próximo. "Não retenham até a manhã do dia seguinte o pagamento de um diarista.
+
+[[v3-19-14]]
+
+^<<v3-19-14,14>>^ "Não amaldiçoem o surdo nem ponham pedra de tropeço à frente do cego, mas tema o seu Deus. Eu sou o Senhor.
+
+[[v3-19-15]]
+
+^<<v3-19-15,15>>^ "Não cometam injustiça num julgamento; não favoreçam os pobres, nem procurem agradar os grandes, mas julguem o seu próximo com justiça.
+
+[[v3-19-16]]
+
+^<<v3-19-16,16>>^ "Não espalhem calúnias entre o seu povo. "Não se levantem contra a vida do seu próximo. Eu sou o Senhor.
+
+[[v3-19-17]]
+
+^<<v3-19-17,17>>^ "Não guardem ódio contra o seu irmão no coração; antes repreendam com franqueza o seu próximo para que, por causa dele, não sofram as conseqüências de um pecado.
+
+[[v3-19-18]]
+
+^<<v3-19-18,18>>^ "Não procurem vingança, nem guardem rancor contra alguém do seu povo, mas ame cada um o seu próximo como a si mesmo. Eu sou o Senhor.
+
+[[v3-19-19]]
+
+^<<v3-19-19,19>>^ "Obedeçam às minhas leis. "Não cruzem diferentes espécies de animais. "Não plantem duas espécies de sementes na sua lavoura. "Não usem roupas feitas com dois tipos de tecido.
+
+[[v3-19-20]]
+
+^<<v3-19-20,20>>^ "Se um homem deitar-se com uma escrava prometida a outro homem, mas que não tenha sido resgatada nem recebido sua liberdade, aplique-se a devida punição. Contudo não serão mortos, porquanto ela não havia sido libertada.
+
+[[v3-19-21]]
+
+^<<v3-19-21,21>>^ O homem, porém, trará ao Senhor, à entrada da Tenda do Encontro, um carneiro como oferta pela culpa.
+
+[[v3-19-22]]
+
+^<<v3-19-22,22>>^ Com o carneiro da oferta pela culpa o sacerdote fará propiciação por ele perante o Senhor, pelo pecado que cometeu; assim o pecado que ele cometeu será perdoado.
+
+[[v3-19-23]]
+
+^<<v3-19-23,23>>^ "Quando vocês entrarem na terra e plantarem qualquer tipo de árvore frutífera, considerem proibidas as suas frutas. Durante três anos vocês as considerarão proibidas; não poderão comê-las.
+
+[[v3-19-24]]
+
+^<<v3-19-24,24>>^ No quarto ano todas as suas frutas serão santas; será uma oferta de louvor ao Senhor.
+
+[[v3-19-25]]
+
+^<<v3-19-25,25>>^ No quinto ano, porém, vocês poderão comer as suas frutas. Assim a sua colheita aumentará. Eu sou o Senhor, o Deus de vocês.
+
+[[v3-19-26]]
+
+^<<v3-19-26,26>>^ "Não comam nada com sangue. "Não pratiquem adivinhação nem feitiçaria.
+
+[[v3-19-27]]
+
+^<<v3-19-27,27>>^ "Não cortem o cabelo dos lados da cabeça, nem aparem as pontas da barba.
+
+[[v3-19-28]]
+
+^<<v3-19-28,28>>^ "Não façam cortes em seus corpos por causa dos mortos, nem tatuagem em si mesmos. Eu sou o Senhor.
+
+[[v3-19-29]]
+
+^<<v3-19-29,29>>^ "Ninguém desonre a sua filha tornando-a uma prostituta, se não a terra se entregará à prostituição e se encherá de perversidade.
+
+[[v3-19-30]]
+
+^<<v3-19-30,30>>^ "Guardem os meus sábados e reverenciem o meu santuário. Eu sou o Senhor".
+
+[[v3-19-31]]
+
+^<<v3-19-31,31>>^ "Não recorram aos médiuns, nem busquem os espíritas, pois vocês serão contaminados por eles. Eu sou o Senhor, o Deus de vocês.
+
+[[v3-19-32]]
+
+^<<v3-19-32,32>>^ "Levantem-se na presença dos idosos, honrem os anciãos, tema o seu Deus. Eu sou o Senhor.
+
+[[v3-19-33]]
+
+^<<v3-19-33,33>>^ "Quando um estrangeiro viver na terra de vocês, não o maltratem.
+
+[[v3-19-34]]
+
+^<<v3-19-34,34>>^ O estrangeiro residente que viver com vocês será tratado como o natural da terra. Amem-no como a si mesmos, pois vocês foram estrangeiros no Egito. Eu sou o Senhor, o Deus de vocês.
+
+[[v3-19-35]]
+
+^<<v3-19-35,35>>^ "Não usem medidas desonestas quando medirem comprimento, peso ou quantidade.
+
+[[v3-19-36]]
+
+^<<v3-19-36,36>>^ Usem balanças de pesos honestos, tanto para cereais quanto para líquidos. Eu sou o Senhor, o Deus de vocês, que os tirei da terra do Egito.
+
+[[v3-19-37]]
+
+^<<v3-19-37,37>>^ "Obedeçam a todos os meus decretos e a todas as minhas leis e pratiquem-nos. Eu sou o Senhor".
+
+'''
+
+xref:003-levitico/003-levitico-018.adoc#v3-18-0[&#60; Capítulo Anterior] | <<v3-19-0,Topo>> | xref:003-levitico/003-levitico-020.adoc#v3-20-0[Próximo Capítulo &#62;]

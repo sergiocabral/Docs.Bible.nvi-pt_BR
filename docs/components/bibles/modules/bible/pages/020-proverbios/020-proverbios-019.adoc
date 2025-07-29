@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v20-19-0]]
+=== Provérbios, 19
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-19-1]]
+
+^<<v20-19-1,1>>^ Melhor é o pobre que vive com integridade do que o tolo que fala perversamente.
+
+[[v20-19-2]]
+
+^<<v20-19-2,2>>^ Não é bom ter zelo sem conhecimento, nem ser precipitado e perder o caminho.
+
+[[v20-19-3]]
+
+^<<v20-19-3,3>>^ É a insensatez do homem que arruína a sua vida, mas o seu coração se ira contra o Senhor.
+
+[[v20-19-4]]
+
+^<<v20-19-4,4>>^ A riqueza traz muitos amigos, mas até o amigo do pobre o abandona.
+
+[[v20-19-5]]
+
+^<<v20-19-5,5>>^ A testemunha falsa não ficará sem castigo, e aquele que despeja mentiras não sairá livre.
+
+[[v20-19-6]]
+
+^<<v20-19-6,6>>^ Muitos adulam o governante, e todos são amigos de quem dá presentes.
+
+[[v20-19-7]]
+
+^<<v20-19-7,7>>^ O pobre é desprezado por todos os seus parentes, quanto mais por seus amigos! Embora os procure, para pedir-lhes ajuda, não os encontra em lugar nenhum.
+
+[[v20-19-8]]
+
+^<<v20-19-8,8>>^ Quem obtém sabedoria ama-se a si mesmo; quem acalenta o entendimento prospera.
+
+[[v20-19-9]]
+
+^<<v20-19-9,9>>^ A testemunha falsa não ficará sem castigo, e aquele que despeja mentiras perecerá.
+
+[[v20-19-10]]
+
+^<<v20-19-10,10>>^ Não fica bem o tolo viver no luxo; quanto pior é o servo dominar príncipes!
+
+[[v20-19-11]]
+
+^<<v20-19-11,11>>^ A sabedoria do homem lhe dá paciência; sua glória é ignorar as ofensas.
+
+[[v20-19-12]]
+
+^<<v20-19-12,12>>^ A ira do rei é como o rugido do leão, mas a sua bondade é como o orvalho sobre a relva.
+
+[[v20-19-13]]
+
+^<<v20-19-13,13>>^ O filho tolo é a ruína de seu pai, e a esposa briguenta é como uma goteira constante.
+
+[[v20-19-14]]
+
+^<<v20-19-14,14>>^ Casas e riquezas herdam-se dos pais, mas a esposa prudente vem do Senhor.
+
+[[v20-19-15]]
+
+^<<v20-19-15,15>>^ A preguiça leva ao sono profundo, e o preguiçoso passa fome.
+
+[[v20-19-16]]
+
+^<<v20-19-16,16>>^ Quem obedece aos mandamentos preserva a sua vida, mas quem despreza os seus caminhos morrerá.
+
+[[v20-19-17]]
+
+^<<v20-19-17,17>>^ Quem trata bem os pobres empresta ao Senhor, e ele o recompensará.
+
+[[v20-19-18]]
+
+^<<v20-19-18,18>>^ Discipline seu filho, pois nisso há esperança; não queiras a morte dele.
+
+[[v20-19-19]]
+
+^<<v20-19-19,19>>^ O homem de gênio difícil precisa do castigo; se você o poupar, terá que poupá-lo de novo.
+
+[[v20-19-20]]
+
+^<<v20-19-20,20>>^ Ouça conselhos e aceite instruções, e acabará sendo sábio.
+
+[[v20-19-21]]
+
+^<<v20-19-21,21>>^ Muitos são os planos no coração do homem, mas o que prevalece é o propósito do Senhor.
+
+[[v20-19-22]]
+
+^<<v20-19-22,22>>^ O que se deseja ver num homem é amor perene; melhor é ser pobre do que mentiroso.
+
+[[v20-19-23]]
+
+^<<v20-19-23,23>>^ O temor do Senhor conduz à vida: Quem o teme pode descansar em paz, livre de problemas.
+
+[[v20-19-24]]
+
+^<<v20-19-24,24>>^ O preguiçoso põe a mão no prato, e não se dá ao trabalho de levá-la à boca!
+
+[[v20-19-25]]
+
+^<<v20-19-25,25>>^ Açoite o zombador, e os inexperientes aprenderão a prudência; repreenda o homem de discernimento, e ele obterá conhecimento.
+
+[[v20-19-26]]
+
+^<<v20-19-26,26>>^ O filho que rouba o pai e expulsa a mãe é causador de vergonha e desonra.
+
+[[v20-19-27]]
+
+^<<v20-19-27,27>>^ Se você parar de ouvir a instrução, meu filho, irá afastar-se das palavras que dão conhecimento.
+
+[[v20-19-28]]
+
+^<<v20-19-28,28>>^ A testemunha corrupta zomba da justiça, e a boca dos ímpios tem fome de iniqüidade.
+
+[[v20-19-29]]
+
+^<<v20-19-29,29>>^ Os castigos estão preparados para os zombadores, e os açoites para as costas dos tolos.
+
+'''
+
+xref:020-proverbios/020-proverbios-018.adoc#v20-18-0[&#60; Capítulo Anterior] | <<v20-19-0,Topo>> | xref:020-proverbios/020-proverbios-020.adoc#v20-20-0[Próximo Capítulo &#62;]

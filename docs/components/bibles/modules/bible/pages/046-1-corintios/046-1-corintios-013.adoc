@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v46-13-0]]
+=== 1 Coríntios, 13
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v46-13-1]]
+
+^<<v46-13-1,1>>^ Ainda que eu fale as línguas dos homens e dos anjos, se não tiver amor, serei como o sino que ressoa ou como o prato que retine.
+
+[[v46-13-2]]
+
+^<<v46-13-2,2>>^ Ainda que eu tenha o dom de profecia e saiba todos os mistérios e todo o conhecimento, e tenha uma fé capaz de mover montanhas, mas não tiver amor, nada serei.
+
+[[v46-13-3]]
+
+^<<v46-13-3,3>>^ Ainda que eu dê aos pobres tudo o que possuo e entregue o meu corpo para ser queimado, mas não tiver amor, nada disso me valerá.
+
+[[v46-13-4]]
+
+^<<v46-13-4,4>>^ O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha.
+
+[[v46-13-5]]
+
+^<<v46-13-5,5>>^ Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor.
+
+[[v46-13-6]]
+
+^<<v46-13-6,6>>^ O amor não se alegra com a injustiça, mas se alegra com a verdade.
+
+[[v46-13-7]]
+
+^<<v46-13-7,7>>^ Tudo sofre, tudo crê, tudo espera, tudo suporta.
+
+[[v46-13-8]]
+
+^<<v46-13-8,8>>^ O amor nunca perece; mas as profecias desaparecerão, as línguas cessarão, o conhecimento passará.
+
+[[v46-13-9]]
+
+^<<v46-13-9,9>>^ Pois em parte conhecemos e em parte profetizamos;
+
+[[v46-13-10]]
+
+^<<v46-13-10,10>>^ quando, porém, vier o que é perfeito, o que é imperfeito desaparecerá.
+
+[[v46-13-11]]
+
+^<<v46-13-11,11>>^ Quando eu era menino, falava como menino, pensava como menino e raciocinava como menino. Quando me tornei homem, deixei para trás as coisas de menino.
+
+[[v46-13-12]]
+
+^<<v46-13-12,12>>^ Agora, pois, vemos apenas um reflexo obscuro, como em espelho; mas, então, veremos face a face. Agora conheço em parte; então, conhecerei plenamente, da mesma forma como sou plenamente conhecido.
+
+[[v46-13-13]]
+
+^<<v46-13-13,13>>^ Assim, permanecem agora estes três: a fé, a esperança e o amor. O maior deles, porém, é o amor.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-012.adoc#v46-12-0[&#60; Capítulo Anterior] | <<v46-13-0,Topo>> | xref:046-1-corintios/046-1-corintios-014.adoc#v46-14-0[Próximo Capítulo &#62;]

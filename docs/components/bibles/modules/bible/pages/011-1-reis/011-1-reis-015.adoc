@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v11-15-0]]
+=== 1 Reis, 15
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v11-15-1]]
+
+^<<v11-15-1,1>>^ No décimo oitavo ano do reinado de Jeroboão, filho de Nebate, Abias tornou-se rei de Judá,
+
+[[v11-15-2]]
+
+^<<v11-15-2,2>>^ e reinou três anos em Jerusalém. O nome de sua mãe era Maaca, filha de Absalão.
+
+[[v11-15-3]]
+
+^<<v11-15-3,3>>^ Ele cometeu todos os pecados que o seu pai tinha cometido; seu coração não era inteiramente consagrado ao Senhor, ao seu Deus, quanto fora o coração de Davi, seu antepassado.
+
+[[v11-15-4]]
+
+^<<v11-15-4,4>>^ No entanto, por amor de Davi, o Senhor, o seu Deus, concedeu-lhe uma lâmpada em Jerusalém dando-lhe um filho como sucessor e fortalecendo Jerusalém.
+
+[[v11-15-5]]
+
+^<<v11-15-5,5>>^ Pois Davi fizera o que o Senhor aprova e não deixara de obedecer a nenhum dos mandamentos do Senhor durante todos os dias da sua vida, exceto no caso de Urias, o hitita.
+
+[[v11-15-6]]
+
+^<<v11-15-6,6>>^ E houve guerra entre Roboão e Jeroboão durante toda a vida de Abias.
+
+[[v11-15-7]]
+
+^<<v11-15-7,7>>^ Os demais acontecimentos do reinado de Abias e todas as suas realizações estão escritos nos registros históricos dos reis de Judá. Também houve guerra entre Abias e Jeroboão.
+
+[[v11-15-8]]
+
+^<<v11-15-8,8>>^ E Abias descansou com os seus antepassados e foi sepultado na cidade de Davi. E o seu filho Asa foi o seu sucessor.
+
+[[v11-15-9]]
+
+^<<v11-15-9,9>>^ No vigésimo ano do reinado de Jeroboão, rei de Israel, Asa tornou-se rei de Judá,
+
+[[v11-15-10]]
+
+^<<v11-15-10,10>>^ e reinou quarenta e um anos em Jerusalém. O nome da sua avó era Maaca, filha de Absalão.
+
+[[v11-15-11]]
+
+^<<v11-15-11,11>>^ Asa fez o que o Senhor aprova, tal como Davi, seu predecessor.
+
+[[v11-15-12]]
+
+^<<v11-15-12,12>>^ Expulsou do país os prostitutos cultuais e se desfez de todos os ídolos que seu pai havia feito.
+
+[[v11-15-13]]
+
+^<<v11-15-13,13>>^ Chegou até a depor sua avó Maaca da posição de rainha-mãe, pois ela havia feito um poste sagrado repugnante. Asa derrubou o poste e o queimou no vale do Cedrom.
+
+[[v11-15-14]]
+
+^<<v11-15-14,14>>^ Embora os altares idólatras não tenham sido eliminados, o coração de Asa foi totalmente dedicado ao Senhor durante toda a sua vida.
+
+[[v11-15-15]]
+
+^<<v11-15-15,15>>^ Ele trouxe para o templo do Senhor a prata, o ouro e os utensílios que ele e seu pai haviam consagrado.
+
+[[v11-15-16]]
+
+^<<v11-15-16,16>>^ Houve guerra entre Asa e Baasa, rei de Israel, durante todo o reinado deles.
+
+[[v11-15-17]]
+
+^<<v11-15-17,17>>^ Baasa, rei de Israel, invadiu Judá e fortificou Ramá, para que ninguém pudesse entrar nem sair do território de Asa, rei de Judá.
+
+[[v11-15-18]]
+
+^<<v11-15-18,18>>^ Então Asa ajuntou a prata e o ouro que haviam sobrado no tesouro do templo do Senhor e do seu próprio palácio. Confiou tudo isso a alguns dos seus oficiais e os enviou a Ben-Hadade, filho de Tabriom e neto de Heziom, rei da Síria, que governava em Damasco,
+
+[[v11-15-19]]
+
+^<<v11-15-19,19>>^ com uma mensagem que dizia: "Façamos um tratado, como fizeram meu pai e o teu. Estou te enviando como presente prata e ouro. Agora, rompe o tratado que tens com Baasa, rei de Israel, para que ele saia do meu país".
+
+[[v11-15-20]]
+
+^<<v11-15-20,20>>^ Ben-Hadade aceitou a proposta do rei Asa e ordenou aos comandantes das suas forças que atacassem as cidades de Israel. Ele conquistou Ijom, Dã, Abel-Bete-Maaca e todo o Quinerete, além de Naftali.
+
+[[v11-15-21]]
+
+^<<v11-15-21,21>>^ Quando Baasa soube disso, abandonou a construção dos muros de Ramá e foi para Tirza.
+
+[[v11-15-22]]
+
+^<<v11-15-22,22>>^ Então o rei Asa reuniu todos homens de Judá — ninguém foi isentado — e eles retiraram de Ramá as pedras e a madeira que Baasa estivera usando. Com esse material Asa fortificou Geba, em Benjamim, e também Mispá.
+
+[[v11-15-23]]
+
+^<<v11-15-23,23>>^ Os demais acontecimentos do reinado de Asa, todas as suas realizações, tudo o que fez e todas as cidades que construiu, tudo isso está escrito nos registros históricos dos reis de Judá. Na velhice Asa sofreu uma doença nos pés,
+
+[[v11-15-24]]
+
+^<<v11-15-24,24>>^ e quando descansou com os seus antepassados, foi sepultado com eles na cidade de Davi, seu pai. E seu filho Josafá foi o seu sucessor.
+
+[[v11-15-25]]
+
+^<<v11-15-25,25>>^ Nadabe, filho de Jeroboão, tornou-se rei de Israel no segundo ano do reinado de Asa, rei de Judá, e reinou dois anos sobre Israel.
+
+[[v11-15-26]]
+
+^<<v11-15-26,26>>^ Fez o que o Senhor reprova, andando nos caminhos do seu pai e no pecado que ele tinha levado Israel a cometer.
+
+[[v11-15-27]]
+
+^<<v11-15-27,27>>^ Baasa, filho de Aías, da tribo de Issacar, conspirou contra ele, e o matou na cidade filistéia de Gibetom, enquanto Nadabe e todo o exército de Israel a sitiavam.
+
+[[v11-15-28]]
+
+^<<v11-15-28,28>>^ Baasa matou Nadabe no terceiro ano do reinado de Asa, rei de Judá, e foi o seu sucessor.
+
+[[v11-15-29]]
+
+^<<v11-15-29,29>>^ Assim que começou a reinar, matou toda a família de Jeroboão. Dos pertencentes a Jeroboão não deixou ninguém vivo, mas destruiu a todos, de acordo com a palavra do Senhor anunciada por seu servo, o silonita Aías.
+
+[[v11-15-30]]
+
+^<<v11-15-30,30>>^ Isso aconteceu por causa dos pecados que Jeroboão havia cometido e havia feito Israel cometer, e porque ele tinha provocado a ira do Senhor, o Deus de Israel.
+
+[[v11-15-31]]
+
+^<<v11-15-31,31>>^ Os demais acontecimentos do reinado de Nadabe e tudo o que fez, estão escritos nos registros históricos dos reis de Israel.
+
+[[v11-15-32]]
+
+^<<v11-15-32,32>>^ Houve guerra entre Asa e Baasa, rei de Israel, durante todo o reinado deles.
+
+[[v11-15-33]]
+
+^<<v11-15-33,33>>^ No terceiro ano do reinado de Asa, rei de Judá, Baasa, filho de Aías, tornou-se rei de todo o Israel, em Tirza, e reinou vinte e quatro anos.
+
+[[v11-15-34]]
+
+^<<v11-15-34,34>>^ Fez o que o Senhor reprova, andando nos caminhos de Jeroboão e nos pecados que ele tinha levado Israel a cometer.
+
+'''
+
+xref:011-1-reis/011-1-reis-014.adoc#v11-14-0[&#60; Capítulo Anterior] | <<v11-15-0,Topo>> | xref:011-1-reis/011-1-reis-016.adoc#v11-16-0[Próximo Capítulo &#62;]

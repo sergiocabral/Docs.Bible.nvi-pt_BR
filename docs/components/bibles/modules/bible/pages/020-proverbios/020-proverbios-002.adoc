@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v20-2-0]]
+=== Provérbios, 2
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-2-1]]
+
+^<<v20-2-1,1>>^ Meu filho, se você aceitar as minhas palavras e guardar no coração os meus mandamentos;
+
+[[v20-2-2]]
+
+^<<v20-2-2,2>>^ se der ouvidos à sabedoria e inclinar o coração para o discernimento;
+
+[[v20-2-3]]
+
+^<<v20-2-3,3>>^ se clamar por entendimento e por discernimento gritar bem alto,
+
+[[v20-2-4]]
+
+^<<v20-2-4,4>>^ se procurar a sabedoria como se procura a prata e buscá-la como quem busca um tesouro escondido,
+
+[[v20-2-5]]
+
+^<<v20-2-5,5>>^ então você entenderá o que é temer ao Senhor e achará o conhecimento de Deus.
+
+[[v20-2-6]]
+
+^<<v20-2-6,6>>^ Pois o Senhor é quem dá sabedoria; de sua boca procedem o conhecimento e o discernimento.
+
+[[v20-2-7]]
+
+^<<v20-2-7,7>>^ Ele reserva a sensatez para o justo; como um escudo protege quem anda com integridade,
+
+[[v20-2-8]]
+
+^<<v20-2-8,8>>^ pois guarda a vereda do justo e protege o caminho de seus fiéis.
+
+[[v20-2-9]]
+
+^<<v20-2-9,9>>^ Então você entenderá o que é justo, direito e certo, e aprenderá os caminhos do bem.
+
+[[v20-2-10]]
+
+^<<v20-2-10,10>>^ Pois a sabedoria entrará em seu coração, e o conhecimento será agradável à sua alma.
+
+[[v20-2-11]]
+
+^<<v20-2-11,11>>^ O bom senso o guardará, e o discernimento o protegerá.
+
+[[v20-2-12]]
+
+^<<v20-2-12,12>>^ A sabedoria o livrará do caminho dos maus, dos homens de palavras perversas,
+
+[[v20-2-13]]
+
+^<<v20-2-13,13>>^ que abandonam as veredas retas para andar por caminhos de trevas,
+
+[[v20-2-14]]
+
+^<<v20-2-14,14>>^ têm prazer em fazer o mal e exultam com a maldade dos perversos,
+
+[[v20-2-15]]
+
+^<<v20-2-15,15>>^ gente que anda por veredas tortuosas, e no caminho se extraviam.
+
+[[v20-2-16]]
+
+^<<v20-2-16,16>>^ Ela também o livrará da mulher imoral, da pervertida que seduz com suas palavras,
+
+[[v20-2-17]]
+
+^<<v20-2-17,17>>^ que abandona aquele que desde a juventude foi seu companheiro e ignora a aliança que fez diante de Deus.
+
+[[v20-2-18]]
+
+^<<v20-2-18,18>>^ Ela se dirige para morte, que é a sua casa, e os seus caminhos levam às sombras.
+
+[[v20-2-19]]
+
+^<<v20-2-19,19>>^ Os que a ela procuram jamais voltarão, nem tornarão a encontrar as veredas da vida.
+
+[[v20-2-20]]
+
+^<<v20-2-20,20>>^ A sabedoria o fará andar nos caminhos dos homens de bem e a manter-se nas veredas dos justos.
+
+[[v20-2-21]]
+
+^<<v20-2-21,21>>^ Pois os justos habitarão na terra, e os íntegros nela permanecerão;
+
+[[v20-2-22]]
+
+^<<v20-2-22,22>>^ mas os ímpios serão eliminados da terra, e dela os infiéis serão arrancados.
+
+'''
+
+xref:020-proverbios/020-proverbios-001.adoc#v20-1-0[&#60; Capítulo Anterior] | <<v20-2-0,Topo>> | xref:020-proverbios/020-proverbios-003.adoc#v20-3-0[Próximo Capítulo &#62;]

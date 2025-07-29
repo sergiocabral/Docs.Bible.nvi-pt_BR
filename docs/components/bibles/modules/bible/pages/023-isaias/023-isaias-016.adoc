@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v23-16-0]]
+=== Isaías, 16
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v23-16-1]]
+
+^<<v23-16-1,1>>^ Enviem cordeiros como tributo ao governante da terra, desde Selá, atravessando o deserto, até o monte Sião.
+
+[[v23-16-2]]
+
+^<<v23-16-2,2>>^ Como aves perdidas, lançadas fora do ninho, assim são os habitantes de Moabe nos lugares de passagem do Arnom.
+
+[[v23-16-3]]
+
+^<<v23-16-3,3>>^ "Dá conselhos e propõe uma decisão. Torna a tua sombra como a noite em pleno meio-dia e esconde os fugitivos; não deixes ninguém saber onde estão os refugiados.
+
+[[v23-16-4]]
+
+^<<v23-16-4,4>>^ Que os fugitivos moabitas habitem contigo; sê para eles abrigo contra o destruidor. " O opressor há de ter fim, a destruição se acabará e o agressor desaparecerá da terra,
+
+[[v23-16-5]]
+
+^<<v23-16-5,5>>^ então, em amor será firmado um trono; em fidelidade um homem se assentará nele na tenda de Davi: um Juiz que busca a justiça e se apressa em defender o que é justo.
+
+[[v23-16-6]]
+
+^<<v23-16-6,6>>^ Ouvimos acerca da soberba de Moabe: da sua arrogância exagerada, de todo o seu orgulho e do seu ódio; mas tudo isso não vale nada.
+
+[[v23-16-7]]
+
+^<<v23-16-7,7>>^ Por isso choram os moabitas, todos choram por Moabe. Cada um lamenta e se entristece pelos bolos de passas de Quir-Haresete.
+
+[[v23-16-8]]
+
+^<<v23-16-8,8>>^ As lavouras de Hesbom estão murchas, como também as videiras de Sibma. Os governantes das nações pisotearam as melhores videiras, que antes chegavam até Jazar e estendiam-se para o deserto. Seus brotos espalhavam-se e chegavam ao mar.
+
+[[v23-16-9]]
+
+^<<v23-16-9,9>>^ Por isso eu choro, como Jazar chora, por causa das videiras de Sibma. Hesbom, Eleale, com minhas lágrimas eu as encharco! Pois não se ouvem mais os gritos de alegria por seus frutos e por suas colheitas.
+
+[[v23-16-10]]
+
+^<<v23-16-10,10>>^ Foram-se a alegria e a exultação dos pomares; ninguém canta nem grita nas vinhas; ninguém pisa as uvas nos lagares, pois fiz cessar os gritos de alegria.
+
+[[v23-16-11]]
+
+^<<v23-16-11,11>>^ Por isso as minhas entranhas gemem como harpa por Moabe; o íntimo do meu ser estremece por Quir-Heres.
+
+[[v23-16-12]]
+
+^<<v23-16-12,12>>^ Quando Moabe se apresentar cansado nos lugares altos, e for ao seu santuário, nada conseguirá.
+
+[[v23-16-13]]
+
+^<<v23-16-13,13>>^ Essa palavra o Senhor já havia falado acerca de Moabe.
+
+[[v23-16-14]]
+
+^<<v23-16-14,14>>^ Mas agora o Senhor diz: "Dentro de três anos, e nem um dia a mais, o esplendor de Moabe e toda a sua grande população serão desprezados, e os seus sobreviventes serão poucos e fracos".
+
+'''
+
+xref:023-isaias/023-isaias-015.adoc#v23-15-0[&#60; Capítulo Anterior] | <<v23-16-0,Topo>> | xref:023-isaias/023-isaias-017.adoc#v23-17-0[Próximo Capítulo &#62;]

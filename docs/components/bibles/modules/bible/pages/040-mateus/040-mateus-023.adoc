@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v40-23-0]]
+=== Mateus, 23
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v40-23-1]]
+
+^<<v40-23-1,1>>^ Então, Jesus disse à multidão e aos seus discípulos:
+
+[[v40-23-2]]
+
+^<<v40-23-2,2>>^ "Os mestres da lei e os fariseus se assentam na cadeira de Moisés.
+
+[[v40-23-3]]
+
+^<<v40-23-3,3>>^ Obedeçam-lhes e façam tudo o que eles lhes dizem. Mas não façam o que eles fazem, pois não praticam o que pregam.
+
+[[v40-23-4]]
+
+^<<v40-23-4,4>>^ Eles atam fardos pesados e os colocam sobre os ombros dos homens, mas eles mesmos não estão dispostos a levantar um só dedo para movê-los.
+
+[[v40-23-5]]
+
+^<<v40-23-5,5>>^ "Tudo o que fazem é para serem vistos pelos homens. Eles fazem seus filactérios bem largos e as franjas de suas vestes bem longas;
+
+[[v40-23-6]]
+
+^<<v40-23-6,6>>^ gostam do lugar de honra nos banquetes e dos assentos mais importantes nas sinagogas,
+
+[[v40-23-7]]
+
+^<<v40-23-7,7>>^ de serem saudados nas praças e de serem chamados ‘rabis’.
+
+[[v40-23-8]]
+
+^<<v40-23-8,8>>^ "Mas vocês não devem ser chamados ‘rabis’; um só é o mestre de vocês, e todos vocês são irmãos.
+
+[[v40-23-9]]
+
+^<<v40-23-9,9>>^ A ninguém na terra chamem ‘pai’, porque vocês só têm um Pai, aquele que está nos céus.
+
+[[v40-23-10]]
+
+^<<v40-23-10,10>>^ Tampouco vocês devem ser chamados ‘chefes’, porquanto vocês têm um só Chefe, o Cristo.
+
+[[v40-23-11]]
+
+^<<v40-23-11,11>>^ O maior entre vocês deverá ser servo.
+
+[[v40-23-12]]
+
+^<<v40-23-12,12>>^ Pois todo aquele que a si mesmo se exaltar será humilhado, e todo aquele que a si mesmo se humilhar será exaltado.
+
+[[v40-23-13]]
+
+^<<v40-23-13,13>>^ "Ai de vocês, mestres da lei e fariseus, hipócritas! Vocês fecham o Reino dos céus diante dos homens! Vocês mesmos não entram, nem deixam entrar aqueles que gostariam de fazê-lo.
+
+[[v40-23-14]]
+
+^<<v40-23-14,14>>^ "Ai de vocês, mestres da lei e fariseus, hipócritas! Vocês devoram as casas das viúvas e, para disfarçar, fazem longas orações. Por isso serão castigados mais severamente.
+
+[[v40-23-15]]
+
+^<<v40-23-15,15>>^ "Ai de vocês, mestres da lei e fariseus, hipócritas, porque percorrem terra e mar para fazer um convertido e, quando conseguem, vocês o tornam duas vezes mais filho do inferno do que vocês.
+
+[[v40-23-16]]
+
+^<<v40-23-16,16>>^ "Ai de vocês, guias cegos!, pois dizem: ‘Se alguém jurar pelo santuário, isto nada significa; mas se alguém jurar pelo ouro do santuário, está obrigado por seu juramento’.
+
+[[v40-23-17]]
+
+^<<v40-23-17,17>>^ Cegos insensatos! Que é mais importante: o ouro ou o santuário que santifica o ouro?
+
+[[v40-23-18]]
+
+^<<v40-23-18,18>>^ Vocês também dizem: ‘Se alguém jurar pelo altar, isto nada significa; mas se alguém jurar pela oferta que está sobre ele, está obrigado por seu juramento’.
+
+[[v40-23-19]]
+
+^<<v40-23-19,19>>^ Cegos! Que é mais importante: a oferta, ou o altar que santifica a oferta?
+
+[[v40-23-20]]
+
+^<<v40-23-20,20>>^ Portanto, aquele que jurar pelo altar, jura por ele e por tudo o que está sobre ele.
+
+[[v40-23-21]]
+
+^<<v40-23-21,21>>^ E o que jurar pelo santuário, jura por ele e por aquele que nele habita.
+
+[[v40-23-22]]
+
+^<<v40-23-22,22>>^ E aquele que jurar pelo céu, jura pelo trono de Deus e por aquele que nele se assenta.
+
+[[v40-23-23]]
+
+^<<v40-23-23,23>>^ "Ai de vocês, mestres da lei e fariseus, hipócritas! Vocês dão o dízimo da hortelã, do endro e do cominho, mas têm negligenciado os preceitos mais importantes da lei: a justiça, a misericórdia e a fidelidade. Vocês devem praticar estas coisas, sem omitir aquelas.
+
+[[v40-23-24]]
+
+^<<v40-23-24,24>>^ Guias cegos! Vocês coam um mosquito e engolem um camelo.
+
+[[v40-23-25]]
+
+^<<v40-23-25,25>>^ "Ai de vocês, mestres da lei e fariseus, hipócritas! Vocês limpam o exterior do copo e do prato, mas por dentro eles estão cheios de ganância e cobiça.
+
+[[v40-23-26]]
+
+^<<v40-23-26,26>>^ Fariseu cego! Limpe primeiro o interior do copo e do prato, para que o exterior também fique limpo.
+
+[[v40-23-27]]
+
+^<<v40-23-27,27>>^ "Ai de vocês, mestres da lei e fariseus, hipócritas! Vocês são como sepulcros caiados: bonitos por fora, mas por dentro estão cheios de ossos e de todo tipo de imundície.
+
+[[v40-23-28]]
+
+^<<v40-23-28,28>>^ Assim são vocês: por fora parecem justos ao povo, mas por dentro estão cheios de hipocrisia e maldade.
+
+[[v40-23-29]]
+
+^<<v40-23-29,29>>^ "Ai de vocês, mestres da lei e fariseus, hipócritas! Vocês edificam os túmulos dos profetas e adornam os monumentos dos justos.
+
+[[v40-23-30]]
+
+^<<v40-23-30,30>>^ E dizem: ‘Se tivéssemos vivido no tempo dos nossos antepassados, não teríamos tomado parte com eles no derramamento do sangue dos profetas’.
+
+[[v40-23-31]]
+
+^<<v40-23-31,31>>^ Assim, vocês testemunham contra si mesmos que são descendentes dos que assassinaram os profetas.
+
+[[v40-23-32]]
+
+^<<v40-23-32,32>>^ Acabem, pois, de encher a medida do pecado dos seus antepassados!
+
+[[v40-23-33]]
+
+^<<v40-23-33,33>>^ "Serpentes! Raça de víboras! Como vocês escaparão da condenação ao inferno?
+
+[[v40-23-34]]
+
+^<<v40-23-34,34>>^ Por isso, eu lhes estou enviando profetas, sábios e mestres. A uns vocês matarão e crucificarão; a outros açoitarão nas sinagogas de vocês e perseguirão de cidade em cidade.
+
+[[v40-23-35]]
+
+^<<v40-23-35,35>>^ E, assim, sobre vocês recairá todo o sangue justo derramado na terra, desde o sangue do justo Abel, até o sangue de Zacarias, filho de Baraquias, a quem vocês assassinaram entre o santuário e o altar.
+
+[[v40-23-36]]
+
+^<<v40-23-36,36>>^ Eu lhes asseguro que tudo isso sobrevirá a esta geração.
+
+[[v40-23-37]]
+
+^<<v40-23-37,37>>^ "Jerusalém, Jerusalém, você, que mata os profetas e apedreja os que lhe são enviados! Quantas vezes eu quis reunir os seus filhos, como a galinha reúne os seus pintinhos debaixo das suas asas, mas vocês não quiseram.
+
+[[v40-23-38]]
+
+^<<v40-23-38,38>>^ Eis que a casa de vocês ficará deserta.
+
+[[v40-23-39]]
+
+^<<v40-23-39,39>>^ Pois eu lhes digo que vocês não me verão desde agora, até que digam: ‘Bendito é o que vem em nome do Senhor’".
+
+'''
+
+xref:040-mateus/040-mateus-022.adoc#v40-22-0[&#60; Capítulo Anterior] | <<v40-23-0,Topo>> | xref:040-mateus/040-mateus-024.adoc#v40-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Gênesis, 11
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ No mundo todo havia apenas uma língua, um só modo de falar.
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ Saindo os homens do Oriente, encontraram uma planície em Sinear e ali se fixaram.
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ Disseram uns aos outros: "Vamos fazer tijolos e queimá-los bem". Usavam tijolos em lugar de pedras, e piche em vez de argamassa.
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ Depois disseram: "Vamos construir uma cidade, com uma torre que alcance os céus. Assim nosso nome será famoso e não seremos espalhados pela face da terra".
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ O Senhor desceu para ver a cidade e a torre que os homens estavam construindo.
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ E disse o Senhor: "Eles são um só povo e falam uma só língua, e começaram a construir isso. Em breve nada poderá impedir o que planejam fazer.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Venham, desçamos e confundamos a língua que falam, para que não entendam mais uns aos outros".
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ Assim o Senhor os dispersou dali por toda a terra, e pararam de construir a cidade.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ Por isso foi chamada Babel, porque ali o Senhor confundiu a língua de todo o mundo. Dali o Senhor os espalhou por toda a terra.
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ Este é o registro da descendência de Sem: Dois anos depois do Dilúvio, aos 100 anos de idade, Sem gerou Arfaxade.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ E depois de ter gerado Arfaxade, Sem viveu 500 anos e gerou outros filhos e filhas.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ Aos 35 anos, Arfaxade gerou Salá.
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ Depois que gerou Salá, Arfaxade viveu 403 anos e gerou outros filhos e filhas.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ Aos 30 anos, Salá gerou Héber.
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ Depois que gerou Héber, Salá viveu 403 anos e gerou outros filhos e filhas.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ Aos 34 anos, Héber gerou Pelegue.
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ Depois que gerou Pelegue, Héber viveu 430 anos e gerou outros filhos e filhas.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ Aos 30 anos, Pelegue gerou Reú.
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ Depois que gerou Reú, Pelegue viveu 209 anos e gerou outros filhos e filhas.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ Aos 32 anos, Reú gerou Serugue.
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ Depois que gerou Serugue, Reú viveu 207 anos e gerou outros filhos e filhas.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ Aos 30 anos, Serugue gerou Naor.
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ Depois que gerou Naor, Serugue viveu 200 anos e gerou outros filhos e filhas.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ Aos 29 anos, Naor gerou Terá.
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ Depois que gerou Terá, Naor viveu 119 anos e gerou outros filhos e filhas.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ Aos 70 anos, Terá havia gerado Abrão, Naor e Harã.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ Esta é a história da família de Terá: Terá gerou Abrão, Naor e Harã. E Harã gerou Ló.
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ Harã morreu em Ur dos caldeus, sua terra natal, quando ainda vivia Terá, seu pai.
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ Tanto Abrão como Naor casaram-se. O nome da mulher de Abrão era Sarai, e o nome da mulher de Naor era Milca; esta era filha de Harã, pai de Milca e de Iscá.
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ Ora, Sarai era estéril; não tinha filhos.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ Terá tomou seu filho Abrão, seu neto Ló, filho de Harã, e sua nora Sarai, mulher de seu filho Abrão, e juntos partiram de Ur dos caldeus para Canaã. Mas, ao chegarem a Harã, estabeleceram-se ali.
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ Terá viveu 205 anos e morreu em Harã.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]

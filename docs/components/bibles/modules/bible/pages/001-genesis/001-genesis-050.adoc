@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v1-50-0]]
+=== Gênesis, 50
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v1-50-1]]
+
+^<<v1-50-1,1>>^ José atirou-se sobre seu pai, chorou sobre ele e o beijou.
+
+[[v1-50-2]]
+
+^<<v1-50-2,2>>^ Em seguida deu ordens aos médicos, que estavam ao seu serviço, que embalsamassem seu pai Israel. E eles o embalsamaram.
+
+[[v1-50-3]]
+
+^<<v1-50-3,3>>^ Levaram quarenta dias completos, pois esse era o tempo para o embalsamamento. E os egípcios choraram sua morte setenta dias.
+
+[[v1-50-4]]
+
+^<<v1-50-4,4>>^ Passados os dias de luto, José disse à corte do faraó: "Se posso contar com a bondade de vocês, falem com o faraó em meu favor. Digam-lhe que
+
+[[v1-50-5]]
+
+^<<v1-50-5,5>>^ meu pai fez-me prestar-lhe o seguinte juramento: ‘Estou à beira da morte; sepulte-me no túmulo que preparei para mim na terra de Canaã’. Agora, pois, peçam-lhe que me permita partir e sepultar meu pai; logo depois voltarei".
+
+[[v1-50-6]]
+
+^<<v1-50-6,6>>^ Respondeu o faraó: "Vá e faça o sepultamento de seu pai como este o fez jurar".
+
+[[v1-50-7]]
+
+^<<v1-50-7,7>>^ Então José partiu para sepultar seu pai. Com ele foram todos os conselheiros do faraó, as autoridades da sua corte e todas as autoridades do Egito,
+
+[[v1-50-8]]
+
+^<<v1-50-8,8>>^ e, além deles, todos os da família de José, os seus irmãos e todos os da casa de seu pai. Somente as crianças, as ovelhas e os bois foram deixados em Gósen.
+
+[[v1-50-9]]
+
+^<<v1-50-9,9>>^ Carruagens e cavaleiros também o acompanharam. A comitiva era imensa.
+
+[[v1-50-10]]
+
+^<<v1-50-10,10>>^ Chegando à eira de Atade, perto do Jordão, lamentaram em alta voz, com grande amargura; e ali José guardou sete dias de pranto pela morte do seu pai.
+
+[[v1-50-11]]
+
+^<<v1-50-11,11>>^ Quando os cananeus que lá habitavam viram aquele pranto na eira de Atade, disseram: "Os egípcios estão celebrando uma cerimônia de luto solene". Por essa razão, aquele lugar, próximo ao Jordão, foi chamado Abel Mizraim.
+
+[[v1-50-12]]
+
+^<<v1-50-12,12>>^ Assim fizeram os filhos de Jacó o que este lhes havia ordenado:
+
+[[v1-50-13]]
+
+^<<v1-50-13,13>>^ Levaram-no à terra de Canaã e o sepultaram na caverna do campo de Macpela, perto de Manre, que Abraão havia comprado de Efrom, o hitita, para que lhe servisse de propriedade para sepultura, juntamente com o campo.
+
+[[v1-50-14]]
+
+^<<v1-50-14,14>>^ Depois de sepultar seu pai, José voltou ao Egito, com os seus irmãos e com todos os demais que o tinham acompanhado.
+
+[[v1-50-15]]
+
+^<<v1-50-15,15>>^ Vendo os irmãos de José que seu pai havia morrido, disseram: "E se José guardar rancor contra nós e resolver retribuir todo o mal que lhe causamos? "
+
+[[v1-50-16]]
+
+^<<v1-50-16,16>>^ Então mandaram um recado a José, dizendo: "Antes de morrer, teu pai nos ordenou
+
+[[v1-50-17]]
+
+^<<v1-50-17,17>>^ que te disséssemos o seguinte: ‘Peço-lhe que perdoe os erros e pecados de seus irmãos que o trataram com tanta maldade! ’ Agora, pois, perdoa os pecados dos servos do Deus do teu pai". Quando recebeu o recado, José chorou.
+
+[[v1-50-18]]
+
+^<<v1-50-18,18>>^ Depois vieram seus irmãos, prostraram-se diante dele e disseram: "Aqui estamos. Somos teus escravos! "
+
+[[v1-50-19]]
+
+^<<v1-50-19,19>>^ José, porém, lhes disse: "Não tenham medo. Estaria eu no lugar de Deus?
+
+[[v1-50-20]]
+
+^<<v1-50-20,20>>^ Vocês planejaram o mal contra mim, mas Deus o tornou em bem, para que hoje fosse preservada a vida de muitos.
+
+[[v1-50-21]]
+
+^<<v1-50-21,21>>^ Por isso, não tenham medo. Eu sustentarei vocês e seus filhos". E assim os tranqüilizou e lhes falou amavelmente.
+
+[[v1-50-22]]
+
+^<<v1-50-22,22>>^ José permaneceu no Egito, com toda a família de seu pai. Viveu cento e dez anos
+
+[[v1-50-23]]
+
+^<<v1-50-23,23>>^ e viu a terceira geração dos filhos de Efraim. Além disso, recebeu como seus os filhos de Maquir, filho de Manassés.
+
+[[v1-50-24]]
+
+^<<v1-50-24,24>>^ Antes de morrer José disse a seus irmãos: "Estou à beira da morte. Mas Deus certamente virá em auxílio de vocês e os tirará desta terra, levando-os para a terra que prometeu com juramento a Abraão, a Isaque e a Jacó".
+
+[[v1-50-25]]
+
+^<<v1-50-25,25>>^ E José fez que os filhos de Israel lhe prestassem um juramento, dizendo-lhes: "Quando Deus intervier em favor de vocês, levem os meus ossos daqui".
+
+[[v1-50-26]]
+
+^<<v1-50-26,26>>^ Morreu José com a idade de cento e dez anos. E, depois de embalsamado, foi colocado num sarcófago no Egito.
+
+'''
+
+xref:001-genesis/001-genesis-049.adoc#v1-49-0[&#60; Capítulo Anterior] | <<v1-50-0,Topo>> | xref:002-exodo/002-exodo-001.adoc#v2-1-0[Próximo Capítulo &#62;]

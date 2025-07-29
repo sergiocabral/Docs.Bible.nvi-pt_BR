@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v29-1-0]]
+=== Joel, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v29-1-1]]
+
+^<<v29-1-1,1>>^ A palavra do Senhor que veio a Joel, filho de Petuel.
+
+[[v29-1-2]]
+
+^<<v29-1-2,2>>^ Ouçam isto, anciãos; escutem, todos os habitantes do país. Já aconteceu algo assim nos seus dias? Ou nos dias dos seus antepassados?
+
+[[v29-1-3]]
+
+^<<v29-1-3,3>>^ Contem o que aconteceu aos seus filhos, e eles aos seus netos, e os seus netos, à geração seguinte.
+
+[[v29-1-4]]
+
+^<<v29-1-4,4>>^ O que o gafanhoto cortador deixou o gafanhoto peregrino comeu; o que o gafanhoto peregrino deixou o gafanhoto devastador comeu; o que o gafanhoto devastador deixou o gafanhoto devorador comeu.
+
+[[v29-1-5]]
+
+^<<v29-1-5,5>>^ Acordem, bêbados, e chorem! Lamentem todos vocês, bebedores de vinho; gritem por causa do vinho novo, pois ele foi tirado dos seus lábios.
+
+[[v29-1-6]]
+
+^<<v29-1-6,6>>^ Uma nação invadiu a minha terra, poderosa e inumerável; seus dentes são dentes de leão, suas presas são de leoa.
+
+[[v29-1-7]]
+
+^<<v29-1-7,7>>^ Arrasou as minhas videiras e arruinou as minhas figueiras. Arrancou-lhes a casca, e derrubou-as, deixando brancos os seus galhos.
+
+[[v29-1-8]]
+
+^<<v29-1-8,8>>^ Pranteiem como uma virgem em vestes de luto que lamenta pelo noivo da sua mocidade.
+
+[[v29-1-9]]
+
+^<<v29-1-9,9>>^ As ofertas de cereal e as ofertas derramadas foram eliminadas do templo do Senhor. Os sacerdotes, que ministram diante do Senhor, estão de luto.
+
+[[v29-1-10]]
+
+^<<v29-1-10,10>>^ Os campos estão arruinados, a terra está seca; o trigo está destruído, o vinho novo acabou, o azeite está em falta.
+
+[[v29-1-11]]
+
+^<<v29-1-11,11>>^ Desesperem-se, agricultores, chorem, produtores de vinho; fiquem aflitos pelo trigo e pela cevada, porque a colheita foi destruída.
+
+[[v29-1-12]]
+
+^<<v29-1-12,12>>^ A vinha está seca, e a figueira murchou; a romãzeira, a palmeira e a macieira, todas as árvores do campo secaram. Secou-se, mais ainda, a alegria dos homens.
+
+[[v29-1-13]]
+
+^<<v29-1-13,13>>^ Ponham vestes de luto, ó sacerdotes, e pranteiem; chorem alto, vocês que ministram perante o altar. Venham, passem a noite vestidos de luto, vocês que ministram perante o meu Deus; pois as ofertas de cereal e as ofertas derramadas foram suprimidas do templo do seu Deus.
+
+[[v29-1-14]]
+
+^<<v29-1-14,14>>^ Decretem um jejum santo; convoquem uma assembléia sagrada. Reúnam as autoridades e todos os habitantes do país no templo do Senhor, do seu Deus, e clamem ao Senhor.
+
+[[v29-1-15]]
+
+^<<v29-1-15,15>>^ Ah! Aquele dia! Sim, o dia do Senhor está próximo; como destruição poderosa da parte do Todo-poderoso, ele virá.
+
+[[v29-1-16]]
+
+^<<v29-1-16,16>>^ Não é verdade que a comida foi eliminada diante dos nossos próprios olhos, e que a alegria e a satisfação foram suprimidas, do templo do nosso Deus?
+
+[[v29-1-17]]
+
+^<<v29-1-17,17>>^ As sementes estão murchas debaixo dos torrões de terra. Os celeiros estão em ruínas, os depósitos de cereal foram derrubados, pois a colheita se perdeu.
+
+[[v29-1-18]]
+
+^<<v29-1-18,18>>^ Como está mugindo o gado! As manadas andam agitadas porque não têm pasto; até os rebanhos de ovelhas estão sendo castigados.
+
+[[v29-1-19]]
+
+^<<v29-1-19,19>>^ A ti, Senhor, eu clamo, pois o fogo devorou as pastagens e as chamas consumiram todas as árvores do campo.
+
+[[v29-1-20]]
+
+^<<v29-1-20,20>>^ Até os animais do campo clamam a ti, pois os canais de água se secaram e o fogo devorou as pastagens.
+
+'''
+
+xref:028-oseias/028-oseias-014.adoc#v28-14-0[&#60; Capítulo Anterior] | <<v29-1-0,Topo>> | xref:029-joel/029-joel-002.adoc#v29-2-0[Próximo Capítulo &#62;]

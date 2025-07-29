@@ -1,0 +1,21 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Ester, 10
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ O rei Xerxes impôs tributos a todo o império, até sobre as distantes regiões costeiras.
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ Todos os seus atos de força e poder, bem como o relato completo da grandeza de Mardoqueu, a quem o rei dera autoridade, estão registrados no livro das crônicas dos reis da Média e da Pérsia
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ O judeu Mardoqueu foi o segundo na hierarquia, depois do rei Xerxes. Era homem importante entre os judeus e foi muito amado por todos os judeus, pois trabalhou para o bem do seu povo e promoveu o bem-estar de todos eles.
+
+'''
+
+xref:017-ester/017-ester-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:018-jo/018-jo-001.adoc#v18-1-0[Próximo Capítulo &#62;]

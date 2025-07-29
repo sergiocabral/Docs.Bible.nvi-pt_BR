@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v21-11-0]]
+=== Eclesiastes, 11
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v21-11-1]]
+
+^<<v21-11-1,1>>^ Atire o seu pão sobre as águas, e depois de muitos dias você tornará a encontrá-lo.
+
+[[v21-11-2]]
+
+^<<v21-11-2,2>>^ Reparta o que você tem com sete, até mesmo com oito, pois você não sabe que desgraça poderá cair sobre a terra.
+
+[[v21-11-3]]
+
+^<<v21-11-3,3>>^ Quando as nuvens estão cheias de água, derramam chuva sobre a terra. Quer uma árvore caia para o sul quer para o norte, no lugar em que cair ficará.
+
+[[v21-11-4]]
+
+^<<v21-11-4,4>>^ Quem observa o vento não plantará; e quem olha para as nuvens não colherá.
+
+[[v21-11-5]]
+
+^<<v21-11-5,5>>^ Assim como você não conhece o caminho do vento, nem como o corpo é formado no ventre de uma mulher, também não pode compreender as obras de Deus, o Criador de todas as coisas.
+
+[[v21-11-6]]
+
+^<<v21-11-6,6>>^ Plante de manhã a sua semente, e mesmo ao entardecer não deixe as suas mãos ficarem à toa, pois você não sabe o que acontecerá, se esta ou aquela produzirá, ou se as duas serão igualmente boas.
+
+[[v21-11-7]]
+
+^<<v21-11-7,7>>^ A luz é agradável, é bom ver o sol.
+
+[[v21-11-8]]
+
+^<<v21-11-8,8>>^ Por mais que um homem viva, deve desfrutar sua vida toda. Lembre-se, porém, dos dias de trevas, pois serão muitos. Tudo o que está para vir não faz sentido.
+
+[[v21-11-9]]
+
+^<<v21-11-9,9>>^ Alegre-se, jovem, na sua mocidade! Seja feliz o seu coração nos dias da sua juventude! Siga por onde seu coração mandar, até onde a sua vista alcançar; mas saiba que por todas essas coisas Deus o trará a julgamento.
+
+[[v21-11-10]]
+
+^<<v21-11-10,10>>^ Afaste do coração a ansiedade e acabe com o sofrimento do seu corpo, pois a juventude e o vigor são passageiros.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[&#60; Capítulo Anterior] | <<v21-11-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[Próximo Capítulo &#62;]

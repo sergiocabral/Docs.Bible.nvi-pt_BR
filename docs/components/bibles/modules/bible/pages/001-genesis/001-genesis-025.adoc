@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v1-25-0]]
+=== Gênesis, 25
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v1-25-1]]
+
+^<<v1-25-1,1>>^ Abraão casou-se com outra mulher, chamada Quetura.
+
+[[v1-25-2]]
+
+^<<v1-25-2,2>>^ Ela lhe deu os seguintes filhos: Zinrã, Jocsã, Medã, Midiã, Isbaque e Suá.
+
+[[v1-25-3]]
+
+^<<v1-25-3,3>>^ Jocsã gerou Sabá e Dedã; os descendentes de Dedã foram os assuritas, os letusitas e os leumitas.
+
+[[v1-25-4]]
+
+^<<v1-25-4,4>>^ Os filhos de Midiã foram Efá, Éfer, Enoque, Abida e Elda. Todos esses foram descendentes de Quetura.
+
+[[v1-25-5]]
+
+^<<v1-25-5,5>>^ Abraão deixou tudo o que tinha para Isaque.
+
+[[v1-25-6]]
+
+^<<v1-25-6,6>>^ Mas para os filhos de suas concubinas deu presentes; e, ainda em vida, enviou-os para longe de Isaque, para a terra do Oriente.
+
+[[v1-25-7]]
+
+^<<v1-25-7,7>>^ Abraão viveu cento e setenta e cinco anos.
+
+[[v1-25-8]]
+
+^<<v1-25-8,8>>^ Morreu em boa velhice, em idade bem avançada, e foi reunido aos seus antepassados.
+
+[[v1-25-9]]
+
+^<<v1-25-9,9>>^ Seus filhos, Isaque e Ismael, o sepultaram na caverna de Macpela, perto de Manre, no campo de Efrom, filho de Zoar, o hitita,
+
+[[v1-25-10]]
+
+^<<v1-25-10,10>>^ campo que Abraão comprara dos hititas. Foi ali que Abraão e Sara, sua mulher, foram sepultados.
+
+[[v1-25-11]]
+
+^<<v1-25-11,11>>^ Depois da morte de Abraão, Deus abençoou seu filho Isaque. Isaque morava próximo a Beer-Laai-Roi.
+
+[[v1-25-12]]
+
+^<<v1-25-12,12>>^ Este é o registro da descendência de Ismael, o filho de Abraão que Hagar, a serva egípcia de Sara, deu a ele.
+
+[[v1-25-13]]
+
+^<<v1-25-13,13>>^ São estes os nomes dos filhos de Ismael, alistados por ordem de nascimento: Nebaiote, o filho mais velho de Ismael, Quedar, Adbeel, Mibsão,
+
+[[v1-25-14]]
+
+^<<v1-25-14,14>>^ Misma, Dumá, Massá,
+
+[[v1-25-15]]
+
+^<<v1-25-15,15>>^ Hadade, Temá, Jetur, Nafis e Quedemá.
+
+[[v1-25-16]]
+
+^<<v1-25-16,16>>^ Foram esses os doze filhos de Ismael, que se tornaram os líderes de suas tribos; os seus povoados e acampamentos receberam os seus nomes.
+
+[[v1-25-17]]
+
+^<<v1-25-17,17>>^ Ismael viveu cento e trinta e sete anos. Morreu e foi reunido aos seus antepassados.
+
+[[v1-25-18]]
+
+^<<v1-25-18,18>>^ Seus descendentes se estabeleceram na região que vai de Havilá a Sur, próximo à fronteira com o Egito, na direção de quem vai para Assur. E viveram em hostilidade contra todos os seus irmãos.
+
+[[v1-25-19]]
+
+^<<v1-25-19,19>>^ Esta é a história da família de Isaque, filho de Abraão: Abraão gerou Isaque,
+
+[[v1-25-20]]
+
+^<<v1-25-20,20>>^ o qual aos quarenta anos se casou com Rebeca, filha de Betuel, o arameu de Padã-Arã, e irmã de Labão, também arameu.
+
+[[v1-25-21]]
+
+^<<v1-25-21,21>>^ Isaque orou ao Senhor em favor de sua mulher, porque era estéril. O SENHOR respondeu à sua oração, e Rebeca, sua mulher, engravidou.
+
+[[v1-25-22]]
+
+^<<v1-25-22,22>>^ Os meninos se empurravam dentro dela, pelo que disse: "Por que está me acontecendo isso? " Foi então consultar o Senhor.
+
+[[v1-25-23]]
+
+^<<v1-25-23,23>>^ Disse-lhe o Senhor: "Duas nações estão em seu ventre, já desde as suas entranhas dois povos se separarão; um deles será mais forte que o outro, mas o mais velho servirá ao mais novo".
+
+[[v1-25-24]]
+
+^<<v1-25-24,24>>^ Ao chegar a época de dar à luz, confirmou-se que havia gêmeos em seu ventre.
+
+[[v1-25-25]]
+
+^<<v1-25-25,25>>^ O primeiro a sair era ruivo, e todo o seu corpo era como um manto de pêlos; por isso lhe deram o nome de Esaú.
+
+[[v1-25-26]]
+
+^<<v1-25-26,26>>^ Depois saiu seu irmão, com a mão agarrada no calcanhar de Esaú; pelo que lhe deram o nome de Jacó. Tinha Isaque sessenta anos de idade quando Rebeca os deu à luz.
+
+[[v1-25-27]]
+
+^<<v1-25-27,27>>^ Os meninos cresceram. Esaú tornou-se caçador habilidoso e vivia percorrendo os campos, ao passo que Jacó cuidava do rebanho e vivia nas tendas.
+
+[[v1-25-28]]
+
+^<<v1-25-28,28>>^ Isaque preferia Esaú, porque gostava de comer de suas caças; Rebeca preferia Jacó.
+
+[[v1-25-29]]
+
+^<<v1-25-29,29>>^ Certa vez, quando Jacó preparava um ensopado, Esaú chegou faminto, voltando do campo,
+
+[[v1-25-30]]
+
+^<<v1-25-30,30>>^ e pediu-lhe: "Dê-me um pouco desse ensopado vermelho aí. Estou faminto! " Por isso também foi chamado Edom.
+
+[[v1-25-31]]
+
+^<<v1-25-31,31>>^ Respondeu-lhe Jacó: "Venda-me primeiro o seu direito de filho mais velho".
+
+[[v1-25-32]]
+
+^<<v1-25-32,32>>^ Disse Esaú: "Estou quase morrendo. De que me vale esse direito? "
+
+[[v1-25-33]]
+
+^<<v1-25-33,33>>^ Jacó, porém, insistiu: "Jure primeiro". Então ele fez um juramento, vendendo o seu direito de filho mais velho a Jacó.
+
+[[v1-25-34]]
+
+^<<v1-25-34,34>>^ Então Jacó serviu a Esaú pão com ensopado de lentilhas. Ele comeu e bebeu, levantou-se e se foi. Assim Esaú desprezou o seu direito de filho mais velho.
+
+'''
+
+xref:001-genesis/001-genesis-024.adoc#v1-24-0[&#60; Capítulo Anterior] | <<v1-25-0,Topo>> | xref:001-genesis/001-genesis-026.adoc#v1-26-0[Próximo Capítulo &#62;]

@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v39-1-0]]
+=== Malaquias, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v39-1-1]]
+
+^<<v39-1-1,1>>^ Uma advertência: a palavra do Senhor contra Israel, por meio de Malaquias.
+
+[[v39-1-2]]
+
+^<<v39-1-2,2>>^ "Eu sempre os amei", diz o Senhor. "Mas vocês perguntam: ‘De que maneira nos amaste? ’ "Não era Esaú irmão de Jacó? ", declara o Senhor. "Todavia eu amei Jacó,
+
+[[v39-1-3]]
+
+^<<v39-1-3,3>>^ mas rejeitei Esaú. Transformei suas montanhas em terra devastada e as terras de sua herança em morada de chacais do deserto. "
+
+[[v39-1-4]]
+
+^<<v39-1-4,4>>^ Embora Edom afirme: "Fomos esmagados, mas reconstruiremos as ruínas", assim diz o Senhor dos Exércitos: "Podem construir, mas eu demolirei. Eles serão chamados Terra Perversa, povo contra quem o Senhor está irado para sempre.
+
+[[v39-1-5]]
+
+^<<v39-1-5,5>>^ Vocês verão isso com os próprios olhos e exclamarão: Grande é o Senhor, até mesmo além das fronteiras de Israel!
+
+[[v39-1-6]]
+
+^<<v39-1-6,6>>^ "O filho honra seu pai, e o servo o seu senhor. Se eu sou pai, onde está a honra que me é devida? Se eu sou senhor, onde está o temor que me devem? ", pergunta o Senhor dos Exércitos a vocês, sacerdotes. "São vocês que desprezam o meu nome! " "Mas vocês perguntam: ‘De que maneira temos desprezado o teu nome? ’
+
+[[v39-1-7]]
+
+^<<v39-1-7,7>>^ "Trazendo comida impura ao meu altar! "E mesmo assim ainda perguntam: ‘De que maneira te desonramos? ’ "Ao dizerem que a mesa do Senhor é desprezível.
+
+[[v39-1-8]]
+
+^<<v39-1-8,8>>^ "Na hora de trazerem animais cegos para sacrificar, vocês não vêem mal algum. Na hora de trazerem animais aleijados e doentes como oferta, também não vêem mal algum. Tentem oferecê-los de presente ao governador! Será que ele se agradará de vocês? Será que os atenderá? ", pergunta o Senhor dos Exércitos.
+
+[[v39-1-9]]
+
+^<<v39-1-9,9>>^ "E agora, sacerdotes, tentem apaziguar a Deus para que tenha compaixão de nós! Será que com esse tipo de oferta ele os atenderá? ", pergunta o Senhor dos Exércitos.
+
+[[v39-1-10]]
+
+^<<v39-1-10,10>>^ "Ah, se um de vocês fechasse as portas do templo. Assim ao menos não acenderiam o fogo do meu altar inutilmente. Não tenho prazer em vocês", diz o Senhor dos Exércitos, "e não aceitarei as suas ofertas.
+
+[[v39-1-11]]
+
+^<<v39-1-11,11>>^ Pois do oriente ao ocidente grande é o meu nome entre as nações. Em toda parte incenso e ofertas puras são trazidos ao meu nome, porque grande é o meu nome entre as nações", diz o Senhor dos Exércitos.
+
+[[v39-1-12]]
+
+^<<v39-1-12,12>>^ "Mas vocês o profanam ao dizerem que a mesa do Senhor é imunda e que a sua comida é desprezível.
+
+[[v39-1-13]]
+
+^<<v39-1-13,13>>^ E ainda dizem: ‘Que canseira! ’ e riem dela com desprezo", diz o Senhor dos Exércitos. "Quando vocês trazem animais roubados, aleijados e doentes e os oferecem em sacrifício, deveria eu aceitá-los de suas mãos? ", pergunta o Senhor.
+
+[[v39-1-14]]
+
+^<<v39-1-14,14>>^ "Maldito seja o enganador que, tendo no rebanho um macho sem defeito, promete oferecê-lo e depois sacrifica um animal defeituoso", diz o Senhor dos Exércitos; "pois eu sou um grande rei, e o meu nome é temido entre as nações. "
+
+'''
+
+xref:038-zacarias/038-zacarias-014.adoc#v38-14-0[&#60; Capítulo Anterior] | <<v39-1-0,Topo>> | xref:039-malaquias/039-malaquias-002.adoc#v39-2-0[Próximo Capítulo &#62;]

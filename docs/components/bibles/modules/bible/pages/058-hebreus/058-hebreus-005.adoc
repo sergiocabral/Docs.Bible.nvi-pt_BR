@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v58-5-0]]
+=== Hebreus, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v58-5-1]]
+
+^<<v58-5-1,1>>^ Todo sumo sacerdote é escolhido dentre os homens e designado para representá-los em questões relacionadas com Deus e apresentar ofertas e sacrifícios pelos pecados.
+
+[[v58-5-2]]
+
+^<<v58-5-2,2>>^ Ele é capaz de se compadecer dos que não têm conhecimento e se desviam, visto que ele próprio está sujeito à fraqueza.
+
+[[v58-5-3]]
+
+^<<v58-5-3,3>>^ Por isso ele precisa oferecer sacrifícios por seus próprios pecados, bem como pelos pecados do povo.
+
+[[v58-5-4]]
+
+^<<v58-5-4,4>>^ Ninguém toma esta honra para si mesmo, mas deve ser chamado por Deus, como de fato o foi Arão.
+
+[[v58-5-5]]
+
+^<<v58-5-5,5>>^ Da mesma forma, Cristo não tomou para si a glória de se tornar sumo sacerdote, mas Deus lhe disse: "Tu és meu Filho; eu hoje te gerei".
+
+[[v58-5-6]]
+
+^<<v58-5-6,6>>^ E diz noutro lugar: "Tu és sacerdote para sempre, segundo a ordem de Melquisedeque".
+
+[[v58-5-7]]
+
+^<<v58-5-7,7>>^ Durante os seus dias de vida na terra, Jesus ofereceu orações e súplicas, em alta voz e com lágrimas, àquele que o podia salvar da morte, sendo ouvido por causa da sua reverente submissão.
+
+[[v58-5-8]]
+
+^<<v58-5-8,8>>^ Embora sendo Filho, ele aprendeu a obedecer por meio daquilo que sofreu;
+
+[[v58-5-9]]
+
+^<<v58-5-9,9>>^ e, uma vez aperfeiçoado, tornou-se a fonte de eterna salvação para todos os que lhe obedecem,
+
+[[v58-5-10]]
+
+^<<v58-5-10,10>>^ sendo designado por Deus sumo sacerdote, segundo a ordem de Melquisedeque.
+
+[[v58-5-11]]
+
+^<<v58-5-11,11>>^ Quanto a isso, temos muito que dizer, coisas difíceis de explicar, porque vocês se tornaram lentos para aprender.
+
+[[v58-5-12]]
+
+^<<v58-5-12,12>>^ De fato, embora a esta altura já devessem ser mestres, vocês precisam de alguém que lhes ensine novamente os princípios elementares da palavra de Deus. Estão precisando de leite, e não de alimento sólido!
+
+[[v58-5-13]]
+
+^<<v58-5-13,13>>^ Quem se alimenta de leite ainda é criança, e não tem experiência no ensino da justiça.
+
+[[v58-5-14]]
+
+^<<v58-5-14,14>>^ Mas o alimento sólido é para os adultos, os quais, pelo exercício constante, tornaram-se aptos para discernir tanto o bem quanto o mal.
+
+'''
+
+xref:058-hebreus/058-hebreus-004.adoc#v58-4-0[&#60; Capítulo Anterior] | <<v58-5-0,Topo>> | xref:058-hebreus/058-hebreus-006.adoc#v58-6-0[Próximo Capítulo &#62;]

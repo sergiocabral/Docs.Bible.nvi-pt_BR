@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-147-0]]
+=== Salmos, 147
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-147-1]]
+
+^<<v19-147-1,1>>^ Aleluia! Como é bom cantar louvores ao nosso Deus! Como é agradável e próprio louvá-lo!
+
+[[v19-147-2]]
+
+^<<v19-147-2,2>>^ O Senhor edifica Jerusalém; ele reúne os exilados de Israel.
+
+[[v19-147-3]]
+
+^<<v19-147-3,3>>^ Só ele cura os de coração quebrantado e cuida das suas feridas.
+
+[[v19-147-4]]
+
+^<<v19-147-4,4>>^ Ele determina o número de estrelas e chama cada uma pelo nome.
+
+[[v19-147-5]]
+
+^<<v19-147-5,5>>^ Grande é o nosso Soberano e tremendo é o seu poder; é impossível medir o seu entendimento.
+
+[[v19-147-6]]
+
+^<<v19-147-6,6>>^ O Senhor sustém o oprimido, mas lança por terra o ímpio.
+
+[[v19-147-7]]
+
+^<<v19-147-7,7>>^ Cantem ao Senhor com ações de graças; ao som da harpa façam música para o nosso Deus.
+
+[[v19-147-8]]
+
+^<<v19-147-8,8>>^ Ele cobre o céu de nuvens, concede chuvas à terra e faz crescer a relva nas colinas.
+
+[[v19-147-9]]
+
+^<<v19-147-9,9>>^ Ele dá alimento aos animais, e aos filhotes dos corvos quando gritam de fome.
+
+[[v19-147-10]]
+
+^<<v19-147-10,10>>^ Não é a força do cavalo que lhe dá satisfação, nem é a agilidade do homem que lhe agrada;
+
+[[v19-147-11]]
+
+^<<v19-147-11,11>>^ o Senhor se agrada dos que o temem, dos que colocam a esperança no seu amor leal.
+
+[[v19-147-12]]
+
+^<<v19-147-12,12>>^ Exalte ao Senhor, ó Jerusalém! Louve o seu Deus, ó Sião,
+
+[[v19-147-13]]
+
+^<<v19-147-13,13>>^ pois ele reforçou as trancas de suas portas e abençoou o seu povo, que lá habita.
+
+[[v19-147-14]]
+
+^<<v19-147-14,14>>^ É ele que mantém as suas fronteiras em segurança e que a supre do melhor do trigo.
+
+[[v19-147-15]]
+
+^<<v19-147-15,15>>^ Ele envia sua ordem à terra, e sua palavra corre veloz.
+
+[[v19-147-16]]
+
+^<<v19-147-16,16>>^ Faz cair a neve como lã, e espalha a geada como cinza.
+
+[[v19-147-17]]
+
+^<<v19-147-17,17>>^ Faz cair o gelo como se fosse pedra. Quem pode suportar o seu frio?
+
+[[v19-147-18]]
+
+^<<v19-147-18,18>>^ Ele envia a sua palavra, e o gelo derrete; envia o seu sopro, e as águas tornam a correr.
+
+[[v19-147-19]]
+
+^<<v19-147-19,19>>^ Ele revela a sua palavra a Jacó, os seus decretos e ordenanças a Israel.
+
+[[v19-147-20]]
+
+^<<v19-147-20,20>>^ Ele não fez isso a nenhuma outra nação; todas as outras desconhecem as suas ordenanças. Aleluia!
+
+'''
+
+xref:019-salmos/019-salmos-146.adoc#v19-146-0[&#60; Capítulo Anterior] | <<v19-147-0,Topo>> | xref:019-salmos/019-salmos-148.adoc#v19-148-0[Próximo Capítulo &#62;]

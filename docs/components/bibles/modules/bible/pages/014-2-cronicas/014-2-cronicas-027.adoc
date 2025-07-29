@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v14-27-0]]
+=== 2 Crônicas, 27
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v14-27-1]]
+
+^<<v14-27-1,1>>^ Jotão tinha vinte e cinco anos de idade quando começou a reinar, e reinou dezesseis anos em Jerusalém. O nome da sua mãe era Jerusa, filha de Zadoque.
+
+[[v14-27-2]]
+
+^<<v14-27-2,2>>^ Ele fez o que o Senhor aprova, tal como seu pai, mas, ao contrário deste, não entrou no templo do Senhor. O povo, contudo, prosseguiu em suas práticas corruptas.
+
+[[v14-27-3]]
+
+^<<v14-27-3,3>>^ Jotão reconstruiu a porta superior do templo do Senhor e fez amplos trabalhos no muro, na colina de Ofel.
+
+[[v14-27-4]]
+
+^<<v14-27-4,4>>^ Construiu cidades nos montes de Judá, bem como fortes e torres nas matas.
+
+[[v14-27-5]]
+
+^<<v14-27-5,5>>^ Jotão guerreou contra o rei dos amonitas e o derrotou. Então os amonitas pagaram-lhe três toneladas e meia de prata, dez mil barris de trigo e dez mil de cevada durante três anos seguidos.
+
+[[v14-27-6]]
+
+^<<v14-27-6,6>>^ Jotão tornou-se cada vez mais poderoso, pois andava firmemente segundo a vontade do Senhor, o seu Deus.
+
+[[v14-27-7]]
+
+^<<v14-27-7,7>>^ Os demais acontecimentos do reinado de Jotão, inclusive todas as suas guerras e as suas outras realizações, estão escritos nos registros históricos dos reis de Israel e de Judá.
+
+[[v14-27-8]]
+
+^<<v14-27-8,8>>^ Tinha vinte e cinco anos de idade quando começou a reinar, e reinou dezesseis anos em Jerusalém.
+
+[[v14-27-9]]
+
+^<<v14-27-9,9>>^ Jotão descansou com os seus antepassados e foi sepultado na cidade de Davi. Seu filho Acaz foi o seu sucessor.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-026.adoc#v14-26-0[&#60; Capítulo Anterior] | <<v14-27-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-028.adoc#v14-28-0[Próximo Capítulo &#62;]

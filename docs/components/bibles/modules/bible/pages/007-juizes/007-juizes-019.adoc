@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v7-19-0]]
+=== Juízes, 19
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v7-19-1]]
+
+^<<v7-19-1,1>>^ Naquela época não havia rei em Israel. Aconteceu que um levita que vivia nos montes de Efraim, numa região afastada, tomou para si uma concubina, que era de Belém de Judá.
+
+[[v7-19-2]]
+
+^<<v7-19-2,2>>^ Mas ela lhe foi infiel. Deixou-o e voltou para a casa do seu pai, em Belém de Judá. Quatro meses depois,
+
+[[v7-19-3]]
+
+^<<v7-19-3,3>>^ seu marido foi convencê-la a voltar. Ele tinha levado o seu servo e dois jumentos. A mulher o levou para dentro da casa do seu pai, e quando seu pai o viu, alegrou-se.
+
+[[v7-19-4]]
+
+^<<v7-19-4,4>>^ O sogro dele, pai da moça, o convenceu a ficar ali; e ele permaneceu com eles três dias; todos eles comendo, bebendo e dormindo ali.
+
+[[v7-19-5]]
+
+^<<v7-19-5,5>>^ No quarto dia, eles se levantaram cedo, e o levita se preparou para partir, mas o pai da moça disse ao genro: "Coma alguma coisa, e depois vocês poderão partir".
+
+[[v7-19-6]]
+
+^<<v7-19-6,6>>^ Os dois se assentaram para comer e beber juntos. Mas o pai da moça disse: "Eu lhe peço que fique esta noite, e que se alegre".
+
+[[v7-19-7]]
+
+^<<v7-19-7,7>>^ E, quando o homem se levantou para partir, seu sogro o convenceu a ficar ainda aquela noite.
+
+[[v7-19-8]]
+
+^<<v7-19-8,8>>^ Na manhã do quinto dia, quando ele se preparou para partir, o pai da moça disse: "Vamos comer! Espere até a tarde! " E os dois comeram juntos.
+
+[[v7-19-9]]
+
+^<<v7-19-9,9>>^ Então, quando o homem, com a sua concubina e com o seu servo, levantaram-se para partir, o seu sogro, pai da moça, disse outra vez: "Veja, o dia está quase acabando, é quase noite; passe a noite aqui. Fique e alegre-se. Amanhã de madrugada vocês poderão levantar-se e ir para casa".
+
+[[v7-19-10]]
+
+^<<v7-19-10,10>>^ Não desejando ficar outra noite, o homem partiu rumo a Jebus, isto é, Jerusalém, com dois jumentos selados e com a sua concubina.
+
+[[v7-19-11]]
+
+^<<v7-19-11,11>>^ Quando estavam perto de Jebus e já se findava o dia, o servo disse a seu senhor: "Venha. Vamos parar nesta cidade dos jebuseus e passar a noite aqui".
+
+[[v7-19-12]]
+
+^<<v7-19-12,12>>^ O seu senhor respondeu: "Não. Não vamos entrar numa cidade estrangeira, cujo povo não seja israelita. Iremos para Gibeá".
+
+[[v7-19-13]]
+
+^<<v7-19-13,13>>^ E acrescentou: "Ande! Vamos tentar chegar a Gibeá ou a Ramá e passar a noite num desses lugares".
+
+[[v7-19-14]]
+
+^<<v7-19-14,14>>^ Então prosseguiram, e o sol se pôs quando se aproximavam de Gibeá de Benjamim.
+
+[[v7-19-15]]
+
+^<<v7-19-15,15>>^ Ali entraram para passar a noite. Foram sentar-se na praça da cidade. E ninguém os convidou para passarem a noite em casa.
+
+[[v7-19-16]]
+
+^<<v7-19-16,16>>^ Naquela noite um homem idoso procedente dos montes de Efraim e que estava morando em Gibeá ( os homens do lugar eram benjamitas ), voltou do seu trabalho no campo.
+
+[[v7-19-17]]
+
+^<<v7-19-17,17>>^ Quando viu o viajante na praça da cidade, o homem idoso perguntou: "Para onde você está indo? De onde vem? "
+
+[[v7-19-18]]
+
+^<<v7-19-18,18>>^ Ele respondeu: "Estamos de viagem, indo de Belém de Judá para uma região afastada, nos montes de Efraim, onde moro. Fui a Belém de Judá, e agora estou indo ao santuário do Senhor. Mas aqui ninguém me recebeu em casa.
+
+[[v7-19-19]]
+
+^<<v7-19-19,19>>^ Temos palha e forragem para os nossos jumentos, e para nós mesmos, que somos seus servos temos pão e vinho, para mim, para a sua serva e para o jovem que está conosco. Não temos falta de nada".
+
+[[v7-19-20]]
+
+^<<v7-19-20,20>>^ "Você é bem-vindo em minha casa", disse o homem idoso. "Vou atendê-lo no que você precisar. Não passe a noite na praça. "
+
+[[v7-19-21]]
+
+^<<v7-19-21,21>>^ E os levou para a sua casa e alimentou os jumentos. Depois de lavarem os pés, comeram e beberam alguma coisa.
+
+[[v7-19-22]]
+
+^<<v7-19-22,22>>^ Quando estavam entretidos, alguns vadios da cidade cercaram a casa. Esmurrando a porta, gritaram para o homem idoso, dono da casa: "Traga para fora o homem que entrou na sua casa para que tenhamos relações com ele! "
+
+[[v7-19-23]]
+
+^<<v7-19-23,23>>^ O dono da casa saiu e lhes disse: "Não sejam tão perversos, meus amigos. Já que esse homem é meu hóspede, não cometam essa loucura.
+
+[[v7-19-24]]
+
+^<<v7-19-24,24>>^ Vejam, aqui está minha filha virgem e a concubina do meu hóspede. Eu as trarei para vocês, e vocês poderão usá-las e fazer com elas o que quiserem. Mas, nada façam com esse homem, não cometam tal loucura! "
+
+[[v7-19-25]]
+
+^<<v7-19-25,25>>^ Mas os homens não quiseram ouvi-lo. Então o levita mandou a sua concubina para fora, e eles a violentaram e abusaram dela a noite toda. Ao alvorecer a deixaram.
+
+[[v7-19-26]]
+
+^<<v7-19-26,26>>^ Ao romper do dia a mulher voltou para a casa onde o seu senhor estava hospedado, caiu junto à porta e ali ficou até o dia clarear.
+
+[[v7-19-27]]
+
+^<<v7-19-27,27>>^ Quando o seu senhor se levantou de manhã, abriu a porta da casa e saiu para prosseguir viagem, lá estava a sua concubina, caída à entrada da casa, com as mãos na soleira da porta.
+
+[[v7-19-28]]
+
+^<<v7-19-28,28>>^ Ele lhe disse: "Levante-se, vamos! " Não houve resposta. Então o homem a pôs em seu jumento e foi para casa.
+
+[[v7-19-29]]
+
+^<<v7-19-29,29>>^ Quando chegou em casa, apanhou uma faca e cortou o corpo da sua concubina em doze partes, e as enviou a todas as regiões de Israel.
+
+[[v7-19-30]]
+
+^<<v7-19-30,30>>^ Todos os que viram isso disseram: "Nunca se viu nem se fez uma coisa dessas desde o dia em que os israelitas saíram do Egito. Pensem! Reflitam! Digam o que se deve fazer! "
+
+'''
+
+xref:007-juizes/007-juizes-018.adoc#v7-18-0[&#60; Capítulo Anterior] | <<v7-19-0,Topo>> | xref:007-juizes/007-juizes-020.adoc#v7-20-0[Próximo Capítulo &#62;]

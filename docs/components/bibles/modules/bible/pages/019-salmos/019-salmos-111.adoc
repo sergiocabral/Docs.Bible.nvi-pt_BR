@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-111-0]]
+=== Salmos, 111
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-111-1]]
+
+^<<v19-111-1,1>>^ Aleluia! Darei graças ao Senhor de todo o coração na reunião da congregação dos justos.
+
+[[v19-111-2]]
+
+^<<v19-111-2,2>>^ Grandes são as obras do Senhor; nelas meditam todos os que as apreciam.
+
+[[v19-111-3]]
+
+^<<v19-111-3,3>>^ Os seus feitos manifestam majestade e esplendor, e a sua justiça dura para sempre.
+
+[[v19-111-4]]
+
+^<<v19-111-4,4>>^ Ele fez proclamar as suas maravilhas; o Senhor é misericordioso e compassivo.
+
+[[v19-111-5]]
+
+^<<v19-111-5,5>>^ Deu alimento aos que o temiam, pois sempre se lembra de sua aliança.
+
+[[v19-111-6]]
+
+^<<v19-111-6,6>>^ Mostrou ao seu povo os seus feitos poderosos, dando-lhes as terras das nações.
+
+[[v19-111-7]]
+
+^<<v19-111-7,7>>^ As obras das suas mãos são fiéis e justas; todos os seus preceitos merecem confiança.
+
+[[v19-111-8]]
+
+^<<v19-111-8,8>>^ Estão firmes para sempre, estabelecidos com fidelidade e retidão.
+
+[[v19-111-9]]
+
+^<<v19-111-9,9>>^ Ele trouxe redenção ao seu povo e firmou a sua aliança para sempre. Santo e temível é o seu nome!
+
+[[v19-111-10]]
+
+^<<v19-111-10,10>>^ O temor do Senhor é o princípio da sabedoria; todos os que cumprem os seus preceitos revelam bom senso. Ele será louvado para sempre!
+
+'''
+
+xref:019-salmos/019-salmos-110.adoc#v19-110-0[&#60; Capítulo Anterior] | <<v19-111-0,Topo>> | xref:019-salmos/019-salmos-112.adoc#v19-112-0[Próximo Capítulo &#62;]

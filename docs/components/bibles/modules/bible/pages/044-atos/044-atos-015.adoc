@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v44-15-0]]
+=== Atos, 15
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v44-15-1]]
+
+^<<v44-15-1,1>>^ Alguns homens desceram da Judéia para Antioquia e passaram a ensinar aos irmãos: "Se vocês não forem circuncidados conforme o costume ensinado por Moisés, não poderão ser salvos".
+
+[[v44-15-2]]
+
+^<<v44-15-2,2>>^ Isso levou Paulo e Barnabé a uma grande contenda e discussão com eles. Assim, Paulo e Barnabé foram designados, juntamente com outros, para irem a Jerusalém tratar dessa questão com os apóstolos e com os presbíteros.
+
+[[v44-15-3]]
+
+^<<v44-15-3,3>>^ A igreja os enviou e, ao passarem pela Fenícia e por Samaria, contaram como os gentios tinham se convertido; essas notícias alegravam muito a todos os irmãos.
+
+[[v44-15-4]]
+
+^<<v44-15-4,4>>^ Chegando a Jerusalém, foram bem recebidos pela igreja, pelos apóstolos e pelos presbíteros, a quem relataram tudo o que Deus tinha feito por meio deles.
+
+[[v44-15-5]]
+
+^<<v44-15-5,5>>^ Então se levantaram alguns do partido religioso dos fariseus que haviam crido e disseram: "É necessário circuncidá-los e exigir deles que obedeçam à lei de Moisés".
+
+[[v44-15-6]]
+
+^<<v44-15-6,6>>^ Os apóstolos e os presbíteros se reuniram para considerar essa questão.
+
+[[v44-15-7]]
+
+^<<v44-15-7,7>>^ Depois de muita discussão, Pedro levantou-se e dirigiu-se a eles: "Irmãos, vocês sabem que há muito tempo Deus me escolheu dentre vocês para que os gentios ouvissem de meus lábios a mensagem do evangelho e cressem.
+
+[[v44-15-8]]
+
+^<<v44-15-8,8>>^ Deus, que conhece os corações, demonstrou que os aceitou, dando-lhes o Espírito Santo, como antes nos tinha concedido.
+
+[[v44-15-9]]
+
+^<<v44-15-9,9>>^ Ele não fez distinção alguma entre nós e eles, visto que purificou os seus corações pela fé.
+
+[[v44-15-10]]
+
+^<<v44-15-10,10>>^ Então, por que agora vocês estão querendo tentar a Deus, impondo sobre os discípulos um jugo que nem nós nem nossos antepassados conseguimos suportar?
+
+[[v44-15-11]]
+
+^<<v44-15-11,11>>^ De modo nenhum! Cremos que somos salvos pela graça de nosso Senhor Jesus, assim como eles também".
+
+[[v44-15-12]]
+
+^<<v44-15-12,12>>^ Toda a assembléia ficou em silêncio, enquanto ouvia Barnabé e Paulo falando de todos os sinais e maravilhas que, por meio deles, Deus fizera entre os gentios.
+
+[[v44-15-13]]
+
+^<<v44-15-13,13>>^ Quando terminaram de falar, Tiago tomou a palavra e disse: "Irmãos, ouçam-me.
+
+[[v44-15-14]]
+
+^<<v44-15-14,14>>^ Simão nos expôs como Deus, no princípio, voltou-se para os gentios a fim de reunir dentre as nações um povo para o seu nome.
+
+[[v44-15-15]]
+
+^<<v44-15-15,15>>^ Concordam com isso as palavras dos profetas, conforme está escrito:
+
+[[v44-15-16]]
+
+^<<v44-15-16,16>>^ ‘Depois disso voltarei e reconstruirei a tenda caída de Davi. Reedificarei as suas ruínas, e a restaurarei,
+
+[[v44-15-17]]
+
+^<<v44-15-17,17>>^ para que o restante dos homens busque o Senhor, e todos os gentios sobre os quais tem sido invocado o meu nome, diz o Senhor, que faz estas coisas’
+
+[[v44-15-18]]
+
+^<<v44-15-18,18>>^ conhecidas desde os tempos antigos.
+
+[[v44-15-19]]
+
+^<<v44-15-19,19>>^ "Portanto, julgo que não devemos pôr dificuldades aos gentios que estão se convertendo a Deus.
+
+[[v44-15-20]]
+
+^<<v44-15-20,20>>^ Pelo contrário, devemos escrever a eles, dizendo-lhes que se abstenham de comida contaminada pelos ídolos, da imoralidade sexual, da carne de animais estrangulados e do sangue.
+
+[[v44-15-21]]
+
+^<<v44-15-21,21>>^ Pois, desde os tempos antigos, Moisés é pregado em todas as cidades, sendo lido nas sinagogas todos os sábados".
+
+[[v44-15-22]]
+
+^<<v44-15-22,22>>^ Então os apóstolos e os presbíteros, com toda a igreja, decidiram escolher alguns dentre eles e enviá-los a Antioquia com Paulo e Barnabé. Escolheram Judas, chamado Barsabás, e Silas, dois líderes entre os irmãos.
+
+[[v44-15-23]]
+
+^<<v44-15-23,23>>^ Com eles enviaram a seguinte carta: Os irmãos apóstolos e presbíteros, aos cristãos gentios que estão em Antioquia, na Síria e na Cilícia: Saudações.
+
+[[v44-15-24]]
+
+^<<v44-15-24,24>>^ Soubemos que alguns saíram de nosso meio, sem nossa autorização, e os perturbaram, transtornando suas mentes com o que disseram.
+
+[[v44-15-25]]
+
+^<<v44-15-25,25>>^ Assim, concordamos todos em escolher alguns homens e enviá-los a vocês com nossos amados irmãos Paulo e Barnabé,
+
+[[v44-15-26]]
+
+^<<v44-15-26,26>>^ homens que têm arriscado a vida pelo nome de nosso Senhor Jesus Cristo.
+
+[[v44-15-27]]
+
+^<<v44-15-27,27>>^ Portanto, estamos enviando Judas e Silas para confirmarem verbalmente o que estamos escrevendo.
+
+[[v44-15-28]]
+
+^<<v44-15-28,28>>^ Pareceu bem ao Espírito Santo e a nós não impor a vocês nada além das seguintes exigências necessárias:
+
+[[v44-15-29]]
+
+^<<v44-15-29,29>>^ Abster-se de comida sacrificada aos ídolos, do sangue, da carne de animais estrangulados e da imoralidade sexual. Vocês farão bem em evitar essas coisas. Que tudo lhes vá bem.
+
+[[v44-15-30]]
+
+^<<v44-15-30,30>>^ Uma vez despedidos, os homens desceram para Antioquia, onde reuniram a igreja e entregaram a carta.
+
+[[v44-15-31]]
+
+^<<v44-15-31,31>>^ Os irmãos a leram e se alegraram com a sua animadora mensagem.
+
+[[v44-15-32]]
+
+^<<v44-15-32,32>>^ Judas e Silas, que eram profetas, encorajaram e fortaleceram os irmãos com muitas palavras.
+
+[[v44-15-33]]
+
+^<<v44-15-33,33>>^ Tendo passado algum tempo ali, foram despedidos pelos irmãos com a bênção da paz para voltarem aos que os tinham enviado.
+
+[[v44-15-34]]
+
+^<<v44-15-34,34>>^ Mas Silas decidiu ficar ali.
+
+[[v44-15-35]]
+
+^<<v44-15-35,35>>^ Mas Paulo e Barnabé permaneceram em Antioquia, onde, com muitos outros ensinavam e pregavam a palavra do Senhor.
+
+[[v44-15-36]]
+
+^<<v44-15-36,36>>^ Algum tempo depois, Paulo disse a Barnabé: "Voltemos para visitar os irmãos em todas as cidades onde pregamos a palavra do Senhor, para ver como estão indo".
+
+[[v44-15-37]]
+
+^<<v44-15-37,37>>^ Barnabé queria levar João, também chamado Marcos.
+
+[[v44-15-38]]
+
+^<<v44-15-38,38>>^ Mas Paulo não achava prudente levá-lo, pois ele, abandonando-os na Panfília, não permanecera com eles no trabalho.
+
+[[v44-15-39]]
+
+^<<v44-15-39,39>>^ Tiveram um desentendimento tão sério que se separaram. Barnabé, levando consigo Marcos, navegou para Chipre,
+
+[[v44-15-40]]
+
+^<<v44-15-40,40>>^ mas Paulo escolheu Silas e partiu, encomendado pelos irmãos à graça do Senhor.
+
+[[v44-15-41]]
+
+^<<v44-15-41,41>>^ Passou, então, pela Síria e pela Cilícia, fortalecendo as igrejas.
+
+'''
+
+xref:044-atos/044-atos-014.adoc#v44-14-0[&#60; Capítulo Anterior] | <<v44-15-0,Topo>> | xref:044-atos/044-atos-016.adoc#v44-16-0[Próximo Capítulo &#62;]

@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-88-0]]
+=== Salmos, 88
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-88-1]]
+
+^<<v19-88-1,1>>^ Ó Senhor, Deus que me salva, a ti clamo dia e noite.
+
+[[v19-88-2]]
+
+^<<v19-88-2,2>>^ Que a minha oração chegue diante de ti; inclina os teus ouvidos ao meu clamor.
+
+[[v19-88-3]]
+
+^<<v19-88-3,3>>^ Tenho sofrido tanto que a minha vida está à beira da sepultura!
+
+[[v19-88-4]]
+
+^<<v19-88-4,4>>^ Sou contado entre os que descem à cova; sou como um homem que já não tem forças.
+
+[[v19-88-5]]
+
+^<<v19-88-5,5>>^ Fui colocado junto aos mortos, sou como os cadáveres que jazem no túmulo, dos quais já não te lembras, pois foram tirados de tua mão.
+
+[[v19-88-6]]
+
+^<<v19-88-6,6>>^ Puseste-me na cova mais profunda, na escuridão das profundezas.
+
+[[v19-88-7]]
+
+^<<v19-88-7,7>>^ Tua ira pesa sobre mim; com todas as tuas ondas me afligiste. Pausa
+
+[[v19-88-8]]
+
+^<<v19-88-8,8>>^ Afastaste de mim os meus melhores amigos e me tornaste repugnante para eles. Estou como um preso que não pode fugir;
+
+[[v19-88-9]]
+
+^<<v19-88-9,9>>^ minhas vistas já estão fracas de tristeza. A ti, Senhor, clamo cada dia; a ti ergo as minhas mãos.
+
+[[v19-88-10]]
+
+^<<v19-88-10,10>>^ Acaso mostras as tuas maravilhas aos mortos? Acaso os mortos se levantam e te louvam? Pausa
+
+[[v19-88-11]]
+
+^<<v19-88-11,11>>^ Será que o teu amor é anunciado no túmulo, e a tua fidelidade, no Abismo da Morte?
+
+[[v19-88-12]]
+
+^<<v19-88-12,12>>^ Acaso são conhecidas as tuas maravilhas na região das trevas, e os teus feitos de justiça, na terra do esquecimento?
+
+[[v19-88-13]]
+
+^<<v19-88-13,13>>^ Mas eu, Senhor, a ti clamo por socorro; já de manhã a minha oração chega à tua presença.
+
+[[v19-88-14]]
+
+^<<v19-88-14,14>>^ Por que, Senhor, me rejeitas e escondes de mim o teu rosto?
+
+[[v19-88-15]]
+
+^<<v19-88-15,15>>^ Desde moço tenho sofrido e ando perto da morte; os teus terrores levaram-me ao desespero.
+
+[[v19-88-16]]
+
+^<<v19-88-16,16>>^ Sobre mim se abateu a tua ira; os pavores que me causas me destruíram.
+
+[[v19-88-17]]
+
+^<<v19-88-17,17>>^ Cercam-me o dia todo como uma inundação; envolvem-me por completo.
+
+[[v19-88-18]]
+
+^<<v19-88-18,18>>^ Tiraste de mim os meus amigos e os meus companheiros; as trevas são a minha única companhia.
+
+'''
+
+xref:019-salmos/019-salmos-087.adoc#v19-87-0[&#60; Capítulo Anterior] | <<v19-88-0,Topo>> | xref:019-salmos/019-salmos-089.adoc#v19-89-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v18-42-0]]
+=== Jó, 42
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-42-1]]
+
+^<<v18-42-1,1>>^ Então Jó respondeu ao Senhor:
+
+[[v18-42-2]]
+
+^<<v18-42-2,2>>^ "Sei que podes fazer todas as coisas; nenhum dos teus planos pode ser frustrado.
+
+[[v18-42-3]]
+
+^<<v18-42-3,3>>^ Tu perguntaste: ‘Quem é esse que obscurece o meu conselho sem conhecimento? ’ Certo é que falei de coisas que eu não entendia, coisas tão maravilhosas que eu não poderia saber.
+
+[[v18-42-4]]
+
+^<<v18-42-4,4>>^ "Tu disseste: ‘Agora escute, e eu falarei; vou fazer-lhe perguntas, e você me responderá’.
+
+[[v18-42-5]]
+
+^<<v18-42-5,5>>^ Meus ouvidos já tinham ouvido a teu respeito, mas agora os meus olhos te viram.
+
+[[v18-42-6]]
+
+^<<v18-42-6,6>>^ Por isso menosprezo a mim mesmo e me arrependo no pó e na cinza".
+
+[[v18-42-7]]
+
+^<<v18-42-7,7>>^ Depois que o Senhor disse essas palavras a Jó, disse também ao Elifaz, de Temã: "Estou indignado com você e com os seus dois amigos, pois vocês não falaram o que é certo a meu respeito, como fez meu servo Jó.
+
+[[v18-42-8]]
+
+^<<v18-42-8,8>>^ Vão agora até meu servo Jó, levem sete novilhos e sete carneiros, e com eles apresentem holocaustos em favor de vocês mesmos. Meu servo Jó orará por vocês; eu aceitarei a oração dele e não farei com vocês o que vocês merecem pela loucura que cometeram. Vocês não falaram o que é certo a meu respeito, como fez meu servo Jó".
+
+[[v18-42-9]]
+
+^<<v18-42-9,9>>^ Então Elifaz, de Temã, Bildade, de Suá, e Zofar, de Naamate, fizeram o que o Senhor lhes ordenara; e o Senhor aceitou a oração de Jó.
+
+[[v18-42-10]]
+
+^<<v18-42-10,10>>^ Depois que Jó orou por seus amigos, o Senhor o tornou novamente próspero e lhe deu em dobro tudo o que tinha antes.
+
+[[v18-42-11]]
+
+^<<v18-42-11,11>>^ Todos os seus irmãos e irmãs, e todos os que o haviam conhecido anteriormente vieram comer com ele em sua casa. Eles o consolaram e o confortaram por todas as tribulações que o Senhor tinha trazido sobre ele, e cada um lhe deu uma peça de prata e um anel de ouro.
+
+[[v18-42-12]]
+
+^<<v18-42-12,12>>^ O Senhor abençoou o final da vida de Jó mais do que o início. Ele teve catorze mil ovelhas, seis mil camelos, mil juntas de boi e mil jumentos.
+
+[[v18-42-13]]
+
+^<<v18-42-13,13>>^ Também teve ainda sete filhos e três filhas.
+
+[[v18-42-14]]
+
+^<<v18-42-14,14>>^ À primeira filha deu o nome de Jemima, à segunda o de Quézia e à terceira o de Quéren-Hapuque.
+
+[[v18-42-15]]
+
+^<<v18-42-15,15>>^ Em parte alguma daquela terra havia mulheres tão bonitas como as filhas de Jó, e seu pai lhes deu herança junto com os seus irmãos.
+
+[[v18-42-16]]
+
+^<<v18-42-16,16>>^ Depois disso Jó viveu cento e quarenta anos; viu seus filhos e os descendentes deles até a quarta geração.
+
+[[v18-42-17]]
+
+^<<v18-42-17,17>>^ E então morreu, em idade muito avançada.
+
+'''
+
+xref:018-jo/018-jo-041.adoc#v18-41-0[&#60; Capítulo Anterior] | <<v18-42-0,Topo>> | xref:019-salmos/019-salmos-001.adoc#v19-1-0[Próximo Capítulo &#62;]

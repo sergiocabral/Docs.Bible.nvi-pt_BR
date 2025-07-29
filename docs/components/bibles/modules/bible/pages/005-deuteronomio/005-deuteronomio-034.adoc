@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v5-34-0]]
+=== Deuteronômio, 34
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v5-34-1]]
+
+^<<v5-34-1,1>>^ Então, das campinas de Moabe Moisés subiu ao monte Nebo, ao topo do Pisga, em frente de Jericó. Ali o Senhor lhe mostrou a terra toda: de Gileade a Dã,
+
+[[v5-34-2]]
+
+^<<v5-34-2,2>>^ toda a região de Naftali, o território de Efraim e Manassés, toda a terra de Judá até o mar ocidental,
+
+[[v5-34-3]]
+
+^<<v5-34-3,3>>^ o Neguebe e toda a região que vai do vale de Jericó, a cidade das Palmeiras, até Zoar.
+
+[[v5-34-4]]
+
+^<<v5-34-4,4>>^ E o Senhor lhe disse: "Esta é a terra que prometi, sob juramento a Abraão, a Isaque e a Jacó, quando lhes disse: Eu a darei a seus descendentes. Permiti que você a visse com os seus próprios olhos, mas você não atravessará o rio, não entrará naquela terra".
+
+[[v5-34-5]]
+
+^<<v5-34-5,5>>^ Moisés, o servo do Senhor, morreu ali em Moabe, como o Senhor dissera.
+
+[[v5-34-6]]
+
+^<<v5-34-6,6>>^ Ele o sepultou em Moabe, no vale que fica diante de Bete-Peor, mas até hoje ninguém sabe onde está o seu túmulo.
+
+[[v5-34-7]]
+
+^<<v5-34-7,7>>^ Moisés tinha cento e vinte anos de idade quando morreu; todavia, nem os seus olhos nem o seu vigor se enfraqueceram.
+
+[[v5-34-8]]
+
+^<<v5-34-8,8>>^ Os israelitas choraram Moisés nas campinas de Moabe durante trinta dias, até passar o período de pranto e luto.
+
+[[v5-34-9]]
+
+^<<v5-34-9,9>>^ Ora, Josué, filho de Num, estava cheio do Espírito de sabedoria, porque Moisés tinha imposto as suas mãos sobre ele. De modo que os israelitas lhe obedeceram e fizeram o que o Senhor tinha ordenado a Moisés.
+
+[[v5-34-10]]
+
+^<<v5-34-10,10>>^ Em Israel nunca mais se levantou profeta como Moisés, a quem o Senhor conheceu face a face,
+
+[[v5-34-11]]
+
+^<<v5-34-11,11>>^ e que fez todos aqueles sinais e maravilhas que o Senhor o tinha enviado para fazer no Egito, contra o faraó, contra todos os seus servos e contra toda a sua terra.
+
+[[v5-34-12]]
+
+^<<v5-34-12,12>>^ Pois ninguém jamais mostrou tamanho poder como Moisés nem executou os feitos temíveis que Moisés realizou aos olhos de todo o Israel.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-033.adoc#v5-33-0[&#60; Capítulo Anterior] | <<v5-34-0,Topo>> | xref:006-josue/006-josue-001.adoc#v6-1-0[Próximo Capítulo &#62;]

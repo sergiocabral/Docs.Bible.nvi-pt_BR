@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v4-6-0]]
+=== Números, 6
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-6-1]]
+
+^<<v4-6-1,1>>^ O Senhor disse ainda a Moisés:
+
+[[v4-6-2]]
+
+^<<v4-6-2,2>>^ "Diga o seguinte aos israelitas: Se um homem ou uma mulher fizer um voto especial, um voto de separação para o Senhor como nazireu,
+
+[[v4-6-3]]
+
+^<<v4-6-3,3>>^ terá que se abster de vinho e de outras bebidas fermentadas e não poderá beber vinagre feito de vinho ou de outra bebida fermentada. Não poderá beber suco de uva nem comer uvas nem passas.
+
+[[v4-6-4]]
+
+^<<v4-6-4,4>>^ Enquanto for nazireu, não poderá comer nada que venha da videira, nem mesmo as sementes ou as cascas.
+
+[[v4-6-5]]
+
+^<<v4-6-5,5>>^ "Durante todo o período de seu voto de separação, nenhuma lâmina será usada em sua cabeça. Até que termine o período de sua separação para o Senhor ele estará consagrado e deixará crescer o cabelo de sua cabeça.
+
+[[v4-6-6]]
+
+^<<v4-6-6,6>>^ Durante todo o período de sua separação para o Senhor, não poderá aproximar-se de um cadáver.
+
+[[v4-6-7]]
+
+^<<v4-6-7,7>>^ Mesmo que o seu próprio pai ou mãe ou irmã ou irmão morra, ele não poderá tornar-se impuro por causa deles, pois traz sobre a cabeça o símbolo de sua separação para Deus.
+
+[[v4-6-8]]
+
+^<<v4-6-8,8>>^ Durante todo o período de sua separação, estará consagrado ao Senhor.
+
+[[v4-6-9]]
+
+^<<v4-6-9,9>>^ "Se alguém morrer repentinamente perto dele, contaminando assim o cabelo que consagrou, ele terá que rapar a cabeça sete dias depois, dia da sua purificação.
+
+[[v4-6-10]]
+
+^<<v4-6-10,10>>^ No oitavo dia, trará duas rolinhas ou dois pombinhos ao sacerdote à entrada da Tenda do Encontro.
+
+[[v4-6-11]]
+
+^<<v4-6-11,11>>^ O sacerdote oferecerá um como oferta pelo pecado e o outro como holocausto, para fazer propiciação por ele, pois pecou ao se aproximar de um cadáver. Naquele mesmo dia o nazireu reconsagrará a sua cabeça.
+
+[[v4-6-12]]
+
+^<<v4-6-12,12>>^ Ele se dedicará ao Senhor pelo período de sua separação e trará um cordeiro de um ano de idade como oferta de reparação. Não se contarão os dias anteriores porque ficou contaminado durante a sua separação.
+
+[[v4-6-13]]
+
+^<<v4-6-13,13>>^ "Este é o ritual do nazireu quando terminar o período de sua separação: ele será trazido à entrada da Tenda do Encontro.
+
+[[v4-6-14]]
+
+^<<v4-6-14,14>>^ Ali apresentará a sua oferta ao Senhor: um cordeiro de um ano e sem defeito como holocausto, uma cordeira de um ano e sem defeito como oferta pelo pecado, um carneiro sem defeito como oferta de comunhão
+
+[[v4-6-15]]
+
+^<<v4-6-15,15>>^ juntamente com a sua oferta de cereal, com a oferta derramada e com um cesto de pães sem fermento com bolos feitos da melhor farinha amassada com azeite e pães finos untados com azeite.
+
+[[v4-6-16]]
+
+^<<v4-6-16,16>>^ "O sacerdote os apresentará ao Senhor e oferecerá o sacrifício pelo pecado e o holocausto.
+
+[[v4-6-17]]
+
+^<<v4-6-17,17>>^ Apresentará o cesto de pães sem fermento e oferecerá o cordeiro como sacrifício de comunhão ao Senhor, juntamente com a oferta de cereal e a oferta derramada.
+
+[[v4-6-18]]
+
+^<<v4-6-18,18>>^ "Em seguida, à entrada da Tenda do Encontro, o nazireu rapará o cabelo que consagrou e o jogará no fogo que está embaixo do sacrifício da oferta de comunhão.
+
+[[v4-6-19]]
+
+^<<v4-6-19,19>>^ "Depois que o nazireu rapar o cabelo da sua consagração, o sacerdote lhe colocará nas mãos um ombro cozido do carneiro, um bolo e um pão fino tirados do cesto, ambos sem fermento.
+
+[[v4-6-20]]
+
+^<<v4-6-20,20>>^ O sacerdote os moverá perante o Senhor como gesto ritual de apresentação; são santos e pertencem ao sacerdote, bem como o peito que foi movido e a coxa. Depois disso o nazireu poderá beber vinho.
+
+[[v4-6-21]]
+
+^<<v4-6-21,21>>^ "Esse é o ritual do voto de nazireu e da oferta dedicada ao Senhor de acordo com a sua separação, sem contar qualquer outra coisa que ele possa dedicar. Cumprirá o voto que tiver feito de acordo com o ritual do nazireu".
+
+[[v4-6-22]]
+
+^<<v4-6-22,22>>^ O Senhor disse a Moisés:
+
+[[v4-6-23]]
+
+^<<v4-6-23,23>>^ "Diga a Arão e aos seus filhos: Assim vocês abençoarão os israelitas:
+
+[[v4-6-24]]
+
+^<<v4-6-24,24>>^ "O Senhor te abençoe e te guarde;
+
+[[v4-6-25]]
+
+^<<v4-6-25,25>>^ o Senhor faça resplandecer o seu rosto sobre ti e te conceda graça;
+
+[[v4-6-26]]
+
+^<<v4-6-26,26>>^ o Senhor volte para ti o seu rosto e te dê paz.
+
+[[v4-6-27]]
+
+^<<v4-6-27,27>>^ "Assim eles invocarão o meu nome sobre os israelitas, e eu os abençoarei".
+
+'''
+
+xref:004-numeros/004-numeros-005.adoc#v4-5-0[&#60; Capítulo Anterior] | <<v4-6-0,Topo>> | xref:004-numeros/004-numeros-007.adoc#v4-7-0[Próximo Capítulo &#62;]

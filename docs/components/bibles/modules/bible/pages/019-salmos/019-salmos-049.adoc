@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-49-0]]
+=== Salmos, 49
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-49-1]]
+
+^<<v19-49-1,1>>^ Ouçam isto vocês, todos os povos; escutem, todos os que vivem neste mundo,
+
+[[v19-49-2]]
+
+^<<v19-49-2,2>>^ gente do povo, homens importantes, ricos e pobres igualmente:
+
+[[v19-49-3]]
+
+^<<v19-49-3,3>>^ A minha boca falará com sabedoria; a meditação do meu coração trará entendimento.
+
+[[v19-49-4]]
+
+^<<v19-49-4,4>>^ Inclinarei os meus ouvidos a um provérbio; com a harpa exporei o meu enigma:
+
+[[v19-49-5]]
+
+^<<v19-49-5,5>>^ Por que deverei temer quando vierem dias maus, quando inimigos traiçoeiros me cercarem,
+
+[[v19-49-6]]
+
+^<<v19-49-6,6>>^ aqueles que confiam em seus bens e se gabam de suas muitas riquezas?
+
+[[v19-49-7]]
+
+^<<v19-49-7,7>>^ Homem algum pode redimir seu irmão ou pagar a Deus o preço de sua vida,
+
+[[v19-49-8]]
+
+^<<v19-49-8,8>>^ pois o resgate de uma vida não tem preço. Não há pagamento que o livre
+
+[[v19-49-9]]
+
+^<<v19-49-9,9>>^ para que viva para sempre e não sofra decomposição.
+
+[[v19-49-10]]
+
+^<<v19-49-10,10>>^ Pois todos podem ver que os sábios morrem, como perecem o tolo e o insensato e para outros deixam os seus bens.
+
+[[v19-49-11]]
+
+^<<v19-49-11,11>>^ Seus túmulos serão suas moradas para sempre, suas habitações de geração em geração, ainda que tenham dado seus nomes a terras.
+
+[[v19-49-12]]
+
+^<<v19-49-12,12>>^ O homem, mesmo que muito importante, não vive para sempre; é como os animais, que perecem.
+
+[[v19-49-13]]
+
+^<<v19-49-13,13>>^ Este é o destino dos que confiam em si mesmos, e dos seus seguidores, que aprovam o que eles dizem. Pausa
+
+[[v19-49-14]]
+
+^<<v19-49-14,14>>^ Como ovelhas, estão destinados à sepultura, e a morte lhes servirá de pastor. Pela manhã os justos triunfarão sobre eles! A aparência deles se desfará na sepultura, longe das suas gloriosas mansões.
+
+[[v19-49-15]]
+
+^<<v19-49-15,15>>^ Mas Deus redimirá a minha vida da sepultura e me levará para si. Pausa
+
+[[v19-49-16]]
+
+^<<v19-49-16,16>>^ Não se aborreça quando alguém se enriquece e aumenta o luxo de sua casa;
+
+[[v19-49-17]]
+
+^<<v19-49-17,17>>^ pois nada levará consigo quando morrer; não descerá com ele o seu esplendor.
+
+[[v19-49-18]]
+
+^<<v19-49-18,18>>^ Embora em vida ele se parabenize: "Todos o elogiam, pois você está prosperando",
+
+[[v19-49-19]]
+
+^<<v19-49-19,19>>^ ele se juntará aos seus antepassados, que nunca mais verão a luz.
+
+[[v19-49-20]]
+
+^<<v19-49-20,20>>^ O homem, mesmo que muito importante, não tem entendimento; é como os animais, que perecem.
+
+'''
+
+xref:019-salmos/019-salmos-048.adoc#v19-48-0[&#60; Capítulo Anterior] | <<v19-49-0,Topo>> | xref:019-salmos/019-salmos-050.adoc#v19-50-0[Próximo Capítulo &#62;]

@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-3-0]]
+=== Salmos, 3
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-3-1]]
+
+^<<v19-3-1,1>>^ Senhor, muitos são os meus adversários! Muitos se rebelam contra mim!
+
+[[v19-3-2]]
+
+^<<v19-3-2,2>>^ São muitos os que dizem a meu respeito: "Deus nunca o salvará! " Pausa
+
+[[v19-3-3]]
+
+^<<v19-3-3,3>>^ Mas tu, Senhor, és o escudo que me protege; és a minha glória e me fazes andar de cabeça erguida.
+
+[[v19-3-4]]
+
+^<<v19-3-4,4>>^ Ao Senhor clamo em alta voz, e do seu santo monte ele me responde. Pausa
+
+[[v19-3-5]]
+
+^<<v19-3-5,5>>^ Eu me deito e durmo, e torno a acordar, porque é o Senhor que me sustém.
+
+[[v19-3-6]]
+
+^<<v19-3-6,6>>^ Não me assustam os milhares que me cercam.
+
+[[v19-3-7]]
+
+^<<v19-3-7,7>>^ Levanta-te, Senhor! Salva-me, Deus meu! Quebra o queixo de todos os meus inimigos; arrebenta os dentes dos ímpios.
+
+[[v19-3-8]]
+
+^<<v19-3-8,8>>^ Do Senhor vem o livramento. A tua bênção está sobre o teu povo. Pausa
+
+'''
+
+xref:019-salmos/019-salmos-002.adoc#v19-2-0[&#60; Capítulo Anterior] | <<v19-3-0,Topo>> | xref:019-salmos/019-salmos-004.adoc#v19-4-0[Próximo Capítulo &#62;]

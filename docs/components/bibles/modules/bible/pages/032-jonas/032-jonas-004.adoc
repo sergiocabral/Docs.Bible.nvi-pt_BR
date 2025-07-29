@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v32-4-0]]
+=== Jonas, 4
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v32-4-1]]
+
+^<<v32-4-1,1>>^ Mas Jonas ficou profundamente descontente com isso e enfureceu-se.
+
+[[v32-4-2]]
+
+^<<v32-4-2,2>>^ Ele orou ao Senhor: "Senhor, não foi isso que eu disse quando ainda estava em casa? Foi por isso que me apressei em fugir para Társis. Eu sabia que tu és Deus misericordioso e compassivo, muito paciente, cheio de amor e que promete castigar mas depois se arrepende.
+
+[[v32-4-3]]
+
+^<<v32-4-3,3>>^ Agora, Senhor, tira a minha vida, eu imploro, porque para mim é melhor morrer do que viver".
+
+[[v32-4-4]]
+
+^<<v32-4-4,4>>^ O Senhor lhe respondeu: "Você tem alguma razão para essa fúria? "
+
+[[v32-4-5]]
+
+^<<v32-4-5,5>>^ Jonas saiu e sentou-se num lugar a leste da cidade. Ali, construiu para si um abrigo, sentou-se à sua sombra e esperou para ver o que aconteceria com a cidade.
+
+[[v32-4-6]]
+
+^<<v32-4-6,6>>^ Então o Senhor Deus fez crescer uma planta sobre Jonas, para dar sombra à sua cabeça e livrá-lo do calor, e Jonas ficou muito alegre.
+
+[[v32-4-7]]
+
+^<<v32-4-7,7>>^ Mas na madrugada do dia seguinte, Deus mandou uma lagarta atacar a planta de modo que ela secou.
+
+[[v32-4-8]]
+
+^<<v32-4-8,8>>^ Ao nascer do sol, Deus trouxe um vento oriental muito quente, e o sol bateu na cabeça de Jonas, a ponto de ele quase desmaiar. Com isso ele desejou morrer, e disse: "Para mim seria melhor morrer do que viver".
+
+[[v32-4-9]]
+
+^<<v32-4-9,9>>^ Mas Deus disse a Jonas: "Você tem alguma razão para estar tão furioso por causa da planta? " Respondeu ele: "Sim, tenho! E estou furioso a ponto de querer morrer".
+
+[[v32-4-10]]
+
+^<<v32-4-10,10>>^ Mas o Senhor lhe disse: "Você tem pena dessa planta, embora não a tenha podado nem a tenha feito crescer. Ela nasceu numa noite e numa noite morreu.
+
+[[v32-4-11]]
+
+^<<v32-4-11,11>>^ Contudo, Nínive tem mais de cento e vinte mil pessoas que não sabem nem distinguir a mão direita da esquerda, além de muitos rebanhos. Não deveria eu ter pena dessa grande cidade? "
+
+'''
+
+xref:032-jonas/032-jonas-003.adoc#v32-3-0[&#60; Capítulo Anterior] | <<v32-4-0,Topo>> | xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[Próximo Capítulo &#62;]

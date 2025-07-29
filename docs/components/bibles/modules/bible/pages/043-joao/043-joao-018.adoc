@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v43-18-0]]
+=== João, 18
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v43-18-1]]
+
+^<<v43-18-1,1>>^ Tendo terminado de orar, Jesus saiu com os seus discípulos e atravessou o vale do Cedrom. Do outro lado havia um olival, onde entrou com eles.
+
+[[v43-18-2]]
+
+^<<v43-18-2,2>>^ Ora, Judas, o traidor, conhecia aquele lugar, porque Jesus muitas vezes se reunira ali com os seus discípulos.
+
+[[v43-18-3]]
+
+^<<v43-18-3,3>>^ Então Judas foi para o olival, levando consigo um destacamento de soldados e alguns guardas enviados pelos chefes dos sacerdotes e fariseus, levando tochas, lanternas e armas.
+
+[[v43-18-4]]
+
+^<<v43-18-4,4>>^ Jesus, sabendo tudo o que lhe ia acontecer, saiu e lhes perguntou: "A quem vocês estão procurando? "
+
+[[v43-18-5]]
+
+^<<v43-18-5,5>>^ "A Jesus de Nazaré", responderam eles. "Sou eu", disse Jesus. ( E Judas, o traidor, estava com eles. )
+
+[[v43-18-6]]
+
+^<<v43-18-6,6>>^ Quando Jesus disse: "Sou eu", eles recuaram e caíram por terra.
+
+[[v43-18-7]]
+
+^<<v43-18-7,7>>^ Novamente lhes perguntou: "A quem procuram? " E eles disseram: "A Jesus de Nazaré".
+
+[[v43-18-8]]
+
+^<<v43-18-8,8>>^ Respondeu Jesus: "Já lhes disse que sou eu. Se vocês estão me procurando, deixem ir embora estes homens".
+
+[[v43-18-9]]
+
+^<<v43-18-9,9>>^ Isso aconteceu para que se cumprissem as palavras que ele dissera: "Não perdi nenhum dos que me deste".
+
+[[v43-18-10]]
+
+^<<v43-18-10,10>>^ Simão Pedro, que trazia uma espada, tirou-a e feriu o servo do sumo sacerdote, decepando-lhe a orelha direita. ( O nome daquele servo era Malco. )
+
+[[v43-18-11]]
+
+^<<v43-18-11,11>>^ Jesus, porém, ordenou a Pedro: "Guarde a espada! Acaso não haverei de beber o cálice que o Pai me deu? "
+
+[[v43-18-12]]
+
+^<<v43-18-12,12>>^ Assim, o destacamento de soldados com o seu comandante e os guardas dos judeus prenderam Jesus. Amarraram-no
+
+[[v43-18-13]]
+
+^<<v43-18-13,13>>^ e o levaram primeiramente a Anás, que era sogro de Caifás, o sumo sacerdote naquele ano.
+
+[[v43-18-14]]
+
+^<<v43-18-14,14>>^ Caifás era quem tinha dito aos judeus que seria bom que um homem morresse pelo povo.
+
+[[v43-18-15]]
+
+^<<v43-18-15,15>>^ Simão Pedro e outro discípulo estavam seguindo Jesus. Por ser conhecido do sumo sacerdote, este discípulo entrou com Jesus no pátio da casa do sumo sacerdote,
+
+[[v43-18-16]]
+
+^<<v43-18-16,16>>^ mas Pedro teve que ficar esperando do lado de fora da porta. O outro discípulo, que era conhecido do sumo sacerdote, voltou, falou com a moça encarregada da porta e fez Pedro entrar.
+
+[[v43-18-17]]
+
+^<<v43-18-17,17>>^ Ela então perguntou a Pedro: "Você não é um dos discípulos desse homem? " Ele respondeu: "Não sou".
+
+[[v43-18-18]]
+
+^<<v43-18-18,18>>^ Fazia frio; os servos e os guardas estavam ao redor de uma fogueira que haviam feito para se aquecerem. Pedro também estava em pé com eles, aquecendo-se.
+
+[[v43-18-19]]
+
+^<<v43-18-19,19>>^ Enquanto isso, o sumo sacerdote interrogou Jesus acerca dos seus discípulos e dos seus ensinamentos.
+
+[[v43-18-20]]
+
+^<<v43-18-20,20>>^ Respondeu-lhe Jesus: "Eu falei abertamente ao mundo; sempre ensinei nas sinagogas e no templo, onde todos os judeus se reúnem. Nada disse em segredo.
+
+[[v43-18-21]]
+
+^<<v43-18-21,21>>^ Por que me interrogas? Pergunta aos que me ouviram. Certamente eles sabem o que eu disse".
+
+[[v43-18-22]]
+
+^<<v43-18-22,22>>^ Quando Jesus disse isso, um dos guardas que estava perto bateu-lhe no rosto. "Isso é jeito de responder ao sumo sacerdote? ", perguntou ele.
+
+[[v43-18-23]]
+
+^<<v43-18-23,23>>^ Respondeu Jesus: "Se eu disse algo de mal, denuncie o mal. Mas se falei a verdade, por que me bateu? "
+
+[[v43-18-24]]
+
+^<<v43-18-24,24>>^ Então, Anás enviou Jesus, de mãos amarradas, a Caifás, o sumo sacerdote.
+
+[[v43-18-25]]
+
+^<<v43-18-25,25>>^ Enquanto Simão Pedro estava se aquecendo, perguntaram-lhe: "Você não é um dos discípulos dele? " Ele negou, dizendo: "Não sou".
+
+[[v43-18-26]]
+
+^<<v43-18-26,26>>^ Um dos servos do sumo sacerdote, parente do homem cuja orelha Pedro decepara, insistiu: "Eu não o vi com ele no olival? "
+
+[[v43-18-27]]
+
+^<<v43-18-27,27>>^ Mais uma vez Pedro negou, e no mesmo instante um galo cantou.
+
+[[v43-18-28]]
+
+^<<v43-18-28,28>>^ Em seguida, de Caifás os judeus levaram Jesus para o Pretório. Já estava amanhecendo e, para evitar contaminação cerimonial, os judeus não entraram no Pretório; pois queriam participar da Páscoa.
+
+[[v43-18-29]]
+
+^<<v43-18-29,29>>^ Então Pilatos saiu para falar com eles e perguntou: "Que acusação vocês têm contra este homem? "
+
+[[v43-18-30]]
+
+^<<v43-18-30,30>>^ Responderam eles: "Se ele não fosse criminoso, não o teríamos entregado a ti".
+
+[[v43-18-31]]
+
+^<<v43-18-31,31>>^ Pilatos disse: "Levem-no e julguem-no conforme a lei de vocês". "Mas nós não temos o direito de executar ninguém", protestaram os judeus.
+
+[[v43-18-32]]
+
+^<<v43-18-32,32>>^ Isso aconteceu para que se cumprissem as palavras que Jesus tinha dito, indicando a espécie de morte que ele estava para sofrer.
+
+[[v43-18-33]]
+
+^<<v43-18-33,33>>^ Pilatos então voltou para o Pretório, chamou Jesus e lhe perguntou: "Você é o rei dos judeus? "
+
+[[v43-18-34]]
+
+^<<v43-18-34,34>>^ Perguntou-lhe Jesus: "Essa pergunta é tua, ou outros te falaram a meu respeito? "
+
+[[v43-18-35]]
+
+^<<v43-18-35,35>>^ Respondeu Pilatos: "Acaso sou judeu? Foram o seu povo e os chefes dos sacerdotes que entregaram você a mim. Que é que você fez? "
+
+[[v43-18-36]]
+
+^<<v43-18-36,36>>^ Disse Jesus: "O meu Reino não é deste mundo. Se fosse, os meus servos lutariam para impedir que os judeus me prendessem. Mas agora o meu Reino não é daqui".
+
+[[v43-18-37]]
+
+^<<v43-18-37,37>>^ "Então, você é rei! ", disse Pilatos. Jesus respondeu: "Tu dizes que sou rei. De fato, por esta razão nasci e para isto vim ao mundo: para testemunhar da verdade. Todos os que são da verdade me ouvem".
+
+[[v43-18-38]]
+
+^<<v43-18-38,38>>^ "Que é a verdade? ", perguntou Pilatos. Ele disse isso e saiu novamente para onde estavam os judeus e disse: "Não acho nele motivo algum de acusação.
+
+[[v43-18-39]]
+
+^<<v43-18-39,39>>^ Contudo, segundo o costume de vocês, devo libertar um prisioneiro por ocasião da Páscoa. Querem que eu solte ‘o rei dos judeus’? "
+
+[[v43-18-40]]
+
+^<<v43-18-40,40>>^ Eles, em resposta, gritaram: "Não, ele não! Queremos Barrabás! " Ora, Barrabás era um bandido.
+
+'''
+
+xref:043-joao/043-joao-017.adoc#v43-17-0[&#60; Capítulo Anterior] | <<v43-18-0,Topo>> | xref:043-joao/043-joao-019.adoc#v43-19-0[Próximo Capítulo &#62;]

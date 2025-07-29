@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-84-0]]
+=== Salmos, 84
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-84-1]]
+
+^<<v19-84-1,1>>^ Como é agradável o lugar da tua habitação, Senhor dos Exércitos!
+
+[[v19-84-2]]
+
+^<<v19-84-2,2>>^ A minha alma anela, e até desfalece pelos átrios do Senhor; o meu coração e o meu corpo cantam de alegria ao Deus vivo.
+
+[[v19-84-3]]
+
+^<<v19-84-3,3>>^ Até o pardal achou um lar, e a andorinha um ninho para si, para abrigar os seus filhotes, um lugar perto do teu altar, ó Senhor dos Exércitos, meu Rei e meu Deus.
+
+[[v19-84-4]]
+
+^<<v19-84-4,4>>^ Como são felizes os que habitam em tua casa; louvam-te sem cessar! Pausa
+
+[[v19-84-5]]
+
+^<<v19-84-5,5>>^ Como são felizes os que em ti encontram sua força, e os que são peregrinos de coração!
+
+[[v19-84-6]]
+
+^<<v19-84-6,6>>^ Ao passarem pelo vale de Baca, fazem dele um lugar de fontes; as chuvas de outono também o enchem de cisternas.
+
+[[v19-84-7]]
+
+^<<v19-84-7,7>>^ Prosseguem o caminho de força em força, até que cada um se apresente a Deus em Sião.
+
+[[v19-84-8]]
+
+^<<v19-84-8,8>>^ Ouve a minha oração, ó Senhor Deus dos Exércitos; escuta-me, ó Deus de Jacó. Pausa
+
+[[v19-84-9]]
+
+^<<v19-84-9,9>>^ Olha, ó Deus, que és nosso escudo; trata com bondade o teu ungido.
+
+[[v19-84-10]]
+
+^<<v19-84-10,10>>^ Melhor é um dia nos teus átrios do que mil noutro lugar; prefiro ficar à porta da casa do meu Deus a habitar nas tendas dos ímpios.
+
+[[v19-84-11]]
+
+^<<v19-84-11,11>>^ O Senhor Deus é sol e escudo; o Senhor concede favor e honra; não recusa nenhum bem aos que vivem com integridade.
+
+[[v19-84-12]]
+
+^<<v19-84-12,12>>^ Ó Senhor dos Exércitos, como é feliz aquele que em ti confia!
+
+'''
+
+xref:019-salmos/019-salmos-083.adoc#v19-83-0[&#60; Capítulo Anterior] | <<v19-84-0,Topo>> | xref:019-salmos/019-salmos-085.adoc#v19-85-0[Próximo Capítulo &#62;]

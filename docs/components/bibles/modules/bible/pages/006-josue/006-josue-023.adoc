@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v6-23-0]]
+=== Josué, 23
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v6-23-1]]
+
+^<<v6-23-1,1>>^ Passado muito tempo, depois que o Senhor concedeu a Israel descanso de todos os inimigos ao redor, Josué, agora velho, de idade muito avançada,
+
+[[v6-23-2]]
+
+^<<v6-23-2,2>>^ convocou todo o Israel, com as autoridades, os líderes, os juízes e os oficiais, e lhes disse: "Estou velho, com idade muito avançada.
+
+[[v6-23-3]]
+
+^<<v6-23-3,3>>^ Vocês mesmos viram tudo o que o Senhor, o seu Deus, fez com todas essas nações por amor a vocês; foi o Senhor, o seu Deus, que lutou por vocês.
+
+[[v6-23-4]]
+
+^<<v6-23-4,4>>^ Lembrem-se de que eu reparti por herança para as tribos de vocês toda a terra das nações, tanto as que ainda restam como as que conquistei entre o Jordão e o mar Grande, a oeste.
+
+[[v6-23-5]]
+
+^<<v6-23-5,5>>^ O Senhor, o seu Deus, as expulsará da presença de vocês. Ele as empurrará de diante de vocês, e vocês se apossarão da terra delas, como o Senhor lhes prometeu.
+
+[[v6-23-6]]
+
+^<<v6-23-6,6>>^ "Façam todo o esforço para obedecer e cumprir tudo o que está escrito no Livro da Lei de Moisés, sem se desviar, nem para a direita nem para a esquerda.
+
+[[v6-23-7]]
+
+^<<v6-23-7,7>>^ Não se associem com essas nações que restam no meio de vocês. Não invoquem os nomes dos seus deuses nem jurem por eles. Não lhes prestem culto nem se inclinem perante eles.
+
+[[v6-23-8]]
+
+^<<v6-23-8,8>>^ Mas apeguem-se somente ao Senhor, ao seu Deus, como fizeram até hoje.
+
+[[v6-23-9]]
+
+^<<v6-23-9,9>>^ "O Senhor expulsou de diante de vocês nações grandes e poderosas; até hoje ninguém conseguiu resistir a vocês.
+
+[[v6-23-10]]
+
+^<<v6-23-10,10>>^ Um só de vocês faz fugir mil, pois o Senhor, o seu Deus, luta por vocês, conforme prometeu.
+
+[[v6-23-11]]
+
+^<<v6-23-11,11>>^ Por isso dediquem-se com zelo a amar o Senhor, o seu Deus.
+
+[[v6-23-12]]
+
+^<<v6-23-12,12>>^ "Se, todavia, vocês se afastarem e se aliarem aos sobreviventes dessas nações que restam no meio de vocês, e se casarem com eles e se associarem com eles,
+
+[[v6-23-13]]
+
+^<<v6-23-13,13>>^ estejam certos de que o Senhor, o seu Deus, já não expulsará essas nações de diante de vocês. Ao contrário, elas se tornarão armadilhas e laços para vocês, chicote em suas costas e espinhos em seus olhos, até que vocês desapareçam desta boa terra que o Senhor, o seu Deus, deu a vocês.
+
+[[v6-23-14]]
+
+^<<v6-23-14,14>>^ "Agora estou prestes a ir pelo caminho de toda a terra. Vocês sabem, lá no fundo do coração e da alma, que nenhuma das boas promessas que o Senhor, o seu Deus, lhes fez deixou de cumprir-se. Todas se cumpriram; nenhuma delas falhou.
+
+[[v6-23-15]]
+
+^<<v6-23-15,15>>^ Mas, assim como cada uma das boas promessas do Senhor, do seu Deus, se cumpriu, também o Senhor fará cumprir-se em vocês todo o mal com que os ameaçou, até eliminá-los desta boa terra que lhes deu.
+
+[[v6-23-16]]
+
+^<<v6-23-16,16>>^ Se vocês violarem a aliança que o Senhor, o seu Deus, lhes ordenou, e passarem a cultuar outros deuses e a inclinar-se diante deles, a ira do Senhor se acenderá contra vocês, e vocês logo desaparecerão da boa terra que ele lhes deu".
+
+'''
+
+xref:006-josue/006-josue-022.adoc#v6-22-0[&#60; Capítulo Anterior] | <<v6-23-0,Topo>> | xref:006-josue/006-josue-024.adoc#v6-24-0[Próximo Capítulo &#62;]

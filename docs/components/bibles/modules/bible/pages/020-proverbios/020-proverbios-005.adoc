@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v20-5-0]]
+=== Provérbios, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-5-1]]
+
+^<<v20-5-1,1>>^ Meu filho, dê atenção à minha sabedoria, incline os ouvidos para perceber o meu discernimento.
+
+[[v20-5-2]]
+
+^<<v20-5-2,2>>^ Assim você manterá o bom senso, e os seus lábios guardarão o conhecimento.
+
+[[v20-5-3]]
+
+^<<v20-5-3,3>>^ Pois os lábios da mulher imoral destilam mel; sua voz é mais suave que o azeite,
+
+[[v20-5-4]]
+
+^<<v20-5-4,4>>^ mas no final é amarga como fel, afiada como uma espada de dois gumes.
+
+[[v20-5-5]]
+
+^<<v20-5-5,5>>^ Os seus pés descem para a morte; os seus passos conduzem diretamente para a sepultura.
+
+[[v20-5-6]]
+
+^<<v20-5-6,6>>^ Ela nem percebe que anda por caminhos tortuosos, e não enxerga a vereda da vida.
+
+[[v20-5-7]]
+
+^<<v20-5-7,7>>^ Agora, então, meu filho, ouça-me; não se desvie das minhas palavras.
+
+[[v20-5-8]]
+
+^<<v20-5-8,8>>^ Fique longe dessa mulher; não se aproxime da porta de sua casa,
+
+[[v20-5-9]]
+
+^<<v20-5-9,9>>^ para que você não entregue aos outros o seu vigor nem a sua vida a algum homem cruel,
+
+[[v20-5-10]]
+
+^<<v20-5-10,10>>^ para que estranhos não se fartem do seu trabalho e outros não se enriqueçam à custa do seu esforço.
+
+[[v20-5-11]]
+
+^<<v20-5-11,11>>^ No final da vida você gemerá, com sua carne e seu corpo desgastados.
+
+[[v20-5-12]]
+
+^<<v20-5-12,12>>^ Você dirá: "Como odiei a disciplina! Como o meu coração rejeitou a repreensão!
+
+[[v20-5-13]]
+
+^<<v20-5-13,13>>^ Não ouvi os meus mestres nem escutei os que me ensinavam.
+
+[[v20-5-14]]
+
+^<<v20-5-14,14>>^ Cheguei à beira da ruína completa, à vista de toda a comunidade".
+
+[[v20-5-15]]
+
+^<<v20-5-15,15>>^ Beba das águas da sua cisterna, das águas que brotam do seu próprio poço.
+
+[[v20-5-16]]
+
+^<<v20-5-16,16>>^ Por que deixar que as suas fontes transbordem pelas ruas, e os teus ribeiros pelas praças?
+
+[[v20-5-17]]
+
+^<<v20-5-17,17>>^ Que elas sejam exclusivamente suas, nunca repartidas com estranhos.
+
+[[v20-5-18]]
+
+^<<v20-5-18,18>>^ Seja bendita a sua fonte! Alegre-se com a esposa da sua juventude.
+
+[[v20-5-19]]
+
+^<<v20-5-19,19>>^ Gazela amorosa, corça graciosa; que os seios de sua esposa sempre o fartem de prazer, e sempre o embriaguem os carinhos dela.
+
+[[v20-5-20]]
+
+^<<v20-5-20,20>>^ Por que, meu filho, ser desencaminhado pela mulher imoral? Por que abraçar o seio de uma leviana?
+
+[[v20-5-21]]
+
+^<<v20-5-21,21>>^ O Senhor vê os caminhos do homem e examina todos os seus passos.
+
+[[v20-5-22]]
+
+^<<v20-5-22,22>>^ As maldades do ímpio o prendem; ele se torna prisioneiro das cordas do seu pecado.
+
+[[v20-5-23]]
+
+^<<v20-5-23,23>>^ Certamente morrerá por falta de disciplina; andará cambaleando por causa da sua insensatez.
+
+'''
+
+xref:020-proverbios/020-proverbios-004.adoc#v20-4-0[&#60; Capítulo Anterior] | <<v20-5-0,Topo>> | xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-6-0]]
+=== Isaías, 6
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v23-6-1]]
+
+^<<v23-6-1,1>>^ No ano em que o rei Uzias morreu, eu vi o Senhor assentado num trono alto e exaltado, e a aba de sua veste enchia o templo.
+
+[[v23-6-2]]
+
+^<<v23-6-2,2>>^ Acima dele estavam serafins; cada um deles tinha seis asas: com duas cobriam o rosto, com duas cobriam os pés, e com duas voavam.
+
+[[v23-6-3]]
+
+^<<v23-6-3,3>>^ E proclamavam uns aos outros: "Santo, santo, santo é o Senhor dos Exércitos, a terra inteira está cheia da sua glória".
+
+[[v23-6-4]]
+
+^<<v23-6-4,4>>^ Ao som das suas vozes os batentes das portas tremeram, e o templo ficou cheio de fumaça.
+
+[[v23-6-5]]
+
+^<<v23-6-5,5>>^ Então gritei: Ai de mim! Estou perdido! Pois sou um homem de lábios impuros e vivo no meio de um povo de lábios impuros; e os meus olhos viram o Rei, o Senhor dos Exércitos! "
+
+[[v23-6-6]]
+
+^<<v23-6-6,6>>^ Então um dos serafins voou até mim trazendo uma brasa viva, que havia tirado do altar com uma tenaz.
+
+[[v23-6-7]]
+
+^<<v23-6-7,7>>^ Com ela tocou a minha boca e disse: "Veja, isto tocou os seus lábios; por isso, a sua culpa será removida, e o seu pecado será perdoado".
+
+[[v23-6-8]]
+
+^<<v23-6-8,8>>^ Então ouvi a voz do Senhor, conclamando: "Quem enviarei? Quem irá por nós? " E eu respondi: "Eis-me aqui. Envia-me! "
+
+[[v23-6-9]]
+
+^<<v23-6-9,9>>^ Ele disse: "Vá, e diga a este povo: "Estejam sempre ouvindo, mas nunca entendam; estejam sempre vendo, e jamais percebam.
+
+[[v23-6-10]]
+
+^<<v23-6-10,10>>^ Torne insensível o coração desse povo; torne surdos os ouvidos dele e feche os seus olhos. Que eles não vejam com os olhos, não ouçam com os ouvidos, e não entendam com o coração, para que não se convertam e sejam curados".
+
+[[v23-6-11]]
+
+^<<v23-6-11,11>>^ Então eu perguntei: "Até quando, Senhor? " E ele respondeu: "Até que as cidades estejam em ruínas e sem habitantes, até que as casas fiquem abandonadas e os campos estejam totalmente devastados,
+
+[[v23-6-12]]
+
+^<<v23-6-12,12>>^ até que o Senhor tenha enviado todos para longe e a terra esteja totalmente desolada.
+
+[[v23-6-13]]
+
+^<<v23-6-13,13>>^ E ainda que um décimo fique no país, esses também serão destruídos. Mas, assim como o terebinto e o carvalho deixam o tronco quando são derrubados, assim a santa semente será o seu tronco".
+
+'''
+
+xref:023-isaias/023-isaias-005.adoc#v23-5-0[&#60; Capítulo Anterior] | <<v23-6-0,Topo>> | xref:023-isaias/023-isaias-007.adoc#v23-7-0[Próximo Capítulo &#62;]

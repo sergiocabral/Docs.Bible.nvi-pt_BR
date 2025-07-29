@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-7-0]]
+=== Salmos, 7
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-7-1]]
+
+^<<v19-7-1,1>>^ Senhor meu Deus, em ti me refugio; salva-me e livra-me de todos os que me perseguem,
+
+[[v19-7-2]]
+
+^<<v19-7-2,2>>^ para que, como leões, não me dilacerem nem me despedacem, sem que ninguém me livre.
+
+[[v19-7-3]]
+
+^<<v19-7-3,3>>^ Senhor meu Deus, se assim procedi, se nas minhas mãos há injustiça,
+
+[[v19-7-4]]
+
+^<<v19-7-4,4>>^ se fiz algum mal a um amigo ou se poupei sem motivo o meu adversário,
+
+[[v19-7-5]]
+
+^<<v19-7-5,5>>^ persiga-me o meu inimigo até me alcançar, no chão me pisoteie e aniquile a minha vida, lançando a minha honra no pó. Pausa
+
+[[v19-7-6]]
+
+^<<v19-7-6,6>>^ Levanta-te, Senhor, na tua ira; ergue-te contra o furor dos meus adversários. Desperta-te, meu Deus! Ordena a justiça!
+
+[[v19-7-7]]
+
+^<<v19-7-7,7>>^ Reúnam-se os povos ao teu redor. Das alturas reina sobre eles.
+
+[[v19-7-8]]
+
+^<<v19-7-8,8>>^ O Senhor é quem julga os povos. Julga-me, Senhor, conforme a minha justiça, conforme a minha integridade.
+
+[[v19-7-9]]
+
+^<<v19-7-9,9>>^ Deus justo, que sondas as mentes e os corações, dá fim à maldade dos ímpios e ao justo dá segurança.
+
+[[v19-7-10]]
+
+^<<v19-7-10,10>>^ O meu escudo está nas mãos de Deus, que salva o reto de coração.
+
+[[v19-7-11]]
+
+^<<v19-7-11,11>>^ Deus é um juiz justo, um Deus que manifesta cada dia o seu furor.
+
+[[v19-7-12]]
+
+^<<v19-7-12,12>>^ Se o homem não se arrepende, Deus afia a sua espada, arma o seu arco e o aponta,
+
+[[v19-7-13]]
+
+^<<v19-7-13,13>>^ prepara as suas armas mortais e faz de suas setas flechas flamejantes.
+
+[[v19-7-14]]
+
+^<<v19-7-14,14>>^ Quem gera a maldade, concebe sofrimento e dá à luz a desilusão.
+
+[[v19-7-15]]
+
+^<<v19-7-15,15>>^ Quem cava um buraco e o aprofunda cairá nessa armadilha que fez.
+
+[[v19-7-16]]
+
+^<<v19-7-16,16>>^ Sua maldade se voltará contra ele; sua violência cairá sobre a sua própria cabeça.
+
+[[v19-7-17]]
+
+^<<v19-7-17,17>>^ Darei graças ao Senhor por sua justiça; Ao nome do Senhor Altíssimo cantarei louvores.
+
+'''
+
+xref:019-salmos/019-salmos-006.adoc#v19-6-0[&#60; Capítulo Anterior] | <<v19-7-0,Topo>> | xref:019-salmos/019-salmos-008.adoc#v19-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v30-5-0]]
+=== Amós, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v30-5-1]]
+
+^<<v30-5-1,1>>^ Ouça esta palavra, ó nação de Israel, este lamento acerca de vocês:
+
+[[v30-5-2]]
+
+^<<v30-5-2,2>>^ "Caída para nunca mais se levantar, está a Virgem Israel. Abandonada em sua própria terra, não há quem a levante".
+
+[[v30-5-3]]
+
+^<<v30-5-3,3>>^ Assim diz o Soberano SENHOR: "A cidade que mandar mil para o exército ficará com cem; e a que mandar cem ficará com dez".
+
+[[v30-5-4]]
+
+^<<v30-5-4,4>>^ Assim diz o SENHOR à nação de Israel: "Busquem-me e terão vida;
+
+[[v30-5-5]]
+
+^<<v30-5-5,5>>^ não busquem Betel, não vão a Gilgal, não façam peregrinação a Berseba. Pois Gilgal certamente irá para o exílio, e Betel será reduzida a nada".
+
+[[v30-5-6]]
+
+^<<v30-5-6,6>>^ Busquem o SENHOR e terão vida, do contrário, ele irromperá como um fogo entre os descendentes de José, e a devastará, e não haverá ninguém em Betel para apagá-lo.
+
+[[v30-5-7]]
+
+^<<v30-5-7,7>>^ Vocês estão transformando o direito em amargura e atirando a justiça ao chão,
+
+[[v30-5-8]]
+
+^<<v30-5-8,8>>^ ( aquele que fez as Plêiades e o Órion, que faz da escuridão alvorada e do dia, noite escura, que chama as águas do mar e as espalha sobre a face da terra, o SENHOR é o seu nome.
+
+[[v30-5-9]]
+
+^<<v30-5-9,9>>^ Ele traz repentina destruição sobre a fortaleza, e a destruição vem sobre a cidade fortificada ),
+
+[[v30-5-10]]
+
+^<<v30-5-10,10>>^ vocês odeiam aquele que defende a justiça no tribunal e detestam aquele que conta a verdade.
+
+[[v30-5-11]]
+
+^<<v30-5-11,11>>^ Vocês pisam no pobre e o forçam a dar-lhes o trigo. Por isso, embora vocês tenham construído mansões de pedra, nelas não morarão; embora tenham plantado vinhas verdejantes, não beberão do seu vinho.
+
+[[v30-5-12]]
+
+^<<v30-5-12,12>>^ Pois sei quantas são as suas transgressões e quão grandes são os seus pecados. Vocês oprimem o justo, recebem suborno e impedem que se faça justiça ao pobre nos tribunais.
+
+[[v30-5-13]]
+
+^<<v30-5-13,13>>^ Por isso o prudente se cala em tais situações, pois é tempo de desgraças.
+
+[[v30-5-14]]
+
+^<<v30-5-14,14>>^ Busquem o bem, não o mal, para que tenham vida. Então o SENHOR, o Deus dos Exércitos, estará com vocês, conforme vocês afirmam.
+
+[[v30-5-15]]
+
+^<<v30-5-15,15>>^ Odeiem o mal, amem o bem; estabeleçam a justiça nos tribunais. Talvez o SENHOR, o Deus dos Exércitos, tenha misericórdia do remanescente de José.
+
+[[v30-5-16]]
+
+^<<v30-5-16,16>>^ Portanto assim diz o SENHOR, o Deus dos Exércitos, o Soberano: "Haverá lamentação em todas as praças e gritos de angústia em todas as ruas. Os lavradores serão convocados para chorar e os pranteadores para lamentar.
+
+[[v30-5-17]]
+
+^<<v30-5-17,17>>^ Haverá lamentos em todas as vinhas, pois passarei no meio de vocês", diz o SENHOR.
+
+[[v30-5-18]]
+
+^<<v30-5-18,18>>^ Ai de vocês que anseiam pelo dia do SENHOR! O que pensam vocês do dia do SENHOR? Será dia de trevas, não de luz.
+
+[[v30-5-19]]
+
+^<<v30-5-19,19>>^ Será como se um homem fugisse de um leão, e encontrasse um urso; como alguém que entrasse em sua casa e, encostando a mão na parede, fosse picado por uma serpente.
+
+[[v30-5-20]]
+
+^<<v30-5-20,20>>^ O dia do SENHOR será de trevas e não de luz. Uma escuridão total, sem um raio de claridade.
+
+[[v30-5-21]]
+
+^<<v30-5-21,21>>^ "Eu odeio e desprezo as suas festas religiosas; não suporto as suas assembléias solenes.
+
+[[v30-5-22]]
+
+^<<v30-5-22,22>>^ Mesmo que vocês me tragam holocaustos e ofertas de cereal, isso não me agradará. Mesmo que me tragam as melhores ofertas de comunhão, não darei a menor atenção a elas.
+
+[[v30-5-23]]
+
+^<<v30-5-23,23>>^ Afastem de mim o som das suas canções e a música das suas liras.
+
+[[v30-5-24]]
+
+^<<v30-5-24,24>>^ Em vez disso, corra a retidão como um rio, a justiça como um ribeiro perene! "
+
+[[v30-5-25]]
+
+^<<v30-5-25,25>>^ "Foi a mim que vocês trouxeram sacrifícios e ofertas durante os quarenta anos no deserto, ó nação de Israel?
+
+[[v30-5-26]]
+
+^<<v30-5-26,26>>^ Não! Vocês carregaram o seu rei Sicute, e Quium, imagens dos deuses astrais, que vocês fizeram para si mesmos.
+
+[[v30-5-27]]
+
+^<<v30-5-27,27>>^ Por isso eu os mandarei para o exílio, para além de Damasco", diz o SENHOR, o Deus dos Exércitos é o seu nome.
+
+'''
+
+xref:030-amos/030-amos-004.adoc#v30-4-0[&#60; Capítulo Anterior] | <<v30-5-0,Topo>> | xref:030-amos/030-amos-006.adoc#v30-6-0[Próximo Capítulo &#62;]

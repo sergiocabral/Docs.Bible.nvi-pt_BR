@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-120-0]]
+=== Salmos, 120
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-120-1]]
+
+^<<v19-120-1,1>>^ Eu clamo pelo Senhor na minha angústia, e ele me responde.
+
+[[v19-120-2]]
+
+^<<v19-120-2,2>>^ Senhor, livra-me dos lábios mentirosos e da língua traiçoeira!
+
+[[v19-120-3]]
+
+^<<v19-120-3,3>>^ O que ele lhe dará? Como lhe retribuirá, ó língua enganadora?
+
+[[v19-120-4]]
+
+^<<v19-120-4,4>>^ Ele a castigará com flechas afiadas de guerreiro, com brasas incandescentes de sândalo.
+
+[[v19-120-5]]
+
+^<<v19-120-5,5>>^ Ai de mim que vivo como estrangeiro em Meseque, que habito entre as tendas de Quedar!
+
+[[v19-120-6]]
+
+^<<v19-120-6,6>>^ Tenho vivido tempo demais entre os que odeiam a paz.
+
+[[v19-120-7]]
+
+^<<v19-120-7,7>>^ Sou um homem de paz; mas, ainda que eu fale de paz, eles só falam de guerra.
+
+'''
+
+xref:019-salmos/019-salmos-119.adoc#v19-119-0[&#60; Capítulo Anterior] | <<v19-120-0,Topo>> | xref:019-salmos/019-salmos-121.adoc#v19-121-0[Próximo Capítulo &#62;]

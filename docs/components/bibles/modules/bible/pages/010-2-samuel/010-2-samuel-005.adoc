@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v10-5-0]]
+=== 2 Samuel, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v10-5-1]]
+
+^<<v10-5-1,1>>^ Representantes de todas as tribos de Israel foram dizer a Davi, em Hebrom: "Somos sangue do teu sangue.
+
+[[v10-5-2]]
+
+^<<v10-5-2,2>>^ No passado, mesmo quando Saul era rei, eras tu quem liderava Israel em suas batalhas. E o Senhor te disse: ‘Você pastoreará o meu povo Israel, e será o seu governante’ ".
+
+[[v10-5-3]]
+
+^<<v10-5-3,3>>^ Então todas as autoridades de Israel foram ao encontro do rei Davi em Hebrom, e ele fez um acordo com eles em Hebrom perante o Senhor, e eles ungiram Davi rei de Israel.
+
+[[v10-5-4]]
+
+^<<v10-5-4,4>>^ Davi tinha trinta anos de idade quando começou a reinar, e reinou durante quarenta anos.
+
+[[v10-5-5]]
+
+^<<v10-5-5,5>>^ Em Hebrom, reinou sobre Judá sete anos e meio, e em Jerusalém reinou sobre todo o Israel e Judá trinta e três anos.
+
+[[v10-5-6]]
+
+^<<v10-5-6,6>>^ O rei e seus soldados marcharam para Jerusalém para atacar os jebuseus que viviam lá. E os jebuseus disseram a Davi: "Você não entrará aqui! Até os cegos e os aleijados podem se defender de você". Eles achavam que Davi não conseguiria entrar,
+
+[[v10-5-7]]
+
+^<<v10-5-7,7>>^ mas, Davi conquistou a fortaleza de Sião, que veio a ser a cidade de Davi.
+
+[[v10-5-8]]
+
+^<<v10-5-8,8>>^ Naquele dia disse Davi: "Quem quiser vencer os jebuseus terá que utilizar a passagem de água para chegar àqueles cegos e aleijados, inimigos de Davi". É por isso que dizem: "Os ‘cegos e aleijados’ não entrarão no palácio".
+
+[[v10-5-9]]
+
+^<<v10-5-9,9>>^ Davi passou a morar na fortaleza e chamou-a cidade de Davi. Construiu defesas na parte interna da cidade desde os muros de arrimo.
+
+[[v10-5-10]]
+
+^<<v10-5-10,10>>^ E foi se tornando cada vez mais poderoso, pois o Senhor Deus dos Exércitos estava com ele.
+
+[[v10-5-11]]
+
+^<<v10-5-11,11>>^ Pouco depois Hirão, rei de Tiro, enviou a Davi uma delegação, que trouxe toras de cedro, e também carpinteiros e pedreiros que construíram um palácio para Davi.
+
+[[v10-5-12]]
+
+^<<v10-5-12,12>>^ Então Davi teve certeza de que o Senhor o confirmara como rei de Israel e que seu reino estava prosperando por amor de seu povo Israel.
+
+[[v10-5-13]]
+
+^<<v10-5-13,13>>^ Depois de mudar-se de Hebrom para Jerusalém, Davi tomou mais concubinas e esposas, e gerou mais filhos e filhas.
+
+[[v10-5-14]]
+
+^<<v10-5-14,14>>^ Estes são os nomes dos que lhe nasceram ali: Samua, Sobabe, Natã, Salomão,
+
+[[v10-5-15]]
+
+^<<v10-5-15,15>>^ Ibar, Elisua, Nefegue, Jafia,
+
+[[v10-5-16]]
+
+^<<v10-5-16,16>>^ Elisama, Eliada e Elifelete.
+
+[[v10-5-17]]
+
+^<<v10-5-17,17>>^ Ao saber que Davi tinha sido ungido rei de Israel, os filisteus foram com todo o exército prendê-lo, mas Davi soube disso e foi para a fortaleza.
+
+[[v10-5-18]]
+
+^<<v10-5-18,18>>^ Tendo os filisteus se espalhado pelo vale de Refaim,
+
+[[v10-5-19]]
+
+^<<v10-5-19,19>>^ Davi perguntou ao Senhor: "Devo atacar os filisteus? Tu os entregarás nas minhas mãos? " O Senhor lhe respondeu: "Vá, eu os entregarei nas suas mãos".
+
+[[v10-5-20]]
+
+^<<v10-5-20,20>>^ Então Davi foi a Baal-Perazim e lá os derrotou. E disse: "Assim como as águas de uma enchente causam destruição, pelas minhas mãos o Senhor destruiu os meus inimigos diante de mim". Então aquele lugar passou a ser chamado Baal-Perazim.
+
+[[v10-5-21]]
+
+^<<v10-5-21,21>>^ Como os filisteus haviam abandonado os seus ídolos ali, Davi e seus soldados os apanharam.
+
+[[v10-5-22]]
+
+^<<v10-5-22,22>>^ Mais uma vez os filisteus marcharam e se espalharam pelo vale de Refaim;
+
+[[v10-5-23]]
+
+^<<v10-5-23,23>>^ então Davi consultou o Senhor de novo, que lhe respondeu: "Não ataque pela frente, mas dê a volta por trás deles e ataque-os em frente das amoreiras.
+
+[[v10-5-24]]
+
+^<<v10-5-24,24>>^ Assim que você ouvir um som de passos por cima das amoreiras, saia rapidamente, pois este é o sinal de que o Senhor saiu à sua frente para ferir o exército filisteu".
+
+[[v10-5-25]]
+
+^<<v10-5-25,25>>^ Davi fez como o Senhor lhe tinha ordenado, e derrotou os filisteus por todo o caminho, desde Gibeom até Gezer.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-004.adoc#v10-4-0[&#60; Capítulo Anterior] | <<v10-5-0,Topo>> | xref:010-2-samuel/010-2-samuel-006.adoc#v10-6-0[Próximo Capítulo &#62;]

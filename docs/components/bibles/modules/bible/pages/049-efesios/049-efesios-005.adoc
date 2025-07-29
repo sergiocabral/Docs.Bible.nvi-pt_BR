@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v49-5-0]]
+=== Efésios, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v49-5-1]]
+
+^<<v49-5-1,1>>^ Portanto, sejam imitadores de Deus, como filhos amados,
+
+[[v49-5-2]]
+
+^<<v49-5-2,2>>^ e vivam em amor, como também Cristo nos amou e se entregou por nós como oferta e sacrifício de aroma agradável a Deus.
+
+[[v49-5-3]]
+
+^<<v49-5-3,3>>^ Entre vocês não deve haver nem sequer menção de imoralidade sexual nem de qualquer espécie de impureza nem de cobiça; pois estas coisas não são próprias para os santos.
+
+[[v49-5-4]]
+
+^<<v49-5-4,4>>^ Não haja obscenidade nem conversas tolas nem gracejos imorais, que são inconvenientes, mas, ao invés disso, ação de graças.
+
+[[v49-5-5]]
+
+^<<v49-5-5,5>>^ Porque vocês podem estar certos disto: nenhum imoral nem impuro nem ganancioso, que é idólatra, tem herança no Reino de Cristo e de Deus.
+
+[[v49-5-6]]
+
+^<<v49-5-6,6>>^ Ninguém os engane com palavras tolas, pois é por causa dessas coisas que a ira de Deus vem sobre os que vivem na desobediência.
+
+[[v49-5-7]]
+
+^<<v49-5-7,7>>^ Portanto, não participem com eles dessas coisas.
+
+[[v49-5-8]]
+
+^<<v49-5-8,8>>^ Porque outrora vocês eram trevas, mas agora são luz no Senhor. Vivam como filhos da luz,
+
+[[v49-5-9]]
+
+^<<v49-5-9,9>>^ pois o fruto da luz consiste em toda bondade, justiça e verdade;
+
+[[v49-5-10]]
+
+^<<v49-5-10,10>>^ e aprendam a discernir o que é agradável ao Senhor.
+
+[[v49-5-11]]
+
+^<<v49-5-11,11>>^ Não participem das obras infrutíferas das trevas; antes, exponham-nas à luz.
+
+[[v49-5-12]]
+
+^<<v49-5-12,12>>^ Porque aquilo que eles fazem em oculto, até mencionar é vergonhoso.
+
+[[v49-5-13]]
+
+^<<v49-5-13,13>>^ Mas, tudo o que é exposto pela luz torna-se visível, pois a luz torna visíveis todas as coisas.
+
+[[v49-5-14]]
+
+^<<v49-5-14,14>>^ Por isso é que foi dito: "Desperta, ó tu que dormes, levanta-te dentre os mortos e Cristo resplandecerá sobre ti".
+
+[[v49-5-15]]
+
+^<<v49-5-15,15>>^ Tenham cuidado com a maneira como vocês vivem; que não seja como insensatos, mas como sábios,
+
+[[v49-5-16]]
+
+^<<v49-5-16,16>>^ aproveitando ao máximo cada oportunidade, porque os dias são maus.
+
+[[v49-5-17]]
+
+^<<v49-5-17,17>>^ Portanto, não sejam insensatos, mas procurem compreender qual é a vontade do Senhor.
+
+[[v49-5-18]]
+
+^<<v49-5-18,18>>^ Não se embriaguem com vinho, que leva à libertinagem, mas deixem-se encher pelo Espírito,
+
+[[v49-5-19]]
+
+^<<v49-5-19,19>>^ falando entre si com salmos, hinos e cânticos espirituais, cantando e louvando de coração ao Senhor,
+
+[[v49-5-20]]
+
+^<<v49-5-20,20>>^ dando graças constantemente a Deus Pai por todas as coisas, em nome de nosso Senhor Jesus Cristo.
+
+[[v49-5-21]]
+
+^<<v49-5-21,21>>^ Sujeitem-se uns aos outros, por temor a Cristo.
+
+[[v49-5-22]]
+
+^<<v49-5-22,22>>^ Mulheres, sujeitem-se a seus maridos, como ao Senhor,
+
+[[v49-5-23]]
+
+^<<v49-5-23,23>>^ pois o marido é o cabeça da mulher, como também Cristo é o cabeça da igreja, que é o seu corpo, do qual ele é o Salvador.
+
+[[v49-5-24]]
+
+^<<v49-5-24,24>>^ Assim como a igreja está sujeita a Cristo, também as mulheres estejam em tudo sujeitas a seus maridos.
+
+[[v49-5-25]]
+
+^<<v49-5-25,25>>^ Maridos, amem suas mulheres, assim como Cristo amou a igreja e entregou-se a si mesmo por ela
+
+[[v49-5-26]]
+
+^<<v49-5-26,26>>^ para santificá-la, tendo-a purificado pelo lavar da água mediante a palavra,
+
+[[v49-5-27]]
+
+^<<v49-5-27,27>>^ e apresentá-la a si mesmo como igreja gloriosa, sem mancha nem ruga ou coisa semelhante, mas santa e inculpável.
+
+[[v49-5-28]]
+
+^<<v49-5-28,28>>^ Da mesma forma, os maridos devem amar as suas mulheres como a seus próprios corpos. Quem ama sua mulher, ama a si mesmo.
+
+[[v49-5-29]]
+
+^<<v49-5-29,29>>^ Além do mais, ninguém jamais odiou o seu próprio corpo, antes o alimenta e dele cuida, como também Cristo faz com a igreja,
+
+[[v49-5-30]]
+
+^<<v49-5-30,30>>^ pois somos membros do seu corpo.
+
+[[v49-5-31]]
+
+^<<v49-5-31,31>>^ "Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, e os dois se tornarão uma só carne".
+
+[[v49-5-32]]
+
+^<<v49-5-32,32>>^ Este é um mistério profundo; refiro-me, porém, a Cristo e à igreja.
+
+[[v49-5-33]]
+
+^<<v49-5-33,33>>^ Portanto, cada um de vocês também ame a sua mulher como a si mesmo, e a mulher trate o marido com todo o respeito.
+
+'''
+
+xref:049-efesios/049-efesios-004.adoc#v49-4-0[&#60; Capítulo Anterior] | <<v49-5-0,Topo>> | xref:049-efesios/049-efesios-006.adoc#v49-6-0[Próximo Capítulo &#62;]

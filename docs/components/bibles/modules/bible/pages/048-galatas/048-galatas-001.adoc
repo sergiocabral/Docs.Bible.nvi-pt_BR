@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v48-1-0]]
+=== Gálatas, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v48-1-1]]
+
+^<<v48-1-1,1>>^ Paulo, apóstolo enviado, não da parte de homens nem por meio de pessoa alguma, mas por Jesus Cristo e por Deus Pai, que o ressuscitou dos mortos,
+
+[[v48-1-2]]
+
+^<<v48-1-2,2>>^ e todos os irmãos que estão comigo, às igrejas da Galácia:
+
+[[v48-1-3]]
+
+^<<v48-1-3,3>>^ A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo,
+
+[[v48-1-4]]
+
+^<<v48-1-4,4>>^ que se entregou a si mesmo por nossos pecados a fim de nos resgatar desta presente era perversa, segundo a vontade de nosso Deus e Pai,
+
+[[v48-1-5]]
+
+^<<v48-1-5,5>>^ a quem seja a glória para todo o sempre. Amém.
+
+[[v48-1-6]]
+
+^<<v48-1-6,6>>^ Admiro-me de que vocês estejam abandonando tão rapidamente aquele que os chamou pela graça de Cristo, para seguirem outro evangelho
+
+[[v48-1-7]]
+
+^<<v48-1-7,7>>^ que, na realidade, não é o evangelho. O que ocorre é que algumas pessoas os estão perturbando, querendo perverter o evangelho de Cristo.
+
+[[v48-1-8]]
+
+^<<v48-1-8,8>>^ Mas ainda que nós ou um anjo do céu pregue um evangelho diferente daquele que lhes pregamos, que seja amaldiçoado!
+
+[[v48-1-9]]
+
+^<<v48-1-9,9>>^ Como já dissemos, agora repito: Se alguém lhes anuncia um evangelho diferente daquele que já receberam, que seja amaldiçoado!
+
+[[v48-1-10]]
+
+^<<v48-1-10,10>>^ Acaso busco eu agora a aprovação dos homens ou a de Deus? Ou estou tentando agradar a homens? Se eu ainda estivesse procurando agradar a homens, não seria servo de Cristo.
+
+[[v48-1-11]]
+
+^<<v48-1-11,11>>^ Irmãos, quero que saibam que o evangelho por mim anunciado não é de origem humana.
+
+[[v48-1-12]]
+
+^<<v48-1-12,12>>^ Não o recebi de pessoa alguma nem me foi ele ensinado; pelo contrário, eu o recebi de Jesus Cristo por revelação.
+
+[[v48-1-13]]
+
+^<<v48-1-13,13>>^ Vocês ouviram qual foi o meu procedimento no judaísmo, como perseguia com violência a igreja de Deus, procurando destruí-la.
+
+[[v48-1-14]]
+
+^<<v48-1-14,14>>^ No judaísmo, eu superava a maioria dos judeus da minha idade, e era extremamente zeloso das tradições dos meus antepassados.
+
+[[v48-1-15]]
+
+^<<v48-1-15,15>>^ Mas Deus me separou desde o ventre materno e me chamou por sua graça. Quando lhe agradou
+
+[[v48-1-16]]
+
+^<<v48-1-16,16>>^ revelar o seu Filho em mim para que eu o anunciasse entre os gentios, não consultei pessoa alguma.
+
+[[v48-1-17]]
+
+^<<v48-1-17,17>>^ Tampouco subi a Jerusalém para ver os que já eram apóstolos antes de mim, mas de imediato parti para a Arábia, e tornei a voltar a Damasco.
+
+[[v48-1-18]]
+
+^<<v48-1-18,18>>^ Depois de três anos, subi a Jerusalém para conhecer Pedro pessoalmente, e estive com ele quinze dias.
+
+[[v48-1-19]]
+
+^<<v48-1-19,19>>^ Não vi nenhum dos outros apóstolos, a não ser Tiago, irmão do Senhor.
+
+[[v48-1-20]]
+
+^<<v48-1-20,20>>^ Quanto ao que lhes escrevo, afirmo diante de Deus que não minto.
+
+[[v48-1-21]]
+
+^<<v48-1-21,21>>^ A seguir, fui para as regiões da Síria e da Cilícia.
+
+[[v48-1-22]]
+
+^<<v48-1-22,22>>^ Eu não era pessoalmente conhecido pelas igrejas da Judéia que estão em Cristo.
+
+[[v48-1-23]]
+
+^<<v48-1-23,23>>^ Apenas ouviam dizer: "Aquele que antes nos perseguia, agora está anunciando a fé que outrora procurava destruir".
+
+[[v48-1-24]]
+
+^<<v48-1-24,24>>^ E glorificavam a Deus por minha causa.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-013.adoc#v47-13-0[&#60; Capítulo Anterior] | <<v48-1-0,Topo>> | xref:048-galatas/048-galatas-002.adoc#v48-2-0[Próximo Capítulo &#62;]

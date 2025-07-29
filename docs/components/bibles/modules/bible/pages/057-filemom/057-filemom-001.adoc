@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v57-1-0]]
+=== Filemom, 1
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v57-1-1]]
+
+^<<v57-1-1,1>>^ Paulo, prisioneiro de Cristo Jesus, e o irmão Timóteo, a você, Filemom, nosso amado cooperador,
+
+[[v57-1-2]]
+
+^<<v57-1-2,2>>^ à irmã Áfia, a Arquipo, nosso companheiro de lutas, e à igreja que se reúne com você em sua casa.
+
+[[v57-1-3]]
+
+^<<v57-1-3,3>>^ A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo.
+
+[[v57-1-4]]
+
+^<<v57-1-4,4>>^ Sempre dou graças a meu Deus, lembrando-me de você nas minhas orações,
+
+[[v57-1-5]]
+
+^<<v57-1-5,5>>^ porque ouço falar da sua fé no Senhor Jesus e do seu amor por todos os santos.
+
+[[v57-1-6]]
+
+^<<v57-1-6,6>>^ Oro para que a comunhão que procede da sua fé seja eficaz no pleno conhecimento de todo o bem que temos em Cristo.
+
+[[v57-1-7]]
+
+^<<v57-1-7,7>>^ Seu amor me tem dado grande alegria e consolação, porque você, irmão, tem reanimado o coração dos santos.
+
+[[v57-1-8]]
+
+^<<v57-1-8,8>>^ Por isso, mesmo tendo em Cristo plena liberdade para mandar que você cumpra o seu dever,
+
+[[v57-1-9]]
+
+^<<v57-1-9,9>>^ prefiro fazer um apelo com base no amor. Eu, Paulo, já velho, e agora também prisioneiro de Cristo Jesus,
+
+[[v57-1-10]]
+
+^<<v57-1-10,10>>^ apelo em favor de meu filho Onésimo, que gerei enquanto estava preso.
+
+[[v57-1-11]]
+
+^<<v57-1-11,11>>^ Ele antes lhe era inútil, mas agora é útil, tanto para você quanto para mim.
+
+[[v57-1-12]]
+
+^<<v57-1-12,12>>^ Mando-o de volta a você, como se fosse o meu próprio coração.
+
+[[v57-1-13]]
+
+^<<v57-1-13,13>>^ Gostaria de mantê-lo comigo para que me ajudasse em seu lugar enquanto estou preso por causa do evangelho.
+
+[[v57-1-14]]
+
+^<<v57-1-14,14>>^ Mas não quis fazer nada sem a sua permissão, para que qualquer favor que você fizer seja espontâneo, e não forçado.
+
+[[v57-1-15]]
+
+^<<v57-1-15,15>>^ Talvez ele tenha sido separado de você por algum tempo, para que você o tivesse de volta para sempre,
+
+[[v57-1-16]]
+
+^<<v57-1-16,16>>^ não mais como escravo, mas, acima de escravo, como irmão amado. Para mim ele é um irmão muito amado, e ainda mais para você, tanto como pessoa quanto como cristão.
+
+[[v57-1-17]]
+
+^<<v57-1-17,17>>^ Assim, se você me considera companheiro na fé, receba-o como se estivesse recebendo a mim.
+
+[[v57-1-18]]
+
+^<<v57-1-18,18>>^ Se ele o prejudicou em algo ou lhe deve alguma coisa, ponha na minha conta.
+
+[[v57-1-19]]
+
+^<<v57-1-19,19>>^ Eu, Paulo, escrevo de próprio punho: Eu pagarei — para não dizer que você me deve a sua própria pessoa.
+
+[[v57-1-20]]
+
+^<<v57-1-20,20>>^ Sim, irmão, eu gostaria de receber de você algum benefício por estarmos no Senhor. Reanime o meu coração em Cristo!
+
+[[v57-1-21]]
+
+^<<v57-1-21,21>>^ Escrevo-lhe certo de que você me obedecerá, sabendo que fará ainda mais do lhe que peço.
+
+[[v57-1-22]]
+
+^<<v57-1-22,22>>^ Além disso, prepare-me um aposento, porque, graças às suas orações, espero poder ser restituído a vocês.
+
+[[v57-1-23]]
+
+^<<v57-1-23,23>>^ Epafras, meu companheiro de prisão por causa de Cristo Jesus, envia-lhe saudações,
+
+[[v57-1-24]]
+
+^<<v57-1-24,24>>^ assim como também Marcos, Aristarco, Demas e Lucas, meus cooperadores.
+
+[[v57-1-25]]
+
+^<<v57-1-25,25>>^ A graça do Senhor Jesus Cristo seja com o espírito de todos vocês.
+
+'''
+
+xref:056-tito/056-tito-003.adoc#v56-3-0[&#60; Capítulo Anterior] | <<v57-1-0,Topo>> | xref:058-hebreus/058-hebreus-001.adoc#v58-1-0[Próximo Capítulo &#62;]

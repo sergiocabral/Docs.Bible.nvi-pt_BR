@@ -1,0 +1,289 @@
+include::./index.adoc[]
+
+[[v15-2-0]]
+=== Esdras, 2
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v15-2-1]]
+
+^<<v15-2-1,1>>^ Esta é a lista dos homens da província que Nabucodonosor, rei da Babilônia, tinha levado prisioneiros para a Babilônia. Eles voltaram para Jerusalém e Judá, cada um para a sua própria cidade.
+
+[[v15-2-2]]
+
+^<<v15-2-2,2>>^ Vieram na companhia de Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mispar, Bigvai, Reum e Baaná. Esta é a lista dos israelitas:
+
+[[v15-2-3]]
+
+^<<v15-2-3,3>>^ os descendentes de Parós 2. 172
+
+[[v15-2-4]]
+
+^<<v15-2-4,4>>^ de Sefatias 372
+
+[[v15-2-5]]
+
+^<<v15-2-5,5>>^ de Ara 775
+
+[[v15-2-6]]
+
+^<<v15-2-6,6>>^ de Paate-Moabe, por meio da linhagem de Jesua e Joabe, 2. 812
+
+[[v15-2-7]]
+
+^<<v15-2-7,7>>^ de Elão 1. 254
+
+[[v15-2-8]]
+
+^<<v15-2-8,8>>^ de Zatu 945
+
+[[v15-2-9]]
+
+^<<v15-2-9,9>>^ de Zacai 760
+
+[[v15-2-10]]
+
+^<<v15-2-10,10>>^ de Bani 642
+
+[[v15-2-11]]
+
+^<<v15-2-11,11>>^ de Bebai 623
+
+[[v15-2-12]]
+
+^<<v15-2-12,12>>^ de Azgade 1. 222
+
+[[v15-2-13]]
+
+^<<v15-2-13,13>>^ de Adonicão 666
+
+[[v15-2-14]]
+
+^<<v15-2-14,14>>^ de Bigvai 2. 056
+
+[[v15-2-15]]
+
+^<<v15-2-15,15>>^ de Adim 454
+
+[[v15-2-16]]
+
+^<<v15-2-16,16>>^ de Ater, por meio de Ezequias, 98
+
+[[v15-2-17]]
+
+^<<v15-2-17,17>>^ de Besai 323
+
+[[v15-2-18]]
+
+^<<v15-2-18,18>>^ de Jora 112
+
+[[v15-2-19]]
+
+^<<v15-2-19,19>>^ de Hasum 223
+
+[[v15-2-20]]
+
+^<<v15-2-20,20>>^ de Gibar 95
+
+[[v15-2-21]]
+
+^<<v15-2-21,21>>^ os da cidade de Belém 123
+
+[[v15-2-22]]
+
+^<<v15-2-22,22>>^ de Netofate 56
+
+[[v15-2-23]]
+
+^<<v15-2-23,23>>^ de Anatote 128
+
+[[v15-2-24]]
+
+^<<v15-2-24,24>>^ de Azmavete 42
+
+[[v15-2-25]]
+
+^<<v15-2-25,25>>^ de Quiriate-Jearim, Quefira e Beerote 743
+
+[[v15-2-26]]
+
+^<<v15-2-26,26>>^ de Ramá e Geba 621
+
+[[v15-2-27]]
+
+^<<v15-2-27,27>>^ de Micmás 122
+
+[[v15-2-28]]
+
+^<<v15-2-28,28>>^ de Betel e Ai 223
+
+[[v15-2-29]]
+
+^<<v15-2-29,29>>^ de Nebo 52
+
+[[v15-2-30]]
+
+^<<v15-2-30,30>>^ de Magbis 156
+
+[[v15-2-31]]
+
+^<<v15-2-31,31>>^ da outra Elão 1. 254
+
+[[v15-2-32]]
+
+^<<v15-2-32,32>>^ de Harim 320
+
+[[v15-2-33]]
+
+^<<v15-2-33,33>>^ de Lode, Hadide e Ono 725
+
+[[v15-2-34]]
+
+^<<v15-2-34,34>>^ de Jericó 345
+
+[[v15-2-35]]
+
+^<<v15-2-35,35>>^ de Senaá 3. 630
+
+[[v15-2-36]]
+
+^<<v15-2-36,36>>^ Os sacerdotes: os descendentes de Jedaías, por meio da família de Jesua 973
+
+[[v15-2-37]]
+
+^<<v15-2-37,37>>^ de Imer 1. 052
+
+[[v15-2-38]]
+
+^<<v15-2-38,38>>^ de Pasur 1. 247
+
+[[v15-2-39]]
+
+^<<v15-2-39,39>>^ de Harim 1. 017
+
+[[v15-2-40]]
+
+^<<v15-2-40,40>>^ Os levitas: os descendentes de Jesua e de Cadmiel, por meio da linhagem de Hodavias 74
+
+[[v15-2-41]]
+
+^<<v15-2-41,41>>^ Os cantores: os descendentes de Asafe 128
+
+[[v15-2-42]]
+
+^<<v15-2-42,42>>^ Os porteiros do templo: os descendentes de Salum, Ater, Talmom, Acube, Hatita e Sobai 139
+
+[[v15-2-43]]
+
+^<<v15-2-43,43>>^ Os servidores do templo: os descendentes de Zia, Hasufa, Tabaote,
+
+[[v15-2-44]]
+
+^<<v15-2-44,44>>^ Queros, Sia, Padom,
+
+[[v15-2-45]]
+
+^<<v15-2-45,45>>^ Lebana, Hagaba, Acube,
+
+[[v15-2-46]]
+
+^<<v15-2-46,46>>^ Hagabe, Sanlai, Hanã,
+
+[[v15-2-47]]
+
+^<<v15-2-47,47>>^ Gidel, Gaar, Reaías,
+
+[[v15-2-48]]
+
+^<<v15-2-48,48>>^ Rezim, Necoda, Gazão,
+
+[[v15-2-49]]
+
+^<<v15-2-49,49>>^ Uzá, Paséia, Besai,
+
+[[v15-2-50]]
+
+^<<v15-2-50,50>>^ Asná, Meunim, Nefusim,
+
+[[v15-2-51]]
+
+^<<v15-2-51,51>>^ Bacbuque, Hacufa, Harur,
+
+[[v15-2-52]]
+
+^<<v15-2-52,52>>^ Baslute, Meída, Harsa,
+
+[[v15-2-53]]
+
+^<<v15-2-53,53>>^ Barcos, Sísera, Tamá,
+
+[[v15-2-54]]
+
+^<<v15-2-54,54>>^ Nesias e Hatifa.
+
+[[v15-2-55]]
+
+^<<v15-2-55,55>>^ Os descendentes dos servos de Salomão: os descendentes de Sotai, Soferete, Peruda,
+
+[[v15-2-56]]
+
+^<<v15-2-56,56>>^ Jaala, Darcom, Gidel,
+
+[[v15-2-57]]
+
+^<<v15-2-57,57>>^ Sefatias, Hatil, Poquerete-Hazebaim e Ami.
+
+[[v15-2-58]]
+
+^<<v15-2-58,58>>^ O total dos servidores do templo e dos descendentes dos servos de Salomão 392
+
+[[v15-2-59]]
+
+^<<v15-2-59,59>>^ Os que chegaram das cidades de Tel-Melá, Tel-Harsa, Querube, Adã e Imer, mas não puderam comprovar que suas famílias descendiam de Israel, foram os seguintes:
+
+[[v15-2-60]]
+
+^<<v15-2-60,60>>^ Os descendentes de Delaías, Tobias e Necoda 652
+
+[[v15-2-61]]
+
+^<<v15-2-61,61>>^ E dentre os sacerdotes: Os descendentes de Habaías, Coz e Barzilai, homem que se casou com uma filha de Barzilai, de Gileade, e que era chamado pelo nome do sogro.
+
+[[v15-2-62]]
+
+^<<v15-2-62,62>>^ Eles procuraram pelos seus registros de família, mas não conseguiram achá-los e foram considerados impuros para o sacerdócio.
+
+[[v15-2-63]]
+
+^<<v15-2-63,63>>^ Por isso o governador os proibiu de comer alimentos sagrados enquanto não houvesse um sacerdote capaz de consultar a Deus por meio do Urim e do Tumim.
+
+[[v15-2-64]]
+
+^<<v15-2-64,64>>^ A totalidade dos que voltaram do exílio atingiu o número de 42. 360 homens,
+
+[[v15-2-65]]
+
+^<<v15-2-65,65>>^ além dos seus 7. 337 servos e servas; havia entre eles 200 cantores e cantoras.
+
+[[v15-2-66]]
+
+^<<v15-2-66,66>>^ Possuíam 736 cavalos, 245 mulas,
+
+[[v15-2-67]]
+
+^<<v15-2-67,67>>^ 435 camelos e 6. 720 jumentos.
+
+[[v15-2-68]]
+
+^<<v15-2-68,68>>^ Quando chegaram ao templo do Senhor em Jerusalém, alguns dos chefes das famílias deram ofertas voluntárias para a reconstrução do templo de Deus no seu antigo local.
+
+[[v15-2-69]]
+
+^<<v15-2-69,69>>^ De acordo com as suas possibilidades, deram à tesouraria para essa obra quinhentos quilos de ouro, três toneladas de prata e cem vestes sacerdotais.
+
+[[v15-2-70]]
+
+^<<v15-2-70,70>>^ Os sacerdotes, os levitas, os cantores, os porteiros e os servidores do templo, bem como os demais israelitas, estabeleceram-se em suas cidades de origem.
+
+'''
+
+xref:015-esdras/015-esdras-001.adoc#v15-1-0[&#60; Capítulo Anterior] | <<v15-2-0,Topo>> | xref:015-esdras/015-esdras-003.adoc#v15-3-0[Próximo Capítulo &#62;]

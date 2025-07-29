@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v19-13-0]]
+=== Salmos, 13
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-13-1]]
+
+^<<v19-13-1,1>>^ Até quando, Senhor? Para sempre te esquecerás de mim? Até quando esconderás de mim o teu rosto?
+
+[[v19-13-2]]
+
+^<<v19-13-2,2>>^ Até quando terei inquietações e tristeza no coração dia após dia? Até quando o meu inimigo triunfará sobre mim?
+
+[[v19-13-3]]
+
+^<<v19-13-3,3>>^ Olha para mim e responde, Senhor meu Deus. Ilumina os meus olhos, do contrário dormirei o sono da morte;
+
+[[v19-13-4]]
+
+^<<v19-13-4,4>>^ os meus inimigos dirão: "Eu o venci", e os meus adversários festejarão o meu fracasso.
+
+[[v19-13-5]]
+
+^<<v19-13-5,5>>^ Eu, porém, confio em teu amor; o meu coração exulta em tua salvação.
+
+[[v19-13-6]]
+
+^<<v19-13-6,6>>^ Quero cantar ao Senhor pelo bem que me tem feito.
+
+'''
+
+xref:019-salmos/019-salmos-012.adoc#v19-12-0[&#60; Capítulo Anterior] | <<v19-13-0,Topo>> | xref:019-salmos/019-salmos-014.adoc#v19-14-0[Próximo Capítulo &#62;]

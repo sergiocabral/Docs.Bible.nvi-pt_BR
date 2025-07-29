@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v46-6-0]]
+=== 1 Coríntios, 6
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v46-6-1]]
+
+^<<v46-6-1,1>>^ Se algum de vocês tem queixa contra outro irmão, como ousa apresentar a causa para ser julgada pelos ímpios, em vez de levá-la aos santos?
+
+[[v46-6-2]]
+
+^<<v46-6-2,2>>^ Vocês não sabem que os santos hão de julgar o mundo? Se vocês hão de julgar o mundo, acaso não são capazes de julgar as causas de menor importância?
+
+[[v46-6-3]]
+
+^<<v46-6-3,3>>^ Vocês não sabem que haveremos de julgar os anjos? Quanto mais as coisas desta vida!
+
+[[v46-6-4]]
+
+^<<v46-6-4,4>>^ Portanto, se vocês têm questões relativas às coisas desta vida, designem para juízes os que são da igreja, mesmo que sejam os menos importantes.
+
+[[v46-6-5]]
+
+^<<v46-6-5,5>>^ Digo isso para envergonhá-los. Acaso não há entre vocês alguém suficientemente sábio para julgar uma causa entre irmãos?
+
+[[v46-6-6]]
+
+^<<v46-6-6,6>>^ Mas, ao invés disso, um irmão vai ao tribunal contra outro irmão, e isso diante de descrentes!
+
+[[v46-6-7]]
+
+^<<v46-6-7,7>>^ O fato de haver litígios entre vocês já significa uma completa derrota. Por que não preferem sofrer a injustiça? Por que não preferem sofrer o prejuízo?
+
+[[v46-6-8]]
+
+^<<v46-6-8,8>>^ Em vez disso vocês mesmos causam injustiças e prejuízos, e isso contra irmãos!
+
+[[v46-6-9]]
+
+^<<v46-6-9,9>>^ Vocês não sabem que os perversos não herdarão o Reino de Deus? Não se deixem enganar: nem imorais, nem idólatras, nem adúlteros, nem homossexuais passivos ou ativos,
+
+[[v46-6-10]]
+
+^<<v46-6-10,10>>^ nem ladrões, nem avarentos, nem alcoólatras, nem caluniadores, nem trapaceiros herdarão o Reino de Deus.
+
+[[v46-6-11]]
+
+^<<v46-6-11,11>>^ Assim foram alguns de vocês. Mas vocês foram lavados, foram santificados, foram justificados no nome do Senhor Jesus Cristo e no Espírito de nosso Deus.
+
+[[v46-6-12]]
+
+^<<v46-6-12,12>>^ "Tudo me é permitido", mas nem tudo convém. "Tudo me é permitido", mas eu não deixarei que nada domine.
+
+[[v46-6-13]]
+
+^<<v46-6-13,13>>^ "Os alimentos foram feitos para o estômago e o estômago para os alimentos", mas Deus destruirá ambos. O corpo, porém, não é para a imoralidade, mas para o Senhor, e o Senhor para o corpo.
+
+[[v46-6-14]]
+
+^<<v46-6-14,14>>^ Por seu poder, Deus ressuscitou o Senhor e também nos ressuscitará.
+
+[[v46-6-15]]
+
+^<<v46-6-15,15>>^ Vocês não sabem que os seus corpos são membros de Cristo? Tomarei eu os membros de Cristo e os unirei a uma prostituta? De modo nenhum!
+
+[[v46-6-16]]
+
+^<<v46-6-16,16>>^ Vocês não sabem que aquele que se une a uma prostituta é um corpo com ela? Pois, como está escrito: "Os dois serão uma só carne".
+
+[[v46-6-17]]
+
+^<<v46-6-17,17>>^ Mas aquele que se une ao Senhor é um espírito com ele.
+
+[[v46-6-18]]
+
+^<<v46-6-18,18>>^ Fujam da imoralidade sexual. Todos os outros pecados que alguém comete, fora do corpo os comete; mas quem peca sexualmente, peca contra o seu próprio corpo.
+
+[[v46-6-19]]
+
+^<<v46-6-19,19>>^ Acaso não sabem que o corpo de vocês é santuário do Espírito Santo que habita em vocês, que lhes foi dado por Deus, e que vocês não são de si mesmos?
+
+[[v46-6-20]]
+
+^<<v46-6-20,20>>^ Vocês foram comprados por alto preço. Portanto, glorifiquem a Deus com o corpo de vocês.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-005.adoc#v46-5-0[&#60; Capítulo Anterior] | <<v46-6-0,Topo>> | xref:046-1-corintios/046-1-corintios-007.adoc#v46-7-0[Próximo Capítulo &#62;]

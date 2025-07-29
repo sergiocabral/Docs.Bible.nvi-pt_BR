@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v4-17-0]]
+=== Números, 17
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-17-1]]
+
+^<<v4-17-1,1>>^ O Senhor disse a Moisés:
+
+[[v4-17-2]]
+
+^<<v4-17-2,2>>^ "Peça aos israelitas que tragam doze varas, uma de cada líder das tribos. Escreva o nome de cada líder em sua vara.
+
+[[v4-17-3]]
+
+^<<v4-17-3,3>>^ Na vara de Levi escreva o nome de Arão, pois é preciso que haja uma vara para cada chefe das tribos.
+
+[[v4-17-4]]
+
+^<<v4-17-4,4>>^ Deposite-as na Tenda do Encontro, em frente da arca das tábuas da aliança, onde eu me encontro com vocês.
+
+[[v4-17-5]]
+
+^<<v4-17-5,5>>^ A vara daquele que eu escolher florescerá, e eu me livrarei dessa constante queixa dos israelitas contra vocês".
+
+[[v4-17-6]]
+
+^<<v4-17-6,6>>^ Assim Moisés falou aos israelitas, e seus líderes deram-lhe doze varas, uma de cada líder das tribos, e a vara de Arão estava entre elas.
+
+[[v4-17-7]]
+
+^<<v4-17-7,7>>^ Moisés depositou as varas perante o Senhor na tenda que guarda as tábuas da aliança.
+
+[[v4-17-8]]
+
+^<<v4-17-8,8>>^ No dia seguinte Moisés entrou na tenda e viu que a vara de Arão, que representava a tribo de Levi, tinha brotado, produzindo botões e flores, além de amêndoas maduras.
+
+[[v4-17-9]]
+
+^<<v4-17-9,9>>^ Então Moisés retirou todas as varas da presença do Senhor e as levou a todos os israelitas. Eles viram as varas, e cada líder pegou a sua.
+
+[[v4-17-10]]
+
+^<<v4-17-10,10>>^ O Senhor disse a Moisés: "Ponha de volta a vara de Arão em frente da arca das tábuas da aliança, para ser guardada como uma advertência para os rebeldes. Isso porá fim à queixa deles contra mim, para que não morram".
+
+[[v4-17-11]]
+
+^<<v4-17-11,11>>^ Moisés fez conforme o Senhor lhe havia ordenado.
+
+[[v4-17-12]]
+
+^<<v4-17-12,12>>^ Os israelitas disseram a Moisés: "Nós morreremos! Estamos perdidos, estamos todos perdidos!
+
+[[v4-17-13]]
+
+^<<v4-17-13,13>>^ Todo aquele que se aproximar do santuário do Senhor morrerá. Será que todos nós vamos morrer? "
+
+'''
+
+xref:004-numeros/004-numeros-016.adoc#v4-16-0[&#60; Capítulo Anterior] | <<v4-17-0,Topo>> | xref:004-numeros/004-numeros-018.adoc#v4-18-0[Próximo Capítulo &#62;]

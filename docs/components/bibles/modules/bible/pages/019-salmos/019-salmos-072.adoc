@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-72-0]]
+=== Salmos, 72
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-72-1]]
+
+^<<v19-72-1,1>>^ Reveste da tua justiça o rei, ó Deus, e o filho do rei, da tua retidão,
+
+[[v19-72-2]]
+
+^<<v19-72-2,2>>^ para que ele julgue com retidão e com justiça os teus que sofrem opressão.
+
+[[v19-72-3]]
+
+^<<v19-72-3,3>>^ Que os montes tragam prosperidade ao povo, e as colinas, o fruto da justiça.
+
+[[v19-72-4]]
+
+^<<v19-72-4,4>>^ Defenda ele os oprimidos entre o povo e liberte os filhos dos pobres; esmague ele o opressor!
+
+[[v19-72-5]]
+
+^<<v19-72-5,5>>^ Que ele perdure como o sol e como a lua, por todas as gerações.
+
+[[v19-72-6]]
+
+^<<v19-72-6,6>>^ Seja ele como chuva sobre uma lavoura ceifada, como aguaceiros que regam a terra.
+
+[[v19-72-7]]
+
+^<<v19-72-7,7>>^ Floresçam os justos nos dias do rei, e haja grande prosperidade enquanto durar a lua.
+
+[[v19-72-8]]
+
+^<<v19-72-8,8>>^ Governe ele de mar a mar e desde o rio Eufrates até os confins da terra.
+
+[[v19-72-9]]
+
+^<<v19-72-9,9>>^ Inclinem-se diante dele as tribos do deserto, e os seus inimigos lambam o pó.
+
+[[v19-72-10]]
+
+^<<v19-72-10,10>>^ Que os reis de Társis e das regiões litorâneas lhe tragam tributo; os reis de Sabá e de Sebá lhe ofereçam presentes.
+
+[[v19-72-11]]
+
+^<<v19-72-11,11>>^ Inclinem-se diante dele todos os reis, e sirvam-no todas as nações.
+
+[[v19-72-12]]
+
+^<<v19-72-12,12>>^ Pois ele liberta os pobres que pedem socorro, os oprimidos que não têm quem os ajude.
+
+[[v19-72-13]]
+
+^<<v19-72-13,13>>^ Ele se compadece dos fracos e dos pobres, e os salva da morte.
+
+[[v19-72-14]]
+
+^<<v19-72-14,14>>^ Ele os resgata da opressão e da violência, pois aos seus olhos a vida deles é preciosa.
+
+[[v19-72-15]]
+
+^<<v19-72-15,15>>^ Tenha o rei vida longa! Receba ele o ouro de Sabá. Que se ore por ele continuamente, e todo o dia se invoquem bênçãos sobre ele.
+
+[[v19-72-16]]
+
+^<<v19-72-16,16>>^ Haja fartura de trigo por toda a terra, ondulando no alto dos montes. Floresçam os seus frutos como os do Líbano e cresçam as cidades como as plantas no campo.
+
+[[v19-72-17]]
+
+^<<v19-72-17,17>>^ Permaneça para sempre o seu nome e dure a sua fama enquanto o sol brilhar. Sejam abençoadas todas as nações por meio dele, e que elas o chamem bendito.
+
+[[v19-72-18]]
+
+^<<v19-72-18,18>>^ Bendito seja o Senhor Deus, o Deus de Israel, o único que realiza feitos maravilhosos.
+
+[[v19-72-19]]
+
+^<<v19-72-19,19>>^ Bendito seja o seu glorioso nome para sempre; encha-se toda a terra da sua glória. Amém e amém.
+
+[[v19-72-20]]
+
+^<<v19-72-20,20>>^ Encerram-se aqui as orações de Davi, filho de Jessé.
+
+'''
+
+xref:019-salmos/019-salmos-071.adoc#v19-71-0[&#60; Capítulo Anterior] | <<v19-72-0,Topo>> | xref:019-salmos/019-salmos-073.adoc#v19-73-0[Próximo Capítulo &#62;]

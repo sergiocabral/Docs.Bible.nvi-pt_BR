@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v17-3-0]]
+=== Ester, 3
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v17-3-1]]
+
+^<<v17-3-1,1>>^ Depois desses acontecimentos, o rei Xerxes honrou a Hamã, filho de Hamedata, descendente de Agague, promovendo-o e dando-lhe uma posição mais elevada do que a de todos os demais nobres.
+
+[[v17-3-2]]
+
+^<<v17-3-2,2>>^ Todos os oficiais do palácio real curvavam-se e prostravam-se diante de Hamã, conforme as ordens do rei. Mardoqueu, porém, não se curvava nem se prostrava diante dele.
+
+[[v17-3-3]]
+
+^<<v17-3-3,3>>^ Então os oficiais do palácio real perguntaram a Mardoqueu: "Por que você desobedece à ordem do rei? "
+
+[[v17-3-4]]
+
+^<<v17-3-4,4>>^ Dia após dia eles lhe falavam, mas ele não lhes dava atenção e dizia que era judeu. Então contaram tudo a Hamã para ver se o comportamento de Mardoqueu seria tolerado.
+
+[[v17-3-5]]
+
+^<<v17-3-5,5>>^ Quando Hamã viu que Mardoqueu não se curvava nem se prostrava, ficou muito irado.
+
+[[v17-3-6]]
+
+^<<v17-3-6,6>>^ Contudo, sabendo quem era o povo de Mardoqueu, achou que não bastava matá-lo. Em vez disso, Hamã procurou uma forma de exterminar todos os judeus, o povo de Mardoqueu, em todo o império de Xerxes.
+
+[[v17-3-7]]
+
+^<<v17-3-7,7>>^ No primeiro mês do décimo segundo ano do reinado do rei Xerxes, no mês de nisã, lançaram o pur, isto é a sorte, na presença de Hamã para escolher um dia e um mês para executar o plano, e foi sorteado o décimo segundo mês, o mês de adar.
+
+[[v17-3-8]]
+
+^<<v17-3-8,8>>^ Então Hamã disse ao rei Xerxes: "Existe certo povo disperso e espalhado entre os povos de todas as províncias de teu império, cujos costumes são diferentes dos de todos os outros povos e que não obedecem às leis do rei; não convém ao rei tolerá-los.
+
+[[v17-3-9]]
+
+^<<v17-3-9,9>>^ Se for do agrado do rei, que se decrete a destruição deles; e colocarei trezentas e cinqüenta toneladas de prata na tesouraria real à disposição para que se execute esse trabalho".
+
+[[v17-3-10]]
+
+^<<v17-3-10,10>>^ Então o rei tirou seu anel-selo do dedo, deu-o a Hamã, o inimigo dos judeus, filho de Hamedata, descendente de Agague, e lhe disse:
+
+[[v17-3-11]]
+
+^<<v17-3-11,11>>^ "Fique com a prata e faça com o povo o que você achar melhor".
+
+[[v17-3-12]]
+
+^<<v17-3-12,12>>^ Assim, no décimo terceiro dia do primeiro mês os secretários do rei foram convocados. Hamã ordenou que escrevessem cartas na língua e na escrita de cada povo aos sátrapas do rei, aos governadores das várias províncias e aos chefes de cada povo. Tudo foi escrito em nome do rei Xerxes e selado com o seu anel.
+
+[[v17-3-13]]
+
+^<<v17-3-13,13>>^ As cartas foram enviadas por mensageiros a todas as províncias do império com a ordem de exterminar e aniquilar completamente todos os judeus, jovens e idosos, mulheres e crianças, num único dia, o décimo terceiro dia do décimo segundo mês, o mês de adar, e de saquear os seus bens.
+
+[[v17-3-14]]
+
+^<<v17-3-14,14>>^ Uma cópia do decreto deveria ser publicada como lei em cada província e levada ao conhecimento do povo de cada nação, a fim de que estivessem prontos para aquele dia.
+
+[[v17-3-15]]
+
+^<<v17-3-15,15>>^ Por ordem do rei, os mensageiros saíram às pressas, e o decreto foi publicado na cidadela de Susã. O rei e Hamã assentaram-se para beber, mas a cidade de Susã estava confusa.
+
+'''
+
+xref:017-ester/017-ester-002.adoc#v17-2-0[&#60; Capítulo Anterior] | <<v17-3-0,Topo>> | xref:017-ester/017-ester-004.adoc#v17-4-0[Próximo Capítulo &#62;]

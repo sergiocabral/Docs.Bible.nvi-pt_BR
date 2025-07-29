@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-46-0]]
+=== Isaías, 46
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v23-46-1]]
+
+^<<v23-46-1,1>>^ Bel se inclina, Nebo se abaixa; os seus ídolos são levados por animais de carga. As imagens que são levadas por aí, são pesadas, um fardo para os exaustos.
+
+[[v23-46-2]]
+
+^<<v23-46-2,2>>^ Juntos eles se abaixam e se inclinam; incapazes de salvar o fardo, eles mesmos vão para o cativeiro.
+
+[[v23-46-3]]
+
+^<<v23-46-3,3>>^ "Escute-me, ó casa de Jacó, todos vocês que restam da nação de Israel, vocês a quem tenho sustentado desde que foram concebidos, e que tenho carregado desde o seu nascimento.
+
+[[v23-46-4]]
+
+^<<v23-46-4,4>>^ Mesmo na sua velhice, quando tiverem cabelos brancos, sou eu aquele, aquele que os susterá. Eu os fiz e eu os levarei; eu os susterei e eu os salvarei.
+
+[[v23-46-5]]
+
+^<<v23-46-5,5>>^ "Com quem vocês me compararão ou a quem me considerarão igual? Com quem vocês me assemelharão para que sejamos comparados?
+
+[[v23-46-6]]
+
+^<<v23-46-6,6>>^ Alguns derramam ouro de suas bolsas e pesam prata na balança; contratam um ourives para transformá-lo num deus, inclinam-se e o adoram.
+
+[[v23-46-7]]
+
+^<<v23-46-7,7>>^ Erguem-no ao ombro e o carregam; põem-no de pé em seu local, e ali ele fica. Daquele local não consegue se mexer. Embora alguém o invoque, ele não responde; é incapaz de salvá-lo de seus problemas.
+
+[[v23-46-8]]
+
+^<<v23-46-8,8>>^ "Lembrem-se disto, gravem-no na mente, acolham no íntimo, ó rebeldes.
+
+[[v23-46-9]]
+
+^<<v23-46-9,9>>^ Lembrem-se das coisas passadas, das coisas muito antigas! Eu sou Deus, e não há nenhum outro; eu sou Deus, e não há nenhum como eu.
+
+[[v23-46-10]]
+
+^<<v23-46-10,10>>^ Desde o início faço conhecido o fim, desde tempos remotos, o que ainda virá. Digo: Meu propósito ficará de pé, e farei tudo o que me agrada.
+
+[[v23-46-11]]
+
+^<<v23-46-11,11>>^ Do oriente convoco uma ave de rapina; de uma terra bem distante, um homem para cumprir o meu propósito. O que eu disse, isso eu farei acontecer; o que planejei, isso farei.
+
+[[v23-46-12]]
+
+^<<v23-46-12,12>>^ Escutem-me, vocês de coração obstinado, vocês que estão longe da retidão.
+
+[[v23-46-13]]
+
+^<<v23-46-13,13>>^ Estou trazendo para perto a minha retidão, ela não está distante; e a minha salvação não será adiada. Concederei salvação a Sião, meu esplendor a Israel.
+
+'''
+
+xref:023-isaias/023-isaias-045.adoc#v23-45-0[&#60; Capítulo Anterior] | <<v23-46-0,Topo>> | xref:023-isaias/023-isaias-047.adoc#v23-47-0[Próximo Capítulo &#62;]

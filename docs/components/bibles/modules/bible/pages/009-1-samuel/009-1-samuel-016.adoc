@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v9-16-0]]
+=== 1 Samuel, 16
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v9-16-1]]
+
+^<<v9-16-1,1>>^ O Senhor disse a Samuel: "Até quando você irá se entristecer por causa de Saul? Eu o rejeitei como rei de Israel. Encha um chifre com óleo e vá a Belém; eu o enviarei a Jessé. Escolhi um de seus filhos para ser rei".
+
+[[v9-16-2]]
+
+^<<v9-16-2,2>>^ Samuel, porém, disse: "Como poderei ir? Saul saberá disto e me matará". O Senhor disse: "Leve um novilho com você e diga que foi sacrificar ao Senhor.
+
+[[v9-16-3]]
+
+^<<v9-16-3,3>>^ Convide Jessé para o sacrifício, e eu lhe mostrarei o que fazer. Você irá ungir para mim aquele que eu indicar".
+
+[[v9-16-4]]
+
+^<<v9-16-4,4>>^ Samuel fez o que o Senhor disse. Quando chegou a Belém, as autoridades da cidade foram encontrar-se com ele tremendo e perguntaram: "Você vem em paz? "
+
+[[v9-16-5]]
+
+^<<v9-16-5,5>>^ Respondeu Samuel: "Sim, venho em paz; vim sacrificar ao Senhor. Consagrem-se e venham ao sacrifício comigo". Então ele consagrou Jessé e os filhos dele e os convidou para o sacrifício.
+
+[[v9-16-6]]
+
+^<<v9-16-6,6>>^ Quando chegaram, Samuel viu Eliabe e pensou: "Com certeza este aqui é o que o Senhor quer ungir".
+
+[[v9-16-7]]
+
+^<<v9-16-7,7>>^ O Senhor, contudo, disse a Samuel: "Não considere a sua aparência nem sua altura, pois eu o rejeitei. O Senhor não vê como o homem: o homem vê a aparência, mas o Senhor vê o coração".
+
+[[v9-16-8]]
+
+^<<v9-16-8,8>>^ Então Jessé chamou Abinadabe e o levou a Samuel. Ele, porém, disse: "O Senhor também não escolheu a este".
+
+[[v9-16-9]]
+
+^<<v9-16-9,9>>^ Então Jessé levou Samá a Samuel, mas este disse: "Também não foi este que o Senhor escolheu".
+
+[[v9-16-10]]
+
+^<<v9-16-10,10>>^ Jessé levou a Samuel sete de seus filhos, mas Samuel lhe disse: "O Senhor não escolheu nenhum destes".
+
+[[v9-16-11]]
+
+^<<v9-16-11,11>>^ Então perguntou a Jessé: "Estes são todos os filhos que você tem? " Jessé respondeu: "Ainda tenho o caçula, mas ele está cuidando das ovelhas". Samuel disse: "Traga-o aqui; não nos sentaremos para comer até que ele chegue".
+
+[[v9-16-12]]
+
+^<<v9-16-12,12>>^ Então Jessé mandou chamá-lo e ele veio. Ele era ruivo, de belos olhos e boa aparência. Então o Senhor disse a Samuel: "É este! Levante-se e unja-o".
+
+[[v9-16-13]]
+
+^<<v9-16-13,13>>^ Samuel então apanhou o chifre cheio de óleo e o ungiu na presença de seus irmãos, e a partir daquele dia o Espírito do Senhor apoderou-se de Davi. E Samuel voltou para Ramá.
+
+[[v9-16-14]]
+
+^<<v9-16-14,14>>^ O Espírito do Senhor se retirou de Saul, e um espírito maligno, vindo da parte do Senhor, o atormentava.
+
+[[v9-16-15]]
+
+^<<v9-16-15,15>>^ Os funcionários de Saul lhe disseram: "Há um espírito maligno mandado por Deus te atormentando.
+
+[[v9-16-16]]
+
+^<<v9-16-16,16>>^ Que nosso soberano mande estes seus servos procurar um homem que saiba tocar a harpa. Quando o espírito maligno se apoderar de ti, o homem tocará a harpa e tu te sentirás melhor".
+
+[[v9-16-17]]
+
+^<<v9-16-17,17>>^ E Saul respondeu aos que o serviam: "Encontrem alguém que toque bem e o tragam até aqui".
+
+[[v9-16-18]]
+
+^<<v9-16-18,18>>^ Um dos funcionários respondeu: "Conheço um dos filhos de Jessé, de Belém, que sabe tocar harpa. É um guerreiro valente, sabe falar bem, tem boa aparência e o Senhor está com ele".
+
+[[v9-16-19]]
+
+^<<v9-16-19,19>>^ Então Saul mandou mensageiros a Jessé com a seguinte mensagem: "Envie-me seu filho Davi, que cuida das ovelhas".
+
+[[v9-16-20]]
+
+^<<v9-16-20,20>>^ Jessé apanhou um jumento e o carregou de pães, uma vasilha de couro cheia de vinho e um cabrito e o enviou a Saul por meio de Davi, seu filho.
+
+[[v9-16-21]]
+
+^<<v9-16-21,21>>^ Davi foi apresentar-se a Saul e passou a trabalhar para ele. Saul gostou muito dele, e Davi tornou-se seu escudeiro.
+
+[[v9-16-22]]
+
+^<<v9-16-22,22>>^ Então Saul enviou a seguinte mensagem a Jessé: "Deixe que Davi continue trabalhando para mim, pois estou satisfeito com ele".
+
+[[v9-16-23]]
+
+^<<v9-16-23,23>>^ E sempre que o espírito mandado por Deus se apoderava de Saul, Davi apanhava sua harpa e tocava. Então Saul sentia alívio e melhorava, e o espírito maligno o deixava.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-015.adoc#v9-15-0[&#60; Capítulo Anterior] | <<v9-16-0,Topo>> | xref:009-1-samuel/009-1-samuel-017.adoc#v9-17-0[Próximo Capítulo &#62;]

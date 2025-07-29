@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v18-35-0]]
+=== Jó, 35
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-35-1]]
+
+^<<v18-35-1,1>>^ Eliú prosseguiu:
+
+[[v18-35-2]]
+
+^<<v18-35-2,2>>^ "Você acha que isso é justo? Pois você diz: ‘Serei absolvido por Deus’.
+
+[[v18-35-3]]
+
+^<<v18-35-3,3>>^ Contudo, você lhe pergunta: ‘Que vantagem tenho eu, e o que ganho, se não pecar? ’
+
+[[v18-35-4]]
+
+^<<v18-35-4,4>>^ "Desejo responder-lhe, a você e aos seus amigos que estão com você.
+
+[[v18-35-5]]
+
+^<<v18-35-5,5>>^ Olhe para os céus e veja; mire as nuvens, tão elevadas.
+
+[[v18-35-6]]
+
+^<<v18-35-6,6>>^ Se você pecar, em que isso o afetará? Se os seus pecados forem muitos, que é que isso lhe fará?
+
+[[v18-35-7]]
+
+^<<v18-35-7,7>>^ Se você for justo, o que lhe dará? Ou o que ele receberá de sua mão?
+
+[[v18-35-8]]
+
+^<<v18-35-8,8>>^ A sua impiedade só afeta aos homens, seus semelhantes, e a sua justiça, aos filhos dos homens.
+
+[[v18-35-9]]
+
+^<<v18-35-9,9>>^ "Os homens se lamentam sob fardos de opressão; imploram que os libertem do braço dos poderosos.
+
+[[v18-35-10]]
+
+^<<v18-35-10,10>>^ Mas não há quem pergunte: ‘Onde está Deus, o meu Criador, que de noite faz surgirem cânticos,
+
+[[v18-35-11]]
+
+^<<v18-35-11,11>>^ que nos ensina mais que aos animais da terra e nos faz mais sábios que as aves dos céus? ’
+
+[[v18-35-12]]
+
+^<<v18-35-12,12>>^ Quando clamam, ele não responde por causa da arrogância dos ímpios.
+
+[[v18-35-13]]
+
+^<<v18-35-13,13>>^ Aliás, Deus não escuta a vã súplica que fazem; o Todo-poderoso não lhe dá atenção.
+
+[[v18-35-14]]
+
+^<<v18-35-14,14>>^ Pois muito menos escutará quando você disser que não o vê, que a sua causa está diante dele e que você tem que esperar por ele.
+
+[[v18-35-15]]
+
+^<<v18-35-15,15>>^ Mais que isso, que a sua ira jamais castiga e que ele não dá a mínima atenção à iniqüidade.
+
+[[v18-35-16]]
+
+^<<v18-35-16,16>>^ Assim é que Jó abre a sua boca para dizer palavras vãs; em sua ignorância ele multiplica palavras".
+
+'''
+
+xref:018-jo/018-jo-034.adoc#v18-34-0[&#60; Capítulo Anterior] | <<v18-35-0,Topo>> | xref:018-jo/018-jo-036.adoc#v18-36-0[Próximo Capítulo &#62;]

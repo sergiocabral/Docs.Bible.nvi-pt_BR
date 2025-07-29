@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v19-37-0]]
+=== Salmos, 37
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-37-1]]
+
+^<<v19-37-1,1>>^ Não se aborreça por causa dos homens maus e não tenha inveja dos perversos;
+
+[[v19-37-2]]
+
+^<<v19-37-2,2>>^ pois como o capim logo secarão, como a relva verde logo murcharão.
+
+[[v19-37-3]]
+
+^<<v19-37-3,3>>^ Confie no Senhor e faça o bem; assim você habitará na terra e desfrutará segurança.
+
+[[v19-37-4]]
+
+^<<v19-37-4,4>>^ Deleite-se no Senhor, e ele atenderá aos desejos do seu coração.
+
+[[v19-37-5]]
+
+^<<v19-37-5,5>>^ Entregue o seu caminho ao Senhor; confie nele, e ele agirá:
+
+[[v19-37-6]]
+
+^<<v19-37-6,6>>^ Ele deixará claro como a alvorada que você é justo, e como o sol do meio-dia que você é inocente.
+
+[[v19-37-7]]
+
+^<<v19-37-7,7>>^ Descanse no Senhor e aguarde por ele com paciência; não se aborreça com o sucesso dos outros, nem com aqueles que maquinam o mal.
+
+[[v19-37-8]]
+
+^<<v19-37-8,8>>^ Evite a ira e rejeite a fúria; não se irrite: isso só leva ao mal.
+
+[[v19-37-9]]
+
+^<<v19-37-9,9>>^ Pois os maus serão eliminados, mas os que esperam no Senhor receberão a terra por herança.
+
+[[v19-37-10]]
+
+^<<v19-37-10,10>>^ Um pouco de tempo, e os ímpios não mais existirão; por mais que os procure, não serão encontrados.
+
+[[v19-37-11]]
+
+^<<v19-37-11,11>>^ Mas os humildes receberão a terra por herança e desfrutarão pleno bem-estar.
+
+[[v19-37-12]]
+
+^<<v19-37-12,12>>^ Os ímpios tramam contra os justos e rosnam contra eles;
+
+[[v19-37-13]]
+
+^<<v19-37-13,13>>^ o Senhor, porém, ri dos ímpios, pois sabe que o dia deles está chegando.
+
+[[v19-37-14]]
+
+^<<v19-37-14,14>>^ Os ímpios desembainham a espada e preparam o arco para abaterem o necessitado e o pobre, para matarem os que andam na retidão.
+
+[[v19-37-15]]
+
+^<<v19-37-15,15>>^ Mas as suas espadas lhes atravessará o coração, e os seus arcos serão quebrados.
+
+[[v19-37-16]]
+
+^<<v19-37-16,16>>^ Melhor é o pouco do justo do que a riqueza de muitos ímpios;
+
+[[v19-37-17]]
+
+^<<v19-37-17,17>>^ pois o braço forte dos ímpios será quebrado, mas o Senhor sustém os justos.
+
+[[v19-37-18]]
+
+^<<v19-37-18,18>>^ O Senhor cuida da vida dos íntegros, e a herança deles permanecerá para sempre.
+
+[[v19-37-19]]
+
+^<<v19-37-19,19>>^ Em tempos de adversidade não ficarão decepcionados; em dias de fome desfrutarão fartura.
+
+[[v19-37-20]]
+
+^<<v19-37-20,20>>^ Mas os ímpios perecerão; Os inimigos do Senhor murcharão como a beleza dos campos; desvanecerão como fumaça.
+
+[[v19-37-21]]
+
+^<<v19-37-21,21>>^ Os ímpios tomam emprestado e não devolvem, mas os justos dão com generosidade;
+
+[[v19-37-22]]
+
+^<<v19-37-22,22>>^ aqueles que o Senhor abençoa receberão a terra por herança, mas os que ele amaldiçoa serão eliminados.
+
+[[v19-37-23]]
+
+^<<v19-37-23,23>>^ O Senhor firma os passos de um homem, quando a conduta deste o agrada;
+
+[[v19-37-24]]
+
+^<<v19-37-24,24>>^ ainda que tropece, não cairá, pois o Senhor o toma pela mão.
+
+[[v19-37-25]]
+
+^<<v19-37-25,25>>^ Já fui jovem e agora sou velho, mas nunca vi o justo desamparado, nem seus filhos mendigando o pão.
+
+[[v19-37-26]]
+
+^<<v19-37-26,26>>^ Ele é sempre generoso e empresta com boa vontade; seus filhos serão abençoados.
+
+[[v19-37-27]]
+
+^<<v19-37-27,27>>^ Desvie-se do mal e faça o bem; e você terá sempre onde morar.
+
+[[v19-37-28]]
+
+^<<v19-37-28,28>>^ Pois o Senhor ama quem pratica a justiça, e não abandonará os seus fiéis. Para sempre serão protegidos, mas a descendência dos ímpios será eliminada;
+
+[[v19-37-29]]
+
+^<<v19-37-29,29>>^ os justos herdarão a terra e nela habitarão para sempre.
+
+[[v19-37-30]]
+
+^<<v19-37-30,30>>^ A boca do justo profere sabedoria, e a sua língua fala conforme a justiça.
+
+[[v19-37-31]]
+
+^<<v19-37-31,31>>^ Ele traz no coração a lei do seu Deus; nunca pisará em falso.
+
+[[v19-37-32]]
+
+^<<v19-37-32,32>>^ O ímpio fica à espreita do justo, querendo matá-lo;
+
+[[v19-37-33]]
+
+^<<v19-37-33,33>>^ mas o Senhor não o deixará cair em suas mãos, nem permitirá que o condenem quando julgado.
+
+[[v19-37-34]]
+
+^<<v19-37-34,34>>^ Espere no Senhor e siga a sua vontade. Ele o exaltará, dando-lhe a terra por herança; quando os ímpios forem eliminados, você o verá.
+
+[[v19-37-35]]
+
+^<<v19-37-35,35>>^ Vi um homem ímpio e cruel florescendo como frondosa árvore nativa,
+
+[[v19-37-36]]
+
+^<<v19-37-36,36>>^ mas logo desapareceu e não mais existia; embora eu o procurasse, não pôde ser encontrado.
+
+[[v19-37-37]]
+
+^<<v19-37-37,37>>^ Considere o íntegro, observe o justo; há futuro para o homem de paz.
+
+[[v19-37-38]]
+
+^<<v19-37-38,38>>^ Mas todos os rebeldes serão destruídos; futuro para os ímpios, nunca haverá.
+
+[[v19-37-39]]
+
+^<<v19-37-39,39>>^ Do Senhor vem a salvação dos justos; ele é a sua fortaleza na hora da adversidade.
+
+[[v19-37-40]]
+
+^<<v19-37-40,40>>^ O Senhor os ajuda e os livra; ele os livra dos ímpios e os salva, porque nele se refugiam.
+
+'''
+
+xref:019-salmos/019-salmos-036.adoc#v19-36-0[&#60; Capítulo Anterior] | <<v19-37-0,Topo>> | xref:019-salmos/019-salmos-038.adoc#v19-38-0[Próximo Capítulo &#62;]

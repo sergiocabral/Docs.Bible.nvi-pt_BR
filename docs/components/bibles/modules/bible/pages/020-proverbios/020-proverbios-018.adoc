@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v20-18-0]]
+=== Provérbios, 18
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-18-1]]
+
+^<<v20-18-1,1>>^ Quem se isola, busca interesses egoístas, e se rebela contra a sensatez.
+
+[[v20-18-2]]
+
+^<<v20-18-2,2>>^ O tolo não tem prazer no entendimento, mas sim em expor os seus pensamentos.
+
+[[v20-18-3]]
+
+^<<v20-18-3,3>>^ Com a impiedade, vem o desprezo, e com a desonra vem a vergonha.
+
+[[v20-18-4]]
+
+^<<v20-18-4,4>>^ As palavras do homem são águas profundas, mas a fonte da sabedoria é um ribeiro que transborda.
+
+[[v20-18-5]]
+
+^<<v20-18-5,5>>^ Não é bom favorecer os ímpios para privar da justiça o justo.
+
+[[v20-18-6]]
+
+^<<v20-18-6,6>>^ As palavras do tolo provocam briga, e a sua conversa atrai açoites.
+
+[[v20-18-7]]
+
+^<<v20-18-7,7>>^ A conversa do tolo é a sua desgraça, e seus lábios são uma armadilha para a sua alma.
+
+[[v20-18-8]]
+
+^<<v20-18-8,8>>^ As palavras do caluniador são como petiscos deliciosos; descem até o íntimo do homem.
+
+[[v20-18-9]]
+
+^<<v20-18-9,9>>^ Quem relaxa em seu trabalho é irmão do que o destrói.
+
+[[v20-18-10]]
+
+^<<v20-18-10,10>>^ O nome do Senhor é uma torre forte; os justos correm para ela e estão seguros.
+
+[[v20-18-11]]
+
+^<<v20-18-11,11>>^ A riqueza dos ricos é a sua cidade fortificada, eles a imaginam como um muro que é impossível escalar.
+
+[[v20-18-12]]
+
+^<<v20-18-12,12>>^ Antes da sua queda o coração do homem se envaidece, mas a humildade antecede a honra.
+
+[[v20-18-13]]
+
+^<<v20-18-13,13>>^ Quem responde antes de ouvir, comete insensatez e passa vergonha.
+
+[[v20-18-14]]
+
+^<<v20-18-14,14>>^ O espírito do homem o sustenta na doença, mas o espírito deprimido, quem o levantará?
+
+[[v20-18-15]]
+
+^<<v20-18-15,15>>^ O coração do que tem discernimento adquire conhecimento; os ouvidos dos sábios saem à sua procura.
+
+[[v20-18-16]]
+
+^<<v20-18-16,16>>^ O presente abre o caminho para aquele que o entrega e o conduz à presença dos grandes.
+
+[[v20-18-17]]
+
+^<<v20-18-17,17>>^ O primeiro a apresentar a sua causa parece ter razão, até que outro venha à frente e o questione.
+
+[[v20-18-18]]
+
+^<<v20-18-18,18>>^ Lançar sortes resolve contendas e decide questões entre poderosos.
+
+[[v20-18-19]]
+
+^<<v20-18-19,19>>^ Um irmão ofendido é mais inacessível do que uma cidade fortificada, e as discussões são como as portas trancadas de uma cidadela.
+
+[[v20-18-20]]
+
+^<<v20-18-20,20>>^ Do fruto da boca enche-se o estômago do homem; o produto dos lábios o satisfaz.
+
+[[v20-18-21]]
+
+^<<v20-18-21,21>>^ A língua tem poder sobre a vida e sobre a morte; os que gostam de usá-la comerão do seu fruto.
+
+[[v20-18-22]]
+
+^<<v20-18-22,22>>^ Quem encontra uma esposa encontra algo excelente; recebeu uma bênção do Senhor.
+
+[[v20-18-23]]
+
+^<<v20-18-23,23>>^ O pobre implora misericórdia, mas o rico responde com aspereza.
+
+[[v20-18-24]]
+
+^<<v20-18-24,24>>^ Quem tem muitos amigos pode chegar à ruína, mas existe amigo mais apegado que um irmão.
+
+'''
+
+xref:020-proverbios/020-proverbios-017.adoc#v20-17-0[&#60; Capítulo Anterior] | <<v20-18-0,Topo>> | xref:020-proverbios/020-proverbios-019.adoc#v20-19-0[Próximo Capítulo &#62;]

@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v20-22-0]]
+=== Provérbios, 22
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-22-1]]
+
+^<<v20-22-1,1>>^ A boa reputação vale mais que grandes riquezas; desfrutar de boa estima vale mais que prata e ouro.
+
+[[v20-22-2]]
+
+^<<v20-22-2,2>>^ O rico e o pobre têm isto em comum: O Senhor é o Criador de ambos.
+
+[[v20-22-3]]
+
+^<<v20-22-3,3>>^ O prudente percebe o perigo e busca refúgio; o inexperiente segue adiante e sofre as conseqüências.
+
+[[v20-22-4]]
+
+^<<v20-22-4,4>>^ A recompensa da humildade e do temor do Senhor são a riqueza, a honra e a vida.
+
+[[v20-22-5]]
+
+^<<v20-22-5,5>>^ No caminho do perverso há espinhos e armadilhas; quem quer proteger a própria vida mantém-se longe dele.
+
+[[v20-22-6]]
+
+^<<v20-22-6,6>>^ Instrua a criança segundo os objetivos que você tem para ela, e mesmo com o passar dos anos não se desviará deles.
+
+[[v20-22-7]]
+
+^<<v20-22-7,7>>^ O rico domina sobre o pobre; quem toma emprestado é escravo de quem empresta.
+
+[[v20-22-8]]
+
+^<<v20-22-8,8>>^ Quem semeia a injustiça colhe a maldade; o castigo da sua arrogância será completo.
+
+[[v20-22-9]]
+
+^<<v20-22-9,9>>^ Quem é generoso será abençoado, pois reparte o seu pão com o pobre.
+
+[[v20-22-10]]
+
+^<<v20-22-10,10>>^ Quando se manda embora o zombador, a briga acaba; cessam as contendas e os insultos.
+
+[[v20-22-11]]
+
+^<<v20-22-11,11>>^ Quem ama a sinceridade de coração e se expressa com elegância será amigo do rei.
+
+[[v20-22-12]]
+
+^<<v20-22-12,12>>^ Os olhos do Senhor protegem o conhecimento, mas ele frustra as palavras dos infiéis.
+
+[[v20-22-13]]
+
+^<<v20-22-13,13>>^ O preguiçoso diz: "Há um leão lá fora! " "Serei morto na rua! "
+
+[[v20-22-14]]
+
+^<<v20-22-14,14>>^ A conversa da mulher imoral é uma cova profunda; nela cairá quem estiver sob a ira do Senhor.
+
+[[v20-22-15]]
+
+^<<v20-22-15,15>>^ A insensatez está ligada ao coração da criança, mas a vara da disciplina a livrará dela.
+
+[[v20-22-16]]
+
+^<<v20-22-16,16>>^ Tanto quem oprime o pobre para enriquecer-se como quem faz cortesia ao rico, com certeza passarão necessidade.
+
+[[v20-22-17]]
+
+^<<v20-22-17,17>>^ Preste atenção e ouça os ditados dos sábios; aplique o coração ao meu ensino.
+
+[[v20-22-18]]
+
+^<<v20-22-18,18>>^ Será uma satisfação guardá-los no íntimo e tê-los todos na ponta da língua.
+
+[[v20-22-19]]
+
+^<<v20-22-19,19>>^ Para que você confie no Senhor, a você hoje ensinarei.
+
+[[v20-22-20]]
+
+^<<v20-22-20,20>>^ Já não lhe escrevi conselhos e instruções,
+
+[[v20-22-21]]
+
+^<<v20-22-21,21>>^ ensinando-lhe palavras dignas de confiança, para que você responda com a verdade a quem o enviou?
+
+[[v20-22-22]]
+
+^<<v20-22-22,22>>^ Não explore os pobres por serem pobres, nem oprima os necessitados no tribunal,
+
+[[v20-22-23]]
+
+^<<v20-22-23,23>>^ pois o Senhor será o advogado deles, e despojará da vida os que os despojarem.
+
+[[v20-22-24]]
+
+^<<v20-22-24,24>>^ Não se associe com quem vive de mau humor, nem ande em companhia de quem facilmente se ira;
+
+[[v20-22-25]]
+
+^<<v20-22-25,25>>^ do contrário você acabará imitando essa conduta e cairá em armadilha mortal.
+
+[[v20-22-26]]
+
+^<<v20-22-26,26>>^ Não seja como aqueles que, com um aperto de mãos, empenham-se com outros e se tornam fiadores de dívidas;
+
+[[v20-22-27]]
+
+^<<v20-22-27,27>>^ se você não tem como pagá-las, por que correr o risco de perder até a cama em que dorme?
+
+[[v20-22-28]]
+
+^<<v20-22-28,28>>^ Não mude de lugar os antigos marcos que limitam as propriedades e que foram colocados por seus antepassados.
+
+[[v20-22-29]]
+
+^<<v20-22-29,29>>^ Você já observou um homem habilidoso em seu trabalho? Será promovido ao serviço real; não trabalhará para gente obscura.
+
+'''
+
+xref:020-proverbios/020-proverbios-021.adoc#v20-21-0[&#60; Capítulo Anterior] | <<v20-22-0,Topo>> | xref:020-proverbios/020-proverbios-023.adoc#v20-23-0[Próximo Capítulo &#62;]

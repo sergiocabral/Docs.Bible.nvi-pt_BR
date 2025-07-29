@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v33-3-0]]
+=== Miquéias, 3
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v33-3-1]]
+
+^<<v33-3-1,1>>^ Então eu disse: "Ouçam, vocês que são chefes de Jacó, governantes da nação de Israel. Vocês deveriam conhecer a justiça!
+
+[[v33-3-2]]
+
+^<<v33-3-2,2>>^ Mas odeiam o bem e amam o mal; arrancam a pele do meu povo e a carne dos seus ossos.
+
+[[v33-3-3]]
+
+^<<v33-3-3,3>>^ Aqueles que comem a carne do meu povo, arrancam a sua pele, despedaçam os seus ossos e cortam-no como se fosse carne para a panela,
+
+[[v33-3-4]]
+
+^<<v33-3-4,4>>^ um dia clamarão ao Senhor, mas ele não lhes responderá. Naquela tempo ele esconderá deles o rosto por causa do mal que eles têm feito.
+
+[[v33-3-5]]
+
+^<<v33-3-5,5>>^ Assim diz o Senhor aos profetas que fazem o meu povo desviar-se; quando lhes dão o que mastigar, proclamam paz, mas proclamam guerra santa contra quem não lhes enche a boca:
+
+[[v33-3-6]]
+
+^<<v33-3-6,6>>^ Por tudo isso a noite virá sobre vocês, noite sem visões; haverá trevas, sem adivinhações. O sol se porá para os profetas, e o dia se escurecerá para eles.
+
+[[v33-3-7]]
+
+^<<v33-3-7,7>>^ Os videntes ficarão envergonhados, e os adivinhos constrangidos. Todos cobrirão o rosto porque não haverá resposta da parte de Deus".
+
+[[v33-3-8]]
+
+^<<v33-3-8,8>>^ Mas, quanto a mim, graças ao poder do Espírito do Senhor, estou cheio de força e de justiça, para declarar a Jacó a sua transgressão, e a Israel o seu pecado.
+
+[[v33-3-9]]
+
+^<<v33-3-9,9>>^ Ouçam isto, vocês que são chefes da descendência de Jacó, governantes da nação de Israel, que detestam a justiça e pervertem tudo o que é justo;
+
+[[v33-3-10]]
+
+^<<v33-3-10,10>>^ que constroem Sião com derramamento de sangue, e Jerusalém com impiedade.
+
+[[v33-3-11]]
+
+^<<v33-3-11,11>>^ Seus líderes julgam a troco de suborno, seus sacerdotes ensinam por lucro, e seus profetas adivinham em troca de prata. E ainda se apóiam no Senhor, dizendo: "O Senhor está no meio de nós. Nenhuma desgraça vai nos acontecer".
+
+[[v33-3-12]]
+
+^<<v33-3-12,12>>^ Por isso, por causa de vocês, Sião será arada como um campo, Jerusalém se tornará um monte de entulho, e a colina do templo, um matagal.
+
+'''
+
+xref:033-miqueias/033-miqueias-002.adoc#v33-2-0[&#60; Capítulo Anterior] | <<v33-3-0,Topo>> | xref:033-miqueias/033-miqueias-004.adoc#v33-4-0[Próximo Capítulo &#62;]

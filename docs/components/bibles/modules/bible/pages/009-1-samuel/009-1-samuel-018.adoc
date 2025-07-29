@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v9-18-0]]
+=== 1 Samuel, 18
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v9-18-1]]
+
+^<<v9-18-1,1>>^ Depois dessa conversa de Davi com Saul, surgiu tão grande amizade entre Jônatas e Davi que Jônatas tornou-se o seu melhor amigo.
+
+[[v9-18-2]]
+
+^<<v9-18-2,2>>^ Daquele dia em diante, Saul manteve Davi consigo e não o deixou voltar à casa de seu pai.
+
+[[v9-18-3]]
+
+^<<v9-18-3,3>>^ E Jônatas fez um acordo de amizade com Davi, pois se tornara o melhor amigo de Davi.
+
+[[v9-18-4]]
+
+^<<v9-18-4,4>>^ Jônatas tirou o manto que estava vestindo e deu-o a Davi, junto com sua túnica, e até sua espada, seu arco e seu cinturão.
+
+[[v9-18-5]]
+
+^<<v9-18-5,5>>^ Tudo que Saul lhe ordenava fazer, Davi fazia com tanta habilidade que Saul lhe deu um posto elevado no exército. Isto agradou a todo o povo, bem como aos conselheiros de Saul.
+
+[[v9-18-6]]
+
+^<<v9-18-6,6>>^ Quando os soldados voltavam para casa, depois de Davi ter matado o filisteu, as mulheres saíram de todas as cidades de Israel ao encontro do rei Saul com cânticos e danças, com tamborins, com músicas alegres e instrumentos de três cordas.
+
+[[v9-18-7]]
+
+^<<v9-18-7,7>>^ Enquanto dançavam, as mulheres cantavam: "Saul matou milhares, e Davi, dezenas de milhares".
+
+[[v9-18-8]]
+
+^<<v9-18-8,8>>^ Saul ficou muito irritado, com esse refrão e, aborrecido disse: "Atribuíram a Davi dezenas de milhares, mas a mim apenas milhares. O que mais lhe falta senão o reino? "
+
+[[v9-18-9]]
+
+^<<v9-18-9,9>>^ Daí em diante Saul olhava com inveja para Davi.
+
+[[v9-18-10]]
+
+^<<v9-18-10,10>>^ No dia seguinte, um espírito maligno mandado por Deus apoderou-se de Saul e ele entrou em transe profético em sua casa, enquanto Davi tocava harpa, como costumava fazer. Saul estava com uma lança na mão
+
+[[v9-18-11]]
+
+^<<v9-18-11,11>>^ e a atirou, dizendo: "Encravarei Davi na parede". Mas Davi desviou-se duas vezes.
+
+[[v9-18-12]]
+
+^<<v9-18-12,12>>^ Saul tinha medo de Davi porque o Senhor o havia abandonado e agora estava com Davi.
+
+[[v9-18-13]]
+
+^<<v9-18-13,13>>^ Então afastou Davi de sua presença e deu-lhe o comando de uma tropa de mil soldados, e Davi a conduzia em suas campanhas.
+
+[[v9-18-14]]
+
+^<<v9-18-14,14>>^ Ele tinha êxito em tudo o que fazia, pois o Senhor estava com ele.
+
+[[v9-18-15]]
+
+^<<v9-18-15,15>>^ Quando Saul como ele tinha habilidade, teve muito medo dele.
+
+[[v9-18-16]]
+
+^<<v9-18-16,16>>^ Todo Israel e Judá, porém, gostava de Davi, pois ele os conduzia em suas batalhas.
+
+[[v9-18-17]]
+
+^<<v9-18-17,17>>^ Saul disse a Davi: "Aqui está a minha filha mais velha, Merabe. Eu a darei em casamento a você; apenas sirva-me com bravura e lute as batalhas do Senhor". Pois Saul pensou: "Não o matarei. Deixo isso para os filisteus! "
+
+[[v9-18-18]]
+
+^<<v9-18-18,18>>^ Mas Davi disse a Saul: "Quem sou eu, e o que é minha família ou o clã de meu pai em Israel para que eu me torne genro do rei? "
+
+[[v9-18-19]]
+
+^<<v9-18-19,19>>^ Por isso, quando chegou a época de Merabe, a filha de Saul, ser dada em casamento a Davi, ela foi dada a Adriel, de Meolá.
+
+[[v9-18-20]]
+
+^<<v9-18-20,20>>^ Mical, a outra filha de Saul, gostava de Davi. Quando disseram isto a Saul, ele ficou contente e pensou:
+
+[[v9-18-21]]
+
+^<<v9-18-21,21>>^ "Eu a darei a ele, para que lhe sirva de armadilha, fazendo-o cair nas mãos dos filisteus". Então Saul disse a Davi: "Hoje você tem uma segunda oportunidade de tornar-se meu genro".
+
+[[v9-18-22]]
+
+^<<v9-18-22,22>>^ Então Saul ordenou aos seus conselheiros que falassem em particular com Davi, dizendo: "O rei está satisfeito com você, e todos os seus conselheiros o estimam. Torne-se, agora, seu genro".
+
+[[v9-18-23]]
+
+^<<v9-18-23,23>>^ Quando falaram com Davi, ele disse: "Vocês acham que tornar-se genro do rei é fácil? Sou homem pobre e sem recursos".
+
+[[v9-18-24]]
+
+^<<v9-18-24,24>>^ Quando os conselheiros de Saul lhe contaram o que Davi tinha dito,
+
+[[v9-18-25]]
+
+^<<v9-18-25,25>>^ Saul ordenou que dissessem a Davi: "O rei não quer outro preço pela noiva além de cem prepúcios de filisteus, para vingar-se de seus inimigos". O plano de Saul era que Davi fosse morto pelos filisteus.
+
+[[v9-18-26]]
+
+^<<v9-18-26,26>>^ Quando os conselheiros falaram novamente com Davi, ele gostou da idéia de tornar-se genro do rei. Por isso, antes de terminar o prazo estipulado,
+
+[[v9-18-27]]
+
+^<<v9-18-27,27>>^ Davi e seus soldados saíram e mataram duzentos filisteus. Ele trouxe os prepúcios e apresentou-os ao rei para que se tornasse seu genro. Então Saul lhe deu em casamento sua filha Mical.
+
+[[v9-18-28]]
+
+^<<v9-18-28,28>>^ Quando Saul viu claramente que o Senhor estava com Davi e que sua filha Mical o amava,
+
+[[v9-18-29]]
+
+^<<v9-18-29,29>>^ temeu-o ainda mais e continuou seu inimigo pelo resto de sua vida.
+
+[[v9-18-30]]
+
+^<<v9-18-30,30>>^ Os comandantes filisteus continuaram saindo para a batalha, e, todas as vezes que o faziam, Davi tinha mais habilidade do que os outros oficiais de Saul, e ele tornou-se ainda mais famoso.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-017.adoc#v9-17-0[&#60; Capítulo Anterior] | <<v9-18-0,Topo>> | xref:009-1-samuel/009-1-samuel-019.adoc#v9-19-0[Próximo Capítulo &#62;]

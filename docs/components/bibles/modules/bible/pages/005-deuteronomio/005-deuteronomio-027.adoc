@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v5-27-0]]
+=== Deuteronômio, 27
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v5-27-1]]
+
+^<<v5-27-1,1>>^ Moisés e as autoridades de Israel ordenaram ao povo: "Obedeçam à toda esta lei que hoje lhes dou.
+
+[[v5-27-2]]
+
+^<<v5-27-2,2>>^ Quando vocês atravessarem o Jordão, e entrarem na terra que o Senhor, o seu Deus, lhes dá, levantem algumas pedras grandes e pintem-nas com cal.
+
+[[v5-27-3]]
+
+^<<v5-27-3,3>>^ Escrevam nelas todas as palavras desta lei, assim que tiverem atravessado para entrar na terra que o Senhor, o seu Deus, lhes dá, terra onde manam leite e mel, como o Senhor, o Deus dos seus antepassados, lhes prometeu.
+
+[[v5-27-4]]
+
+^<<v5-27-4,4>>^ E, quando tiverem atravessado o Jordão, levantem essas pedras no monte Ebal, como hoje lhes ordeno, e pintem-nas com cal.
+
+[[v5-27-5]]
+
+^<<v5-27-5,5>>^ Construam ali um altar ao Senhor, ao seu Deus, um altar de pedras. Não utilizem ferramenta de ferro nas pedras.
+
+[[v5-27-6]]
+
+^<<v5-27-6,6>>^ Façam o altar do Senhor, do seu Deus, com pedras brutas, e sobre ele ofereçam holocaustos ao Senhor, ao seu Deus.
+
+[[v5-27-7]]
+
+^<<v5-27-7,7>>^ Ofereçam também sacrifícios de comunhão, e comam e alegrem-se na presença do Senhor, do seu Deus.
+
+[[v5-27-8]]
+
+^<<v5-27-8,8>>^ E nessas pedras que levantarem, vocês escreverão com bastante clareza todas as palavras desta lei".
+
+[[v5-27-9]]
+
+^<<v5-27-9,9>>^ Então Moisés e os sacerdotes levitas disseram a todo Israel: "Faça silêncio e escute, ó Israel! Agora você se tornou o povo do Senhor, o seu Deus.
+
+[[v5-27-10]]
+
+^<<v5-27-10,10>>^ Obedeça ao Senhor, ao seu Deus, e siga os seus mandamentos e decretos que hoje lhe dou".
+
+[[v5-27-11]]
+
+^<<v5-27-11,11>>^ No mesmo dia Moisés ordenou ao povo:
+
+[[v5-27-12]]
+
+^<<v5-27-12,12>>^ Quando vocês tiverem atravessado o Jordão, as tribos que estarão no monte Gerizim para abençoar o povo serão: Simeão, Levi, Judá, Issacar, José e Benjamim.
+
+[[v5-27-13]]
+
+^<<v5-27-13,13>>^ E as tribos que estarão no monte Ebal para declararem maldições serão: Rúben, Gade, Aser, Zebulom, Dã e Naftali.
+
+[[v5-27-14]]
+
+^<<v5-27-14,14>>^ E os levitas recitarão a todo o povo de Israel em alta voz:
+
+[[v5-27-15]]
+
+^<<v5-27-15,15>>^ "Maldito quem esculpir uma imagem ou fizer um ídolo fundido, obra de artesãos, detestável ao Senhor, e levantá-lo secretamente". Todo o povo dirá: "Amém! "
+
+[[v5-27-16]]
+
+^<<v5-27-16,16>>^ "Maldito quem desonrar o seu pai ou a sua mãe". Todo o povo dirá: "Amém! "
+
+[[v5-27-17]]
+
+^<<v5-27-17,17>>^ "Maldito quem mudar o marco de divisa da propriedade do seu próximo". Todo o povo dirá: "Amém! "
+
+[[v5-27-18]]
+
+^<<v5-27-18,18>>^ "Maldito quem fizer o cego errar o caminho". Todo o povo dirá: "Amém! "
+
+[[v5-27-19]]
+
+^<<v5-27-19,19>>^ "Maldito quem negar justiça ao estrangeiro, ao órfão ou à viúva". Todo o povo dirá: "Amém! "
+
+[[v5-27-20]]
+
+^<<v5-27-20,20>>^ "Maldito quem se deitar com a mulher do seu pai, desonrando a cama do seu pai". Todo o povo dirá: "Amém! "
+
+[[v5-27-21]]
+
+^<<v5-27-21,21>>^ "Maldito quem tiver relações sexuais com algum animal". Todo o povo dirá: "Amém! "
+
+[[v5-27-22]]
+
+^<<v5-27-22,22>>^ "Maldito quem se deitar com a sua irmã, filha do seu pai ou da sua mãe". Todo o povo dirá: "Amém! "
+
+[[v5-27-23]]
+
+^<<v5-27-23,23>>^ "Maldito quem se deitar com a sua sogra". Todo o povo dirá: "Amém! "
+
+[[v5-27-24]]
+
+^<<v5-27-24,24>>^ "Maldito quem matar secretamente o seu próximo". Todo o povo dirá: "Amém! "
+
+[[v5-27-25]]
+
+^<<v5-27-25,25>>^ "Maldito quem aceitar pagamento para matar um inocente". Todo o povo dirá: "Amém! "
+
+[[v5-27-26]]
+
+^<<v5-27-26,26>>^ "Maldito quem não puser em prática as palavras desta lei". Todo o povo dirá: "Amém! "
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[&#60; Capítulo Anterior] | <<v5-27-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[Próximo Capítulo &#62;]

@@ -1,0 +1,333 @@
+include::./index.adoc[]
+
+[[v13-6-0]]
+=== 1 Crônicas, 6
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v13-6-1]]
+
+^<<v13-6-1,1>>^ Estes foram os filhos de Levi: Gérson, Coate e Merari.
+
+[[v13-6-2]]
+
+^<<v13-6-2,2>>^ Estes foram os filhos de Coate: Anrão, Isar, Hebrom e Uziel.
+
+[[v13-6-3]]
+
+^<<v13-6-3,3>>^ Estes foram os filhos de Anrão: Arão, Moisés e Miriã. Estes foram os filhos de Arão: Nadabe, Abiú, Eleazar e Itamar.
+
+[[v13-6-4]]
+
+^<<v13-6-4,4>>^ Eleazar gerou Finéias, Finéias gerou Abisua,
+
+[[v13-6-5]]
+
+^<<v13-6-5,5>>^ Abisua gerou Buqui, Buqui gerou Uzi,
+
+[[v13-6-6]]
+
+^<<v13-6-6,6>>^ Uzi gerou Zeraías, Zeraías gerou Meraiote,
+
+[[v13-6-7]]
+
+^<<v13-6-7,7>>^ Meraiote gerou Amarias, Amarias gerou Aitube,
+
+[[v13-6-8]]
+
+^<<v13-6-8,8>>^ Aitube gerou Zadoque, Zadoque gerou Aimaás,
+
+[[v13-6-9]]
+
+^<<v13-6-9,9>>^ Aimaás gerou Azarias, Azarias gerou Joanã,
+
+[[v13-6-10]]
+
+^<<v13-6-10,10>>^ Joanã gerou Azarias que foi sacerdote no templo construído por Salomão em Jerusalém;
+
+[[v13-6-11]]
+
+^<<v13-6-11,11>>^ Azarias gerou Amarias, Amarias gerou Aitube,
+
+[[v13-6-12]]
+
+^<<v13-6-12,12>>^ Aitube gerou Zadoque, Zadoque gerou Salum,
+
+[[v13-6-13]]
+
+^<<v13-6-13,13>>^ Salum gerou Hilquias, Hilquias gerou Azarias,
+
+[[v13-6-14]]
+
+^<<v13-6-14,14>>^ Azarias gerou Seraías, e Seraías gerou Jeozadaque.
+
+[[v13-6-15]]
+
+^<<v13-6-15,15>>^ Jeozadaque foi levado prisioneiro quando o Senhor enviou Judá e Jerusalém para o exílio por meio de Nabucodonosor.
+
+[[v13-6-16]]
+
+^<<v13-6-16,16>>^ Estes foram os filhos de Levi: Gérson, Coate e Merari.
+
+[[v13-6-17]]
+
+^<<v13-6-17,17>>^ Estes são os nomes dos filhos de Gérson: Libni e Simei.
+
+[[v13-6-18]]
+
+^<<v13-6-18,18>>^ Estes foram os filhos de Coate: Anrão, Isar, Hebrom e Uziel.
+
+[[v13-6-19]]
+
+^<<v13-6-19,19>>^ Estes foram os filhos de Merari: Mali e Musi. Estes são os clãs dos levitas alistados de acordo com os seus antepassados:
+
+[[v13-6-20]]
+
+^<<v13-6-20,20>>^ De Gérson: Seu filho Libni, que foi o pai de Jaate, pai de Zima,
+
+[[v13-6-21]]
+
+^<<v13-6-21,21>>^ que foi o pai de Joá, pai de Ido, pai de Zerá, que foi o pai de Jeaterai.
+
+[[v13-6-22]]
+
+^<<v13-6-22,22>>^ De Coate: Seu filho Aminadabe, pai de Corá, que foi o pai de Assir,
+
+[[v13-6-23]]
+
+^<<v13-6-23,23>>^ pai de Elcana, pai de Ebiasafe, que foi o pai de Assir,
+
+[[v13-6-24]]
+
+^<<v13-6-24,24>>^ pai de Taate, pai de Uriel, pai de Uzias, que foi o pai de Saul.
+
+[[v13-6-25]]
+
+^<<v13-6-25,25>>^ De Elcana: Amasai, Aimote
+
+[[v13-6-26]]
+
+^<<v13-6-26,26>>^ e Elcana, pai de Zofai, pai de Naate,
+
+[[v13-6-27]]
+
+^<<v13-6-27,27>>^ que foi o pai de Eliabe, pai de Jeroão, pai de Elcana, que foi o pai de Samuel.
+
+[[v13-6-28]]
+
+^<<v13-6-28,28>>^ De Samuel: Joel, o mais velho, e Abias, o segundo.
+
+[[v13-6-29]]
+
+^<<v13-6-29,29>>^ De Merari: Mali, pai de Libni, pai de Simei, que foi o pai de Uzá,
+
+[[v13-6-30]]
+
+^<<v13-6-30,30>>^ pai de Siméia, pai de Hagias, que foi o pai de Asaías.
+
+[[v13-6-31]]
+
+^<<v13-6-31,31>>^ Estes são os homens a quem Davi encarregou de dirigir os cânticos no templo do Senhor depois que a arca foi levada para lá.
+
+[[v13-6-32]]
+
+^<<v13-6-32,32>>^ Eles ministravam o louvor diante do tabernáculo, da Tenda do Encontro, até quando Salomão construiu o templo do Senhor em Jerusalém. Eles exerciam suas funções de acordo com as normas estabelecidas.
+
+[[v13-6-33]]
+
+^<<v13-6-33,33>>^ Estes são os que ministravam, junto com seus filhos: Dentre os coatitas: O músico Hemã, filho de Joel, filho de Samuel,
+
+[[v13-6-34]]
+
+^<<v13-6-34,34>>^ filho de Elcana, filho de Jeroão, filho de Eliel, filho de Toá,
+
+[[v13-6-35]]
+
+^<<v13-6-35,35>>^ filho de Zufe, filho de Elcana, filho de Maate, filho de Amasai,
+
+[[v13-6-36]]
+
+^<<v13-6-36,36>>^ filho de Elcana, filho de Joel, filho de Azarias, filho de Sofonias
+
+[[v13-6-37]]
+
+^<<v13-6-37,37>>^ filho de Taate, filho de Assir, filho de Ebiasafe, filho de Corá,
+
+[[v13-6-38]]
+
+^<<v13-6-38,38>>^ filho de Isar, filho de Coate, filho de Levi, filho de Israel.
+
+[[v13-6-39]]
+
+^<<v13-6-39,39>>^ À direita de Hemã, ficava seu parente Asafe, filho de Berequias, filho de Siméia,
+
+[[v13-6-40]]
+
+^<<v13-6-40,40>>^ filho de Micael, filho de Baaséias, filho de Malquias,
+
+[[v13-6-41]]
+
+^<<v13-6-41,41>>^ filho de Etni, filho de Zerá, filho de Adaías,
+
+[[v13-6-42]]
+
+^<<v13-6-42,42>>^ filho de Etã, filho de Zima, filho de Simei,
+
+[[v13-6-43]]
+
+^<<v13-6-43,43>>^ filho de Jaate, filho de Gérson, filho de Levi.
+
+[[v13-6-44]]
+
+^<<v13-6-44,44>>^ Dentre os meraritas: À esquerda de Hemã, parente dos meraritas, ficava Etã, filho de Quisi, filho de Abdi, filho de Maluque,
+
+[[v13-6-45]]
+
+^<<v13-6-45,45>>^ filho de Hasabias, filho de Amazias, filho de Hilquias,
+
+[[v13-6-46]]
+
+^<<v13-6-46,46>>^ filho de Anzi, filho de Bani, filho de Sêmer,
+
+[[v13-6-47]]
+
+^<<v13-6-47,47>>^ filho de Mali, filho de Musi, filho de Merari, filho de Levi.
+
+[[v13-6-48]]
+
+^<<v13-6-48,48>>^ Seus parentes, os outros levitas, foram encarregados de cuidar de todo o serviço do tabernáculo, o templo de Deus.
+
+[[v13-6-49]]
+
+^<<v13-6-49,49>>^ Mas era Arão e seus descendentes que cuidavam dos sacrifícios no altar do holocausto e das ofertas no altar de incenso e de todo o serviço do Lugar Santíssimo, e dos sacrifícios de propiciação por Israel, conforme tudo o que Moisés, servo de Deus, tinha ordenado.
+
+[[v13-6-50]]
+
+^<<v13-6-50,50>>^ Estes foram os descendentes de Arão: o seu filho Eleazar, pai de Finéias, que foi o pai de Abisua,
+
+[[v13-6-51]]
+
+^<<v13-6-51,51>>^ pai de Buqui, pai de Uzi, que foi o pai de Zeraías,
+
+[[v13-6-52]]
+
+^<<v13-6-52,52>>^ pai de Meraiote, pai de Amarias, que foi o pai de Aitube,
+
+[[v13-6-53]]
+
+^<<v13-6-53,53>>^ pai de Zadoque, pai de Aimaás.
+
+[[v13-6-54]]
+
+^<<v13-6-54,54>>^ Estas foram as cidades e as regiões dadas aos levitas para nelas habitarem. Dentre os descendentes de Arão, o clã coatita foi sorteado primeiro;
+
+[[v13-6-55]]
+
+^<<v13-6-55,55>>^ foi-lhe dada Hebrom, em Judá, com suas pastagens ao redor.
+
+[[v13-6-56]]
+
+^<<v13-6-56,56>>^ Mas os campos e os povoados em torno da cidade foram dados a Calebe, filho de Jefoné.
+
+[[v13-6-57]]
+
+^<<v13-6-57,57>>^ Assim os descendentes de Arão receberam Hebrom, cidade de refúgio, e Libna, Jatir, Estemoa,
+
+[[v13-6-58]]
+
+^<<v13-6-58,58>>^ Hilém, Debir,
+
+[[v13-6-59]]
+
+^<<v13-6-59,59>>^ Asã, Jutá e Bete-Semes, com suas respectivas pastagens.
+
+[[v13-6-60]]
+
+^<<v13-6-60,60>>^ E da tribo de Benjamim receberam Gibeão, Geba, Alemete e Anatote, com suas respectivas pastagens. Ao todo treze cidades foram distribuídas entre os seus clãs.
+
+[[v13-6-61]]
+
+^<<v13-6-61,61>>^ Para os demais descendentes de Coate foram sorteadas dez cidades pertencentes aos clãs da metade da tribo de Manassés.
+
+[[v13-6-62]]
+
+^<<v13-6-62,62>>^ Para os descendentes de Gérson, clã por clã, foram sorteadas treze cidades das tribos de Issacar, de Aser e de Naftali, e da metade da tribo de Manassés que fica em Basã.
+
+[[v13-6-63]]
+
+^<<v13-6-63,63>>^ Para os descendentes de Merari, clã por clã, foram sorteadas doze cidades das tribos de Rúben, de Gade e de Zebulom.
+
+[[v13-6-64]]
+
+^<<v13-6-64,64>>^ Assim os israelitas deram aos levitas essas cidades com suas respectivas pastagens.
+
+[[v13-6-65]]
+
+^<<v13-6-65,65>>^ As cidades anteriormente mencionadas dos territórios de Judá, de Simeão e de Benjamim também lhes foram dadas por sorteio.
+
+[[v13-6-66]]
+
+^<<v13-6-66,66>>^ Alguns dos clãs coatitas receberam as seguintes cidades no território da tribo de Efraim:
+
+[[v13-6-67]]
+
+^<<v13-6-67,67>>^ Siquém, cidade de refúgio, nos montes de Efraim, e Gezer,
+
+[[v13-6-68]]
+
+^<<v13-6-68,68>>^ Jocmeão, Bete-Horom,
+
+[[v13-6-69]]
+
+^<<v13-6-69,69>>^ Aijalom e Gate-Rimom, com suas respectivas pastagens.
+
+[[v13-6-70]]
+
+^<<v13-6-70,70>>^ E da metade da tribo de Manassés o restante dos clãs coatitas recebeu Aner e Bileã, com suas respectivas pastagens.
+
+[[v13-6-71]]
+
+^<<v13-6-71,71>>^ Os gersonitas receberam as seguintes cidades: Do clã da meia tribo de Manassés, Golã, em Basã, e também Asterote, com suas respectivas pastagens;
+
+[[v13-6-72]]
+
+^<<v13-6-72,72>>^ da tribo de Issacar, Quedes, Daberate,
+
+[[v13-6-73]]
+
+^<<v13-6-73,73>>^ Ramote e Aném, com suas respectivas pastagens;
+
+[[v13-6-74]]
+
+^<<v13-6-74,74>>^ da tribo de Aser, Masal, Abdom,
+
+[[v13-6-75]]
+
+^<<v13-6-75,75>>^ Hucoque e Reobe, com suas respectivas pastagens;
+
+[[v13-6-76]]
+
+^<<v13-6-76,76>>^ e da tribo de Naftali, Quedes, na Galiléia, Hamom e Quiriataim, com suas respectivas pastagens.
+
+[[v13-6-77]]
+
+^<<v13-6-77,77>>^ E estas foram as cidades que os outros meraritas receberam: Da tribo de Zebulom, Rimono e Tabor, com suas respectivas pastagens;
+
+[[v13-6-78]]
+
+^<<v13-6-78,78>>^ da tribo de Rúben, do outro lado do Jordão, a leste de Jericó, Bezer, no deserto, Jaza,
+
+[[v13-6-79]]
+
+^<<v13-6-79,79>>^ Quedemote e Mefaate, com suas respectivas pastagens;
+
+[[v13-6-80]]
+
+^<<v13-6-80,80>>^ e da tribo de Gade, Ramote, em Gileade, Maanaim,
+
+[[v13-6-81]]
+
+^<<v13-6-81,81>>^ Hesbom e Jazar, com suas respectivas pastagens.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-005.adoc#v13-5-0[&#60; Capítulo Anterior] | <<v13-6-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-007.adoc#v13-7-0[Próximo Capítulo &#62;]

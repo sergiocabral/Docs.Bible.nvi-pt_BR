@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v5-25-0]]
+=== Deuteronômio, 25
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v5-25-1]]
+
+^<<v5-25-1,1>>^ Quando dois homens se envolverem numa briga, terão que levar a causa ao tribunal, e os juízes decidirão a questão, absolvendo o inocente e condenando o culpado.
+
+[[v5-25-2]]
+
+^<<v5-25-2,2>>^ Se o culpado merecer açoitamento, o juiz ordenará que ele se deite e seja açoitado em sua presença com o número de açoites que o seu crime merecer,
+
+[[v5-25-3]]
+
+^<<v5-25-3,3>>^ desde que nunca ultrapasse quarenta açoites. Açoitá-lo além disso seria humilhar publicamente um israelita.
+
+[[v5-25-4]]
+
+^<<v5-25-4,4>>^ Não amordacem o boi enquanto está debulhando o cereal.
+
+[[v5-25-5]]
+
+^<<v5-25-5,5>>^ Se dois irmãos morarem juntos, e um deles morrer sem deixar filhos, a sua viúva não se casará com alguém de fora da família. O irmão do marido se casará com ela e cumprirá com ela o dever de cunhado.
+
+[[v5-25-6]]
+
+^<<v5-25-6,6>>^ O primeiro filho que ela tiver levará o nome do irmão falecido, para que o seu nome não seja apagado de Israel.
+
+[[v5-25-7]]
+
+^<<v5-25-7,7>>^ Se, todavia, ele não quiser casar-se com a mulher do seu irmão, ela irá aos líderes do lugar, à porta da cidade, e dirá: "O irmão do meu marido está se recusando a dar continuidade ao nome do seu irmão em Israel. Ele não quer cumprir para comigo o dever de cunhado".
+
+[[v5-25-8]]
+
+^<<v5-25-8,8>>^ Os líderes da cidade o convocarão e conversarão com ele. Se ele insistir em dizer: "Não quero me casar com ela",
+
+[[v5-25-9]]
+
+^<<v5-25-9,9>>^ a viúva do seu irmão se aproximará dele, na presença dos líderes, tirará uma das sandálias dele, cuspirá no seu rosto e dirá: "É isso que se faz com o homem que não perpetua a descendência do seu irmão".
+
+[[v5-25-10]]
+
+^<<v5-25-10,10>>^ E a descendência daquele homem será conhecida em Israel como a família do descalçado.
+
+[[v5-25-11]]
+
+^<<v5-25-11,11>>^ Se dois homens estiverem brigando, e a mulher de um deles vier para livrar o marido daquele que o ataca e pegá-lo pelos órgãos genitais,
+
+[[v5-25-12]]
+
+^<<v5-25-12,12>>^ cortem a mão dela. Não tenham piedade.
+
+[[v5-25-13]]
+
+^<<v5-25-13,13>>^ Não tenham na bolsa dois padrões para o mesmo peso, um maior e outro menor.
+
+[[v5-25-14]]
+
+^<<v5-25-14,14>>^ Não tenham em casa dois padrões para a mesma medida, um maior e outro menor.
+
+[[v5-25-15]]
+
+^<<v5-25-15,15>>^ Tenham pesos e medidas exatos e honestos, para que vocês vivam muito tempo na terra que o Senhor, o seu Deus, lhes dá.
+
+[[v5-25-16]]
+
+^<<v5-25-16,16>>^ Pois o seu Deus detesta quem faz essas coisas, quem negocia desonestamente.
+
+[[v5-25-17]]
+
+^<<v5-25-17,17>>^ Lembrem-se do que os amalequitas lhes fizeram no caminho, quando vocês saíram do Egito.
+
+[[v5-25-18]]
+
+^<<v5-25-18,18>>^ Quando vocês estavam cansados e exaustos, eles se encontraram com vocês no caminho e eliminaram todos os que ficaram para trás; não tiveram temor de Deus.
+
+[[v5-25-19]]
+
+^<<v5-25-19,19>>^ Quando o Senhor, o seu Deus, der a vocês o descanso de todos os inimigos ao seu redor na terra que ele lhes dá para dela tomar posse como herança, vocês farão que os amalequitas sejam esquecidos debaixo do céu. Não se esqueçam!
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[&#60; Capítulo Anterior] | <<v5-25-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[Próximo Capítulo &#62;]

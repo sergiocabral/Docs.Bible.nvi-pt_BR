@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v3-17-0]]
+=== Levítico, 17
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v3-17-1]]
+
+^<<v3-17-1,1>>^ O Senhor disse a Moisés:
+
+[[v3-17-2]]
+
+^<<v3-17-2,2>>^ "Diga o seguinte a Arão e seus filhos e a todos os israelitas: Foi isto o que o Senhor ordenou:
+
+[[v3-17-3]]
+
+^<<v3-17-3,3>>^ Qualquer israelita que sacrificar um boi, um cordeiro ou um cabrito dentro ou fora do acampamento,
+
+[[v3-17-4]]
+
+^<<v3-17-4,4>>^ e não o trouxer à entrada da Tenda do Encontro para apresentá-lo como oferta ao Senhor, diante do tabernáculo do Senhor, será considerado culpado de sangue; derramou sangue e será eliminado do meio do seu povo.
+
+[[v3-17-5]]
+
+^<<v3-17-5,5>>^ Os sacrifícios, que os israelitas agora fazem em campo aberto, passarão a trazer ao Senhor, entregando-os ao sacerdote, para oferecê-los ao Senhor, à entrada da Tenda do Encontro, e os sacrificarão como ofertas de comunhão.
+
+[[v3-17-6]]
+
+^<<v3-17-6,6>>^ O sacerdote aspergirá o sangue no altar do Senhor, à entrada da Tenda do Encontro, e queimará a gordura como aroma agradável ao Senhor.
+
+[[v3-17-7]]
+
+^<<v3-17-7,7>>^ Não oferecerão mais sacrifícios aos ídolos em forma de bode, aos quais prestam culto imoral. Este é um decreto perpétuo para eles e para as suas gerações.
+
+[[v3-17-8]]
+
+^<<v3-17-8,8>>^ "Diga-lhes: Todo israelita ou estrangeiro residente que oferecer holocausto ou sacrifício,
+
+[[v3-17-9]]
+
+^<<v3-17-9,9>>^ e não o trouxer à entrada da Tenda do Encontro para oferecê-lo ao Senhor, será eliminado do meio do seu povo.
+
+[[v3-17-10]]
+
+^<<v3-17-10,10>>^ "Todo israelita ou estrangeiro residente que comer sangue de qualquer animal eu me voltarei contra esse que comeu sangue, e o eliminarei do meio do seu povo.
+
+[[v3-17-11]]
+
+^<<v3-17-11,11>>^ Pois a vida da carne está no sangue, e eu o dei a vocês para fazerem propiciação por si mesmos no altar; é o sangue que faz propiciação pela vida.
+
+[[v3-17-12]]
+
+^<<v3-17-12,12>>^ Por isso digo aos israelitas: nenhum de vocês poderá comer sangue, nem também o estrangeiro residente.
+
+[[v3-17-13]]
+
+^<<v3-17-13,13>>^ "Qualquer israelita ou estrangeiro residente que caçar um animal ou ave que se pode comer, derramará o sangue e o cobrirá com terra,
+
+[[v3-17-14]]
+
+^<<v3-17-14,14>>^ porque a vida de toda carne é o seu sangue. Por isso eu disse aos israelitas: vocês não poderão comer o sangue de nenhum animal, porque a vida de toda carne é o seu sangue; todo aquele que o comer será eliminado.
+
+[[v3-17-15]]
+
+^<<v3-17-15,15>>^ "Todo aquele que, natural da terra ou estrangeiro, comer um animal encontrado morto ou despedaçado por animais selvagens, lavará suas roupas e se banhará com água, e ficará impuro até à tarde; então estará puro.
+
+[[v3-17-16]]
+
+^<<v3-17-16,16>>^ Mas, se não lavar as suas roupas nem se banhar, sofrerá as conseqüências da sua iniqüidade".
+
+'''
+
+xref:003-levitico/003-levitico-016.adoc#v3-16-0[&#60; Capítulo Anterior] | <<v3-17-0,Topo>> | xref:003-levitico/003-levitico-018.adoc#v3-18-0[Próximo Capítulo &#62;]

@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-24-0]]
+=== Salmos, 24
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-24-1]]
+
+^<<v19-24-1,1>>^ Do Senhor é a terra e tudo o que nela existe, o mundo e os que nele vivem;
+
+[[v19-24-2]]
+
+^<<v19-24-2,2>>^ pois foi ele quem fundou-a sobre os mares e firmou-a sobre as águas.
+
+[[v19-24-3]]
+
+^<<v19-24-3,3>>^ Quem poderá subir o monte do Senhor? Quem poderá entrar no seu Santo Lugar?
+
+[[v19-24-4]]
+
+^<<v19-24-4,4>>^ Aquele que tem as mãos limpas e o coração puro, que não recorre aos ídolos nem jura por deuses falsos.
+
+[[v19-24-5]]
+
+^<<v19-24-5,5>>^ Ele receberá bênçãos do Senhor, e Deus, o seu Salvador lhe fará justiça.
+
+[[v19-24-6]]
+
+^<<v19-24-6,6>>^ São assim aqueles que o buscam, que buscam a tua face, ó Deus de Jacó. Pausa
+
+[[v19-24-7]]
+
+^<<v19-24-7,7>>^ Abram-se, ó portais; abram-se, ó portas antigas, para que o Rei da glória entre.
+
+[[v19-24-8]]
+
+^<<v19-24-8,8>>^ Quem é o Rei da glória? O Senhor forte e valente, o Senhor valente nas guerras.
+
+[[v19-24-9]]
+
+^<<v19-24-9,9>>^ Abram-se, ó portais; abram-se, ó portas antigas, para que o Rei da glória entre.
+
+[[v19-24-10]]
+
+^<<v19-24-10,10>>^ Quem é esse Rei da glória? O Senhor dos Exércitos; ele é o Rei da glória! Pausa
+
+'''
+
+xref:019-salmos/019-salmos-023.adoc#v19-23-0[&#60; Capítulo Anterior] | <<v19-24-0,Topo>> | xref:019-salmos/019-salmos-025.adoc#v19-25-0[Próximo Capítulo &#62;]

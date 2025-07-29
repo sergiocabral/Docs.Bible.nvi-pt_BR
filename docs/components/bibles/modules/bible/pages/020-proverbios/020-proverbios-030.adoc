@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Provérbios, 30
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ Ditados de Agur, filho de Jaque; oráculo: Este homem declarou a Itiel; a Itiel e a Ucal:
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ "Sou o mais tolo dos homens; não tenho o entendimento de um ser humano.
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ Não aprendi sabedoria, nem tenho conhecimento do Santo.
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ Quem subiu aos céus e desceu? Quem ajuntou nas mãos os ventos? Quem embrulhou as águas em sua capa? Quem fixou todos os limites da terra? Qual é o seu nome, e o nome do seu filho? Conte-me, se você sabe!
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ "Cada palavra de Deus é comprovadamente pura; ele é um escudo para quem nele se refugia.
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ Nada acrescente às palavras dele, do contrário, ele o repreenderá e mostrará que você é mentiroso.
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ "Duas coisas peço que me dês antes que eu morra:
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ Mantém longe de mim a falsidade e a mentira; Não me dês nem pobreza nem riqueza; dá-me apenas o alimento necessário.
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ Se não, tendo demais, eu te negaria e te deixaria, e diria: ‘Quem é o Senhor? ’ Se eu ficasse pobre, poderia vir a roubar, desonrando assim o nome do meu Deus.
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ "Não fale mal do servo ao seu senhor; do contrário, o servo o amaldiçoará, e você levará a culpa.
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ "Existem os que amaldiçoam seu pai e não abençoam sua mãe;
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ os que são puros aos seus próprios olhos e que ainda não foram purificados da sua impureza;
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ os que têm olhos altivos e olhar desdenhoso;
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ pessoas cujos dentes são espadas e cujas mandíbulas estão armadas de facas para devorarem os necessitados desta terra e os pobres da humanidade.
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ "Duas filhas tem a sanguessuga. ‘Dê! Dê! ’, gritam elas. "Há três coisas que nunca estão satisfeitas, quatro que nunca dizem: ‘É o bastante! ’:
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ O Sheol, o ventre estéril, a terra, que nunca se dessedenta, e o fogo, que nunca diz: ‘É o bastante! ’
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ "Os olhos de quem zomba do pai, e, zombando, nega obediência à mãe, serão arrancados pelos corvos do vale, e serão devorados pelos filhotes do abutre.
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ "Há três coisas misteriosas demais para mim, quatro que não consigo entender:
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ O caminho do abutre no céu, o caminho da serpente sobre a rocha, o caminho do navio em alto mar, e o caminho do homem com uma moça.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ "Este é o caminho da adúltera: Ela come e limpa a boca, e diz: ‘Não fiz nada de errado’.
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ "Três coisas fazem tremer a terra, e quatro ela não pode suportar:
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ O escravo que se torna rei, o insensato farto de comida,
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ a mulher desprezada que por fim se casa, e a escrava que toma o lugar de sua senhora.
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ "Quatro seres da terra são pequenos, e, no entanto, muito sábios:
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ As formigas, criaturas de pouca força, contudo, armazenam sua comida no verão;
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ os coelhos, criaturas sem nenhum poder, contudo, habitam nos penhascos;
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ os gafanhotos, que não têm rei, contudo, avançam juntos em fileiras;
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ a lagartixa, que se pode apanhar com as mãos, contudo, encontra-se nos palácios dos reis.
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ "Há três seres de andar elegante, quatro que se movem com passo garboso:
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ O leão, que é poderoso entre os animais e não foge de ninguém;
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ o galo de andar altivo; o bode; e o rei à frente do seu exército.
+
+[[v20-30-32]]
+
+^<<v20-30-32,32>>^ "Se você agiu como tolo e exaltou-se a si mesmo, ou se planejou o mal, tape a boca com a mão!
+
+[[v20-30-33]]
+
+^<<v20-30-33,33>>^ Pois assim como bater o leite produz manteiga, e assim como torcer o nariz produz sangue, também suscitar a raiva produz contenda".
+
+'''
+
+xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-proverbios/020-proverbios-031.adoc#v20-31-0[Próximo Capítulo &#62;]

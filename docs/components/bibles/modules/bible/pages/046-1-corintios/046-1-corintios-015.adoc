@@ -1,0 +1,241 @@
+include::./index.adoc[]
+
+[[v46-15-0]]
+=== 1 Coríntios, 15
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v46-15-1]]
+
+^<<v46-15-1,1>>^ Irmãos, quero lembrar-lhes o evangelho que lhes preguei, o qual vocês receberam e no qual estão firmes.
+
+[[v46-15-2]]
+
+^<<v46-15-2,2>>^ Por meio deste evangelho vocês são salvos, desde que se apeguem firmemente à palavra que lhes preguei; caso contrário, vocês têm crido em vão.
+
+[[v46-15-3]]
+
+^<<v46-15-3,3>>^ Pois o que primeiramente lhes transmiti foi o que recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras,
+
+[[v46-15-4]]
+
+^<<v46-15-4,4>>^ foi sepultado e ressuscitou ao terceiro dia, segundo as Escrituras,
+
+[[v46-15-5]]
+
+^<<v46-15-5,5>>^ e apareceu a Pedro e depois aos Doze.
+
+[[v46-15-6]]
+
+^<<v46-15-6,6>>^ Depois disso apareceu a mais de quinhentos irmãos de uma só vez, a maioria dos quais ainda vive, embora alguns já tenham adormecido.
+
+[[v46-15-7]]
+
+^<<v46-15-7,7>>^ Depois apareceu a Tiago e, então, a todos os apóstolos;
+
+[[v46-15-8]]
+
+^<<v46-15-8,8>>^ depois destes apareceu também a mim, como a um que nasceu fora de tempo.
+
+[[v46-15-9]]
+
+^<<v46-15-9,9>>^ Pois sou o menor dos apóstolos e nem sequer mereço ser chamado apóstolo, porque persegui a igreja de Deus.
+
+[[v46-15-10]]
+
+^<<v46-15-10,10>>^ Mas, pela graça de Deus, sou o que sou, e sua graça para comigo não foi em vão; antes, trabalhei mais do que todos eles; contudo, não eu, mas a graça de Deus comigo.
+
+[[v46-15-11]]
+
+^<<v46-15-11,11>>^ Portanto, quer tenha sido eu, quer tenham sido eles, é isto que pregamos, e é isto que vocês creram.
+
+[[v46-15-12]]
+
+^<<v46-15-12,12>>^ Ora, se está sendo pregado que Cristo ressuscitou dentre os mortos, como alguns de vocês estão dizendo que não existe ressurreição dos mortos?
+
+[[v46-15-13]]
+
+^<<v46-15-13,13>>^ Se não há ressurreição dos mortos, então nem mesmo Cristo ressuscitou;
+
+[[v46-15-14]]
+
+^<<v46-15-14,14>>^ e, se Cristo não ressuscitou, é inútil a nossa pregação, como também é inútil a fé que vocês têm.
+
+[[v46-15-15]]
+
+^<<v46-15-15,15>>^ Mais que isso, seremos considerados falsas testemunhas de Deus, pois contra ele testemunhamos que ressuscitou a Cristo dentre os mortos. Mas se de fato os mortos não ressuscitam, ele também não ressuscitou a Cristo.
+
+[[v46-15-16]]
+
+^<<v46-15-16,16>>^ Pois, se os mortos não ressuscitam, nem mesmo Cristo ressuscitou.
+
+[[v46-15-17]]
+
+^<<v46-15-17,17>>^ E, se Cristo não ressuscitou, inútil é a fé que vocês têm, e ainda estão em seus pecados.
+
+[[v46-15-18]]
+
+^<<v46-15-18,18>>^ Neste caso, também os que dormiram em Cristo estão perdidos.
+
+[[v46-15-19]]
+
+^<<v46-15-19,19>>^ Se é somente para esta vida que temos esperança em Cristo, dentre todos os homens somos os mais dignos de compaixão.
+
+[[v46-15-20]]
+
+^<<v46-15-20,20>>^ Mas de fato Cristo ressuscitou dentre os mortos, sendo as primícias dentre aqueles que dormiram.
+
+[[v46-15-21]]
+
+^<<v46-15-21,21>>^ Visto que a morte veio por meio de um só homem, também a ressurreição dos mortos veio por meio de um só homem.
+
+[[v46-15-22]]
+
+^<<v46-15-22,22>>^ Pois da mesma forma como em Adão todos morrem, em Cristo todos serão vivificados.
+
+[[v46-15-23]]
+
+^<<v46-15-23,23>>^ Mas cada um por sua vez: Cristo, o primeiro; depois, quando ele vier, os que lhe pertencem.
+
+[[v46-15-24]]
+
+^<<v46-15-24,24>>^ Então virá o fim, quando ele entregar o Reino a Deus, o Pai, depois de ter destruído todo domínio, autoridade e poder.
+
+[[v46-15-25]]
+
+^<<v46-15-25,25>>^ Pois é necessário que ele reine até que todos os seus inimigos sejam postos debaixo de seus pés.
+
+[[v46-15-26]]
+
+^<<v46-15-26,26>>^ O último inimigo a ser destruído é a morte.
+
+[[v46-15-27]]
+
+^<<v46-15-27,27>>^ Porque ele "tudo sujeitou debaixo de seus pés". Ora, quando se diz que "tudo" lhe foi sujeito, fica claro que isso não inclui o próprio Deus, que tudo submeteu a Cristo.
+
+[[v46-15-28]]
+
+^<<v46-15-28,28>>^ Quando, porém, tudo lhe estiver sujeito, então o próprio Filho se sujeitará àquele que todas as coisas lhe sujeitou, a fim de que Deus seja tudo em todos.
+
+[[v46-15-29]]
+
+^<<v46-15-29,29>>^ Se não há ressurreição, que farão aqueles que se batizam pelos mortos? Se absolutamente os mortos não ressuscitam, por que se batizam por eles?
+
+[[v46-15-30]]
+
+^<<v46-15-30,30>>^ Também nós, por que estamos nos expondo a perigos o tempo todo?
+
+[[v46-15-31]]
+
+^<<v46-15-31,31>>^ Todos os dias enfrento a morte, irmãos; isso digo pelo orgulho que tenho de vocês em Cristo Jesus, nosso Senhor.
+
+[[v46-15-32]]
+
+^<<v46-15-32,32>>^ Se foi por meras razões humanas que lutei com feras em Éfeso, que ganhei com isso? Se os mortos não ressuscitam, "comamos e bebamos, porque amanhã morreremos".
+
+[[v46-15-33]]
+
+^<<v46-15-33,33>>^ Não se deixem enganar: "as más companhias corrompem os bons costumes".
+
+[[v46-15-34]]
+
+^<<v46-15-34,34>>^ Como justos, recuperem o bom senso e parem de pecar; pois alguns há que não têm conhecimento de Deus; digo isso para vergonha de vocês.
+
+[[v46-15-35]]
+
+^<<v46-15-35,35>>^ Mas alguém pode perguntar: "Como ressuscitam os mortos? Com que espécie de corpo virão? "
+
+[[v46-15-36]]
+
+^<<v46-15-36,36>>^ Insensato! O que você semeia não nasce a não ser que morra.
+
+[[v46-15-37]]
+
+^<<v46-15-37,37>>^ Quando você semeia, não semeia o corpo que virá a ser, mas apenas uma simples semente, como de trigo ou de alguma outra coisa.
+
+[[v46-15-38]]
+
+^<<v46-15-38,38>>^ Mas Deus lhe dá um corpo, como determinou, e a cada espécie de semente dá seu corpo apropriado.
+
+[[v46-15-39]]
+
+^<<v46-15-39,39>>^ Nem toda carne é a mesma: os homens têm uma espécie de carne, os animais têm outra, as aves outra, e os peixes outra.
+
+[[v46-15-40]]
+
+^<<v46-15-40,40>>^ Há corpos celestes e há também corpos terrestres; mas o esplendor dos corpos celestes é um, e o dos corpos terrestres é outro.
+
+[[v46-15-41]]
+
+^<<v46-15-41,41>>^ Um é o esplendor do sol, outro o da lua, e outro o das estrelas; e as estrelas diferem em esplendor umas das outras.
+
+[[v46-15-42]]
+
+^<<v46-15-42,42>>^ Assim será com a ressurreição dos mortos. O corpo que é semeado é perecível e ressuscita imperecível;
+
+[[v46-15-43]]
+
+^<<v46-15-43,43>>^ é semeado em desonra e ressuscita em glória; é semeado em fraqueza e ressuscita em poder;
+
+[[v46-15-44]]
+
+^<<v46-15-44,44>>^ é semeado um corpo natural e ressuscita um corpo espiritual. Se há corpo natural, há também corpo espiritual.
+
+[[v46-15-45]]
+
+^<<v46-15-45,45>>^ Assim está escrito: "O primeiro homem, Adão, tornou-se um ser vivente"; o último Adão, espírito vivificante.
+
+[[v46-15-46]]
+
+^<<v46-15-46,46>>^ Não foi o espiritual que veio antes, mas o natural; depois dele, o espiritual.
+
+[[v46-15-47]]
+
+^<<v46-15-47,47>>^ O primeiro homem era do pó da terra; o segundo homem, do céu.
+
+[[v46-15-48]]
+
+^<<v46-15-48,48>>^ Os que são da terra são semelhantes ao homem terreno; os que são do céu, ao homem celestial.
+
+[[v46-15-49]]
+
+^<<v46-15-49,49>>^ Assim como tivemos a imagem do homem terreno, teremos também a imagem do homem celestial.
+
+[[v46-15-50]]
+
+^<<v46-15-50,50>>^ Irmãos, eu lhes declaro que carne e sangue não podem herdar o Reino de Deus, nem o que é perecível pode herdar o imperecível.
+
+[[v46-15-51]]
+
+^<<v46-15-51,51>>^ Eis que eu lhes digo um mistério: nem todos dormiremos, mas todos seremos transformados,
+
+[[v46-15-52]]
+
+^<<v46-15-52,52>>^ num momento, num abrir e fechar de olhos, ao som da última trombeta. Pois a trombeta soará, os mortos ressuscitarão incorruptíveis e nós seremos transformados.
+
+[[v46-15-53]]
+
+^<<v46-15-53,53>>^ Pois é necessário que aquilo que é corruptível se revista de incorruptibilidade, e aquilo que é mortal, se revista de imortalidade.
+
+[[v46-15-54]]
+
+^<<v46-15-54,54>>^ Quando, porém, o que é corruptível se revestir de incorruptibilidade, e o que é mortal, de imortalidade, então se cumprirá a palavra que está escrita: "A morte foi destruída pela vitória".
+
+[[v46-15-55]]
+
+^<<v46-15-55,55>>^ "Onde está, ó morte, a sua vitória? Onde está, ó morte, o seu aguilhão? "
+
+[[v46-15-56]]
+
+^<<v46-15-56,56>>^ O aguilhão da morte é o pecado, e a força do pecado é a lei.
+
+[[v46-15-57]]
+
+^<<v46-15-57,57>>^ Mas graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo.
+
+[[v46-15-58]]
+
+^<<v46-15-58,58>>^ Portanto, meus amados irmãos, mantenham-se firmes, e que nada os abale. Sejam sempre dedicados à obra do Senhor, pois vocês sabem que, no Senhor, o trabalho de vocês não será inútil.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-014.adoc#v46-14-0[&#60; Capítulo Anterior] | <<v46-15-0,Topo>> | xref:046-1-corintios/046-1-corintios-016.adoc#v46-16-0[Próximo Capítulo &#62;]

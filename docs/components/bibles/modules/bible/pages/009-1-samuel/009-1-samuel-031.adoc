@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v9-31-0]]
+=== 1 Samuel, 31
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v9-31-1]]
+
+^<<v9-31-1,1>>^ E aconteceu que, em combate com os filisteus, os israelitas foram postos em fuga e muitos caíram mortos no monte Gilboa.
+
+[[v9-31-2]]
+
+^<<v9-31-2,2>>^ Os filisteus perseguiram Saul e seus filhos, e mataram Jônatas, Abinadabe e Malquisua, filhos de Saul.
+
+[[v9-31-3]]
+
+^<<v9-31-3,3>>^ O combate foi se tornando cada vez mais violento em torno de Saul, até que os flecheiros o alcançaram e o feriram gravemente.
+
+[[v9-31-4]]
+
+^<<v9-31-4,4>>^ Então Saul ordenou ao seu escudeiro: "Tire sua espada e mate-me com ela, senão sofrerei a vergonha de cair nas mãos desses incircuncisos". Mas seu escudeiro estava apavorado e não quis fazê-lo. Saul, então, pegou a própria espada e jogou-se sobre ela.
+
+[[v9-31-5]]
+
+^<<v9-31-5,5>>^ Quando o escudeiro viu que Saul estava morto, jogou-se também sobre sua espada e morreu com ele.
+
+[[v9-31-6]]
+
+^<<v9-31-6,6>>^ De maneira que Saul, seus três filhos, seu escudeiro e todos os seus soldados morreram juntos naquele dia.
+
+[[v9-31-7]]
+
+^<<v9-31-7,7>>^ Quando os israelitas que habitavam do outro lado do vale e a leste do Jordão viram que o exército tinha fugido, e que Saul e seus filhos estavam mortos, fugiram abandonando suas cidades. Depois os filisteus foram ocupá-las.
+
+[[v9-31-8]]
+
+^<<v9-31-8,8>>^ No dia seguinte, quando os filisteus foram saquear os mortos, encontraram Saul e seus três filhos caídos no monte Gilboa.
+
+[[v9-31-9]]
+
+^<<v9-31-9,9>>^ Cortaram a cabeça de Saul, pegaram suas armas, e enviaram mensageiros por toda a terra dos filisteus proclamando a notícia nos templos de seus ídolos e entre seu povo.
+
+[[v9-31-10]]
+
+^<<v9-31-10,10>>^ Expuseram as armas de Saul no templo dos postes sagrados e penduraram seu corpo no muro de Bete-Seã.
+
+[[v9-31-11]]
+
+^<<v9-31-11,11>>^ Quando os habitantes de Jabes-Gileade ficaram sabendo do que os filisteus tinham feito com Saul,
+
+[[v9-31-12]]
+
+^<<v9-31-12,12>>^ os mais corajosos dentre eles foram durante a noite a Bete-Seã. Baixaram os corpos de Saul e de seus filhos do muro de Bete-Seã e foram para Jabes, onde os queimaram.
+
+[[v9-31-13]]
+
+^<<v9-31-13,13>>^ Depois enterraram seus ossos debaixo de uma tamargueira em Jabes, e jejuaram por sete dias.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[&#60; Capítulo Anterior] | <<v9-31-0,Topo>> | xref:010-2-samuel/010-2-samuel-001.adoc#v10-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v8-3-0]]
+=== Rute, 3
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v8-3-1]]
+
+^<<v8-3-1,1>>^ Certo dia, Noemi, sua sogra, lhe disse: "Minha filha, tenho que procurar um lar seguro, para sua felicidade.
+
+[[v8-3-2]]
+
+^<<v8-3-2,2>>^ Boaz, aquele com cujas servas você esteve, é nosso parente próximo. Esta noite ele estará limpando cevada na eira.
+
+[[v8-3-3]]
+
+^<<v8-3-3,3>>^ Lave-se, perfume-se, vista sua melhor roupa e desça para a eira. Mas não deixe que ele perceba você até que tenha comido e bebido.
+
+[[v8-3-4]]
+
+^<<v8-3-4,4>>^ Quando ele for dormir, note bem o lugar em que ele se deitar. Então vá, descubra os pés dele e deite-se. Ele lhe dirá o que fazer".
+
+[[v8-3-5]]
+
+^<<v8-3-5,5>>^ Respondeu Rute: "Farei tudo o que você está me dizendo".
+
+[[v8-3-6]]
+
+^<<v8-3-6,6>>^ Então ela desceu para a eira e fez tudo o que a sua sogra lhe tinha recomendado.
+
+[[v8-3-7]]
+
+^<<v8-3-7,7>>^ Quando Boaz terminou de comer e beber, ficou alegre e foi deitar-se perto do monte de grãos. Rute aproximou-se sem ser notada, descobriu os pés dele, e deitou-se.
+
+[[v8-3-8]]
+
+^<<v8-3-8,8>>^ No meio da noite, o homem acordou de repente. Ele se virou e assustou-se ao ver uma mulher deitada a seus pés.
+
+[[v8-3-9]]
+
+^<<v8-3-9,9>>^ "Quem é você? ", perguntou ele. "Sou sua serva Rute", disse ela. "Estenda a sua capa sobre a sua serva, pois o senhor é resgatador. "
+
+[[v8-3-10]]
+
+^<<v8-3-10,10>>^ Boaz lhe respondeu: "O Senhor a abençoe, minha filha! Este seu gesto de bondade é ainda maior do que o primeiro, pois você poderia ter ido atrás dos mais jovens, ricos ou pobres!
+
+[[v8-3-11]]
+
+^<<v8-3-11,11>>^ Agora, minha filha, não tenha medo; farei por você tudo o que me pedir. Todos os meus concidadãos sabem que você é mulher virtuosa.
+
+[[v8-3-12]]
+
+^<<v8-3-12,12>>^ É verdade que sou resgatador, mas há um outro que é parente mais próximo do que eu.
+
+[[v8-3-13]]
+
+^<<v8-3-13,13>>^ Passe a noite aqui. De manhã veremos: se ele quiser resgatá-la, muito bem, que resgate. Se não quiser, juro pelo nome do Senhor que eu a resgatarei. Deite-se aqui até de manhã".
+
+[[v8-3-14]]
+
+^<<v8-3-14,14>>^ Ela ficou deitada aos pés dele até de manhã, mas levantou-se antes de clarear a ponto de alguém poder ser reconhecido. Boaz pensou: "Ninguém deve saber que esta mulher esteve na eira".
+
+[[v8-3-15]]
+
+^<<v8-3-15,15>>^ Por isso disse: "Traga-me o manto que você está usando e segure-o". Ela o segurou, e o homem despejou nele seis medidas de cevada e o pôs sobre os ombros dela. Depois ele voltou para a cidade.
+
+[[v8-3-16]]
+
+^<<v8-3-16,16>>^ Quando Rute voltou à sua sogra, esta lhe perguntou: "Como foi, minha filha? " Rute lhe contou tudo o que Boaz lhe tinha feito,
+
+[[v8-3-17]]
+
+^<<v8-3-17,17>>^ e acrescentou: "Ele me deu estas seis medidas de cevada, dizendo: ‘Não volte para a sua sogra de mãos vazias’ ".
+
+[[v8-3-18]]
+
+^<<v8-3-18,18>>^ Disse então Noemi: "Agora espere, minha filha, até saber o que acontecerá. Sem dúvida aquele homem não descansará enquanto não resolver esta questão hoje mesmo".
+
+'''
+
+xref:008-rute/008-rute-002.adoc#v8-2-0[&#60; Capítulo Anterior] | <<v8-3-0,Topo>> | xref:008-rute/008-rute-004.adoc#v8-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-74-0]]
+=== Salmos, 74
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v19-74-1]]
+
+^<<v19-74-1,1>>^ Por que nos rejeitaste definitivamente, ó Deus? Por que se acende a tua ira contra as ovelhas da tua pastagem?
+
+[[v19-74-2]]
+
+^<<v19-74-2,2>>^ Lembra-te do povo que adquiriste em tempos passados, da tribo da tua herança, que resgataste, do monte Sião, onde habitaste.
+
+[[v19-74-3]]
+
+^<<v19-74-3,3>>^ Volta os teus passos para aquelas ruínas irreparáveis, para toda a destruição que o inimigo causou em teu santuário.
+
+[[v19-74-4]]
+
+^<<v19-74-4,4>>^ Teus adversários gritaram triunfantes bem no local onde te encontravas conosco, e hastearam suas bandeiras em sinal de vitória.
+
+[[v19-74-5]]
+
+^<<v19-74-5,5>>^ Pareciam homens armados com machados invadindo um bosque cerrado.
+
+[[v19-74-6]]
+
+^<<v19-74-6,6>>^ Com seus machados e machadinhas esmigalharam todos os revestimentos de madeira esculpida.
+
+[[v19-74-7]]
+
+^<<v19-74-7,7>>^ Atearam fogo ao teu santuário; profanaram o lugar da habitação do teu nome.
+
+[[v19-74-8]]
+
+^<<v19-74-8,8>>^ Disseram no coração: "Vamos acabar com eles! " Queimaram todos os santuários do país.
+
+[[v19-74-9]]
+
+^<<v19-74-9,9>>^ Já não vemos sinais miraculosos; não há mais profetas, e nenhum de nós sabe até quando isso continuará.
+
+[[v19-74-10]]
+
+^<<v19-74-10,10>>^ Até quando o adversário irá zombar, ó Deus? Será que o inimigo blasfemará o teu nome para sempre?
+
+[[v19-74-11]]
+
+^<<v19-74-11,11>>^ Por que reténs a tua mão, a tua mão direita? Não fiques de braços cruzados! Destrói-os!
+
+[[v19-74-12]]
+
+^<<v19-74-12,12>>^ Mas tu, ó Deus, és o meu rei desde a antigüidade; trazes salvação sobre a terra.
+
+[[v19-74-13]]
+
+^<<v19-74-13,13>>^ Tu dividiste o mar pelo teu poder; quebraste as cabeças das serpentes das águas.
+
+[[v19-74-14]]
+
+^<<v19-74-14,14>>^ Esmagaste as cabeças do Leviatã e o deste por comida às criaturas do deserto.
+
+[[v19-74-15]]
+
+^<<v19-74-15,15>>^ Tu abriste fontes e regatos; secaste rios perenes.
+
+[[v19-74-16]]
+
+^<<v19-74-16,16>>^ O dia é teu, e tua também é a noite; estabeleceste o sol e a lua.
+
+[[v19-74-17]]
+
+^<<v19-74-17,17>>^ Determinaste todas as fronteiras da terra; fizeste o verão e o inverno.
+
+[[v19-74-18]]
+
+^<<v19-74-18,18>>^ Lembra-te de como o inimigo tem zombado de ti, ó Senhor, como os insensatos têm blasfemado o teu nome.
+
+[[v19-74-19]]
+
+^<<v19-74-19,19>>^ Não entregues a vida da tua pomba aos animais selvagens; não te esqueças para sempre da vida do teu povo indefeso.
+
+[[v19-74-20]]
+
+^<<v19-74-20,20>>^ Dá atenção à tua aliança, porque de antros de violência se enchem os lugares sombrios do país.
+
+[[v19-74-21]]
+
+^<<v19-74-21,21>>^ Não deixes que o oprimido se retire humilhado! Faze que o pobre e o necessitado louvem o teu nome.
+
+[[v19-74-22]]
+
+^<<v19-74-22,22>>^ Levanta-te, ó Deus, e defende a tua causa; lembra-te de como os insensatos zombam de ti sem cessar.
+
+[[v19-74-23]]
+
+^<<v19-74-23,23>>^ Não ignores a gritaria dos teus adversários, o crescente tumulto dos teus inimigos.
+
+'''
+
+xref:019-salmos/019-salmos-073.adoc#v19-73-0[&#60; Capítulo Anterior] | <<v19-74-0,Topo>> | xref:019-salmos/019-salmos-075.adoc#v19-75-0[Próximo Capítulo &#62;]

@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v18-6-0]]
+=== Jó, 6
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v18-6-1]]
+
+^<<v18-6-1,1>>^ Então Jó respondeu:
+
+[[v18-6-2]]
+
+^<<v18-6-2,2>>^ "Se tão-somente pudessem pesar a minha aflição e pôr na balança a minha desgraça!
+
+[[v18-6-3]]
+
+^<<v18-6-3,3>>^ Veriam que o seu peso é maior que o da areia dos mares. Por isso as minhas palavras são tão impetuosas.
+
+[[v18-6-4]]
+
+^<<v18-6-4,4>>^ As flechas do Todo-poderoso estão cravadas em mim, e o meu espírito suga delas o veneno; os terrores de Deus estão posicionados contra mim.
+
+[[v18-6-5]]
+
+^<<v18-6-5,5>>^ Zurra o jumento selvagem, se tiver capim? Muge o boi, se tiver forragem?
+
+[[v18-6-6]]
+
+^<<v18-6-6,6>>^ Come-se sem sal uma comida insípida? E a clara do ovo, tem algum sabor?
+
+[[v18-6-7]]
+
+^<<v18-6-7,7>>^ Recuso-me a tocar nisso; esse tipo de comida causa-me repugnância.
+
+[[v18-6-8]]
+
+^<<v18-6-8,8>>^ "Se tão-somente fosse atendido o meu pedido, se Deus me concedesse o meu desejo,
+
+[[v18-6-9]]
+
+^<<v18-6-9,9>>^ se Deus se dispusesse a esmagar-me, a soltar a mão protetora e eliminar-me!
+
+[[v18-6-10]]
+
+^<<v18-6-10,10>>^ Pois eu ainda teria o consolo, minha alegria em meio à dor implacável, de não ter negado as palavras do Santo.
+
+[[v18-6-11]]
+
+^<<v18-6-11,11>>^ "Que esperança posso ter, se já não tenho forças? Como posso ter paciência, se não tenho futuro?
+
+[[v18-6-12]]
+
+^<<v18-6-12,12>>^ Acaso tenho a força da pedra? Acaso a minha carne é de bronze?
+
+[[v18-6-13]]
+
+^<<v18-6-13,13>>^ Haverá poder que me ajude, agora que os meus recursos se foram?
+
+[[v18-6-14]]
+
+^<<v18-6-14,14>>^ "Um homem desesperado deve receber a compaixão de seus amigos, muito embora ele tenha abandonado o temor do Todo-poderoso.
+
+[[v18-6-15]]
+
+^<<v18-6-15,15>>^ Mas os meus irmãos enganaram-me como riachos temporários, como os riachos que transbordam
+
+[[v18-6-16]]
+
+^<<v18-6-16,16>>^ quando o degelo os torna turvos e a neve que se derrete os faz encher,
+
+[[v18-6-17]]
+
+^<<v18-6-17,17>>^ mas que param de fluir no tempo da seca, e no calor desaparecem dos seus leitos.
+
+[[v18-6-18]]
+
+^<<v18-6-18,18>>^ As caravanas se desviam de suas rotas; sobem para lugares desertos e perecem.
+
+[[v18-6-19]]
+
+^<<v18-6-19,19>>^ Procuram água as caravanas de Temá, olham esperançosos os mercadores de Sabá.
+
+[[v18-6-20]]
+
+^<<v18-6-20,20>>^ Ficam tristes, porque estavam confiantes; lá chegaram tão-somente para sofrer decepção.
+
+[[v18-6-21]]
+
+^<<v18-6-21,21>>^ Pois agora vocês de nada me valeram; contemplam minha temível situação, e se enchem de medo.
+
+[[v18-6-22]]
+
+^<<v18-6-22,22>>^ Alguma vez lhes pedi que me dessem alguma coisa? Ou que da sua riqueza pagassem resgate por mim?
+
+[[v18-6-23]]
+
+^<<v18-6-23,23>>^ Ou que me livrassem das mãos do inimigo? Ou que me libertassem das garras de quem me oprime?
+
+[[v18-6-24]]
+
+^<<v18-6-24,24>>^ "Ensinem-me, e eu me calarei; mostrem-me onde errei.
+
+[[v18-6-25]]
+
+^<<v18-6-25,25>>^ Como doem as palavras verdadeiras! Mas o que provam os argumentos de vocês?
+
+[[v18-6-26]]
+
+^<<v18-6-26,26>>^ Vocês pretendem corrigir o que digo e tratar como vento as palavras de um homem desesperado?
+
+[[v18-6-27]]
+
+^<<v18-6-27,27>>^ Vocês seriam capazes de pôr em sorteio o órfão e de vender um amigo por uma bagatela!
+
+[[v18-6-28]]
+
+^<<v18-6-28,28>>^ "Mas agora, tenham a bondade de olhar para mim. Será que eu mentiria na frente de vocês?
+
+[[v18-6-29]]
+
+^<<v18-6-29,29>>^ Reconsiderem a questão, não sejam injustos; tornem a analisá-la, pois a minha integridade está em jogo.
+
+[[v18-6-30]]
+
+^<<v18-6-30,30>>^ Há alguma iniqüidade em meus lábios? Será que a minha boca não consegue discernir a maldade?
+
+'''
+
+xref:018-jo/018-jo-005.adoc#v18-5-0[&#60; Capítulo Anterior] | <<v18-6-0,Topo>> | xref:018-jo/018-jo-007.adoc#v18-7-0[Próximo Capítulo &#62;]

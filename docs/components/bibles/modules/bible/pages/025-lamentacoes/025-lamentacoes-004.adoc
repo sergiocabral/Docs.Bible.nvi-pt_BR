@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-4-0]]
+=== Lamentações, 4
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v25-4-1]]
+
+^<<v25-4-1,1>>^ Como o ouro perdeu o brilho! Como o ouro fino ficou embaçado! As pedras sagradas estão espalhadas pelas esquinas de todas as ruas.
+
+[[v25-4-2]]
+
+^<<v25-4-2,2>>^ Como os preciosos filhos de Sião, que antes valiam seu peso em ouro, hoje são considerados como vasos de barro, obra das mãos de um oleiro!
+
+[[v25-4-3]]
+
+^<<v25-4-3,3>>^ Até os chacais oferecem o peito para amamentar os seus filhotes, mas o meu povo não tem mais coração; é como as avestruzes do deserto.
+
+[[v25-4-4]]
+
+^<<v25-4-4,4>>^ De tanta sede, a língua dos bebês gruda no céu da boca; as crianças imploram pelo pão, mas ninguém as atende.
+
+[[v25-4-5]]
+
+^<<v25-4-5,5>>^ Aqueles que costumavam comer comidas finas passam necessidades nas ruas. Aqueles que se adornavam de púrpura hoje estão prostrados sobre montes de cinza.
+
+[[v25-4-6]]
+
+^<<v25-4-6,6>>^ A punição do meu povo é maior que a de Sodoma, que foi destruída num instante sem que ninguém a socorresse.
+
+[[v25-4-7]]
+
+^<<v25-4-7,7>>^ Seus príncipes eram mais brilhantes que a neve e mais brancos do que o leite, tinham a pele mais rosada que rubis; sua aparência lembrava safiras.
+
+[[v25-4-8]]
+
+^<<v25-4-8,8>>^ Mas agora estão mais negros do que o carvão; não são reconhecidos nas ruas. Sua pele enrugou-se sobre os seus ossos; parecem agora madeira seca.
+
+[[v25-4-9]]
+
+^<<v25-4-9,9>>^ Os que foram mortos pela espada estão melhor do que os que morrem de fome, os quais, torturados pela fome, definham pela falta de produção das lavouras.
+
+[[v25-4-10]]
+
+^<<v25-4-10,10>>^ Com as próprias mãos, mulheres bondosas cozinharam os próprios filhos, que se tornaram a sua comida quando o meu povo foi destruído.
+
+[[v25-4-11]]
+
+^<<v25-4-11,11>>^ O Senhor deu vazão total à sua ira; derramou a sua grande fúria. Ele acendeu em Sião um fogo que consumiu os seus alicerces.
+
+[[v25-4-12]]
+
+^<<v25-4-12,12>>^ Os reis da terra e os povos de todo o mundo, não acreditavam que os inimigos e os adversários pudessem entrar pelas portas de Jerusalém.
+
+[[v25-4-13]]
+
+^<<v25-4-13,13>>^ Dentro da cidade foi derramado o sangue dos justos por causa do pecado dos seus profetas e das maldades dos seus sacerdotes.
+
+[[v25-4-14]]
+
+^<<v25-4-14,14>>^ Hoje eles tateiam pelas ruas como cegos, e tão sujos de sangue estão, que ninguém ousa tocar em suas vestes.
+
+[[v25-4-15]]
+
+^<<v25-4-15,15>>^ "Vocês estão imundos! ", o povo grita para eles. "Afastem-se! Não nos toquem! " Quando eles fogem e ficam vagando, os povos das outras nações dizem: "Aqui eles não podem habitar".
+
+[[v25-4-16]]
+
+^<<v25-4-16,16>>^ O próprio Senhor os espalhou; ele já não cuida deles. Ninguém honra os sacerdotes nem respeita os líderes.
+
+[[v25-4-17]]
+
+^<<v25-4-17,17>>^ Nossos olhos estão cansados de buscar ajuda em vão; de nossas torres buscávamos uma nação que não podia salvar-nos.
+
+[[v25-4-18]]
+
+^<<v25-4-18,18>>^ Cada passo nosso era vigiado, de forma que não podíamos caminhar por nossas ruas. Nosso fim estava próximo, nossos dias estavam contados; o nosso fim já havia chegado.
+
+[[v25-4-19]]
+
+^<<v25-4-19,19>>^ Nossos perseguidores eram mais velozes do que águias nos céus; perseguiam-nos por sobre as montanhas, ficavam de tocaia contra nós no deserto.
+
+[[v25-4-20]]
+
+^<<v25-4-20,20>>^ O ungido do Senhor, o próprio fôlego da nossa vida, foi capturado em suas armadilhas. E nós que pensávamos que sob a sua sombra viveríamos entre as nações!
+
+[[v25-4-21]]
+
+^<<v25-4-21,21>>^ Alegre-se e exulte, ó terra de Edom, você que vive na terra de Uz. Mas a você também será servido o cálice: você será embriagada e as suas roupas serão arrancadas.
+
+[[v25-4-22]]
+
+^<<v25-4-22,22>>^ Ó cidade de Sião, o seu castigo terminará; o Senhor não prolongará o seu exílio. Mas, ó terra de Edom, ele punirá o seu pecado e porá à mostra a sua perversidade.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-003.adoc#v25-3-0[&#60; Capítulo Anterior] | <<v25-4-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-005.adoc#v25-5-0[Próximo Capítulo &#62;]

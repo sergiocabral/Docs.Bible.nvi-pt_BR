@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v20-25-0]]
+=== Provérbios, 25
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v20-25-1]]
+
+^<<v20-25-1,1>>^ Estes são outros provérbios de Salomão, compilados pelos servos de Ezequias, rei de Judá:
+
+[[v20-25-2]]
+
+^<<v20-25-2,2>>^ A glória de Deus é ocultar certas coisas; tentar descobri-las é a glória dos reis.
+
+[[v20-25-3]]
+
+^<<v20-25-3,3>>^ Assim como o céu é elevado e a terra é profunda, também o coração dos reis é insondável.
+
+[[v20-25-4]]
+
+^<<v20-25-4,4>>^ Quando se retira a escória da prata, nesta se tem material para o ourives;
+
+[[v20-25-5]]
+
+^<<v20-25-5,5>>^ quando os ímpios são retirados da presença do rei, a justiça firma o seu trono.
+
+[[v20-25-6]]
+
+^<<v20-25-6,6>>^ Não se engrandeça na presença do rei, e não reivindique lugar entre os homens importantes;
+
+[[v20-25-7]]
+
+^<<v20-25-7,7>>^ é melhor que ele lhe diga: "Suba para cá! ", do que ter que humilhá-lo diante de uma autoridade. O que você viu com os olhos
+
+[[v20-25-8]]
+
+^<<v20-25-8,8>>^ não leve precipitadamente ao tribunal, pois o que você fará, se o seu próximo o desacreditar?
+
+[[v20-25-9]]
+
+^<<v20-25-9,9>>^ Procure resolver sua causa diretamente com o seu próximo, e não revele o segredo de outra pessoa,
+
+[[v20-25-10]]
+
+^<<v20-25-10,10>>^ caso contrário, quem o ouvir poderá recriminá-lo e você jamais perderá sua má reputação.
+
+[[v20-25-11]]
+
+^<<v20-25-11,11>>^ A palavra proferida no tempo certo é como frutas de ouro incrustadas numa escultura de prata.
+
+[[v20-25-12]]
+
+^<<v20-25-12,12>>^ Como brinco de ouro e enfeite de ouro fino é a repreensão dada com sabedoria a quem se dispõe a ouvir.
+
+[[v20-25-13]]
+
+^<<v20-25-13,13>>^ Como o frescor da neve na época da colheita é o mensageiro de confiança para aqueles que o enviam; ele revigora o ânimo de seus senhores.
+
+[[v20-25-14]]
+
+^<<v20-25-14,14>>^ Como nuvens e ventos sem chuva é aquele que se gaba de presentes que não deu.
+
+[[v20-25-15]]
+
+^<<v20-25-15,15>>^ Com muita paciência pode-se convencer a autoridade, e a língua branda quebra até ossos.
+
+[[v20-25-16]]
+
+^<<v20-25-16,16>>^ Se você encontrar mel, coma apenas o suficiente, para que não fique enjoado e vomite.
+
+[[v20-25-17]]
+
+^<<v20-25-17,17>>^ Não faça visitas freqüentes à casa do seu vizinho para que ele não se canse de você e passe a odiá-lo.
+
+[[v20-25-18]]
+
+^<<v20-25-18,18>>^ Como um pedaço de pau, uma espada ou uma flecha aguda é o que dá falso testemunho contra o seu próximo.
+
+[[v20-25-19]]
+
+^<<v20-25-19,19>>^ Como dente estragado ou pé deslocado é a confiança no hipócrita na hora da dificuldade.
+
+[[v20-25-20]]
+
+^<<v20-25-20,20>>^ Como tirar a própria roupa num dia de frio, ou derramar vinagre numa ferida, é cantar com o coração entristecido.
+
+[[v20-25-21]]
+
+^<<v20-25-21,21>>^ Se o seu inimigo tiver fome, dê-lhe de comer; se tiver sede, dê-lhe de beber.
+
+[[v20-25-22]]
+
+^<<v20-25-22,22>>^ Fazendo isso, você amontoará brasas vivas sobre a cabeça dele, e o Senhor recompensará você.
+
+[[v20-25-23]]
+
+^<<v20-25-23,23>>^ Como o vento norte traz chuva, assim a língua fingida traz o olhar irado.
+
+[[v20-25-24]]
+
+^<<v20-25-24,24>>^ Melhor é viver num canto sob o telhado do que repartir a casa com uma mulher briguenta.
+
+[[v20-25-25]]
+
+^<<v20-25-25,25>>^ Como água fresca para a garganta sedenta é a boa notícia que chega de uma terra distante.
+
+[[v20-25-26]]
+
+^<<v20-25-26,26>>^ Como fonte contaminada ou nascente poluída, assim é o justo que fraqueja diante do ímpio.
+
+[[v20-25-27]]
+
+^<<v20-25-27,27>>^ Comer mel demais não é bom, nem é honroso buscar a própria honra.
+
+[[v20-25-28]]
+
+^<<v20-25-28,28>>^ Como a cidade com seus muros derrubados, assim é quem não sabe dominar-se.
+
+'''
+
+xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[&#60; Capítulo Anterior] | <<v20-25-0,Topo>> | xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[Próximo Capítulo &#62;]

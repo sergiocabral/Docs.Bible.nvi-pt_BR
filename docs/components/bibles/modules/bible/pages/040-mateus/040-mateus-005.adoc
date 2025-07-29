@@ -1,0 +1,201 @@
+include::./index.adoc[]
+
+[[v40-5-0]]
+=== Mateus, 5
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v40-5-1]]
+
+^<<v40-5-1,1>>^ Vendo as multidões, Jesus subiu ao monte e se assentou. Seus discípulos aproximaram-se dele,
+
+[[v40-5-2]]
+
+^<<v40-5-2,2>>^ e ele começou a ensiná-los, dizendo:
+
+[[v40-5-3]]
+
+^<<v40-5-3,3>>^ "Bem-aventurados os pobres em espírito, pois deles é o Reino dos céus.
+
+[[v40-5-4]]
+
+^<<v40-5-4,4>>^ Bem-aventurados os que choram, pois serão consolados.
+
+[[v40-5-5]]
+
+^<<v40-5-5,5>>^ Bem-aventurados os humildes, pois eles receberão a terra por herança.
+
+[[v40-5-6]]
+
+^<<v40-5-6,6>>^ Bem-aventurados os que têm fome e sede de justiça, pois serão satisfeitos.
+
+[[v40-5-7]]
+
+^<<v40-5-7,7>>^ Bem-aventurados os misericordiosos, pois obterão misericórdia.
+
+[[v40-5-8]]
+
+^<<v40-5-8,8>>^ Bem-aventurados os puros de coração, pois verão a Deus.
+
+[[v40-5-9]]
+
+^<<v40-5-9,9>>^ Bem-aventurados os pacificadores, pois serão chamados filhos de Deus.
+
+[[v40-5-10]]
+
+^<<v40-5-10,10>>^ Bem-aventurados os perseguidos por causa da justiça, pois deles é o Reino dos céus.
+
+[[v40-5-11]]
+
+^<<v40-5-11,11>>^ "Bem-aventurados serão vocês quando, por minha causa os insultarem, perseguirem e levantarem todo tipo de calúnia contra vocês.
+
+[[v40-5-12]]
+
+^<<v40-5-12,12>>^ Alegrem-se e regozijem-se, porque grande é a recompensa de vocês nos céus, pois da mesma forma perseguiram os profetas que viveram antes de vocês".
+
+[[v40-5-13]]
+
+^<<v40-5-13,13>>^ "Vocês são o sal da terra. Mas se o sal perder o seu sabor, como restaurá-lo? Não servirá para nada, exceto para ser jogado fora e pisado pelos homens.
+
+[[v40-5-14]]
+
+^<<v40-5-14,14>>^ "Vocês são a luz do mundo. Não se pode esconder uma cidade construída sobre um monte.
+
+[[v40-5-15]]
+
+^<<v40-5-15,15>>^ E, também, ninguém acende uma candeia e a coloca debaixo de uma vasilha. Pelo contrário, coloca-a no lugar apropriado, e assim ilumina a todos os que estão na casa.
+
+[[v40-5-16]]
+
+^<<v40-5-16,16>>^ Assim brilhe a luz de vocês diante dos homens, para que vejam as suas boas obras e glorifiquem ao Pai de vocês, que está nos céus".
+
+[[v40-5-17]]
+
+^<<v40-5-17,17>>^ "Não pensem que vim abolir a Lei ou os Profetas; não vim abolir, mas cumprir.
+
+[[v40-5-18]]
+
+^<<v40-5-18,18>>^ Digo-lhes a verdade: Enquanto existirem céus e terra, de forma alguma desaparecerá da Lei a menor letra ou o menor traço, até que tudo se cumpra.
+
+[[v40-5-19]]
+
+^<<v40-5-19,19>>^ Todo aquele que desobedecer a um desses mandamentos, ainda que dos menores, e ensinar os outros a fazerem o mesmo, será chamado menor no Reino dos céus; mas todo aquele que praticar e ensinar estes mandamentos será chamado grande no Reino dos céus.
+
+[[v40-5-20]]
+
+^<<v40-5-20,20>>^ Pois eu lhes digo que se a justiça de vocês não for muito superior à dos fariseus e mestres da lei, de modo nenhum entrarão no Reino dos céus".
+
+[[v40-5-21]]
+
+^<<v40-5-21,21>>^ "Vocês ouviram o que foi dito aos seus antepassados: ‘Não matarás’, e ‘quem matar estará sujeito a julgamento’.
+
+[[v40-5-22]]
+
+^<<v40-5-22,22>>^ Mas eu lhes digo que qualquer que se irar contra seu irmão estará sujeito a julgamento. Também, qualquer que disser a seu irmão: ‘Racá’, será levado ao tribunal. E qualquer que disser: ‘Louco! ’, corre o risco de ir para o fogo do inferno.
+
+[[v40-5-23]]
+
+^<<v40-5-23,23>>^ "Portanto, se você estiver apresentando sua oferta diante do altar e ali se lembrar de que seu irmão tem algo contra você,
+
+[[v40-5-24]]
+
+^<<v40-5-24,24>>^ deixe sua oferta ali, diante do altar, e vá primeiro reconciliar-se com seu irmão; depois volte e apresente sua oferta.
+
+[[v40-5-25]]
+
+^<<v40-5-25,25>>^ "Entre em acordo depressa com seu adversário que pretende levá-lo ao tribunal. Faça isso enquanto ainda estiver com ele a caminho, pois, caso contrário, ele poderá entregá-lo ao juiz, e o juiz ao guarda, e você poderá ser jogado na prisão.
+
+[[v40-5-26]]
+
+^<<v40-5-26,26>>^ Eu lhe garanto que você não sairá de lá enquanto não pagar o último centavo".
+
+[[v40-5-27]]
+
+^<<v40-5-27,27>>^ "Vocês ouviram o que foi dito: ‘Não adulterarás’.
+
+[[v40-5-28]]
+
+^<<v40-5-28,28>>^ Mas eu lhes digo: qualquer que olhar para uma mulher para desejá-la, já cometeu adultério com ela no seu coração.
+
+[[v40-5-29]]
+
+^<<v40-5-29,29>>^ Se o seu olho direito o fizer pecar, arranque-o e lance-o fora. É melhor perder uma parte do seu corpo do que ser todo ele lançado no inferno.
+
+[[v40-5-30]]
+
+^<<v40-5-30,30>>^ E se a sua mão direita o fizer pecar, corte-a e lance-a fora. É melhor perder uma parte do seu corpo do que ir todo ele para o inferno".
+
+[[v40-5-31]]
+
+^<<v40-5-31,31>>^ "Foi dito: ‘Aquele que se divorciar de sua mulher deverá dar-lhe certidão de divórcio’.
+
+[[v40-5-32]]
+
+^<<v40-5-32,32>>^ Mas eu lhes digo que todo aquele que se divorciar de sua mulher, exceto por imoralidade sexual, faz que ela se torne adúltera, e quem se casar com a mulher divorciada estará cometendo adultério".
+
+[[v40-5-33]]
+
+^<<v40-5-33,33>>^ "Vocês também ouviram o que foi dito aos seus antepassados: ‘Não jure falsamente, mas cumpra os juramentos que você fez diante do Senhor’.
+
+[[v40-5-34]]
+
+^<<v40-5-34,34>>^ Mas eu lhes digo: Não jurem de forma alguma: nem pelo céu, porque é o trono de Deus;
+
+[[v40-5-35]]
+
+^<<v40-5-35,35>>^ nem pela terra, porque é o estrado de seus pés; nem por Jerusalém, porque é a cidade do grande Rei.
+
+[[v40-5-36]]
+
+^<<v40-5-36,36>>^ E não jure pela sua cabeça, pois você não pode tornar branco ou preto nem um fio de cabelo.
+
+[[v40-5-37]]
+
+^<<v40-5-37,37>>^ Seja o seu ‘sim’, ‘sim’, e o seu ‘não’, ‘não’; o que passar disso vem do Maligno".
+
+[[v40-5-38]]
+
+^<<v40-5-38,38>>^ "Vocês ouviram o que foi dito: ‘Olho por olho e dente por dente’.
+
+[[v40-5-39]]
+
+^<<v40-5-39,39>>^ Mas eu lhes digo: Não resistam ao perverso. Se alguém o ferir na face direita, ofereça-lhe também a outra.
+
+[[v40-5-40]]
+
+^<<v40-5-40,40>>^ E se alguém quiser processá-lo e tirar-lhe a túnica, deixe que leve também a capa.
+
+[[v40-5-41]]
+
+^<<v40-5-41,41>>^ Se alguém o forçar a caminhar com ele uma milha, vá com ele duas.
+
+[[v40-5-42]]
+
+^<<v40-5-42,42>>^ Dê a quem lhe pede, e não volte as costas àquele que deseja pedir-lhe algo emprestado".
+
+[[v40-5-43]]
+
+^<<v40-5-43,43>>^ "Vocês ouviram o que foi dito: ‘Ame o seu próximo e odeie o seu inimigo’.
+
+[[v40-5-44]]
+
+^<<v40-5-44,44>>^ Mas eu lhes digo: Amem os seus inimigos e orem por aqueles que os perseguem,
+
+[[v40-5-45]]
+
+^<<v40-5-45,45>>^ para que vocês venham a ser filhos de seu Pai que está nos céus. Porque ele faz raiar o seu sol sobre maus e bons e derrama chuva sobre justos e injustos.
+
+[[v40-5-46]]
+
+^<<v40-5-46,46>>^ Se vocês amarem aqueles que os amam, que recompensa receberão? Até os publicanos fazem isso!
+
+[[v40-5-47]]
+
+^<<v40-5-47,47>>^ E se vocês saudarem apenas os seus irmãos, o que estarão fazendo de mais? Até os pagãos fazem isso!
+
+[[v40-5-48]]
+
+^<<v40-5-48,48>>^ Portanto, sejam perfeitos como perfeito é o Pai celestial de vocês".
+
+'''
+
+xref:040-mateus/040-mateus-004.adoc#v40-4-0[&#60; Capítulo Anterior] | <<v40-5-0,Topo>> | xref:040-mateus/040-mateus-006.adoc#v40-6-0[Próximo Capítulo &#62;]

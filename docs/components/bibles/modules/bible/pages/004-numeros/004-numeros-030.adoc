@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v4-30-0]]
+=== Números, 30
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v4-30-1]]
+
+^<<v4-30-1,1>>^ Moisés disse aos chefes das tribos de Israel: "É isto que o Senhor ordena:
+
+[[v4-30-2]]
+
+^<<v4-30-2,2>>^ Quando um homem fizer um voto ao Senhor ou um juramento que o obrigar a algum compromisso, não poderá quebrar a sua palavra, mas terá que cumprir tudo o que disse.
+
+[[v4-30-3]]
+
+^<<v4-30-3,3>>^ "Quando uma moça que ainda vive na casa de seu pai fizer um voto ao Senhor ou obrigar-se por um compromisso
+
+[[v4-30-4]]
+
+^<<v4-30-4,4>>^ e seu pai souber do voto ou compromisso, mas nada lhe disser, então todos os votos e cada um dos compromissos a que se obrigou serão válidos.
+
+[[v4-30-5]]
+
+^<<v4-30-5,5>>^ Mas, se o pai a proibir quando souber do voto, nenhum dos votos ou dos compromissos a que se obrigou será válido; o Senhor a livrará porque o seu pai a proibiu.
+
+[[v4-30-6]]
+
+^<<v4-30-6,6>>^ "Se ela se casar depois de fazer um voto ou depois de seus lábios proferirem uma promessa precipitada pela qual se obriga a si mesma
+
+[[v4-30-7]]
+
+^<<v4-30-7,7>>^ e o seu marido o souber, mas nada lhe disser no dia em que ficar sabendo, então os seus votos ou compromissos a que ela se obrigou serão válidos.
+
+[[v4-30-8]]
+
+^<<v4-30-8,8>>^ Mas, se o seu marido a proibir quando o souber, anulará o voto que a obriga ou a promessa precipitada pela qual ela se obrigou, e o Senhor a livrará.
+
+[[v4-30-9]]
+
+^<<v4-30-9,9>>^ "Qualquer voto ou compromisso assumido por uma viúva ou por uma mulher divorciada será válido.
+
+[[v4-30-10]]
+
+^<<v4-30-10,10>>^ "Se uma mulher que vive com o seu marido fizer um voto ou obrigar-se por juramento a um compromisso
+
+[[v4-30-11]]
+
+^<<v4-30-11,11>>^ e o seu marido o souber, mas nada lhe disser e não a proibir, então todos os votos ou compromissos pelos quais ela se obrigou serão válidos.
+
+[[v4-30-12]]
+
+^<<v4-30-12,12>>^ Mas, se o seu marido os anular quando deles souber, então nenhum dos votos ou compromissos que saíram de seus lábios será válido. Seu marido os anulou, e o Senhor a livrará.
+
+[[v4-30-13]]
+
+^<<v4-30-13,13>>^ O marido poderá confirmar ou anular qualquer voto ou qualquer compromisso que a obrigue a humilhar-se a si mesma.
+
+[[v4-30-14]]
+
+^<<v4-30-14,14>>^ Mas, se o marido nada lhe disser a respeito disso até o dia seguinte, com isso confirma todos os seus votos ou compromissos que a obrigam. Ele os confirma por nada lhe dizer quando os ouviu.
+
+[[v4-30-15]]
+
+^<<v4-30-15,15>>^ Se, contudo, ele os anular algum tempo depois de ouvi-los, ele sofrerá as conseqüências de sua iniqüidade".
+
+[[v4-30-16]]
+
+^<<v4-30-16,16>>^ São essas as ordenanças que o Senhor deu a Moisés a respeito do relacionamento entre um homem e sua mulher, e entre um pai e sua filha moça que ainda vive na casa do pai.
+
+'''
+
+xref:004-numeros/004-numeros-029.adoc#v4-29-0[&#60; Capítulo Anterior] | <<v4-30-0,Topo>> | xref:004-numeros/004-numeros-031.adoc#v4-31-0[Próximo Capítulo &#62;]

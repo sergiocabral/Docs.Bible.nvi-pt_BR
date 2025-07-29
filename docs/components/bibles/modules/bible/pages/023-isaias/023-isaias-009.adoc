@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v23-9-0]]
+=== Isaías, 9
+// nvi ?, NVI - Nova Versão Internacional
+
+[[v23-9-1]]
+
+^<<v23-9-1,1>>^ Contudo, não haverá mais escuridão para os que estavam aflitos. No passado ele humilhou a terra de Zebulom e de Naftali, mas no futuro honrará a Galiléia dos gentios, o caminho do mar, junto ao Jordão.
+
+[[v23-9-2]]
+
+^<<v23-9-2,2>>^ O povo que caminhava em trevas viu uma grande luz; sobre os que viviam na terra da sombra da morte raiou uma luz.
+
+[[v23-9-3]]
+
+^<<v23-9-3,3>>^ Fizeste crescer a nação e aumentaste a sua alegria; eles se alegram diante de ti como os que se regozijam na colheita, como os que exultam quando dividem os bens tomados na batalha.
+
+[[v23-9-4]]
+
+^<<v23-9-4,4>>^ Pois, tu destruíste o jugo que os oprimia, a canga que estava sobre os seus ombros, e a vara de castigo do seu opressor, como no dia da derrota de Midiã.
+
+[[v23-9-5]]
+
+^<<v23-9-5,5>>^ Pois, toda bota de guerreiro usada em combate e toda veste revolvida em sangue serão queimadas, como lenha no fogo.
+
+[[v23-9-6]]
+
+^<<v23-9-6,6>>^ Porque um menino nos nasceu, um filho nos foi dado, e o governo está sobre os seus ombros. E ele será chamado Maravilhoso Conselheiro, Deus Poderoso, Pai Eterno, Príncipe da Paz.
+
+[[v23-9-7]]
+
+^<<v23-9-7,7>>^ Ele estenderá o seu domínio, e haverá paz sem fim sobre o trono de Davi e sobre o seu reino, estabelecido e mantido com justiça e retidão, desde agora e para sempre. O zelo do Senhor dos Exércitos fará isso.
+
+[[v23-9-8]]
+
+^<<v23-9-8,8>>^ O Senhor enviou uma mensagem contra Jacó, e ela atingiu Israel.
+
+[[v23-9-9]]
+
+^<<v23-9-9,9>>^ Todo o povo ficará sabendo, tanto Efraim como os habitantes de Samaria, que dizem com orgulho e arrogância de coração:
+
+[[v23-9-10]]
+
+^<<v23-9-10,10>>^ "Os tijolos caíram, mas nós reconstruiremos com pedras lavradas; as figueiras bravas foram derrubadas, mas nós as substituiremos por cedros".
+
+[[v23-9-11]]
+
+^<<v23-9-11,11>>^ Mas o Senhor fortaleceu os adversários de Rezim para atacá-los e incitou contra eles os seus inimigos.
+
+[[v23-9-12]]
+
+^<<v23-9-12,12>>^ Os arameus do leste e os filisteus do oeste devoraram Israel, escancarando a boca. Apesar disso tudo, a ira divina não se desviou; sua mão continua erguida.
+
+[[v23-9-13]]
+
+^<<v23-9-13,13>>^ Mas o povo não voltou para aquele que os feriu, nem buscou o Senhor dos Exércitos.
+
+[[v23-9-14]]
+
+^<<v23-9-14,14>>^ Por essa razão o Senhor corta de Israel tanto a cabeça como a cauda, tanto a palma como o junco, num único dia;
+
+[[v23-9-15]]
+
+^<<v23-9-15,15>>^ as autoridades e os homens de destaque são a cabeça, os profetas que ensinam mentiras são a cauda.
+
+[[v23-9-16]]
+
+^<<v23-9-16,16>>^ Aqueles que guiam este povo o desorientam, e aqueles que são guiados deixam-se induzir ao erro.
+
+[[v23-9-17]]
+
+^<<v23-9-17,17>>^ Por isso o Senhor não terá nos jovens motivo de alegria, nem terá piedade dos órfãos e das viúvas, pois todos são hipócritas e perversos, e todos falam loucuras. Apesar disso tudo, a ira dele não se desviou; sua mão continua erguida.
+
+[[v23-9-18]]
+
+^<<v23-9-18,18>>^ Porque a impiedade queima como fogo; consome roseiras bravas e espinheiros, põe em chamas os matagais da floresta, fazendo nuvens de fumaça.
+
+[[v23-9-19]]
+
+^<<v23-9-19,19>>^ Pela ira do Senhor dos Exércitos a terra será ressecada, e o povo será como lenha no fogo; ninguém poupará seu irmão.
+
+[[v23-9-20]]
+
+^<<v23-9-20,20>>^ À direita devorarão, mas ainda estarão com fome; à esquerda comerão, mas não ficarão satisfeitos. Cada um comerá a carne do seu próprio irmão.
+
+[[v23-9-21]]
+
+^<<v23-9-21,21>>^ Manassés contra Efraim, Efraim contra Manassés, e juntos eles se voltarão contra Judá. Apesar disso tudo, a ira divina não se desviou; sua mão continua erguida.
+
+'''
+
+xref:023-isaias/023-isaias-008.adoc#v23-8-0[&#60; Capítulo Anterior] | <<v23-9-0,Topo>> | xref:023-isaias/023-isaias-010.adoc#v23-10-0[Próximo Capítulo &#62;]
